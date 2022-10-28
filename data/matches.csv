@@ -1,0 +1,1092 @@
+;Date;Team1;Team2;Map;Event;event_type;event_tier
+0;22/12/19;Vitality (16);MOUZ (9);nuke  Nuke;EPICENTER 2019;BigEvents;S
+1;22/12/19;Vitality (16);MOUZ (12);mrg  Mirage;EPICENTER 2019;BigEvents;S
+2;22/12/19;MOUZ (19);Vitality (16);inf  Inferno;EPICENTER 2019;BigEvents;S
+3;22/12/19;MOUZ (16);Evil Geniuses (14);ovp  Overpass;EPICENTER 2019;BigEvents;S
+4;22/12/19;MOUZ (16);Evil Geniuses (12);trn  Train;EPICENTER 2019;BigEvents;S
+5;22/12/19;Heroic (12);Vitality (16);inf  Inferno;EPICENTER 2019;BigEvents;S
+6;22/12/19;Vitality (16);Heroic (12);vtg  Vertigo;EPICENTER 2019;BigEvents;S
+7;21/12/19;Natus Vincere (14);Evil Geniuses (16);d2  Dust2;EPICENTER 2019;BigEvents;S
+8;21/12/19;Natus Vincere (10);Evil Geniuses (16);mrg  Mirage;EPICENTER 2019;BigEvents;S
+9;21/12/19;forZe (12);Heroic (16);nuke  Nuke;EPICENTER 2019;BigEvents;S
+10;21/12/19;Heroic (16);forZe (6);mrg  Mirage;EPICENTER 2019;BigEvents;S
+11;19/12/19;Evil Geniuses (10);forZe (16);inf  Inferno;EPICENTER 2019;BigEvents;S
+12;19/12/19;forZe (16);Evil Geniuses (1);mrg  Mirage;EPICENTER 2019;BigEvents;S
+13;19/12/19;Evil Geniuses (16);forZe (6);nuke  Nuke;EPICENTER 2019;BigEvents;S
+14;19/12/19;Heroic (9);Natus Vincere (16);inf  Inferno;EPICENTER 2019;BigEvents;S
+15;19/12/19;Heroic (6);Natus Vincere (16);trn  Train;EPICENTER 2019;BigEvents;S
+16;19/12/19;Natus Vincere (9);Heroic (16);nuke  Nuke;EPICENTER 2019;BigEvents;S
+17;19/12/19;forZe (16);Virtus.pro (10);vtg  Vertigo;EPICENTER 2019;BigEvents;S
+18;19/12/19;Virtus.pro (16);forZe (13);inf  Inferno;EPICENTER 2019;BigEvents;S
+19;19/12/19;forZe (16);Virtus.pro (3);trn  Train;EPICENTER 2019;BigEvents;S
+20;19/12/19;EHOME (1);Heroic (16);nuke  Nuke;EPICENTER 2019;BigEvents;S
+21;19/12/19;Heroic (16);EHOME (5);inf  Inferno;EPICENTER 2019;BigEvents;S
+22;18/12/19;MOUZ (16);Evil Geniuses (4);inf  Inferno;EPICENTER 2019;BigEvents;S
+23;18/12/19;Evil Geniuses (11);MOUZ (16);trn  Train;EPICENTER 2019;BigEvents;S
+24;18/12/19;MOUZ (22);Virtus.pro (19);d2  Dust2;EPICENTER 2019;BigEvents;S
+25;18/12/19;MOUZ (16);Virtus.pro (11);mrg  Mirage;EPICENTER 2019;BigEvents;S
+26;18/12/19;Virtus.pro (16);MOUZ (11);inf  Inferno;EPICENTER 2019;BigEvents;S
+27;18/12/19;Evil Geniuses (16);forZe (4);nuke  Nuke;EPICENTER 2019;BigEvents;S
+28;18/12/19;forZe (14);Evil Geniuses (16);mrg  Mirage;EPICENTER 2019;BigEvents;S
+29;17/12/19;Vitality (16);Natus Vincere (3);nuke  Nuke;EPICENTER 2019;BigEvents;S
+30;17/12/19;Vitality (16);Natus Vincere (3);inf  Inferno;EPICENTER 2019;BigEvents;S
+31;17/12/19;Natus Vincere (16);Vitality (4);d2  Dust2;EPICENTER 2019;BigEvents;S
+32;17/12/19;Natus Vincere (16);Heroic (5);nuke  Nuke;EPICENTER 2019;BigEvents;S
+33;17/12/19;Heroic (8);Natus Vincere (16);inf  Inferno;EPICENTER 2019;BigEvents;S
+34;17/12/19;EHOME (1);Vitality (16);nuke  Nuke;EPICENTER 2019;BigEvents;S
+35;17/12/19;Vitality (16);EHOME (12);inf  Inferno;EPICENTER 2019;BigEvents;S
+36;14/12/19;Liquid (12);Astralis (16);nuke  Nuke;BLAST Pro Series Global Final 2019;BigEvents;S
+37;14/12/19;Astralis (16);Liquid (11);inf  Inferno;BLAST Pro Series Global Final 2019;BigEvents;S
+38;14/12/19;Ninjas in Pyjamas (14);Liquid (16);mrg  Mirage;BLAST Pro Series Global Final 2019;BigEvents;S
+39;14/12/19;Liquid (16);Ninjas in Pyjamas (10);ovp  Overpass;BLAST Pro Series Global Final 2019;BigEvents;S
+40;13/12/19;Liquid (16);FaZe (10);nuke  Nuke;BLAST Pro Series Global Final 2019;BigEvents;S
+41;13/12/19;Liquid (12);FaZe (16);d2  Dust2;BLAST Pro Series Global Final 2019;BigEvents;S
+42;13/12/19;FaZe (13);Liquid (16);mrg  Mirage;BLAST Pro Series Global Final 2019;BigEvents;S
+43;13/12/19;Ninjas in Pyjamas (8);Astralis (16);nuke  Nuke;BLAST Pro Series Global Final 2019;BigEvents;S
+44;13/12/19;Astralis (16);Ninjas in Pyjamas (11);trn  Train;BLAST Pro Series Global Final 2019;BigEvents;S
+45;12/12/19;Astralis (16);Liquid (13);inf  Inferno;BLAST Pro Series Global Final 2019;BigEvents;S
+46;12/12/19;Liquid (12);Astralis (16);nuke  Nuke;BLAST Pro Series Global Final 2019;BigEvents;S
+47;12/12/19;Ninjas in Pyjamas (16);FaZe (7);mrg  Mirage;BLAST Pro Series Global Final 2019;BigEvents;S
+48;12/12/19;FaZe (13);Ninjas in Pyjamas (16);vtg  Vertigo;BLAST Pro Series Global Final 2019;BigEvents;S
+49;8/12/19;MOUZ (16);fnatic (11);mrg  Mirage;ESL Pro League Season 10 Finals;BigEvents;S
+50;8/12/19;fnatic (10);MOUZ (16);trn  Train;ESL Pro League Season 10 Finals;BigEvents;S
+51;8/12/19;MOUZ (16);fnatic (11);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+52;7/12/19;MOUZ (16);Astralis (14);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+53;7/12/19;MOUZ (9);Astralis (16);ovp  Overpass;ESL Pro League Season 10 Finals;BigEvents;S
+54;7/12/19;Astralis (19);MOUZ (22);trn  Train;ESL Pro League Season 10 Finals;BigEvents;S
+55;7/12/19;Natus Vincere (6);fnatic (16);ovp  Overpass;ESL Pro League Season 10 Finals;BigEvents;S
+56;7/12/19;fnatic (16);Natus Vincere (11);nuke  Nuke;ESL Pro League Season 10 Finals;BigEvents;S
+57;7/12/19;Natus Vincere (16);fnatic (14);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+58;6/12/19;MOUZ (16);Evil Geniuses (0);nuke  Nuke;ESL Pro League Season 10 Finals;BigEvents;S
+59;6/12/19;MOUZ (17);Evil Geniuses (19);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+60;6/12/19;Evil Geniuses (6);MOUZ (16);trn  Train;ESL Pro League Season 10 Finals;BigEvents;S
+61;6/12/19;fnatic (16);Liquid (8);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+62;6/12/19;Liquid (11);fnatic (16);ovp  Overpass;ESL Pro League Season 10 Finals;BigEvents;S
+63;5/12/19;ATK (6);MOUZ (16);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+64;5/12/19;MOUZ (16);ATK (5);vtg  Vertigo;ESL Pro League Season 10 Finals;BigEvents;S
+65;5/12/19;Astralis (16);Liquid (13);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+66;5/12/19;Liquid (7);Astralis (16);nuke  Nuke;ESL Pro League Season 10 Finals;BigEvents;S
+67;5/12/19;Astralis (14);Liquid (16);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+68;5/12/19;fnatic (16);100 Thieves (5);mrg  Mirage;ESL Pro League Season 10 Finals;BigEvents;S
+69;5/12/19;100 Thieves (13);fnatic (16);trn  Train;ESL Pro League Season 10 Finals;BigEvents;S
+70;5/12/19;Natus Vincere (16);Evil Geniuses (11);nuke  Nuke;ESL Pro League Season 10 Finals;BigEvents;S
+71;5/12/19;Evil Geniuses (5);Natus Vincere (16);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+72;5/12/19;Natus Vincere (12);Evil Geniuses (16);mrg  Mirage;ESL Pro League Season 10 Finals;BigEvents;S
+73;5/12/19;Renegades (7);MOUZ (16);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+74;5/12/19;Renegades (8);MOUZ (16);trn  Train;ESL Pro League Season 10 Finals;BigEvents;S
+75;5/12/19;MOUZ (14);Renegades (16);nuke  Nuke;ESL Pro League Season 10 Finals;BigEvents;S
+76;5/12/19;G2 (6);ATK (16);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+77;5/12/19;ATK (16);G2 (13);trn  Train;ESL Pro League Season 10 Finals;BigEvents;S
+78;5/12/19;ATK (4);G2 (16);vtg  Vertigo;ESL Pro League Season 10 Finals;BigEvents;S
+79;4/12/19;fnatic (16);MIBR (11);vtg  Vertigo;ESL Pro League Season 10 Finals;BigEvents;S
+80;4/12/19;fnatic (16);MIBR (19);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+81;4/12/19;MIBR (10);fnatic (16);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+82;4/12/19;Liquid (16);MOUZ (14);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+83;4/12/19;MOUZ (16);Liquid (12);vtg  Vertigo;ESL Pro League Season 10 Finals;BigEvents;S
+84;4/12/19;Liquid (16);MOUZ (5);nuke  Nuke;ESL Pro League Season 10 Finals;BigEvents;S
+85;4/12/19;FaZe (7);100 Thieves (16);mrg  Mirage;ESL Pro League Season 10 Finals;BigEvents;S
+86;4/12/19;100 Thieves (12);FaZe (16);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+87;4/12/19;FaZe (11);100 Thieves (16);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+88;4/12/19;G2 (14);Astralis (16);trn  Train;ESL Pro League Season 10 Finals;BigEvents;S
+89;4/12/19;G2 (15);Astralis (19);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+90;4/12/19;Astralis (13);G2 (16);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+91;4/12/19;Renegades (16);Sharks (12);nuke  Nuke;ESL Pro League Season 10 Finals;BigEvents;S
+92;4/12/19;Renegades (16);Sharks (5);mrg  Mirage;ESL Pro League Season 10 Finals;BigEvents;S
+93;4/12/19;Sharks (16);Renegades (7);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+94;4/12/19;North (8);ATK (16);vtg  Vertigo;ESL Pro League Season 10 Finals;BigEvents;S
+95;4/12/19;ATK (16);North (9);ovp  Overpass;ESL Pro League Season 10 Finals;BigEvents;S
+96;3/12/19;Heroic (13);fnatic (16);ovp  Overpass;ESL Pro League Season 10 Finals;BigEvents;S
+97;3/12/19;fnatic (16);Heroic (13);vtg  Vertigo;ESL Pro League Season 10 Finals;BigEvents;S
+98;3/12/19;Heroic (16);fnatic (9);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+99;3/12/19;100 Thieves (10);Evil Geniuses (16);nuke  Nuke;ESL Pro League Season 10 Finals;BigEvents;S
+100;3/12/19;Evil Geniuses (16);100 Thieves (8);mrg  Mirage;ESL Pro League Season 10 Finals;BigEvents;S
+101;3/12/19;Liquid (16);North (12);vtg  Vertigo;ESL Pro League Season 10 Finals;BigEvents;S
+102;3/12/19;FaZe (16);TYLOO (7);mrg  Mirage;ESL Pro League Season 10 Finals;BigEvents;S
+103;3/12/19;TYLOO (5);FaZe (16);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+104;3/12/19;FaZe (7);TYLOO (16);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+105;3/12/19;MIBR (4);Natus Vincere (16);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+106;3/12/19;Natus Vincere (16);MIBR (9);trn  Train;ESL Pro League Season 10 Finals;BigEvents;S
+107;3/12/19;ATK (9);MOUZ (16);nuke  Nuke;ESL Pro League Season 10 Finals;BigEvents;S
+108;3/12/19;Renegades (8);Astralis (16);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+109;3/12/19;G2 (16);Sharks (13);inf  Inferno;ESL Pro League Season 10 Finals;BigEvents;S
+110;3/12/19;Evil Geniuses (16);fnatic (3);mrg  Mirage;ESL Pro League Season 10 Finals;BigEvents;S
+111;3/12/19;Heroic (8);100 Thieves (16);vtg  Vertigo;ESL Pro League Season 10 Finals;BigEvents;S
+112;3/12/19;FaZe (12);MIBR (16);mrg  Mirage;ESL Pro League Season 10 Finals;BigEvents;S
+113;3/12/19;Natus Vincere (16);TYLOO (6);d2  Dust2;ESL Pro League Season 10 Finals;BigEvents;S
+114;1/12/19;Liquid (8);Astralis (16);d2  Dust2;ECS Season 8 Finals;BigEvents;S
+115;1/12/19;Liquid (11);Astralis (16);nuke  Nuke;ECS Season 8 Finals;BigEvents;S
+116;1/12/19;Liquid (19);Astralis (15);vtg  Vertigo;ECS Season 8 Finals;BigEvents;S
+117;1/12/19;fnatic (10);Liquid (16);mrg  Mirage;ECS Season 8 Finals;BigEvents;S
+118;1/12/19;Liquid (16);fnatic (6);inf  Inferno;ECS Season 8 Finals;BigEvents;S
+119;1/12/19;fnatic (16);Liquid (6);ovp  Overpass;ECS Season 8 Finals;BigEvents;S
+120;30/11/19;Evil Geniuses (6);Astralis (16);ovp  Overpass;ECS Season 8 Finals;BigEvents;S
+121;30/11/19;Astralis (13);Evil Geniuses (16);nuke  Nuke;ECS Season 8 Finals;BigEvents;S
+122;30/11/19;Evil Geniuses (8);Astralis (16);inf  Inferno;ECS Season 8 Finals;BigEvents;S
+123;30/11/19;MIBR (13);fnatic (16);inf  Inferno;ECS Season 8 Finals;BigEvents;S
+124;30/11/19;fnatic (16);MIBR (9);vtg  Vertigo;ECS Season 8 Finals;BigEvents;S
+125;29/11/19;Ninjas in Pyjamas (12);Evil Geniuses (16);inf  Inferno;ECS Season 8 Finals;BigEvents;S
+126;29/11/19;Ninjas in Pyjamas (14);Evil Geniuses (16);nuke  Nuke;ECS Season 8 Finals;BigEvents;S
+127;29/11/19;Ninjas in Pyjamas (16);Evil Geniuses (11);trn  Train;ECS Season 8 Finals;BigEvents;S
+128;29/11/19;MIBR (16);Sharks (7);trn  Train;ECS Season 8 Finals;BigEvents;S
+129;29/11/19;Sharks (13);MIBR (16);vtg  Vertigo;ECS Season 8 Finals;BigEvents;S
+130;29/11/19;Ninjas in Pyjamas (16);AVANGAR (6);ovp  Overpass;ECS Season 8 Finals;BigEvents;S
+131;29/11/19;AVANGAR (12);Ninjas in Pyjamas (16);trn  Train;ECS Season 8 Finals;BigEvents;S
+132;29/11/19;fnatic (14);Astralis (16);inf  Inferno;ECS Season 8 Finals;BigEvents;S
+133;29/11/19;fnatic (6);Astralis (16);nuke  Nuke;ECS Season 8 Finals;BigEvents;S
+134;28/11/19;Liquid (16);Evil Geniuses (14);d2  Dust2;ECS Season 8 Finals;BigEvents;S
+135;28/11/19;Liquid (16);Evil Geniuses (4);inf  Inferno;ECS Season 8 Finals;BigEvents;S
+136;28/11/19;fnatic (16);MIBR (9);inf  Inferno;ECS Season 8 Finals;BigEvents;S
+137;28/11/19;Astralis (19);Sharks (15);nuke  Nuke;ECS Season 8 Finals;BigEvents;S
+138;28/11/19;Liquid (16);Ninjas in Pyjamas (4);mrg  Mirage;ECS Season 8 Finals;BigEvents;S
+139;28/11/19;Evil Geniuses (16);AVANGAR (10);d2  Dust2;ECS Season 8 Finals;BigEvents;S
+140;10/11/19;Astralis (16);100 Thieves (3);trn  Train;IEM Beijing 2019;BigEvents;S
+141;10/11/19;100 Thieves (5);Astralis (16);nuke  Nuke;IEM Beijing 2019;BigEvents;S
+142;10/11/19;Astralis (16);100 Thieves (14);vtg  Vertigo;IEM Beijing 2019;BigEvents;S
+143;9/11/19;FaZe (2);Astralis (16);nuke  Nuke;IEM Beijing 2019;BigEvents;S
+144;9/11/19;Astralis (16);FaZe (0);d2  Dust2;IEM Beijing 2019;BigEvents;S
+145;9/11/19;100 Thieves (16);Vitality (2);inf  Inferno;IEM Beijing 2019;BigEvents;S
+146;9/11/19;100 Thieves (16);Vitality (14);nuke  Nuke;IEM Beijing 2019;BigEvents;S
+147;9/11/19;Vitality (16);100 Thieves (8);mrg  Mirage;IEM Beijing 2019;BigEvents;S
+148;8/11/19;FaZe (19);Evil Geniuses (16);d2  Dust2;IEM Beijing 2019;BigEvents;S
+149;8/11/19;FaZe (14);Evil Geniuses (16);inf  Inferno;IEM Beijing 2019;BigEvents;S
+150;8/11/19;Evil Geniuses (12);FaZe (16);nuke  Nuke;IEM Beijing 2019;BigEvents;S
+151;8/11/19;100 Thieves (16);ENCE (7);nuke  Nuke;IEM Beijing 2019;BigEvents;S
+152;8/11/19;ENCE (9);100 Thieves (16);inf  Inferno;IEM Beijing 2019;BigEvents;S
+153;8/11/19;Vitality (16);FaZe (3);inf  Inferno;IEM Beijing 2019;BigEvents;S
+154;8/11/19;FaZe (16);Vitality (6);ovp  Overpass;IEM Beijing 2019;BigEvents;S
+155;8/11/19;Vitality (16);FaZe (9);nuke  Nuke;IEM Beijing 2019;BigEvents;S
+156;8/11/19;TYLOO (9);Evil Geniuses (16);inf  Inferno;IEM Beijing 2019;BigEvents;S
+157;8/11/19;Evil Geniuses (16);TYLOO (12);mrg  Mirage;IEM Beijing 2019;BigEvents;S
+158;7/11/19;ViCi (7);ENCE (16);mrg  Mirage;IEM Beijing 2019;BigEvents;S
+159;7/11/19;ViCi (13);ENCE (16);trn  Train;IEM Beijing 2019;BigEvents;S
+160;7/11/19;ENCE (13);ViCi (16);inf  Inferno;IEM Beijing 2019;BigEvents;S
+161;7/11/19;100 Thieves (9);Astralis (16);nuke  Nuke;IEM Beijing 2019;BigEvents;S
+162;7/11/19;Astralis (16);100 Thieves (10);inf  Inferno;IEM Beijing 2019;BigEvents;S
+163;7/11/19;FaZe (16);Evil Geniuses (6);d2  Dust2;IEM Beijing 2019;BigEvents;S
+164;7/11/19;Evil Geniuses (7);FaZe (16);nuke  Nuke;IEM Beijing 2019;BigEvents;S
+165;7/11/19;TYLOO (6);Vitality (16);d2  Dust2;IEM Beijing 2019;BigEvents;S
+166;7/11/19;Vitality (16);TYLOO (7);inf  Inferno;IEM Beijing 2019;BigEvents;S
+167;7/11/19;ViCi (4);Astralis (16);nuke  Nuke;IEM Beijing 2019;BigEvents;S
+168;7/11/19;Astralis (16);ViCi (5);inf  Inferno;IEM Beijing 2019;BigEvents;S
+169;7/11/19;100 Thieves (16);ENCE (13);trn  Train;IEM Beijing 2019;BigEvents;S
+170;7/11/19;ENCE (3);100 Thieves (16);inf  Inferno;IEM Beijing 2019;BigEvents;S
+171;2/11/19;FaZe (16);Ninjas in Pyjamas (12);d2  Dust2;BLAST Pro Series Copenhagen 2019;BigEvents;S
+172;2/11/19;FaZe (19);Ninjas in Pyjamas (17);nuke  Nuke;BLAST Pro Series Copenhagen 2019;BigEvents;S
+173;2/11/19;Natus Vincere (16);Ninjas in Pyjamas (10);nuke  Nuke;BLAST Pro Series Copenhagen 2019;BigEvents;S
+174;2/11/19;Liquid (16);FaZe (5);inf  Inferno;BLAST Pro Series Copenhagen 2019;BigEvents;S
+175;2/11/19;Astralis (16);Cloud9 (3);nuke  Nuke;BLAST Pro Series Copenhagen 2019;BigEvents;S
+176;2/11/19;Astralis (15);Natus Vincere (15);nuke  Nuke;BLAST Pro Series Copenhagen 2019;BigEvents;S
+177;2/11/19;Cloud9 (14);FaZe (16);inf  Inferno;BLAST Pro Series Copenhagen 2019;BigEvents;S
+178;2/11/19;Ninjas in Pyjamas (16);Liquid (11);mrg  Mirage;BLAST Pro Series Copenhagen 2019;BigEvents;S
+179;2/11/19;Cloud9 (15);Natus Vincere (15);trn  Train;BLAST Pro Series Copenhagen 2019;BigEvents;S
+180;2/11/19;Ninjas in Pyjamas (3);FaZe (16);d2  Dust2;BLAST Pro Series Copenhagen 2019;BigEvents;S
+181;2/11/19;Astralis (16);Liquid (10);nuke  Nuke;BLAST Pro Series Copenhagen 2019;BigEvents;S
+182;1/11/19;Natus Vincere (9);FaZe (16);nuke  Nuke;BLAST Pro Series Copenhagen 2019;BigEvents;S
+183;1/11/19;Ninjas in Pyjamas (16);Astralis (7);ovp  Overpass;BLAST Pro Series Copenhagen 2019;BigEvents;S
+184;1/11/19;Liquid (16);Cloud9 (4);inf  Inferno;BLAST Pro Series Copenhagen 2019;BigEvents;S
+185;1/11/19;Natus Vincere (16);Liquid (14);d2  Dust2;BLAST Pro Series Copenhagen 2019;BigEvents;S
+186;1/11/19;Ninjas in Pyjamas (16);Cloud9 (6);ovp  Overpass;BLAST Pro Series Copenhagen 2019;BigEvents;S
+187;1/11/19;FaZe (16);Astralis (2);inf  Inferno;BLAST Pro Series Copenhagen 2019;BigEvents;S
+188;27/10/19;Evil Geniuses (16);fnatic (9);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+189;27/10/19;Evil Geniuses (16);fnatic (12);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+190;27/10/19;FURIA (15);fnatic (19);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+191;27/10/19;fnatic (16);FURIA (14);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+192;27/10/19;FURIA (16);fnatic (11);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+193;26/10/19;FURIA (16);Renegades (11);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+194;26/10/19;FURIA (16);Renegades (9);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+195;26/10/19;Evil Geniuses (16);fnatic (13);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+196;26/10/19;Evil Geniuses (16);fnatic (10);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+197;26/10/19;fnatic (16);Evil Geniuses (2);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+198;26/10/19;Renegades (16);MIBR (5);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+199;26/10/19;MIBR (16);Renegades (5);trn  Train;StarSeries i-League Season 8;BigEvents;S
+200;26/10/19;MIBR (6);Renegades (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+201;26/10/19;FURIA (16);G2 (14);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+202;26/10/19;FURIA (16);G2 (14);vtg  Vertigo;StarSeries i-League Season 8;BigEvents;S
+203;25/10/19;Evil Geniuses (16);Renegades (12);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+204;25/10/19;Renegades (5);Evil Geniuses (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+205;25/10/19;fnatic (16);G2 (12);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+206;25/10/19;G2 (16);fnatic (14);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+207;25/10/19;fnatic (16);G2 (11);ovp  Overpass;StarSeries i-League Season 8;BigEvents;S
+208;25/10/19;MIBR (16);Ninjas in Pyjamas (12);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+209;25/10/19;Ninjas in Pyjamas (16);MIBR (7);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+210;25/10/19;Ninjas in Pyjamas (9);MIBR (16);trn  Train;StarSeries i-League Season 8;BigEvents;S
+211;25/10/19;Vitality (9);FURIA (16);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+212;25/10/19;FURIA (16);Vitality (5);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+213;24/10/19;Evil Geniuses (16);Ninjas in Pyjamas (9);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+214;24/10/19;Ninjas in Pyjamas (11);Evil Geniuses (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+215;24/10/19;fnatic (16);Vitality (12);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+216;24/10/19;fnatic (16);Vitality (7);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+217;24/10/19;G2 (16);Ninjas in Pyjamas (10);ovp  Overpass;StarSeries i-League Season 8;BigEvents;S
+218;24/10/19;G2 (16);Ninjas in Pyjamas (12);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+219;24/10/19;Evil Geniuses (16);FURIA (13);trn  Train;StarSeries i-League Season 8;BigEvents;S
+220;24/10/19;Evil Geniuses (16);FURIA (12);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+221;24/10/19;fnatic (16);MIBR (10);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+222;24/10/19;MIBR (10);fnatic (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+223;24/10/19;Renegades (16);Vitality (12);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+224;24/10/19;Renegades (16);Vitality (2);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+225;23/10/19;Evil Geniuses (16);Heroic (10);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+226;23/10/19;Evil Geniuses (16);Heroic (7);ovp  Overpass;StarSeries i-League Season 8;BigEvents;S
+227;23/10/19;Evil Geniuses (17);Heroic (19);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+228;23/10/19;AVANGAR (13);FURIA (16);ovp  Overpass;StarSeries i-League Season 8;BigEvents;S
+229;23/10/19;AVANGAR (16);FURIA (13);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+230;23/10/19;FURIA (16);AVANGAR (12);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+231;23/10/19;MOUZ (12);fnatic (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+232;23/10/19;fnatic (19);MOUZ (17);trn  Train;StarSeries i-League Season 8;BigEvents;S
+233;23/10/19;MIBR (16);North (14);ovp  Overpass;StarSeries i-League Season 8;BigEvents;S
+234;23/10/19;MIBR (16);North (9);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+235;23/10/19;5POWER (7);FURIA (16);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+236;23/10/19;FURIA (16);5POWER (1);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+237;23/10/19;Heroic (16);Natus Vincere (11);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+238;23/10/19;Heroic (16);Natus Vincere (14);trn  Train;StarSeries i-League Season 8;BigEvents;S
+239;23/10/19;MOUZ (16);Invictus (14);trn  Train;StarSeries i-League Season 8;BigEvents;S
+240;23/10/19;MOUZ (16);Invictus (14);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+241;23/10/19;MIBR (16);Imperial (13);trn  Train;StarSeries i-League Season 8;BigEvents;S
+242;23/10/19;MIBR (16);Imperial (4);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+243;22/10/19;G2 (19);AVANGAR (16);trn  Train;StarSeries i-League Season 8;BigEvents;S
+244;22/10/19;G2 (16);AVANGAR (11);vtg  Vertigo;StarSeries i-League Season 8;BigEvents;S
+245;22/10/19;Evil Geniuses (4);Ninjas in Pyjamas (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+246;22/10/19;Evil Geniuses (16);Ninjas in Pyjamas (14);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+247;22/10/19;Ninjas in Pyjamas (16);Evil Geniuses (4);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+248;22/10/19;G2 (16);Natus Vincere (11);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+249;22/10/19;G2 (13);Natus Vincere (16);ovp  Overpass;StarSeries i-League Season 8;BigEvents;S
+250;22/10/19;Natus Vincere (20);G2 (22);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+251;22/10/19;Heroic (15);AVANGAR (19);ovp  Overpass;StarSeries i-League Season 8;BigEvents;S
+252;22/10/19;Heroic (9);AVANGAR (16);trn  Train;StarSeries i-League Season 8;BigEvents;S
+253;22/10/19;FURIA (5);Ninjas in Pyjamas (16);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+254;22/10/19;Ninjas in Pyjamas (16);FURIA (13);trn  Train;StarSeries i-League Season 8;BigEvents;S
+255;22/10/19;5POWER (10);Evil Geniuses (16);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+256;22/10/19;5POWER (8);Evil Geniuses (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+257;21/10/19;fnatic (13);Renegades (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+258;21/10/19;fnatic (9);Renegades (16);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+259;21/10/19;North (6);Vitality (16);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+260;21/10/19;Vitality (12);North (16);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+261;21/10/19;North (8);Vitality (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+262;21/10/19;Renegades (22);MIBR (20);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+263;21/10/19;Renegades (16);MIBR (12);d2  Dust2;StarSeries i-League Season 8;BigEvents;S
+264;21/10/19;MIBR (19);Renegades (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+265;21/10/19;Imperial (14);fnatic (16);inf  Inferno;StarSeries i-League Season 8;BigEvents;S
+266;21/10/19;Imperial (7);fnatic (16);trn  Train;StarSeries i-League Season 8;BigEvents;S
+267;21/10/19;MOUZ (9);North (16);trn  Train;StarSeries i-League Season 8;BigEvents;S
+268;21/10/19;MOUZ (16);North (5);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+269;21/10/19;North (16);MOUZ (11);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+270;21/10/19;Invictus (3);Vitality (16);mrg  Mirage;StarSeries i-League Season 8;BigEvents;S
+271;21/10/19;Invictus (3);Vitality (16);nuke  Nuke;StarSeries i-League Season 8;BigEvents;S
+272;6/10/19;Vitality (13);fnatic (16);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+273;6/10/19;Vitality (16);fnatic (19);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+274;6/10/19;fnatic (14);Vitality (16);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+275;5/10/19;Natus Vincere (11);Vitality (16);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+276;5/10/19;Vitality (16);Natus Vincere (4);ovp  Overpass;DreamHack Masters Malmö 2019;BigEvents;S
+277;5/10/19;Natus Vincere (16);Vitality (6);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+278;5/10/19;fnatic (25);Astralis (23);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+279;5/10/19;Astralis (9);fnatic (16);ovp  Overpass;DreamHack Masters Malmö 2019;BigEvents;S
+280;4/10/19;Vitality (16);MOUZ (13);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+281;4/10/19;MOUZ (16);Vitality (12);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+282;4/10/19;Vitality (16);MOUZ (14);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+283;4/10/19;Ninjas in Pyjamas (9);fnatic (16);ovp  Overpass;DreamHack Masters Malmö 2019;BigEvents;S
+284;4/10/19;fnatic (8);Ninjas in Pyjamas (16);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+285;4/10/19;fnatic (16);Ninjas in Pyjamas (12);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+286;3/10/19;Grayhound (5);MOUZ (16);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+287;3/10/19;MOUZ (11);Grayhound (16);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+288;3/10/19;Grayhound (2);MOUZ (16);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+289;3/10/19;Natus Vincere (16);Ninjas in Pyjamas (13);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+290;3/10/19;Ninjas in Pyjamas (8);Natus Vincere (16);ovp  Overpass;DreamHack Masters Malmö 2019;BigEvents;S
+291;3/10/19;Astralis (16);Vitality (14);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+292;3/10/19;Vitality (5);Astralis (16);vtg  Vertigo;DreamHack Masters Malmö 2019;BigEvents;S
+293;3/10/19;FURIA (5);fnatic (16);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+294;3/10/19;fnatic (34);FURIA (32);ovp  Overpass;DreamHack Masters Malmö 2019;BigEvents;S
+295;3/10/19;MOUZ (16);OpTic (13);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+296;3/10/19;OpTic (10);MOUZ (16);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+297;3/10/19;Liquid (10);Grayhound (16);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+298;3/10/19;Grayhound (16);Liquid (13);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+299;2/10/19;Grayhound (8);Ninjas in Pyjamas (16);ovp  Overpass;DreamHack Masters Malmö 2019;BigEvents;S
+300;2/10/19;Ninjas in Pyjamas (16);Grayhound (14);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+301;2/10/19;fnatic (16);G2 (5);trn  Train;DreamHack Masters Malmö 2019;BigEvents;S
+302;2/10/19;G2 (4);fnatic (16);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+303;2/10/19;FURIA (16);ENCE (9);trn  Train;DreamHack Masters Malmö 2019;BigEvents;S
+304;2/10/19;ENCE (13);FURIA (16);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+305;2/10/19;Natus Vincere (16);OpTic (12);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+306;2/10/19;OpTic (8);Natus Vincere (16);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+307;2/10/19;Liquid (16);North (6);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+308;2/10/19;North (10);Liquid (16);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+309;2/10/19;Liquid (14);North (16);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+310;2/10/19;MOUZ (22);Evil Geniuses (20);trn  Train;DreamHack Masters Malmö 2019;BigEvents;S
+311;2/10/19;Evil Geniuses (10);MOUZ (16);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+312;1/10/19;fnatic (16);TYLOO (10);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+313;1/10/19;TYLOO (2);fnatic (16);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+314;1/10/19;fnatic (13);TYLOO (16);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+315;1/10/19;Vitality (16);ENCE (10);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+316;1/10/19;Vitality (11);ENCE (16);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+317;1/10/19;ENCE (14);Vitality (16);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+318;1/10/19;Envy (9);FURIA (16);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+319;1/10/19;FURIA (10);Envy (16);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+320;1/10/19;Envy (8);FURIA (16);vtg  Vertigo;DreamHack Masters Malmö 2019;BigEvents;S
+321;1/10/19;Astralis (16);G2 (7);d2  Dust2;DreamHack Masters Malmö 2019;BigEvents;S
+322;1/10/19;G2 (16);Astralis (19);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+323;1/10/19;Grayhound (16);Evil Geniuses (10);nuke  Nuke;DreamHack Masters Malmö 2019;BigEvents;S
+324;1/10/19;MOUZ (9);Ninjas in Pyjamas (16);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+325;1/10/19;OpTic (16);Liquid (9);ovp  Overpass;DreamHack Masters Malmö 2019;BigEvents;S
+326;1/10/19;North (8);Natus Vincere (16);ovp  Overpass;DreamHack Masters Malmö 2019;BigEvents;S
+327;1/10/19;Vitality (16);TYLOO (7);inf  Inferno;DreamHack Masters Malmö 2019;BigEvents;S
+328;1/10/19;fnatic (7);ENCE (16);mrg  Mirage;DreamHack Masters Malmö 2019;BigEvents;S
+329;1/10/19;G2 (16);FURIA (14);trn  Train;DreamHack Masters Malmö 2019;BigEvents;S
+330;1/10/19;Envy (7);Astralis (16);trn  Train;DreamHack Masters Malmö 2019;BigEvents;S
+331;29/9/19;Astralis (8);Evil Geniuses (16);nuke  Nuke;ESL One New York 2019;BigEvents;S
+332;29/9/19;Evil Geniuses (20);Astralis (22);trn  Train;ESL One New York 2019;BigEvents;S
+333;29/9/19;Astralis (12);Evil Geniuses (16);d2  Dust2;ESL One New York 2019;BigEvents;S
+334;29/9/19;Evil Geniuses (16);Astralis (3);inf  Inferno;ESL One New York 2019;BigEvents;S
+335;29/9/19;G2 (7);Evil Geniuses (16);nuke  Nuke;ESL One New York 2019;BigEvents;S
+336;29/9/19;G2 (8);Evil Geniuses (16);d2  Dust2;ESL One New York 2019;BigEvents;S
+337;28/9/19;Liquid (13);Astralis (16);ovp  Overpass;ESL One New York 2019;BigEvents;S
+338;28/9/19;Astralis (9);Liquid (16);d2  Dust2;ESL One New York 2019;BigEvents;S
+339;28/9/19;Liquid (9);Astralis (16);vtg  Vertigo;ESL One New York 2019;BigEvents;S
+340;28/9/19;OpTic (7);Astralis (16);d2  Dust2;ESL One New York 2019;BigEvents;S
+341;28/9/19;Astralis (16);OpTic (6);nuke  Nuke;ESL One New York 2019;BigEvents;S
+342;27/9/19;ENCE (11);G2 (16);ovp  Overpass;ESL One New York 2019;BigEvents;S
+343;27/9/19;G2 (11);ENCE (16);nuke  Nuke;ESL One New York 2019;BigEvents;S
+344;27/9/19;ENCE (17);G2 (19);d2  Dust2;ESL One New York 2019;BigEvents;S
+345;27/9/19;Evil Geniuses (16);Astralis (12);inf  Inferno;ESL One New York 2019;BigEvents;S
+346;27/9/19;Astralis (14);Evil Geniuses (16);d2  Dust2;ESL One New York 2019;BigEvents;S
+347;27/9/19;OpTic (16);FaZe (8);d2  Dust2;ESL One New York 2019;BigEvents;S
+348;27/9/19;FaZe (11);OpTic (16);nuke  Nuke;ESL One New York 2019;BigEvents;S
+349;26/9/19;G2 (8);Liquid (16);ovp  Overpass;ESL One New York 2019;BigEvents;S
+350;26/9/19;G2 (19);Liquid (17);inf  Inferno;ESL One New York 2019;BigEvents;S
+351;26/9/19;G2 (3);Liquid (16);d2  Dust2;ESL One New York 2019;BigEvents;S
+352;26/9/19;eUnited (10);ENCE (16);trn  Train;ESL One New York 2019;BigEvents;S
+353;26/9/19;ENCE (16);eUnited (12);ovp  Overpass;ESL One New York 2019;BigEvents;S
+354;26/9/19;FaZe (6);Evil Geniuses (16);vtg  Vertigo;ESL One New York 2019;BigEvents;S
+355;26/9/19;Evil Geniuses (16);FaZe (12);nuke  Nuke;ESL One New York 2019;BigEvents;S
+356;26/9/19;Astralis (16);OpTic (1);d2  Dust2;ESL One New York 2019;BigEvents;S
+357;26/9/19;Astralis (16);OpTic (14);vtg  Vertigo;ESL One New York 2019;BigEvents;S
+358;26/9/19;G2 (16);ENCE (14);nuke  Nuke;ESL One New York 2019;BigEvents;S
+359;26/9/19;ENCE (17);G2 (19);d2  Dust2;ESL One New York 2019;BigEvents;S
+360;26/9/19;eUnited (3);Liquid (16);mrg  Mirage;ESL One New York 2019;BigEvents;S
+361;26/9/19;Liquid (16);eUnited (12);ovp  Overpass;ESL One New York 2019;BigEvents;S
+362;8/9/19;Astralis (16);AVANGAR (5);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+363;8/9/19;AVANGAR (6);Astralis (16);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+364;7/9/19;NRG (9);Astralis (16);ovp  Overpass;StarLadder Major Berlin 2019;BigEvents;S
+365;7/9/19;Astralis (16);NRG (10);trn  Train;StarLadder Major Berlin 2019;BigEvents;S
+366;7/9/19;Renegades (6);AVANGAR (16);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+367;7/9/19;AVANGAR (22);Renegades (19);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+368;6/9/19;Astralis (16);Liquid (13);ovp  Overpass;StarLadder Major Berlin 2019;BigEvents;S
+369;6/9/19;Liquid (8);Astralis (16);vtg  Vertigo;StarLadder Major Berlin 2019;BigEvents;S
+370;6/9/19;NRG (19);Natus Vincere (17);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+371;6/9/19;Natus Vincere (12);NRG (16);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+372;5/9/19;Vitality (10);AVANGAR (16);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+373;5/9/19;Vitality (16);AVANGAR (11);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+374;5/9/19;AVANGAR (16);Vitality (9);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+375;5/9/19;Renegades (16);ENCE (12);nuke  Nuke;StarLadder Major Berlin 2019;BigEvents;S
+376;5/9/19;ENCE (5);Renegades (16);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+377;1/9/19;Natus Vincere (16);CR4ZY (4);nuke  Nuke;StarLadder Major Berlin 2019;BigEvents;S
+378;1/9/19;CR4ZY (12);Natus Vincere (16);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+379;1/9/19;Natus Vincere (11);CR4ZY (16);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+380;1/9/19;MOUZ (20);Liquid (22);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+381;1/9/19;MOUZ (17);Liquid (19);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+382;1/9/19;G2 (9);Renegades (16);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+383;1/9/19;Renegades (11);G2 (16);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+384;1/9/19;Renegades (16);G2 (11);vtg  Vertigo;StarLadder Major Berlin 2019;BigEvents;S
+385;31/8/19;North (6);Liquid (16);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+386;31/8/19;North (12);Liquid (16);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+387;31/8/19;CR4ZY (5);Astralis (16);vtg  Vertigo;StarLadder Major Berlin 2019;BigEvents;S
+388;31/8/19;CR4ZY (31);Astralis (29);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+389;31/8/19;CR4ZY (11);Astralis (16);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+390;31/8/19;MOUZ (10);Vitality (16);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+391;31/8/19;Vitality (16);MOUZ (5);vtg  Vertigo;StarLadder Major Berlin 2019;BigEvents;S
+392;31/8/19;FaZe (14);Renegades (16);vtg  Vertigo;StarLadder Major Berlin 2019;BigEvents;S
+393;31/8/19;Renegades (3);FaZe (16);nuke  Nuke;StarLadder Major Berlin 2019;BigEvents;S
+394;31/8/19;FaZe (19);Renegades (22);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+395;31/8/19;MIBR (4);Natus Vincere (16);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+396;31/8/19;Natus Vincere (16);MIBR (11);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+397;31/8/19;AVANGAR (16);G2 (9);ovp  Overpass;StarLadder Major Berlin 2019;BigEvents;S
+398;31/8/19;G2 (11);AVANGAR (16);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+399;31/8/19;G2 (16);AVANGAR (9);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+400;30/8/19;North (16);Ninjas in Pyjamas (4);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+401;30/8/19;Ninjas in Pyjamas (8);North (16);trn  Train;StarLadder Major Berlin 2019;BigEvents;S
+402;30/8/19;NRG (16);Astralis (4);nuke  Nuke;StarLadder Major Berlin 2019;BigEvents;S
+403;30/8/19;Astralis (28);NRG (31);trn  Train;StarLadder Major Berlin 2019;BigEvents;S
+404;30/8/19;Renegades (16);DreamEaters (8);trn  Train;StarLadder Major Berlin 2019;BigEvents;S
+405;30/8/19;DreamEaters (10);Renegades (16);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+406;30/8/19;ENCE (16);Vitality (7);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+407;30/8/19;Vitality (10);ENCE (16);nuke  Nuke;StarLadder Major Berlin 2019;BigEvents;S
+408;30/8/19;FaZe (9);CR4ZY (16);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+409;30/8/19;MIBR (4);G2 (16);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+410;30/8/19;AVANGAR (22);Liquid (18);ovp  Overpass;StarLadder Major Berlin 2019;BigEvents;S
+411;30/8/19;Natus Vincere (17);MOUZ (19);nuke  Nuke;StarLadder Major Berlin 2019;BigEvents;S
+412;29/8/19;Astralis (16);G2 (7);nuke  Nuke;StarLadder Major Berlin 2019;BigEvents;S
+413;29/8/19;MIBR (8);ENCE (16);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+414;29/8/19;Vitality (16);FaZe (7);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+415;29/8/19;Liquid (9);NRG (16);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+416;29/8/19;North (13);MOUZ (16);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+417;29/8/19;Ninjas in Pyjamas (10);CR4ZY (16);trn  Train;StarLadder Major Berlin 2019;BigEvents;S
+418;29/8/19;Natus Vincere (16);DreamEaters (7);ovp  Overpass;StarLadder Major Berlin 2019;BigEvents;S
+419;29/8/19;Renegades (13);AVANGAR (16);vtg  Vertigo;StarLadder Major Berlin 2019;BigEvents;S
+420;28/8/19;MIBR (16);Ninjas in Pyjamas (12);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+421;28/8/19;Natus Vincere (17);G2 (19);ovp  Overpass;StarLadder Major Berlin 2019;BigEvents;S
+422;28/8/19;FaZe (16);MOUZ (8);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+423;28/8/19;Vitality (16);North (9);inf  Inferno;StarLadder Major Berlin 2019;BigEvents;S
+424;28/8/19;CR4ZY (9);Liquid (16);mrg  Mirage;StarLadder Major Berlin 2019;BigEvents;S
+425;28/8/19;NRG (16);Renegades (14);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+426;28/8/19;Astralis (16);DreamEaters (9);d2  Dust2;StarLadder Major Berlin 2019;BigEvents;S
+427;28/8/19;ENCE (16);AVANGAR (5);ovp  Overpass;StarLadder Major Berlin 2019;BigEvents;S
+428;21/7/19;ENCE (14);Liquid (16);inf  Inferno;IEM Chicago 2019;BigEvents;S
+429;21/7/19;Liquid (16);ENCE (3);nuke  Nuke;IEM Chicago 2019;BigEvents;S
+430;21/7/19;ENCE (2);Liquid (16);ovp  Overpass;IEM Chicago 2019;BigEvents;S
+431;21/7/19;Vitality (9);Liquid (16);ovp  Overpass;IEM Chicago 2019;BigEvents;S
+432;21/7/19;Vitality (11);Liquid (16);d2  Dust2;IEM Chicago 2019;BigEvents;S
+433;20/7/19;ENCE (16);MIBR (7);d2  Dust2;IEM Chicago 2019;BigEvents;S
+434;20/7/19;MIBR (5);ENCE (16);trn  Train;IEM Chicago 2019;BigEvents;S
+435;20/7/19;ENCE (9);MIBR (16);mrg  Mirage;IEM Chicago 2019;BigEvents;S
+436;20/7/19;Heroic (9);Vitality (16);ovp  Overpass;IEM Chicago 2019;BigEvents;S
+437;20/7/19;Heroic (16);Vitality (12);d2  Dust2;IEM Chicago 2019;BigEvents;S
+438;20/7/19;Vitality (16);Heroic (7);mrg  Mirage;IEM Chicago 2019;BigEvents;S
+439;19/7/19;G2 (6);MIBR (16);trn  Train;IEM Chicago 2019;BigEvents;S
+440;19/7/19;MIBR (12);G2 (16);d2  Dust2;IEM Chicago 2019;BigEvents;S
+441;19/7/19;G2 (11);MIBR (16);inf  Inferno;IEM Chicago 2019;BigEvents;S
+442;19/7/19;Heroic (14);ENCE (16);nuke  Nuke;IEM Chicago 2019;BigEvents;S
+443;19/7/19;ENCE (16);Heroic (12);ovp  Overpass;IEM Chicago 2019;BigEvents;S
+444;19/7/19;Vitality (16);Renegades (7);d2  Dust2;IEM Chicago 2019;BigEvents;S
+445;19/7/19;Vitality (16);Renegades (12);mrg  Mirage;IEM Chicago 2019;BigEvents;S
+446;18/7/19;Envy (15);MIBR (19);trn  Train;IEM Chicago 2019;BigEvents;S
+447;18/7/19;Envy (9);MIBR (16);mrg  Mirage;IEM Chicago 2019;BigEvents;S
+448;18/7/19;MIBR (11);Envy (16);inf  Inferno;IEM Chicago 2019;BigEvents;S
+449;18/7/19;G2 (9);Liquid (16);inf  Inferno;IEM Chicago 2019;BigEvents;S
+450;18/7/19;G2 (13);Liquid (16);ovp  Overpass;IEM Chicago 2019;BigEvents;S
+451;18/7/19;G2 (16);Liquid (13);d2  Dust2;IEM Chicago 2019;BigEvents;S
+452;18/7/19;Renegades (14);ENCE (16);trn  Train;IEM Chicago 2019;BigEvents;S
+453;18/7/19;ENCE (16);Renegades (7);inf  Inferno;IEM Chicago 2019;BigEvents;S
+454;18/7/19;Heroic (16);Vitality (9);nuke  Nuke;IEM Chicago 2019;BigEvents;S
+455;18/7/19;Vitality (14);Heroic (16);ovp  Overpass;IEM Chicago 2019;BigEvents;S
+456;18/7/19;MIBR (9);G2 (16);d2  Dust2;IEM Chicago 2019;BigEvents;S
+457;18/7/19;MIBR (6);G2 (16);ovp  Overpass;IEM Chicago 2019;BigEvents;S
+458;18/7/19;Envy (6);Liquid (16);mrg  Mirage;IEM Chicago 2019;BigEvents;S
+459;18/7/19;Envy (1);Liquid (16);vtg  Vertigo;IEM Chicago 2019;BigEvents;S
+460;15/7/19;FaZe (6);Liquid (16);inf  Inferno;BLAST Pro Series Los Angeles 2019;BigEvents;S
+461;15/7/19;Liquid (16);FaZe (13);nuke  Nuke;BLAST Pro Series Los Angeles 2019;BigEvents;S
+462;14/7/19;NRG (11);FaZe (16);nuke  Nuke;BLAST Pro Series Los Angeles 2019;BigEvents;S
+463;14/7/19;FaZe (16);NRG (7);trn  Train;BLAST Pro Series Los Angeles 2019;BigEvents;S
+464;14/7/19;Cloud9 (14);Liquid (16);inf  Inferno;BLAST Pro Series Los Angeles 2019;BigEvents;S
+465;14/7/19;Cloud9 (8);Liquid (16);mrg  Mirage;BLAST Pro Series Los Angeles 2019;BigEvents;S
+466;14/7/19;FaZe (16);MIBR (14);inf  Inferno;BLAST Pro Series Los Angeles 2019;BigEvents;S
+467;14/7/19;NRG (15);Cloud9 (15);nuke  Nuke;BLAST Pro Series Los Angeles 2019;BigEvents;S
+468;14/7/19;Renegades (11);Liquid (16);vtg  Vertigo;BLAST Pro Series Los Angeles 2019;BigEvents;S
+469;14/7/19;NRG (16);MIBR (10);inf  Inferno;BLAST Pro Series Los Angeles 2019;BigEvents;S
+470;14/7/19;Liquid (16);FaZe (4);nuke  Nuke;BLAST Pro Series Los Angeles 2019;BigEvents;S
+471;14/7/19;Cloud9 (12);Renegades (16);inf  Inferno;BLAST Pro Series Los Angeles 2019;BigEvents;S
+472;14/7/19;MIBR (11);Liquid (16);mrg  Mirage;BLAST Pro Series Los Angeles 2019;BigEvents;S
+473;14/7/19;FaZe (12);Cloud9 (16);mrg  Mirage;BLAST Pro Series Los Angeles 2019;BigEvents;S
+474;14/7/19;NRG (16);Renegades (8);d2  Dust2;BLAST Pro Series Los Angeles 2019;BigEvents;S
+475;13/7/19;MIBR (15);Cloud9 (15);mrg  Mirage;BLAST Pro Series Los Angeles 2019;BigEvents;S
+476;13/7/19;Liquid (16);NRG (9);ovp  Overpass;BLAST Pro Series Los Angeles 2019;BigEvents;S
+477;13/7/19;Cloud9 (8);Liquid (16);inf  Inferno;BLAST Pro Series Los Angeles 2019;BigEvents;S
+478;13/7/19;Renegades (14);FaZe (16);trn  Train;BLAST Pro Series Los Angeles 2019;BigEvents;S
+479;13/7/19;NRG (9);FaZe (16);nuke  Nuke;BLAST Pro Series Los Angeles 2019;BigEvents;S
+480;13/7/19;Renegades (14);MIBR (16);mrg  Mirage;BLAST Pro Series Los Angeles 2019;BigEvents;S
+481;7/7/19;Liquid (16);Vitality (8);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+482;7/7/19;Liquid (16);Vitality (10);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+483;7/7/19;Liquid (17);Vitality (19);d2  Dust2;ESL One Cologne 2019;BigEvents;S
+484;7/7/19;Vitality (6);Liquid (16);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+485;6/7/19;Natus Vincere (12);Liquid (16);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+486;6/7/19;Natus Vincere (12);Liquid (16);d2  Dust2;ESL One Cologne 2019;BigEvents;S
+487;6/7/19;Astralis (9);Vitality (16);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+488;6/7/19;Astralis (22);Vitality (19);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+489;6/7/19;Astralis (8);Vitality (16);d2  Dust2;ESL One Cologne 2019;BigEvents;S
+490;5/7/19;Natus Vincere (16);Ninjas in Pyjamas (9);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+491;5/7/19;Ninjas in Pyjamas (12);Natus Vincere (16);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+492;5/7/19;Vitality (16);NRG (7);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+493;5/7/19;NRG (7);Vitality (16);d2  Dust2;ESL One Cologne 2019;BigEvents;S
+494;4/7/19;Heroic (14);Vitality (16);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+495;4/7/19;Vitality (16);Heroic (13);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+496;4/7/19;Ninjas in Pyjamas (8);Astralis (16);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+497;4/7/19;Astralis (19);Ninjas in Pyjamas (16);d2  Dust2;ESL One Cologne 2019;BigEvents;S
+498;4/7/19;NRG (20);Liquid (22);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+499;4/7/19;Liquid (16);NRG (12);nuke  Nuke;ESL One Cologne 2019;BigEvents;S
+500;4/7/19;MOUZ (9);Natus Vincere (16);trn  Train;ESL One Cologne 2019;BigEvents;S
+501;4/7/19;MOUZ (16);Natus Vincere (8);d2  Dust2;ESL One Cologne 2019;BigEvents;S
+502;4/7/19;Natus Vincere (22);MOUZ (19);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+503;4/7/19;fnatic (17);Vitality (19);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+504;4/7/19;Vitality (19);fnatic (16);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+505;4/7/19;BIG (7);Heroic (16);nuke  Nuke;ESL One Cologne 2019;BigEvents;S
+506;4/7/19;Heroic (16);BIG (13);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+507;3/7/19;FURIA (14);Natus Vincere (16);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+508;3/7/19;Natus Vincere (16);FURIA (12);nuke  Nuke;ESL One Cologne 2019;BigEvents;S
+509;3/7/19;Heroic (10);Ninjas in Pyjamas (16);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+510;3/7/19;Ninjas in Pyjamas (16);Heroic (5);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+511;3/7/19;MOUZ (16);FaZe (8);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+512;3/7/19;FaZe (15);MOUZ (19);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+513;3/7/19;fnatic (6);Astralis (16);nuke  Nuke;ESL One Cologne 2019;BigEvents;S
+514;3/7/19;Astralis (16);fnatic (1);trn  Train;ESL One Cologne 2019;BigEvents;S
+515;3/7/19;MIBR (16);BIG (19);trn  Train;ESL One Cologne 2019;BigEvents;S
+516;3/7/19;BIG (7);MIBR (16);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+517;3/7/19;MIBR (11);BIG (16);d2  Dust2;ESL One Cologne 2019;BigEvents;S
+518;3/7/19;Vitality (16);ENCE (9);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+519;3/7/19;Vitality (12);ENCE (16);nuke  Nuke;ESL One Cologne 2019;BigEvents;S
+520;3/7/19;ENCE (9);Vitality (16);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+521;2/7/19;FaZe (12);NRG (16);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+522;2/7/19;NRG (16);FaZe (11);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+523;2/7/19;FURIA (16);Renegades (12);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+524;2/7/19;Renegades (9);FURIA (16);nuke  Nuke;ESL One Cologne 2019;BigEvents;S
+525;2/7/19;Natus Vincere (8);Liquid (16);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+526;2/7/19;Natus Vincere (16);Liquid (14);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+527;2/7/19;Natus Vincere (19);Liquid (22);d2  Dust2;ESL One Cologne 2019;BigEvents;S
+528;2/7/19;MVP PK (6);MOUZ (16);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+529;2/7/19;MOUZ (16);MVP PK (8);vtg  Vertigo;ESL One Cologne 2019;BigEvents;S
+530;2/7/19;Vitality (10);Ninjas in Pyjamas (16);d2  Dust2;ESL One Cologne 2019;BigEvents;S
+531;2/7/19;Heroic (16);ENCE (10);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+532;2/7/19;fnatic (16);MIBR (11);inf  Inferno;ESL One Cologne 2019;BigEvents;S
+533;2/7/19;Astralis (16);BIG (4);ovp  Overpass;ESL One Cologne 2019;BigEvents;S
+534;2/7/19;FaZe (16);Renegades (14);mrg  Mirage;ESL One Cologne 2019;BigEvents;S
+535;2/7/19;NRG (16);FURIA (7);nuke  Nuke;ESL One Cologne 2019;BigEvents;S
+536;2/7/19;Liquid (16);MVP PK (14);nuke  Nuke;ESL One Cologne 2019;BigEvents;S
+537;2/7/19;MOUZ (14);Natus Vincere (16);trn  Train;ESL One Cologne 2019;BigEvents;S
+538;23/6/19;Liquid (25);G2 (22);inf  Inferno;ESL Pro League Season 9 Finals;BigEvents;S
+539;23/6/19;Liquid (12);G2 (16);nuke  Nuke;ESL Pro League Season 9 Finals;BigEvents;S
+540;23/6/19;G2 (3);Liquid (16);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+541;23/6/19;G2 (15);Liquid (19);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+542;22/6/19;Liquid (19);MOUZ (17);nuke  Nuke;ESL Pro League Season 9 Finals;BigEvents;S
+543;22/6/19;MOUZ (8);Liquid (16);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+544;22/6/19;G2 (16);NRG (10);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+545;22/6/19;G2 (7);NRG (16);trn  Train;ESL Pro League Season 9 Finals;BigEvents;S
+546;22/6/19;NRG (12);G2 (16);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+547;21/6/19;Liquid (16);Astralis (13);vtg  Vertigo;ESL Pro League Season 9 Finals;BigEvents;S
+548;21/6/19;Liquid (16);Astralis (6);inf  Inferno;ESL Pro League Season 9 Finals;BigEvents;S
+549;21/6/19;Astralis (16);Liquid (12);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+550;21/6/19;G2 (16);FaZe (8);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+551;21/6/19;FaZe (12);G2 (16);trn  Train;ESL Pro League Season 9 Finals;BigEvents;S
+552;20/6/19;MOUZ (16);FaZe (8);vtg  Vertigo;ESL Pro League Season 9 Finals;BigEvents;S
+553;20/6/19;FaZe (12);MOUZ (16);trn  Train;ESL Pro League Season 9 Finals;BigEvents;S
+554;20/6/19;Liquid (16);MIBR (9);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+555;20/6/19;MIBR (13);Liquid (16);mrg  Mirage;ESL Pro League Season 9 Finals;BigEvents;S
+556;20/6/19;Heroic (11);G2 (16);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+557;20/6/19;Heroic (3);G2 (16);vtg  Vertigo;ESL Pro League Season 9 Finals;BigEvents;S
+558;20/6/19;NRG (16);Astralis (12);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+559;20/6/19;NRG (8);Astralis (16);nuke  Nuke;ESL Pro League Season 9 Finals;BigEvents;S
+560;20/6/19;Astralis (13);NRG (16);trn  Train;ESL Pro League Season 9 Finals;BigEvents;S
+561;20/6/19;HellRaisers (14);Liquid (16);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+562;20/6/19;HellRaisers (16);Liquid (14);inf  Inferno;ESL Pro League Season 9 Finals;BigEvents;S
+563;20/6/19;HellRaisers (11);Liquid (16);vtg  Vertigo;ESL Pro League Season 9 Finals;BigEvents;S
+564;20/6/19;North (13);MIBR (16);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+565;20/6/19;MIBR (13);North (16);inf  Inferno;ESL Pro League Season 9 Finals;BigEvents;S
+566;20/6/19;North (5);MIBR (16);mrg  Mirage;ESL Pro League Season 9 Finals;BigEvents;S
+567;19/6/19;HellRaisers (8);MOUZ (16);nuke  Nuke;ESL Pro League Season 9 Finals;BigEvents;S
+568;19/6/19;MOUZ (16);HellRaisers (5);mrg  Mirage;ESL Pro League Season 9 Finals;BigEvents;S
+569;19/6/19;Cloud9 (13);G2 (16);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+570;19/6/19;G2 (16);Cloud9 (12);inf  Inferno;ESL Pro League Season 9 Finals;BigEvents;S
+571;19/6/19;FaZe (19);North (16);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+572;19/6/19;North (8);FaZe (16);mrg  Mirage;ESL Pro League Season 9 Finals;BigEvents;S
+573;19/6/19;FaZe (4);North (16);inf  Inferno;ESL Pro League Season 9 Finals;BigEvents;S
+574;19/6/19;Heroic (16);fnatic (6);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+575;19/6/19;Heroic (12);fnatic (16);mrg  Mirage;ESL Pro League Season 9 Finals;BigEvents;S
+576;19/6/19;fnatic (7);Heroic (16);nuke  Nuke;ESL Pro League Season 9 Finals;BigEvents;S
+577;19/6/19;MIBR (16);Luminosity (13);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+578;19/6/19;Luminosity (9);MIBR (16);mrg  Mirage;ESL Pro League Season 9 Finals;BigEvents;S
+579;19/6/19;TYLOO (7);Liquid (16);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+580;19/6/19;TYLOO (6);Liquid (16);mrg  Mirage;ESL Pro League Season 9 Finals;BigEvents;S
+581;18/6/19;Heroic (7);Astralis (16);inf  Inferno;ESL Pro League Season 9 Finals;BigEvents;S
+582;18/6/19;Astralis (16);Heroic (7);vtg  Vertigo;ESL Pro League Season 9 Finals;BigEvents;S
+583;18/6/19;Cloud9 (16);DETONA (9);mrg  Mirage;ESL Pro League Season 9 Finals;BigEvents;S
+584;18/6/19;Cloud9 (16);DETONA (4);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+585;18/6/19;NRG (19);G2 (17);ovp  Overpass;ESL Pro League Season 9 Finals;BigEvents;S
+586;18/6/19;NRG (19);G2 (17);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+587;18/6/19;G2 (16);NRG (11);trn  Train;ESL Pro League Season 9 Finals;BigEvents;S
+588;18/6/19;Grayhound (13);fnatic (16);trn  Train;ESL Pro League Season 9 Finals;BigEvents;S
+589;18/6/19;Grayhound (11);fnatic (16);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+590;18/6/19;MOUZ (16);MIBR (8);inf  Inferno;ESL Pro League Season 9 Finals;BigEvents;S
+591;18/6/19;Luminosity (7);HellRaisers (16);mrg  Mirage;ESL Pro League Season 9 Finals;BigEvents;S
+592;18/6/19;TYLOO (12);FaZe (16);vtg  Vertigo;ESL Pro League Season 9 Finals;BigEvents;S
+593;18/6/19;North (16);Liquid (13);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+594;18/6/19;Heroic (16);DETONA (8);d2  Dust2;ESL Pro League Season 9 Finals;BigEvents;S
+595;18/6/19;Cloud9 (9);Astralis (16);inf  Inferno;ESL Pro League Season 9 Finals;BigEvents;S
+596;18/6/19;G2 (16);Grayhound (13);nuke  Nuke;ESL Pro League Season 9 Finals;BigEvents;S
+597;18/6/19;NRG (16);fnatic (12);nuke  Nuke;ESL Pro League Season 9 Finals;BigEvents;S
+598;9/6/19;Vitality (16);FURIA (4);ovp  Overpass;ECS Season 7 Finals;BigEvents;S
+599;9/6/19;Vitality (16);FURIA (9);inf  Inferno;ECS Season 7 Finals;BigEvents;S
+600;8/6/19;NRG (7);Vitality (16);mrg  Mirage;ECS Season 7 Finals;BigEvents;S
+601;8/6/19;Vitality (19);NRG (15);ovp  Overpass;ECS Season 7 Finals;BigEvents;S
+602;8/6/19;FURIA (22);North (20);ovp  Overpass;ECS Season 7 Finals;BigEvents;S
+603;8/6/19;FURIA (16);North (11);inf  Inferno;ECS Season 7 Finals;BigEvents;S
+604;7/6/19;Complexity (8);Vitality (16);nuke  Nuke;ECS Season 7 Finals;BigEvents;S
+605;7/6/19;Vitality (16);Complexity (13);d2  Dust2;ECS Season 7 Finals;BigEvents;S
+606;7/6/19;Astralis (13);FURIA (16);nuke  Nuke;ECS Season 7 Finals;BigEvents;S
+607;7/6/19;Astralis (10);FURIA (16);mrg  Mirage;ECS Season 7 Finals;BigEvents;S
+608;7/6/19;Astralis (16);FURIA (12);inf  Inferno;ECS Season 7 Finals;BigEvents;S
+609;7/6/19;Complexity (16);MIBR (14);mrg  Mirage;ECS Season 7 Finals;BigEvents;S
+610;7/6/19;Complexity (9);MIBR (16);vtg  Vertigo;ECS Season 7 Finals;BigEvents;S
+611;7/6/19;MIBR (4);Complexity (16);trn  Train;ECS Season 7 Finals;BigEvents;S
+612;7/6/19;Ninjas in Pyjamas (6);Astralis (16);ovp  Overpass;ECS Season 7 Finals;BigEvents;S
+613;7/6/19;Astralis (16);Ninjas in Pyjamas (5);inf  Inferno;ECS Season 7 Finals;BigEvents;S
+614;6/6/19;North (16);Vitality (7);d2  Dust2;ECS Season 7 Finals;BigEvents;S
+615;6/6/19;North (16);Vitality (11);inf  Inferno;ECS Season 7 Finals;BigEvents;S
+616;6/6/19;North (13);Vitality (16);nuke  Nuke;ECS Season 7 Finals;BigEvents;S
+617;6/6/19;FURIA (9);NRG (16);nuke  Nuke;ECS Season 7 Finals;BigEvents;S
+618;6/6/19;FURIA (13);NRG (16);trn  Train;ECS Season 7 Finals;BigEvents;S
+619;6/6/19;MIBR (23);North (25);inf  Inferno;ECS Season 7 Finals;BigEvents;S
+620;6/6/19;Vitality (16);Complexity (9);d2  Dust2;ECS Season 7 Finals;BigEvents;S
+621;6/6/19;Ninjas in Pyjamas (11);NRG (16);trn  Train;ECS Season 7 Finals;BigEvents;S
+622;6/6/19;Astralis (14);FURIA (16);nuke  Nuke;ECS Season 7 Finals;BigEvents;S
+623;2/6/19;ENCE (13);Liquid (16);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+624;2/6/19;ENCE (19);Liquid (17);ovp  Overpass;DreamHack Masters Dallas 2019;BigEvents;S
+625;2/6/19;ENCE (8);Liquid (16);mrg  Mirage;DreamHack Masters Dallas 2019;BigEvents;S
+626;2/6/19;FaZe (13);ENCE (16);trn  Train;DreamHack Masters Dallas 2019;BigEvents;S
+627;2/6/19;FaZe (16);ENCE (19);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+628;1/6/19;FURIA (4);Liquid (16);ovp  Overpass;DreamHack Masters Dallas 2019;BigEvents;S
+629;1/6/19;Liquid (16);FURIA (13);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+630;1/6/19;FaZe (25);G2 (23);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+631;1/6/19;FaZe (16);G2 (8);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+632;31/5/19;FURIA (16);Vitality (8);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+633;31/5/19;Vitality (8);FURIA (16);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+634;31/5/19;FURIA (9);ENCE (16);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+635;31/5/19;FURIA (16);ENCE (11);trn  Train;DreamHack Masters Dallas 2019;BigEvents;S
+636;31/5/19;ENCE (16);FURIA (9);ovp  Overpass;DreamHack Masters Dallas 2019;BigEvents;S
+637;31/5/19;Renegades (13);G2 (16);trn  Train;DreamHack Masters Dallas 2019;BigEvents;S
+638;31/5/19;G2 (14);Renegades (16);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+639;31/5/19;G2 (16);Renegades (7);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+640;30/5/19;Liquid (16);FaZe (11);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+641;30/5/19;FaZe (16);Liquid (12);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+642;30/5/19;FaZe (19);Liquid (22);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+643;30/5/19;North (11);Vitality (16);mrg  Mirage;DreamHack Masters Dallas 2019;BigEvents;S
+644;30/5/19;North (10);Vitality (16);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+645;30/5/19;G2 (16);NRG (3);ovp  Overpass;DreamHack Masters Dallas 2019;BigEvents;S
+646;30/5/19;G2 (16);NRG (11);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+647;30/5/19;G2 (17);NRG (19);trn  Train;DreamHack Masters Dallas 2019;BigEvents;S
+648;30/5/19;Renegades (16);fnatic (4);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+649;30/5/19;Renegades (9);fnatic (16);trn  Train;DreamHack Masters Dallas 2019;BigEvents;S
+650;30/5/19;Renegades (16);fnatic (14);mrg  Mirage;DreamHack Masters Dallas 2019;BigEvents;S
+651;30/5/19;fnatic (12);FURIA (16);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+652;30/5/19;FURIA (16);fnatic (12);mrg  Mirage;DreamHack Masters Dallas 2019;BigEvents;S
+653;30/5/19;Windigo (22);North (25);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+654;30/5/19;North (16);Windigo (3);ovp  Overpass;DreamHack Masters Dallas 2019;BigEvents;S
+655;29/5/19;ENCE (16);G2 (6);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+656;29/5/19;ENCE (8);G2 (16);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+657;29/5/19;G2 (11);ENCE (16);trn  Train;DreamHack Masters Dallas 2019;BigEvents;S
+658;29/5/19;Vitality (16);Ninjas in Pyjamas (14);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+659;29/5/19;Vitality (16);Ninjas in Pyjamas (8);ovp  Overpass;DreamHack Masters Dallas 2019;BigEvents;S
+660;29/5/19;NRG (16);Cloud9 (3);mrg  Mirage;DreamHack Masters Dallas 2019;BigEvents;S
+661;29/5/19;Cloud9 (11);NRG (16);trn  Train;DreamHack Masters Dallas 2019;BigEvents;S
+662;29/5/19;NRG (10);Cloud9 (16);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+663;29/5/19;Isurus (5);Renegades (16);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+664;29/5/19;Isurus (4);Renegades (16);mrg  Mirage;DreamHack Masters Dallas 2019;BigEvents;S
+665;29/5/19;Isurus (16);Renegades (13);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+666;29/5/19;FaZe (16);Ninjas in Pyjamas (7);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+667;29/5/19;FaZe (16);Ninjas in Pyjamas (6);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+668;29/5/19;TYLOO (4);Windigo (16);ovp  Overpass;DreamHack Masters Dallas 2019;BigEvents;S
+669;29/5/19;Windigo (16);TYLOO (9);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+670;29/5/19;North (12);Liquid (16);mrg  Mirage;DreamHack Masters Dallas 2019;BigEvents;S
+671;29/5/19;Liquid (16);North (11);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+672;29/5/19;Vitality (16);Lucid Dream (1);nuke  Nuke;DreamHack Masters Dallas 2019;BigEvents;S
+673;29/5/19;Lucid Dream (5);Vitality (16);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+674;28/5/19;Cloud9 (7);fnatic (16);trn  Train;DreamHack Masters Dallas 2019;BigEvents;S
+675;28/5/19;FURIA (16);NRG (7);ovp  Overpass;DreamHack Masters Dallas 2019;BigEvents;S
+676;28/5/19;G2 (19);Renegades (17);trn  Train;DreamHack Masters Dallas 2019;BigEvents;S
+677;28/5/19;ENCE (16);Isurus (4);inf  Inferno;DreamHack Masters Dallas 2019;BigEvents;S
+678;28/5/19;FaZe (16);Windigo (7);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+679;28/5/19;TYLOO (13);Ninjas in Pyjamas (16);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+680;28/5/19;Vitality (14);North (16);ovp  Overpass;DreamHack Masters Dallas 2019;BigEvents;S
+681;28/5/19;Lucid Dream (7);Liquid (16);d2  Dust2;DreamHack Masters Dallas 2019;BigEvents;S
+682;11/5/19;Astralis (13);ENCE (16);trn  Train;BLAST Pro Series Madrid 2019;BigEvents;S
+683;11/5/19;ENCE (16);Astralis (9);nuke  Nuke;BLAST Pro Series Madrid 2019;BigEvents;S
+684;11/5/19;ENCE (16);Giants (14);ovp  Overpass;BLAST Pro Series Madrid 2019;BigEvents;S
+685;11/5/19;Cloud9 (11);Astralis (16);inf  Inferno;BLAST Pro Series Madrid 2019;BigEvents;S
+686;11/5/19;Ninjas in Pyjamas (16);Natus Vincere (9);d2  Dust2;BLAST Pro Series Madrid 2019;BigEvents;S
+687;11/5/19;Cloud9 (14);Ninjas in Pyjamas (16);nuke  Nuke;BLAST Pro Series Madrid 2019;BigEvents;S
+688;11/5/19;Astralis (13);ENCE (16);d2  Dust2;BLAST Pro Series Madrid 2019;BigEvents;S
+689;11/5/19;Natus Vincere (16);Giants (4);d2  Dust2;BLAST Pro Series Madrid 2019;BigEvents;S
+690;11/5/19;Natus Vincere (13);Astralis (16);d2  Dust2;BLAST Pro Series Madrid 2019;BigEvents;S
+691;11/5/19;Cloud9 (11);ENCE (16);nuke  Nuke;BLAST Pro Series Madrid 2019;BigEvents;S
+692;11/5/19;Ninjas in Pyjamas (4);Giants (16);nuke  Nuke;BLAST Pro Series Madrid 2019;BigEvents;S
+693;10/5/19;Natus Vincere (16);Cloud9 (7);mrg  Mirage;BLAST Pro Series Madrid 2019;BigEvents;S
+694;10/5/19;Ninjas in Pyjamas (16);ENCE (5);nuke  Nuke;BLAST Pro Series Madrid 2019;BigEvents;S
+695;10/5/19;Astralis (16);Giants (7);nuke  Nuke;BLAST Pro Series Madrid 2019;BigEvents;S
+696;10/5/19;Cloud9 (16);Giants (14);d2  Dust2;BLAST Pro Series Madrid 2019;BigEvents;S
+697;10/5/19;Astralis (16);Ninjas in Pyjamas (8);d2  Dust2;BLAST Pro Series Madrid 2019;BigEvents;S
+698;10/5/19;ENCE (16);Natus Vincere (4);mrg  Mirage;BLAST Pro Series Madrid 2019;BigEvents;S
+699;5/5/19;Liquid (16);fnatic (9);inf  Inferno;IEM Sydney 2019;BigEvents;S
+700;5/5/19;Liquid (6);fnatic (16);d2  Dust2;IEM Sydney 2019;BigEvents;S
+701;5/5/19;Liquid (16);fnatic (8);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+702;5/5/19;fnatic (14);Liquid (16);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+703;5/5/19;fnatic (16);Liquid (10);cch  Cache;IEM Sydney 2019;BigEvents;S
+704;4/5/19;fnatic (16);NRG (10);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+705;4/5/19;fnatic (8);NRG (16);trn  Train;IEM Sydney 2019;BigEvents;S
+706;4/5/19;NRG (11);fnatic (16);inf  Inferno;IEM Sydney 2019;BigEvents;S
+707;4/5/19;MIBR (15);Liquid (19);nuke  Nuke;IEM Sydney 2019;BigEvents;S
+708;4/5/19;Liquid (16);MIBR (10);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+709;3/5/19;fnatic (22);Ninjas in Pyjamas (20);d2  Dust2;IEM Sydney 2019;BigEvents;S
+710;3/5/19;fnatic (23);Ninjas in Pyjamas (25);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+711;3/5/19;Ninjas in Pyjamas (9);fnatic (16);cch  Cache;IEM Sydney 2019;BigEvents;S
+712;3/5/19;MOUZ (10);MIBR (16);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+713;3/5/19;MIBR (22);MOUZ (19);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+714;2/5/19;NRG (16);MIBR (11);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+715;2/5/19;MIBR (4);NRG (16);nuke  Nuke;IEM Sydney 2019;BigEvents;S
+716;2/5/19;Grayhound (12);fnatic (16);inf  Inferno;IEM Sydney 2019;BigEvents;S
+717;2/5/19;Grayhound (19);fnatic (16);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+718;2/5/19;fnatic (16);Grayhound (2);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+719;2/5/19;MOUZ (16);BIG (4);inf  Inferno;IEM Sydney 2019;BigEvents;S
+720;2/5/19;BIG (2);MOUZ (16);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+721;2/5/19;Ninjas in Pyjamas (14);Liquid (16);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+722;2/5/19;Liquid (16);Ninjas in Pyjamas (11);nuke  Nuke;IEM Sydney 2019;BigEvents;S
+723;2/5/19;FaZe (14);Grayhound (16);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+724;2/5/19;FaZe (16);Grayhound (12);d2  Dust2;IEM Sydney 2019;BigEvents;S
+725;2/5/19;FaZe (12);Grayhound (16);inf  Inferno;IEM Sydney 2019;BigEvents;S
+726;2/5/19;fnatic (16);Chiefs (4);inf  Inferno;IEM Sydney 2019;BigEvents;S
+727;2/5/19;Chiefs (9);fnatic (16);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+728;2/5/19;Chiefs (16);fnatic (14);d2  Dust2;IEM Sydney 2019;BigEvents;S
+729;1/5/19;MVP PK (5);BIG (16);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+730;1/5/19;BIG (8);MVP PK (16);d2  Dust2;IEM Sydney 2019;BigEvents;S
+731;1/5/19;BIG (16);MVP PK (7);inf  Inferno;IEM Sydney 2019;BigEvents;S
+732;1/5/19;fnatic (9);MIBR (16);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+733;1/5/19;MIBR (16);fnatic (4);nuke  Nuke;IEM Sydney 2019;BigEvents;S
+734;1/5/19;MOUZ (16);Renegades (7);inf  Inferno;IEM Sydney 2019;BigEvents;S
+735;1/5/19;Renegades (12);MOUZ (16);trn  Train;IEM Sydney 2019;BigEvents;S
+736;1/5/19;NRG (16);FaZe (11);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+737;1/5/19;FaZe (12);NRG (16);trn  Train;IEM Sydney 2019;BigEvents;S
+738;1/5/19;Heroic (11);Grayhound (16);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+739;1/5/19;Heroic (16);Grayhound (5);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+740;1/5/19;Heroic (15);Grayhound (19);inf  Inferno;IEM Sydney 2019;BigEvents;S
+741;1/5/19;ViCi (10);Chiefs (16);nuke  Nuke;IEM Sydney 2019;BigEvents;S
+742;1/5/19;Chiefs (5);ViCi (16);inf  Inferno;IEM Sydney 2019;BigEvents;S
+743;1/5/19;ViCi (14);Chiefs (16);d2  Dust2;IEM Sydney 2019;BigEvents;S
+744;30/4/19;Ninjas in Pyjamas (16);Renegades (12);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+745;30/4/19;Renegades (4);Ninjas in Pyjamas (16);nuke  Nuke;IEM Sydney 2019;BigEvents;S
+746;30/4/19;MVP PK (19);eUnited (17);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+747;30/4/19;eUnited (9);MVP PK (16);trn  Train;IEM Sydney 2019;BigEvents;S
+748;30/4/19;BIG (3);Liquid (16);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+749;30/4/19;BIG (7);Liquid (16);d2  Dust2;IEM Sydney 2019;BigEvents;S
+750;30/4/19;BOOT-d[S] (6);MOUZ (16);trn  Train;IEM Sydney 2019;BigEvents;S
+751;30/4/19;MOUZ (16);BOOT-d[S] (2);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+752;30/4/19;MIBR (16);Grayhound (11);ovp  Overpass;IEM Sydney 2019;BigEvents;S
+753;30/4/19;fnatic (16);Heroic (7);trn  Train;IEM Sydney 2019;BigEvents;S
+754;30/4/19;NRG (16);ViCi (4);mrg  Mirage;IEM Sydney 2019;BigEvents;S
+755;30/4/19;FaZe (16);Chiefs (5);d2  Dust2;IEM Sydney 2019;BigEvents;S
+756;30/4/19;MVP PK (13);Renegades (16);inf  Inferno;IEM Sydney 2019;BigEvents;S
+757;30/4/19;Ninjas in Pyjamas (16);eUnited (13);nuke  Nuke;IEM Sydney 2019;BigEvents;S
+758;30/4/19;BIG (16);MOUZ (14);inf  Inferno;IEM Sydney 2019;BigEvents;S
+759;30/4/19;BOOT-d[S] (9);Liquid (16);nuke  Nuke;IEM Sydney 2019;BigEvents;S
+760;13/4/19;FaZe (16);Liquid (12);d2  Dust2;BLAST Pro Series Miami 2019;BigEvents;S
+761;13/4/19;Liquid (6);FaZe (16);mrg  Mirage;BLAST Pro Series Miami 2019;BigEvents;S
+762;13/4/19;Cloud9 (13);Natus Vincere (16);ovp  Overpass;BLAST Pro Series Miami 2019;BigEvents;S
+763;13/4/19;MIBR (10);Liquid (16);ovp  Overpass;BLAST Pro Series Miami 2019;BigEvents;S
+764;13/4/19;Astralis (5);FaZe (16);d2  Dust2;BLAST Pro Series Miami 2019;BigEvents;S
+765;13/4/19;Astralis (14);Liquid (16);ovp  Overpass;BLAST Pro Series Miami 2019;BigEvents;S
+766;13/4/19;FaZe (16);Natus Vincere (10);ovp  Overpass;BLAST Pro Series Miami 2019;BigEvents;S
+767;13/4/19;Cloud9 (6);MIBR (16);cch  Cache;BLAST Pro Series Miami 2019;BigEvents;S
+768;13/4/19;Liquid (16);Natus Vincere (12);inf  Inferno;BLAST Pro Series Miami 2019;BigEvents;S
+769;13/4/19;Cloud9 (7);FaZe (16);ovp  Overpass;BLAST Pro Series Miami 2019;BigEvents;S
+770;13/4/19;MIBR (16);Astralis (2);ovp  Overpass;BLAST Pro Series Miami 2019;BigEvents;S
+771;13/4/19;Liquid (16);Cloud9 (14);ovp  Overpass;BLAST Pro Series Miami 2019;BigEvents;S
+772;13/4/19;MIBR (15);FaZe (15);mrg  Mirage;BLAST Pro Series Miami 2019;BigEvents;S
+773;13/4/19;Astralis (16);Natus Vincere (7);inf  Inferno;BLAST Pro Series Miami 2019;BigEvents;S
+774;12/4/19;Astralis (16);Cloud9 (10);inf  Inferno;BLAST Pro Series Miami 2019;BigEvents;S
+775;12/4/19;MIBR (8);Natus Vincere (16);nuke  Nuke;BLAST Pro Series Miami 2019;BigEvents;S
+776;12/4/19;FaZe (5);Liquid (16);nuke  Nuke;BLAST Pro Series Miami 2019;BigEvents;S
+777;7/4/19;Natus Vincere (16);fnatic (10);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+778;7/4/19;Natus Vincere (16);fnatic (11);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+779;7/4/19;fnatic (13);Natus Vincere (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+780;6/4/19;NRG (17);fnatic (19);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+781;6/4/19;NRG (17);fnatic (19);cch  Cache;StarSeries i-League Season 7;BigEvents;S
+782;6/4/19;Natus Vincere (16);Renegades (4);trn  Train;StarSeries i-League Season 7;BigEvents;S
+783;6/4/19;Renegades (16);Natus Vincere (8);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+784;6/4/19;Natus Vincere (16);Renegades (5);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+785;6/4/19;ENCE (11);Natus Vincere (16);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+786;6/4/19;Natus Vincere (16);ENCE (12);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+787;6/4/19;Natus Vincere (11);ENCE (16);trn  Train;StarSeries i-League Season 7;BigEvents;S
+788;5/4/19;Ninjas in Pyjamas (5);Renegades (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+789;5/4/19;Renegades (16);Ninjas in Pyjamas (11);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+790;5/4/19;fnatic (16);North (1);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+791;5/4/19;fnatic (10);North (16);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+792;5/4/19;fnatic (16);North (6);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+793;5/4/19;Vitality (11);NRG (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+794;5/4/19;Vitality (23);NRG (25);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+795;3/4/19;FaZe (9);North (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+796;3/4/19;North (16);FaZe (12);trn  Train;StarSeries i-League Season 7;BigEvents;S
+797;3/4/19;BIG (4);NRG (16);cch  Cache;StarSeries i-League Season 7;BigEvents;S
+798;3/4/19;BIG (13);NRG (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+799;3/4/19;Ninjas in Pyjamas (16);Spirit (14);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+800;3/4/19;Spirit (7);Ninjas in Pyjamas (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+801;3/4/19;Ninjas in Pyjamas (12);Spirit (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+802;2/4/19;ENCE (16);FaZe (10);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+803;2/4/19;FaZe (10);ENCE (16);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+804;2/4/19;FaZe (22);ENCE (19);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+805;2/4/19;NRG (13);Natus Vincere (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+806;2/4/19;Natus Vincere (16);NRG (9);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+807;2/4/19;Vitality (16);Spirit (13);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+808;2/4/19;Vitality (3);Spirit (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+809;2/4/19;Vitality (16);Spirit (12);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+810;2/4/19;BIG (16);TYLOO (10);trn  Train;StarSeries i-League Season 7;BigEvents;S
+811;2/4/19;BIG (16);TYLOO (13);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+812;2/4/19;BIG (14);TYLOO (16);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+813;2/4/19;ViCi (13);Ninjas in Pyjamas (16);trn  Train;StarSeries i-League Season 7;BigEvents;S
+814;2/4/19;Ninjas in Pyjamas (16);ViCi (13);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+815;2/4/19;MIBR (8);North (16);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+816;2/4/19;North (16);MIBR (10);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+817;1/4/19;FaZe (13);Renegades (16);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+818;1/4/19;FaZe (16);Renegades (11);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+819;1/4/19;FaZe (14);Renegades (16);trn  Train;StarSeries i-League Season 7;BigEvents;S
+820;1/4/19;Vitality (12);fnatic (16);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+821;1/4/19;fnatic (16);Vitality (6);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+822;1/4/19;ViCi (6);ENCE (16);trn  Train;StarSeries i-League Season 7;BigEvents;S
+823;1/4/19;ViCi (6);ENCE (16);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+824;1/4/19;MIBR (7);NRG (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+825;1/4/19;MIBR (5);NRG (16);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+826;1/4/19;Spirit (16);TYLOO (7);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+827;1/4/19;TYLOO (6);Spirit (16);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+828;1/4/19;TYLOO (16);Spirit (9);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+829;1/4/19;Ninjas in Pyjamas (4);Natus Vincere (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+830;1/4/19;Natus Vincere (16);Ninjas in Pyjamas (13);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+831;1/4/19;Natus Vincere (11);Ninjas in Pyjamas (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+832;1/4/19;BIG (16);paiN (14);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+833;1/4/19;BIG (16);paiN (6);cch  Cache;StarSeries i-League Season 7;BigEvents;S
+834;1/4/19;Panda (2);North (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+835;1/4/19;Panda (17);North (19);trn  Train;StarSeries i-League Season 7;BigEvents;S
+836;31/3/19;Vitality (16);ENCE (13);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+837;31/3/19;Vitality (16);ENCE (4);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+838;31/3/19;Vitality (10);ENCE (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+839;31/3/19;fnatic (19);NRG (15);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+840;31/3/19;NRG (13);fnatic (16);cch  Cache;StarSeries i-League Season 7;BigEvents;S
+841;31/3/19;Renegades (16);MIBR (9);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+842;31/3/19;Renegades (8);MIBR (16);cch  Cache;StarSeries i-League Season 7;BigEvents;S
+843;31/3/19;Renegades (16);MIBR (4);trn  Train;StarSeries i-League Season 7;BigEvents;S
+844;31/3/19;ViCi (3);FaZe (16);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+845;31/3/19;ViCi (10);FaZe (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+846;31/3/19;Natus Vincere (16);BIG (11);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+847;31/3/19;Natus Vincere (16);BIG (4);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+848;31/3/19;Ninjas in Pyjamas (16);North (12);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+849;31/3/19;Ninjas in Pyjamas (12);North (16);trn  Train;StarSeries i-League Season 7;BigEvents;S
+850;31/3/19;Ninjas in Pyjamas (16);North (14);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+851;31/3/19;Spirit (22);paiN (18);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+852;31/3/19;Spirit (16);paiN (9);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+853;31/3/19;paiN (22);Spirit (20);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+854;31/3/19;Panda (8);TYLOO (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+855;31/3/19;TYLOO (16);Panda (2);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+856;30/3/19;Vitality (16);BIG (8);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+857;30/3/19;Vitality (16);BIG (11);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+858;30/3/19;ViCi (16);Natus Vincere (7);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+859;30/3/19;Natus Vincere (16);ViCi (6);trn  Train;StarSeries i-League Season 7;BigEvents;S
+860;30/3/19;ViCi (16);Natus Vincere (3);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+861;30/3/19;Ninjas in Pyjamas (14);fnatic (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+862;30/3/19;Ninjas in Pyjamas (16);fnatic (19);cch  Cache;StarSeries i-League Season 7;BigEvents;S
+863;30/3/19;fnatic (14);Ninjas in Pyjamas (16);ovp  Overpass;StarSeries i-League Season 7;BigEvents;S
+864;30/3/19;Panda (5);MIBR (16);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+865;30/3/19;Panda (6);MIBR (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+866;30/3/19;paiN (9);FaZe (16);mrg  Mirage;StarSeries i-League Season 7;BigEvents;S
+867;30/3/19;FaZe (16);paiN (12);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+868;30/3/19;TYLOO (13);Renegades (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+869;30/3/19;TYLOO (13);Renegades (16);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+870;30/3/19;NRG (16);North (0);trn  Train;StarSeries i-League Season 7;BigEvents;S
+871;30/3/19;North (13);NRG (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+872;30/3/19;North (16);NRG (14);inf  Inferno;StarSeries i-League Season 7;BigEvents;S
+873;30/3/19;Spirit (13);ENCE (16);d2  Dust2;StarSeries i-League Season 7;BigEvents;S
+874;30/3/19;Spirit (11);ENCE (16);nuke  Nuke;StarSeries i-League Season 7;BigEvents;S
+875;23/3/19;Liquid (2);Astralis (16);ovp  Overpass;BLAST Pro Series São Paulo 2019;BigEvents;S
+876;23/3/19;Liquid (8);Astralis (16);inf  Inferno;BLAST Pro Series São Paulo 2019;BigEvents;S
+877;23/3/19;Astralis (13);Liquid (16);d2  Dust2;BLAST Pro Series São Paulo 2019;BigEvents;S
+878;23/3/19;ENCE (15);Liquid (15);ovp  Overpass;BLAST Pro Series São Paulo 2019;BigEvents;S
+879;23/3/19;Astralis (16);FaZe (13);d2  Dust2;BLAST Pro Series São Paulo 2019;BigEvents;S
+880;23/3/19;MIBR (13);Ninjas in Pyjamas (16);trn  Train;BLAST Pro Series São Paulo 2019;BigEvents;S
+881;23/3/19;Astralis (16);Ninjas in Pyjamas (12);d2  Dust2;BLAST Pro Series São Paulo 2019;BigEvents;S
+882;23/3/19;FaZe (9);ENCE (16);nuke  Nuke;BLAST Pro Series São Paulo 2019;BigEvents;S
+883;23/3/19;MIBR (2);Liquid (16);d2  Dust2;BLAST Pro Series São Paulo 2019;BigEvents;S
+884;23/3/19;Astralis (16);MIBR (10);ovp  Overpass;BLAST Pro Series São Paulo 2019;BigEvents;S
+885;23/3/19;FaZe (8);Liquid (16);cch  Cache;BLAST Pro Series São Paulo 2019;BigEvents;S
+886;23/3/19;Ninjas in Pyjamas (7);ENCE (16);nuke  Nuke;BLAST Pro Series São Paulo 2019;BigEvents;S
+887;23/3/19;ENCE (14);Astralis (16);d2  Dust2;BLAST Pro Series São Paulo 2019;BigEvents;S
+888;23/3/19;MIBR (11);FaZe (16);nuke  Nuke;BLAST Pro Series São Paulo 2019;BigEvents;S
+889;23/3/19;Liquid (16);Ninjas in Pyjamas (3);ovp  Overpass;BLAST Pro Series São Paulo 2019;BigEvents;S
+890;22/3/19;Astralis (16);Liquid (13);d2  Dust2;BLAST Pro Series São Paulo 2019;BigEvents;S
+891;22/3/19;ENCE (16);MIBR (9);trn  Train;BLAST Pro Series São Paulo 2019;BigEvents;S
+892;22/3/19;Ninjas in Pyjamas (16);FaZe (7);mrg  Mirage;BLAST Pro Series São Paulo 2019;BigEvents;S
+893;3/3/19;ENCE (4);Astralis (16);inf  Inferno;IEM Katowice 2019;BigEvents;S
+894;3/3/19;Astralis (16);ENCE (11);trn  Train;IEM Katowice 2019;BigEvents;S
+895;2/3/19;MIBR (7);Astralis (16);inf  Inferno;IEM Katowice 2019;BigEvents;S
+896;2/3/19;Astralis (16);MIBR (14);ovp  Overpass;IEM Katowice 2019;BigEvents;S
+897;2/3/19;Natus Vincere (14);ENCE (16);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+898;2/3/19;ENCE (3);Natus Vincere (16);d2  Dust2;IEM Katowice 2019;BigEvents;S
+899;2/3/19;Natus Vincere (14);ENCE (16);trn  Train;IEM Katowice 2019;BigEvents;S
+900;1/3/19;Ninjas in Pyjamas (14);Astralis (16);d2  Dust2;IEM Katowice 2019;BigEvents;S
+901;1/3/19;Astralis (16);Ninjas in Pyjamas (2);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+902;1/3/19;Renegades (12);MIBR (16);trn  Train;IEM Katowice 2019;BigEvents;S
+903;1/3/19;MIBR (16);Renegades (6);d2  Dust2;IEM Katowice 2019;BigEvents;S
+904;28/2/19;ENCE (19);Liquid (16);inf  Inferno;IEM Katowice 2019;BigEvents;S
+905;28/2/19;Liquid (11);ENCE (16);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+906;28/2/19;FaZe (7);Natus Vincere (16);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+907;28/2/19;Natus Vincere (16);FaZe (13);inf  Inferno;IEM Katowice 2019;BigEvents;S
+908;24/2/19;Cloud9 (9);FaZe (16);d2  Dust2;IEM Katowice 2019;BigEvents;S
+909;24/2/19;FaZe (16);Cloud9 (14);cch  Cache;IEM Katowice 2019;BigEvents;S
+910;24/2/19;Ninjas in Pyjamas (16);Vitality (7);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+911;24/2/19;Vitality (16);Ninjas in Pyjamas (8);ovp  Overpass;IEM Katowice 2019;BigEvents;S
+912;24/2/19;Ninjas in Pyjamas (16);Vitality (7);cch  Cache;IEM Katowice 2019;BigEvents;S
+913;24/2/19;AVANGAR (7);ENCE (16);trn  Train;IEM Katowice 2019;BigEvents;S
+914;24/2/19;ENCE (16);AVANGAR (12);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+915;23/2/19;HellRaisers (12);Cloud9 (16);cch  Cache;IEM Katowice 2019;BigEvents;S
+916;23/2/19;Cloud9 (16);HellRaisers (8);inf  Inferno;IEM Katowice 2019;BigEvents;S
+917;23/2/19;FaZe (16);Complexity (14);d2  Dust2;IEM Katowice 2019;BigEvents;S
+918;23/2/19;Complexity (11);FaZe (16);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+919;23/2/19;FaZe (8);Complexity (16);cch  Cache;IEM Katowice 2019;BigEvents;S
+920;23/2/19;G2 (10);ENCE (16);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+921;23/2/19;ENCE (19);G2 (17);d2  Dust2;IEM Katowice 2019;BigEvents;S
+922;22/2/19;Ninjas in Pyjamas (14);MIBR (16);inf  Inferno;IEM Katowice 2019;BigEvents;S
+923;22/2/19;MIBR (16);Ninjas in Pyjamas (6);trn  Train;IEM Katowice 2019;BigEvents;S
+924;22/2/19;AVANGAR (11);Natus Vincere (16);trn  Train;IEM Katowice 2019;BigEvents;S
+925;22/2/19;Natus Vincere (16);AVANGAR (6);d2  Dust2;IEM Katowice 2019;BigEvents;S
+926;22/2/19;Renegades (16);Vitality (12);inf  Inferno;IEM Katowice 2019;BigEvents;S
+927;22/2/19;Vitality (16);Renegades (11);cch  Cache;IEM Katowice 2019;BigEvents;S
+928;22/2/19;Vitality (5);Renegades (16);d2  Dust2;IEM Katowice 2019;BigEvents;S
+929;21/2/19;Liquid (16);Natus Vincere (9);d2  Dust2;IEM Katowice 2019;BigEvents;S
+930;21/2/19;Liquid (16);Natus Vincere (14);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+931;21/2/19;NRG (16);Complexity (19);cch  Cache;IEM Katowice 2019;BigEvents;S
+932;21/2/19;Complexity (22);NRG (19);nuke  Nuke;IEM Katowice 2019;BigEvents;S
+933;21/2/19;Astralis (16);Renegades (2);inf  Inferno;IEM Katowice 2019;BigEvents;S
+934;21/2/19;Renegades (9);Astralis (16);nuke  Nuke;IEM Katowice 2019;BigEvents;S
+935;21/2/19;Astralis (17);Renegades (19);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+936;21/2/19;ENCE (16);BIG (10);ovp  Overpass;IEM Katowice 2019;BigEvents;S
+937;21/2/19;BIG (14);ENCE (16);trn  Train;IEM Katowice 2019;BigEvents;S
+938;21/2/19;ENCE (5);BIG (16);d2  Dust2;IEM Katowice 2019;BigEvents;S
+939;21/2/19;Vitality (16);Cloud9 (14);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+940;21/2/19;Ninjas in Pyjamas (16);HellRaisers (5);ovp  Overpass;IEM Katowice 2019;BigEvents;S
+941;21/2/19;FaZe (13);AVANGAR (16);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+942;21/2/19;MIBR (16);G2 (12);inf  Inferno;IEM Katowice 2019;BigEvents;S
+943;21/2/19;Liquid (16);Ninjas in Pyjamas (13);ovp  Overpass;IEM Katowice 2019;BigEvents;S
+944;20/2/19;Astralis (16);Cloud9 (0);trn  Train;IEM Katowice 2019;BigEvents;S
+945;20/2/19;Natus Vincere (25);Vitality (22);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+946;20/2/19;FaZe (14);Renegades (16);inf  Inferno;IEM Katowice 2019;BigEvents;S
+947;20/2/19;AVANGAR (16);NRG (13);ovp  Overpass;IEM Katowice 2019;BigEvents;S
+948;20/2/19;MIBR (16);Complexity (9);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+949;20/2/19;ENCE (12);HellRaisers (16);d2  Dust2;IEM Katowice 2019;BigEvents;S
+950;20/2/19;BIG (13);G2 (16);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+951;20/2/19;Cloud9 (16);MIBR (3);inf  Inferno;IEM Katowice 2019;BigEvents;S
+952;20/2/19;Complexity (6);Astralis (16);nuke  Nuke;IEM Katowice 2019;BigEvents;S
+953;20/2/19;Ninjas in Pyjamas (16);NRG (14);nuke  Nuke;IEM Katowice 2019;BigEvents;S
+954;20/2/19;AVANGAR (12);Liquid (16);ovp  Overpass;IEM Katowice 2019;BigEvents;S
+955;20/2/19;Natus Vincere (16);G2 (7);inf  Inferno;IEM Katowice 2019;BigEvents;S
+956;20/2/19;HellRaisers (4);FaZe (16);trn  Train;IEM Katowice 2019;BigEvents;S
+957;20/2/19;ENCE (13);Renegades (16);inf  Inferno;IEM Katowice 2019;BigEvents;S
+958;20/2/19;BIG (11);Vitality (16);mrg  Mirage;IEM Katowice 2019;BigEvents;S
+959;8/9/19;Astralis (16);AVANGAR (5);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+960;8/9/19;AVANGAR (6);Astralis (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+961;7/9/19;NRG (9);Astralis (16);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+962;7/9/19;Astralis (16);NRG (10);trn  Train;StarLadder Major Berlin 2019;Majors;S
+963;7/9/19;Renegades (6);AVANGAR (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+964;7/9/19;AVANGAR (22);Renegades (19);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+965;6/9/19;Astralis (16);Liquid (13);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+966;6/9/19;Liquid (8);Astralis (16);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+967;6/9/19;NRG (19);Natus Vincere (17);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+968;6/9/19;Natus Vincere (12);NRG (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+969;5/9/19;Vitality (10);AVANGAR (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+970;5/9/19;Vitality (16);AVANGAR (11);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+971;5/9/19;AVANGAR (16);Vitality (9);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+972;5/9/19;Renegades (16);ENCE (12);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+973;5/9/19;ENCE (5);Renegades (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+974;1/9/19;Natus Vincere (16);CR4ZY (4);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+975;1/9/19;CR4ZY (12);Natus Vincere (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+976;1/9/19;Natus Vincere (11);CR4ZY (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+977;1/9/19;MOUZ (20);Liquid (22);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+978;1/9/19;MOUZ (17);Liquid (19);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+979;1/9/19;G2 (9);Renegades (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+980;1/9/19;Renegades (11);G2 (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+981;1/9/19;Renegades (16);G2 (11);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+982;31/8/19;North (6);Liquid (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+983;31/8/19;North (12);Liquid (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+984;31/8/19;CR4ZY (5);Astralis (16);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+985;31/8/19;CR4ZY (31);Astralis (29);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+986;31/8/19;CR4ZY (11);Astralis (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+987;31/8/19;MOUZ (10);Vitality (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+988;31/8/19;Vitality (16);MOUZ (5);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+989;31/8/19;FaZe (14);Renegades (16);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+990;31/8/19;Renegades (3);FaZe (16);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+991;31/8/19;FaZe (19);Renegades (22);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+992;31/8/19;MIBR (4);Natus Vincere (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+993;31/8/19;Natus Vincere (16);MIBR (11);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+994;31/8/19;AVANGAR (16);G2 (9);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+995;31/8/19;G2 (11);AVANGAR (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+996;31/8/19;G2 (16);AVANGAR (9);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+997;30/8/19;North (16);Ninjas in Pyjamas (4);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+998;30/8/19;Ninjas in Pyjamas (8);North (16);trn  Train;StarLadder Major Berlin 2019;Majors;S
+999;30/8/19;NRG (16);Astralis (4);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+1000;30/8/19;Astralis (28);NRG (31);trn  Train;StarLadder Major Berlin 2019;Majors;S
+1001;30/8/19;Renegades (16);DreamEaters (8);trn  Train;StarLadder Major Berlin 2019;Majors;S
+1002;30/8/19;DreamEaters (10);Renegades (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+1003;30/8/19;ENCE (16);Vitality (7);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+1004;30/8/19;Vitality (10);ENCE (16);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+1005;30/8/19;FaZe (9);CR4ZY (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+1006;30/8/19;MIBR (4);G2 (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+1007;30/8/19;AVANGAR (22);Liquid (18);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+1008;30/8/19;Natus Vincere (17);MOUZ (19);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+1009;29/8/19;Astralis (16);G2 (7);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+1010;29/8/19;MIBR (8);ENCE (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+1011;29/8/19;Vitality (16);FaZe (7);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+1012;29/8/19;Liquid (9);NRG (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+1013;29/8/19;North (13);MOUZ (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+1014;29/8/19;Ninjas in Pyjamas (10);CR4ZY (16);trn  Train;StarLadder Major Berlin 2019;Majors;S
+1015;29/8/19;Natus Vincere (16);DreamEaters (7);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+1016;29/8/19;Renegades (13);AVANGAR (16);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+1017;28/8/19;MIBR (16);Ninjas in Pyjamas (12);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+1018;28/8/19;Natus Vincere (17);G2 (19);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+1019;28/8/19;FaZe (16);MOUZ (8);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+1020;28/8/19;Vitality (16);North (9);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+1021;28/8/19;CR4ZY (9);Liquid (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+1022;28/8/19;NRG (16);Renegades (14);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+1023;28/8/19;Astralis (16);DreamEaters (9);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+1024;28/8/19;ENCE (16);AVANGAR (5);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+1025;3/3/19;ENCE (4);Astralis (16);inf  Inferno;IEM Katowice 2019;Majors;S
+1026;3/3/19;Astralis (16);ENCE (11);trn  Train;IEM Katowice 2019;Majors;S
+1027;2/3/19;MIBR (7);Astralis (16);inf  Inferno;IEM Katowice 2019;Majors;S
+1028;2/3/19;Astralis (16);MIBR (14);ovp  Overpass;IEM Katowice 2019;Majors;S
+1029;2/3/19;Natus Vincere (14);ENCE (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+1030;2/3/19;ENCE (3);Natus Vincere (16);d2  Dust2;IEM Katowice 2019;Majors;S
+1031;2/3/19;Natus Vincere (14);ENCE (16);trn  Train;IEM Katowice 2019;Majors;S
+1032;1/3/19;Ninjas in Pyjamas (14);Astralis (16);d2  Dust2;IEM Katowice 2019;Majors;S
+1033;1/3/19;Astralis (16);Ninjas in Pyjamas (2);mrg  Mirage;IEM Katowice 2019;Majors;S
+1034;1/3/19;Renegades (12);MIBR (16);trn  Train;IEM Katowice 2019;Majors;S
+1035;1/3/19;MIBR (16);Renegades (6);d2  Dust2;IEM Katowice 2019;Majors;S
+1036;28/2/19;ENCE (19);Liquid (16);inf  Inferno;IEM Katowice 2019;Majors;S
+1037;28/2/19;Liquid (11);ENCE (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+1038;28/2/19;FaZe (7);Natus Vincere (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+1039;28/2/19;Natus Vincere (16);FaZe (13);inf  Inferno;IEM Katowice 2019;Majors;S
+1040;24/2/19;Cloud9 (9);FaZe (16);d2  Dust2;IEM Katowice 2019;Majors;S
+1041;24/2/19;FaZe (16);Cloud9 (14);cch  Cache;IEM Katowice 2019;Majors;S
+1042;24/2/19;Ninjas in Pyjamas (16);Vitality (7);mrg  Mirage;IEM Katowice 2019;Majors;S
+1043;24/2/19;Vitality (16);Ninjas in Pyjamas (8);ovp  Overpass;IEM Katowice 2019;Majors;S
+1044;24/2/19;Ninjas in Pyjamas (16);Vitality (7);cch  Cache;IEM Katowice 2019;Majors;S
+1045;24/2/19;AVANGAR (7);ENCE (16);trn  Train;IEM Katowice 2019;Majors;S
+1046;24/2/19;ENCE (16);AVANGAR (12);mrg  Mirage;IEM Katowice 2019;Majors;S
+1047;23/2/19;HellRaisers (12);Cloud9 (16);cch  Cache;IEM Katowice 2019;Majors;S
+1048;23/2/19;Cloud9 (16);HellRaisers (8);inf  Inferno;IEM Katowice 2019;Majors;S
+1049;23/2/19;FaZe (16);Complexity (14);d2  Dust2;IEM Katowice 2019;Majors;S
+1050;23/2/19;Complexity (11);FaZe (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+1051;23/2/19;FaZe (8);Complexity (16);cch  Cache;IEM Katowice 2019;Majors;S
+1052;23/2/19;G2 (10);ENCE (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+1053;23/2/19;ENCE (19);G2 (17);d2  Dust2;IEM Katowice 2019;Majors;S
+1054;22/2/19;Ninjas in Pyjamas (14);MIBR (16);inf  Inferno;IEM Katowice 2019;Majors;S
+1055;22/2/19;MIBR (16);Ninjas in Pyjamas (6);trn  Train;IEM Katowice 2019;Majors;S
+1056;22/2/19;AVANGAR (11);Natus Vincere (16);trn  Train;IEM Katowice 2019;Majors;S
+1057;22/2/19;Natus Vincere (16);AVANGAR (6);d2  Dust2;IEM Katowice 2019;Majors;S
+1058;22/2/19;Renegades (16);Vitality (12);inf  Inferno;IEM Katowice 2019;Majors;S
+1059;22/2/19;Vitality (16);Renegades (11);cch  Cache;IEM Katowice 2019;Majors;S
+1060;22/2/19;Vitality (5);Renegades (16);d2  Dust2;IEM Katowice 2019;Majors;S
+1061;21/2/19;Liquid (16);Natus Vincere (9);d2  Dust2;IEM Katowice 2019;Majors;S
+1062;21/2/19;Liquid (16);Natus Vincere (14);mrg  Mirage;IEM Katowice 2019;Majors;S
+1063;21/2/19;NRG (16);Complexity (19);cch  Cache;IEM Katowice 2019;Majors;S
+1064;21/2/19;Complexity (22);NRG (19);nuke  Nuke;IEM Katowice 2019;Majors;S
+1065;21/2/19;Astralis (16);Renegades (2);inf  Inferno;IEM Katowice 2019;Majors;S
+1066;21/2/19;Renegades (9);Astralis (16);nuke  Nuke;IEM Katowice 2019;Majors;S
+1067;21/2/19;Astralis (17);Renegades (19);mrg  Mirage;IEM Katowice 2019;Majors;S
+1068;21/2/19;ENCE (16);BIG (10);ovp  Overpass;IEM Katowice 2019;Majors;S
+1069;21/2/19;BIG (14);ENCE (16);trn  Train;IEM Katowice 2019;Majors;S
+1070;21/2/19;ENCE (5);BIG (16);d2  Dust2;IEM Katowice 2019;Majors;S
+1071;21/2/19;Vitality (16);Cloud9 (14);mrg  Mirage;IEM Katowice 2019;Majors;S
+1072;21/2/19;Ninjas in Pyjamas (16);HellRaisers (5);ovp  Overpass;IEM Katowice 2019;Majors;S
+1073;21/2/19;FaZe (13);AVANGAR (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+1074;21/2/19;MIBR (16);G2 (12);inf  Inferno;IEM Katowice 2019;Majors;S
+1075;21/2/19;Liquid (16);Ninjas in Pyjamas (13);ovp  Overpass;IEM Katowice 2019;Majors;S
+1076;20/2/19;Astralis (16);Cloud9 (0);trn  Train;IEM Katowice 2019;Majors;S
+1077;20/2/19;Natus Vincere (25);Vitality (22);mrg  Mirage;IEM Katowice 2019;Majors;S
+1078;20/2/19;FaZe (14);Renegades (16);inf  Inferno;IEM Katowice 2019;Majors;S
+1079;20/2/19;AVANGAR (16);NRG (13);ovp  Overpass;IEM Katowice 2019;Majors;S
+1080;20/2/19;MIBR (16);Complexity (9);mrg  Mirage;IEM Katowice 2019;Majors;S
+1081;20/2/19;ENCE (12);HellRaisers (16);d2  Dust2;IEM Katowice 2019;Majors;S
+1082;20/2/19;BIG (13);G2 (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+1083;20/2/19;Cloud9 (16);MIBR (3);inf  Inferno;IEM Katowice 2019;Majors;S
+1084;20/2/19;Complexity (6);Astralis (16);nuke  Nuke;IEM Katowice 2019;Majors;S
+1085;20/2/19;Ninjas in Pyjamas (16);NRG (14);nuke  Nuke;IEM Katowice 2019;Majors;S
+1086;20/2/19;AVANGAR (12);Liquid (16);ovp  Overpass;IEM Katowice 2019;Majors;S
+1087;20/2/19;Natus Vincere (16);G2 (7);inf  Inferno;IEM Katowice 2019;Majors;S
+1088;20/2/19;HellRaisers (4);FaZe (16);trn  Train;IEM Katowice 2019;Majors;S
+1089;20/2/19;ENCE (13);Renegades (16);inf  Inferno;IEM Katowice 2019;Majors;S
+1090;20/2/19;BIG (11);Vitality (16);mrg  Mirage;IEM Katowice 2019;Majors;S
