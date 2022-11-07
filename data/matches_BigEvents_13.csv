@@ -1,0 +1,291 @@
+;Date;Team1;Team2;Map;Event;event_type;event_tier
+0;24/11/12;Ninjas in Pyjamas (16);VeryGames (1);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+1;24/11/12;VeryGames (9);Ninjas in Pyjamas (16);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+2;24/11/12;mousesports (5);Ninjas in Pyjamas (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+3;24/11/12;Ninjas in Pyjamas (16);mousesports (14);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+4;24/11/12;VeryGames (16);Lemondogs (9);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+5;24/11/12;VeryGames (16);Lemondogs (5);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+6;24/11/12;VeryGames (16);Dynamic (11);trn  Train_se;DreamHack Winter 2012;BigEvents;S
+7;24/11/12;VeryGames (16);Dynamic (6);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+8;24/11/12;Absolute Legends (7);Lemondogs (16);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+9;24/11/12;Absolute Legends (13);Lemondogs (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+10;23/11/12;mousesports (16);CPH Wolves (3);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+11;23/11/12;CPH Wolves (11);mousesports (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+12;23/11/12;ProGaming.TD (10);Ninjas in Pyjamas (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+13;23/11/12;Ninjas in Pyjamas (16);ProGaming.TD (5);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+14;23/11/12;n!faculty (15);Anexis (15);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+15;23/11/12;Lemondogs (16);Dynamic (4);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+16;23/11/12;Lemondogs (15);n!faculty (15);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+17;23/11/12;Dynamic (15);Anexis (15);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+18;23/11/12;Dynamic (16);n!faculty (9);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+19;23/11/12;Anexis (15);Lemondogs (15);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+20;23/11/12;Hawks (9);Absolute Legends (16);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+21;23/11/12;VeryGames (16);3DMAX (3);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+22;23/11/12;VeryGames (16);Hawks (12);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+23;23/11/12;Absolute Legends (16);3DMAX (8);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+24;23/11/12;3DMAX (14);Hawks (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+25;23/11/12;Absolute Legends (11);VeryGames (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+26;22/11/12;gosu (7);ProGaming.TD (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+27;22/11/12;CPH Wolves (16);Curse (14);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+28;22/11/12;ProGaming.TD (16);Curse (11);trn  Train_se;DreamHack Winter 2012;BigEvents;S
+29;22/11/12;CPH Wolves (16);gosu (6);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+30;22/11/12;gosu (15);Curse (15);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+31;22/11/12;ProGaming.TD (7);CPH Wolves (16);trn  Train_se;DreamHack Winter 2012;BigEvents;S
+32;22/11/12;mousesports (16);fnatic (14);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+33;22/11/12;Ninjas in Pyjamas (16);ESC (10);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+34;22/11/12;fnatic (16);ESC (7);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+35;22/11/12;Ninjas in Pyjamas (16);mousesports (14);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+36;22/11/12;mousesports (16);ESC (6);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+37;22/11/12;fnatic (6);Ninjas in Pyjamas (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+38;4/11/12;Ninjas in Pyjamas (16);VeryGames (14);trn  Train_se;ESWC 2012;BigEvents;S
+39;4/11/12;Ninjas in Pyjamas (16);VeryGames (3);d2  Dust2_se;ESWC 2012;BigEvents;S
+40;4/11/12;n!faculty (9);Area 51 (16);nuke  Nuke_se;ESWC 2012;BigEvents;S
+41;4/11/12;Area 51 (11);n!faculty (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+42;4/11/12;n!faculty (1);Area 51 (16);d2  Dust2_se;ESWC 2012;BigEvents;S
+43;3/11/12;Area 51 (11);VeryGames (16);trn  Train_se;ESWC 2012;BigEvents;S
+44;3/11/12;VeryGames (16);Area 51 (5);nuke  Nuke_se;ESWC 2012;BigEvents;S
+45;3/11/12;VeryGames (16);Area 51 (19);d2  Dust2_se;ESWC 2012;BigEvents;S
+46;3/11/12;Ninjas in Pyjamas (16);n!faculty (5);trn  Train_se;ESWC 2012;BigEvents;S
+47;3/11/12;n!faculty (7);Ninjas in Pyjamas (16);nuke  Nuke_se;ESWC 2012;BigEvents;S
+48;3/11/12;Anexis (10);n!faculty (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+49;3/11/12;VeryGames (16);FMESPORTS (9);nuke  Nuke_se;ESWC 2012;BigEvents;S
+50;3/11/12;ESC (11);n!faculty (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+51;3/11/12;VeryGames (15);Anexis (15);inf  Inferno_se;ESWC 2012;BigEvents;S
+52;3/11/12;VeryGames (16);ESC (2);nuke  Nuke_se;ESWC 2012;BigEvents;S
+53;3/11/12;Ninjas in Pyjamas (16);MOUZ (5);d2  Dust2_se;ESWC 2012;BigEvents;S
+54;3/11/12;ESC (16);FMESPORTS (9);nuke  Nuke_se;ESWC 2012;BigEvents;S
+55;3/11/12;VeryGames (16);n!faculty (4);d2  Dust2_se;ESWC 2012;BigEvents;S
+56;3/11/12;n!faculty (8);FMESPORTS (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+57;3/11/12;Anexis (12);ESC (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+58;2/11/12;Anexis (16);FMESPORTS (10);inf  Inferno_se;ESWC 2012;BigEvents;S
+59;2/11/12;LowLandLions (12);Area 51 (16);d2  Dust2_se;ESWC 2012;BigEvents;S
+60;2/11/12;Ninjas in Pyjamas (16);Area 51 (10);inf  Inferno_se;ESWC 2012;BigEvents;S
+61;2/11/12;LowLandLions (6);ProGaming.TD (16);trn  Train_se;ESWC 2012;BigEvents;S
+62;2/11/12;Ninjas in Pyjamas (16);ProGaming.TD (13);nuke  Nuke_se;ESWC 2012;BigEvents;S
+63;2/11/12;Area 51 (15);MOUZ (15);nuke  Nuke_se;ESWC 2012;BigEvents;S
+64;2/11/12;MOUZ (16);ProGaming.TD (8);trn  Train_se;ESWC 2012;BigEvents;S
+65;2/11/12;LowLandLions (9);Ninjas in Pyjamas (16);nuke  Nuke_se;ESWC 2012;BigEvents;S
+66;2/11/12;MOUZ (16);LowLandLions (14);mrg  Mirage_ce;ESWC 2012;BigEvents;S
+67;2/11/12;ProGaming.TD (0);Area 51 (16);d2  Dust2_se;ESWC 2012;BigEvents;S
+68;30/11/13;fnatic (16);Ninjas in Pyjamas (2);trn  Train;DreamHack Winter 2013;BigEvents;S
+69;30/11/13;Ninjas in Pyjamas (16);fnatic (6);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+70;30/11/13;fnatic (16);Ninjas in Pyjamas (14);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+71;30/11/13;Complexity (7);fnatic (16);mrg  Mirage;DreamHack Winter 2013;BigEvents;S
+72;30/11/13;fnatic (16);Complexity (7);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+73;30/11/13;Ninjas in Pyjamas (16);VeryGames (5);nuke  Nuke;DreamHack Winter 2013;BigEvents;S
+74;30/11/13;VeryGames (16);Ninjas in Pyjamas (6);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+75;30/11/13;Ninjas in Pyjamas (16);VeryGames (13);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+76;29/11/13;Astana Dragons (12);Complexity (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+77;29/11/13;Complexity (16);Astana Dragons (7);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+78;29/11/13;Complexity (9);Astana Dragons (16);nuke  Nuke;DreamHack Winter 2013;BigEvents;S
+79;29/11/13;VeryGames (16);CPH Wolves (12);mrg  Mirage;DreamHack Winter 2013;BigEvents;S
+80;29/11/13;VeryGames (5);CPH Wolves (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+81;29/11/13;VeryGames (16);CPH Wolves (6);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+82;29/11/13;Reason (13);Astana Dragons (16);nuke  Nuke;DreamHack Winter 2013;BigEvents;S
+83;29/11/13;SK (3);Reason (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+84;29/11/13;CPH Wolves (16);Astana Dragons (7);nuke  Nuke;DreamHack Winter 2013;BigEvents;S
+85;29/11/13;CPH Wolves (16);SK (11);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+86;29/11/13;Astana Dragons (16);Reason (11);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+87;29/11/13;n!faculty (9);VeryGames (16);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+88;29/11/13;Complexity (16);VeryGames (14);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+89;29/11/13;Xapso (5);n!faculty (16);trn  Train;DreamHack Winter 2013;BigEvents;S
+90;29/11/13;Xapso (8);VeryGames (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+91;29/11/13;Complexity (16);n!faculty (5);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+92;28/11/13;LGB (7);Ninjas in Pyjamas (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+93;28/11/13;LGB (9);Ninjas in Pyjamas (16);trn  Train;DreamHack Winter 2013;BigEvents;S
+94;28/11/13;LGB (16);Ninjas in Pyjamas (14);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+95;28/11/13;fnatic (16);Recursive (10);trn  Train;DreamHack Winter 2013;BigEvents;S
+96;28/11/13;Recursive (16);fnatic (13);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+97;28/11/13;fnatic (16);Recursive (9);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+98;28/11/13;UniversalSoldiers (13);Recursive (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+99;28/11/13;UniversalSoldiers (4);Ninjas in Pyjamas (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+100;28/11/13;iBUYPOWER (8);Recursive (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+101;28/11/13;UniversalSoldiers (16);iBUYPOWER (9);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+102;28/11/13;Ninjas in Pyjamas (16);Recursive (13);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+103;28/11/13;LGB (16);Clan-Mystik (2);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+104;28/11/13;Clan-Mystik (6);fnatic (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+105;28/11/13;LGB (16);Natus Vincere (13);mrg  Mirage;DreamHack Winter 2013;BigEvents;S
+106;28/11/13;Natus Vincere (9);fnatic (16);mrg  Mirage;DreamHack Winter 2013;BigEvents;S
+107;28/11/13;Clan-Mystik (16);LGB (14);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+108;31/3/13;Ninjas in Pyjamas (16);Western Wolves (2);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+109;31/3/13;Western Wolves (16);Virtus.pro (11);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+110;30/3/13;Western Wolves (16);VeryGames (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+111;30/3/13;Western Wolves (16);fnatic (10);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+112;30/3/13;VeryGames (16);Quantic (5);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+113;30/3/13;Ninjas in Pyjamas (16);Virtus.pro (11);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+114;30/3/13;Virtus.pro (13);Ninjas in Pyjamas (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+115;30/3/13;VeryGames (16);Curse (4);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+116;30/3/13;MOUZ (9);Western Wolves (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+117;30/3/13;Epsilon (5);VeryGames (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+118;30/3/13;MOUZ (16);Anexis (10);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+119;30/3/13;Temp.no (8);Western Wolves (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+120;30/3/13;Curse (16);Lemondogs (8);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+121;30/3/13;Quantic (12);Virtus.pro (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+122;30/3/13;Virtus.pro (8);Quantic (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+123;30/3/13;Quantic (8);Virtus.pro (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+124;30/3/13;fnatic (8);Ninjas in Pyjamas (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+125;30/3/13;fnatic (4);Ninjas in Pyjamas (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+126;30/3/13;ESC (14);Epsilon (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+127;30/3/13;Temp.no (16);plan-B (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+128;30/3/13;Xapso (6);Anexis (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+129;30/3/13;Curse (16);WRTT (8);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+130;30/3/13;Western Wolves (8);Virtus.pro (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+131;30/3/13;Western Wolves (16);Virtus.pro (3);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+132;30/3/13;Virtus.pro (19);Western Wolves (15);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+133;30/3/13;ALTERNATE aTTaX (13);Curse (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+134;30/3/13;Temp.no (16);n!faculty (14);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+135;30/3/13;Anexis (16);KILLERFISH (12);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+136;30/3/13;ESC (16);FMESPORTS (14);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+137;30/3/13;CPH Wolves (9);plan-B (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+138;30/3/13;Xapso (16);Curse (7);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+139;30/3/13;Epsilon (16);Server-Forge (11);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+140;30/3/13;WRTT (16);EYES ON U (7);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+141;30/3/13;Lemondogs (14);fnatic (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+142;30/3/13;fnatic (16);Lemondogs (7);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+143;30/3/13;MOUZ (5);Quantic (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+144;30/3/13;Quantic (16);MOUZ (4);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+145;30/3/13;Ninjas in Pyjamas (16);VeryGames (2);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+146;30/3/13;VeryGames (11);Ninjas in Pyjamas (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+147;30/3/13;myRevenge (15);FMESPORTS (19);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+148;30/3/13;FMESPORTS (11);myRevenge (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+149;30/3/13;FMESPORTS (16);myRevenge (9);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+150;30/3/13;ALTERNATE aTTaX (16);LowLandLions (3);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+151;30/3/13;LowLandLions (16);ALTERNATE aTTaX (13);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+152;30/3/13;ALTERNATE aTTaX (16);LowLandLions (12);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+153;30/3/13;KILLERFISH (16);BX3 (9);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+154;30/3/13;BX3 (16);KILLERFISH (8);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+155;30/3/13;KILLERFISH (16);BX3 (8);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+156;30/3/13;n!faculty (16);3DMAX (10);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+157;30/3/13;3DMAX (16);n!faculty (14);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+158;30/3/13;3DMAX (11);n!faculty (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+159;30/3/13;Epsilon (8);Western Wolves (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+160;30/3/13;Western Wolves (16);Epsilon (6);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+161;30/3/13;Western Wolves (10);Epsilon (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+162;30/3/13;Server-Forge (16);Nostalgie (1);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+163;30/3/13;Server-Forge (19);Nostalgie (15);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+164;30/3/13;ESC (14);Virtus.pro (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+165;30/3/13;Virtus.pro (16);ESC (6);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+166;30/3/13;Temp.no (11);VeryGames (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+167;30/3/13;VeryGames (16);Temp.no (6);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+168;30/3/13;Quantic (16);Curse (8);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+169;30/3/13;Quantic (16);Curse (9);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+170;30/3/13;WRTT (4);MOUZ (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+171;30/3/13;MOUZ (16);WRTT (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+172;30/3/13;Ninjas in Pyjamas (16);CPH Wolves (10);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+173;30/3/13;CPH Wolves (10);Ninjas in Pyjamas (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+174;30/3/13;Lemondogs (16);Anexis (14);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+175;30/3/13;Lemondogs (16);Anexis (11);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+176;30/3/13;Xapso (16);iRAGE (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+177;30/3/13;iRAGE (3);Xapso (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+178;30/3/13;EYES ON U (16);Reason (1);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+179;30/3/13;EYES ON U (16);Reason (10);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+180;30/3/13;Curse (10);fnatic (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+181;30/3/13;fnatic (16);Curse (2);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+182;29/3/13;Natus Vincere (22);fnatic (18);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+183;29/3/13;Natus Vincere (16);fnatic (6);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+184;29/3/13;Natus Vincere (10);fnatic (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+185;29/3/13;Xapso (11);WRTT (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+186;29/3/13;WRTT (22);Xapso (18);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+187;29/3/13;Xapso (16);WRTT (7);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+188;29/3/13;Server-Forge (16);plan-B (14);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+189;29/3/13;Server-Forge (28);plan-B (26);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+190;29/3/13;plan-B (16);Server-Forge (14);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+191;29/3/13;Quantic (16);Temp.no (14);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+192;29/3/13;Temp.no (9);Quantic (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+193;29/3/13;LowLandLions (16);Reason (14);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+194;29/3/13;Reason (16);LowLandLions (8);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+195;29/3/13;LowLandLions (16);Reason (10);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+196;29/3/13;iRAGE (10);Lemondogs (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+197;29/3/13;Lemondogs (16);iRAGE (11);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+198;29/3/13;Lemondogs (14);iRAGE (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+199;29/3/13;Anexis (22);Curse (19);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+200;29/3/13;Curse (6);Anexis (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+201;29/3/13;Curse (16);Anexis (5);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+202;29/3/13;Epsilon (16);BX3 (8);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+203;29/3/13;BX3 (8);Epsilon (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+204;29/3/13;FMESPORTS (16);ALTERNATE aTTaX (7);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+205;29/3/13;ALTERNATE aTTaX (12);FMESPORTS (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+206;29/3/13;Nostalgie (6);Virtus.pro (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+207;29/3/13;Nostalgie (2);Virtus.pro (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+208;29/3/13;MOUZ (16);n!faculty (4);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+209;29/3/13;MOUZ (16);n!faculty (9);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+210;29/3/13;Western Wolves (16);CPH Wolves (5);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+211;29/3/13;Western Wolves (16);CPH Wolves (6);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+212;29/3/13;KILLERFISH (6);ESC (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+213;29/3/13;ESC (16);KILLERFISH (9);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+214;29/3/13;3DMAX (11);VeryGames (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+215;29/3/13;3DMAX (7);VeryGames (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+216;29/3/13;myRevenge (7);EYES ON U (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+217;29/3/13;EYES ON U (16);myRevenge (4);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+218;29/3/13;Curse (2);Ninjas in Pyjamas (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+219;29/3/13;Curse (4);Ninjas in Pyjamas (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+220;29/3/13;Temp.no (16);FMESPORTS (8);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+221;29/3/13;Temp.no (10);FMESPORTS (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+222;29/3/13;FMESPORTS (14);Temp.no (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+223;29/3/13;Natus Vincere (13);Epsilon (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+224;29/3/13;Natus Vincere (16);Epsilon (12);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+225;29/3/13;Epsilon (16);Natus Vincere (13);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+226;29/3/13;ALTERNATE aTTaX (7);Quantic (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+227;29/3/13;Quantic (14);ALTERNATE aTTaX (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+228;29/3/13;ALTERNATE aTTaX (17);Quantic (19);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+229;29/3/13;WRTT (16);Nostalgie (6);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+230;29/3/13;plan-B (12);CPH Wolves (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+231;29/3/13;CPH Wolves (16);plan-B (13);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+232;29/3/13;fnatic (16);BX3 (9);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+233;29/3/13;BX3 (0);fnatic (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+234;29/3/13;Anexis (16);Reason (14);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+235;29/3/13;Anexis (16);Reason (6);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+236;29/3/13;EYES ON U (8);Curse (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+237;29/3/13;EYES ON U (16);Curse (19);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+238;29/3/13;MOUZ (16);ESC (11);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+239;29/3/13;MOUZ (16);ESC (3);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+240;29/3/13;Virtus.pro (16);Xapso (11);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+241;29/3/13;Xapso (2);Virtus.pro (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+242;29/3/13;Western Wolves (16);Server-Forge (13);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+243;29/3/13;Western Wolves (16);Server-Forge (8);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+244;29/3/13;3DMAX (12);Lemondogs (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+245;29/3/13;Lemondogs (16);3DMAX (5);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+246;29/3/13;LowLandLions (14);Curse (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+247;29/3/13;LowLandLions (9);Curse (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+248;29/3/13;KILLERFISH (16);n!faculty (9);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+249;29/3/13;KILLERFISH (16);n!faculty (1);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+250;29/3/13;VeryGames (16);iRAGE (1);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+251;29/3/13;VeryGames (16);iRAGE (1);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+252;29/3/13;Ninjas in Pyjamas (16);myRevenge (5);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+253;29/3/13;Ninjas in Pyjamas (16);myRevenge (1);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+254;29/3/13;Epsilon (13);fnatic (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+255;29/3/13;fnatic (12);Epsilon (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+256;29/3/13;Epsilon (14);fnatic (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+257;29/3/13;3DMAX (16);iRAGE (14);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+258;29/3/13;3DMAX (16);iRAGE (13);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+259;29/3/13;MOUZ (16);KILLERFISH (13);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+260;29/3/13;MOUZ (16);KILLERFISH (9);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+261;29/3/13;MOUZ (14);KILLERFISH (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+262;29/3/13;BX3 (8);Natus Vincere (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+263;29/3/13;Natus Vincere (16);BX3 (6);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+264;29/3/13;CPH Wolves (16);Server-Forge (9);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+265;29/3/13;CPH Wolves (16);Server-Forge (4);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+266;29/3/13;Temp.no (16);ALTERNATE aTTaX (11);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+267;29/3/13;Temp.no (16);ALTERNATE aTTaX (4);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+268;29/3/13;ALTERNATE aTTaX (16);Temp.no (8);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+269;29/3/13;Lemondogs (10);VeryGames (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+270;29/3/13;VeryGames (11);Lemondogs (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+271;29/3/13;VeryGames (16);Lemondogs (4);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+272;29/3/13;myRevenge (6);Curse (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+273;29/3/13;myRevenge (14);Curse (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+274;29/3/13;Virtus.pro (16);WRTT (6);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+275;29/3/13;Virtus.pro (16);WRTT (11);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+276;29/3/13;Xapso (16);Nostalgie (9);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+277;29/3/13;Xapso (16);Nostalgie (13);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+278;29/3/13;Quantic (16);FMESPORTS (7);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+279;29/3/13;Quantic (16);FMESPORTS (7);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+280;29/3/13;LowLandLions (9);Anexis (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+281;29/3/13;LowLandLions (8);Anexis (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+282;29/3/13;Curse (16);Reason (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+283;29/3/13;Reason (15);Curse (19);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+284;29/3/13;Western Wolves (16);plan-B (9);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+285;29/3/13;plan-B (7);Western Wolves (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+286;29/3/13;n!faculty (5);ESC (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+287;29/3/13;n!faculty (5);ESC (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+288;29/3/13;Ninjas in Pyjamas (16);EYES ON U (12);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+289;29/3/13;EYES ON U (3);Ninjas in Pyjamas (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S

@@ -1,0 +1,1273 @@
+;Date;Team1;Team2;Map;Event;event_type;event_tier
+0;24/11/12;Ninjas in Pyjamas (16);VeryGames (1);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+1;24/11/12;VeryGames (9);Ninjas in Pyjamas (16);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+2;24/11/12;mousesports (5);Ninjas in Pyjamas (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+3;24/11/12;Ninjas in Pyjamas (16);mousesports (14);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+4;24/11/12;VeryGames (16);Lemondogs (9);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+5;24/11/12;VeryGames (16);Lemondogs (5);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+6;24/11/12;VeryGames (16);Dynamic (11);trn  Train_se;DreamHack Winter 2012;BigEvents;S
+7;24/11/12;VeryGames (16);Dynamic (6);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+8;24/11/12;Absolute Legends (7);Lemondogs (16);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+9;24/11/12;Absolute Legends (13);Lemondogs (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+10;23/11/12;mousesports (16);CPH Wolves (3);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+11;23/11/12;CPH Wolves (11);mousesports (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+12;23/11/12;ProGaming.TD (10);Ninjas in Pyjamas (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+13;23/11/12;Ninjas in Pyjamas (16);ProGaming.TD (5);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+14;23/11/12;n!faculty (15);Anexis (15);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+15;23/11/12;Lemondogs (16);Dynamic (4);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+16;23/11/12;Lemondogs (15);n!faculty (15);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+17;23/11/12;Dynamic (15);Anexis (15);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+18;23/11/12;Dynamic (16);n!faculty (9);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+19;23/11/12;Anexis (15);Lemondogs (15);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+20;23/11/12;Hawks (9);Absolute Legends (16);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+21;23/11/12;VeryGames (16);3DMAX (3);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+22;23/11/12;VeryGames (16);Hawks (12);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+23;23/11/12;Absolute Legends (16);3DMAX (8);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+24;23/11/12;3DMAX (14);Hawks (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+25;23/11/12;Absolute Legends (11);VeryGames (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+26;22/11/12;gosu (7);ProGaming.TD (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+27;22/11/12;CPH Wolves (16);Curse (14);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+28;22/11/12;ProGaming.TD (16);Curse (11);trn  Train_se;DreamHack Winter 2012;BigEvents;S
+29;22/11/12;CPH Wolves (16);gosu (6);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+30;22/11/12;gosu (15);Curse (15);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+31;22/11/12;ProGaming.TD (7);CPH Wolves (16);trn  Train_se;DreamHack Winter 2012;BigEvents;S
+32;22/11/12;mousesports (16);fnatic (14);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+33;22/11/12;Ninjas in Pyjamas (16);ESC (10);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+34;22/11/12;fnatic (16);ESC (7);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+35;22/11/12;Ninjas in Pyjamas (16);mousesports (14);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+36;22/11/12;mousesports (16);ESC (6);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+37;22/11/12;fnatic (6);Ninjas in Pyjamas (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+38;4/11/12;Ninjas in Pyjamas (16);VeryGames (14);trn  Train_se;ESWC 2012;BigEvents;S
+39;4/11/12;Ninjas in Pyjamas (16);VeryGames (3);d2  Dust2_se;ESWC 2012;BigEvents;S
+40;4/11/12;n!faculty (9);Area 51 (16);nuke  Nuke_se;ESWC 2012;BigEvents;S
+41;4/11/12;Area 51 (11);n!faculty (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+42;4/11/12;n!faculty (1);Area 51 (16);d2  Dust2_se;ESWC 2012;BigEvents;S
+43;3/11/12;Area 51 (11);VeryGames (16);trn  Train_se;ESWC 2012;BigEvents;S
+44;3/11/12;VeryGames (16);Area 51 (5);nuke  Nuke_se;ESWC 2012;BigEvents;S
+45;3/11/12;VeryGames (16);Area 51 (19);d2  Dust2_se;ESWC 2012;BigEvents;S
+46;3/11/12;Ninjas in Pyjamas (16);n!faculty (5);trn  Train_se;ESWC 2012;BigEvents;S
+47;3/11/12;n!faculty (7);Ninjas in Pyjamas (16);nuke  Nuke_se;ESWC 2012;BigEvents;S
+48;3/11/12;Anexis (10);n!faculty (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+49;3/11/12;VeryGames (16);FMESPORTS (9);nuke  Nuke_se;ESWC 2012;BigEvents;S
+50;3/11/12;ESC (11);n!faculty (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+51;3/11/12;VeryGames (15);Anexis (15);inf  Inferno_se;ESWC 2012;BigEvents;S
+52;3/11/12;VeryGames (16);ESC (2);nuke  Nuke_se;ESWC 2012;BigEvents;S
+53;3/11/12;Ninjas in Pyjamas (16);MOUZ (5);d2  Dust2_se;ESWC 2012;BigEvents;S
+54;3/11/12;ESC (16);FMESPORTS (9);nuke  Nuke_se;ESWC 2012;BigEvents;S
+55;3/11/12;VeryGames (16);n!faculty (4);d2  Dust2_se;ESWC 2012;BigEvents;S
+56;3/11/12;n!faculty (8);FMESPORTS (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+57;3/11/12;Anexis (12);ESC (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+58;2/11/12;Anexis (16);FMESPORTS (10);inf  Inferno_se;ESWC 2012;BigEvents;S
+59;2/11/12;LowLandLions (12);Area 51 (16);d2  Dust2_se;ESWC 2012;BigEvents;S
+60;2/11/12;Ninjas in Pyjamas (16);Area 51 (10);inf  Inferno_se;ESWC 2012;BigEvents;S
+61;2/11/12;LowLandLions (6);ProGaming.TD (16);trn  Train_se;ESWC 2012;BigEvents;S
+62;2/11/12;Ninjas in Pyjamas (16);ProGaming.TD (13);nuke  Nuke_se;ESWC 2012;BigEvents;S
+63;2/11/12;Area 51 (15);MOUZ (15);nuke  Nuke_se;ESWC 2012;BigEvents;S
+64;2/11/12;MOUZ (16);ProGaming.TD (8);trn  Train_se;ESWC 2012;BigEvents;S
+65;2/11/12;LowLandLions (9);Ninjas in Pyjamas (16);nuke  Nuke_se;ESWC 2012;BigEvents;S
+66;2/11/12;MOUZ (16);LowLandLions (14);mrg  Mirage_ce;ESWC 2012;BigEvents;S
+67;2/11/12;ProGaming.TD (0);Area 51 (16);d2  Dust2_se;ESWC 2012;BigEvents;S
+68;30/11/13;fnatic (16);Ninjas in Pyjamas (2);trn  Train;DreamHack Winter 2013;BigEvents;S
+69;30/11/13;Ninjas in Pyjamas (16);fnatic (6);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+70;30/11/13;fnatic (16);Ninjas in Pyjamas (14);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+71;30/11/13;Complexity (7);fnatic (16);mrg  Mirage;DreamHack Winter 2013;BigEvents;S
+72;30/11/13;fnatic (16);Complexity (7);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+73;30/11/13;Ninjas in Pyjamas (16);VeryGames (5);nuke  Nuke;DreamHack Winter 2013;BigEvents;S
+74;30/11/13;VeryGames (16);Ninjas in Pyjamas (6);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+75;30/11/13;Ninjas in Pyjamas (16);VeryGames (13);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+76;29/11/13;Astana Dragons (12);Complexity (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+77;29/11/13;Complexity (16);Astana Dragons (7);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+78;29/11/13;Complexity (9);Astana Dragons (16);nuke  Nuke;DreamHack Winter 2013;BigEvents;S
+79;29/11/13;VeryGames (16);CPH Wolves (12);mrg  Mirage;DreamHack Winter 2013;BigEvents;S
+80;29/11/13;VeryGames (5);CPH Wolves (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+81;29/11/13;VeryGames (16);CPH Wolves (6);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+82;29/11/13;Reason (13);Astana Dragons (16);nuke  Nuke;DreamHack Winter 2013;BigEvents;S
+83;29/11/13;SK (3);Reason (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+84;29/11/13;CPH Wolves (16);Astana Dragons (7);nuke  Nuke;DreamHack Winter 2013;BigEvents;S
+85;29/11/13;CPH Wolves (16);SK (11);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+86;29/11/13;Astana Dragons (16);Reason (11);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+87;29/11/13;n!faculty (9);VeryGames (16);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+88;29/11/13;Complexity (16);VeryGames (14);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+89;29/11/13;Xapso (5);n!faculty (16);trn  Train;DreamHack Winter 2013;BigEvents;S
+90;29/11/13;Xapso (8);VeryGames (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+91;29/11/13;Complexity (16);n!faculty (5);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+92;28/11/13;LGB (7);Ninjas in Pyjamas (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+93;28/11/13;LGB (9);Ninjas in Pyjamas (16);trn  Train;DreamHack Winter 2013;BigEvents;S
+94;28/11/13;LGB (16);Ninjas in Pyjamas (14);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+95;28/11/13;fnatic (16);Recursive (10);trn  Train;DreamHack Winter 2013;BigEvents;S
+96;28/11/13;Recursive (16);fnatic (13);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+97;28/11/13;fnatic (16);Recursive (9);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+98;28/11/13;UniversalSoldiers (13);Recursive (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+99;28/11/13;UniversalSoldiers (4);Ninjas in Pyjamas (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+100;28/11/13;iBUYPOWER (8);Recursive (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+101;28/11/13;UniversalSoldiers (16);iBUYPOWER (9);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+102;28/11/13;Ninjas in Pyjamas (16);Recursive (13);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+103;28/11/13;LGB (16);Clan-Mystik (2);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+104;28/11/13;Clan-Mystik (6);fnatic (16);inf  Inferno;DreamHack Winter 2013;BigEvents;S
+105;28/11/13;LGB (16);Natus Vincere (13);mrg  Mirage;DreamHack Winter 2013;BigEvents;S
+106;28/11/13;Natus Vincere (9);fnatic (16);mrg  Mirage;DreamHack Winter 2013;BigEvents;S
+107;28/11/13;Clan-Mystik (16);LGB (14);d2  Dust2;DreamHack Winter 2013;BigEvents;S
+108;31/3/13;Ninjas in Pyjamas (16);Western Wolves (2);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+109;31/3/13;Western Wolves (16);Virtus.pro (11);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+110;30/3/13;Western Wolves (16);VeryGames (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+111;30/3/13;Western Wolves (16);fnatic (10);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+112;30/3/13;VeryGames (16);Quantic (5);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+113;30/3/13;Ninjas in Pyjamas (16);Virtus.pro (11);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+114;30/3/13;Virtus.pro (13);Ninjas in Pyjamas (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+115;30/3/13;VeryGames (16);Curse (4);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+116;30/3/13;MOUZ (9);Western Wolves (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+117;30/3/13;Epsilon (5);VeryGames (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+118;30/3/13;MOUZ (16);Anexis (10);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+119;30/3/13;Temp.no (8);Western Wolves (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+120;30/3/13;Curse (16);Lemondogs (8);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+121;30/3/13;Quantic (12);Virtus.pro (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+122;30/3/13;Virtus.pro (8);Quantic (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+123;30/3/13;Quantic (8);Virtus.pro (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+124;30/3/13;fnatic (8);Ninjas in Pyjamas (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+125;30/3/13;fnatic (4);Ninjas in Pyjamas (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+126;30/3/13;ESC (14);Epsilon (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+127;30/3/13;Temp.no (16);plan-B (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+128;30/3/13;Xapso (6);Anexis (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+129;30/3/13;Curse (16);WRTT (8);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+130;30/3/13;Western Wolves (8);Virtus.pro (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+131;30/3/13;Western Wolves (16);Virtus.pro (3);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+132;30/3/13;Virtus.pro (19);Western Wolves (15);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+133;30/3/13;ALTERNATE aTTaX (13);Curse (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+134;30/3/13;Temp.no (16);n!faculty (14);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+135;30/3/13;Anexis (16);KILLERFISH (12);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+136;30/3/13;ESC (16);FMESPORTS (14);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+137;30/3/13;CPH Wolves (9);plan-B (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+138;30/3/13;Xapso (16);Curse (7);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+139;30/3/13;Epsilon (16);Server-Forge (11);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+140;30/3/13;WRTT (16);EYES ON U (7);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+141;30/3/13;Lemondogs (14);fnatic (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+142;30/3/13;fnatic (16);Lemondogs (7);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+143;30/3/13;MOUZ (5);Quantic (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+144;30/3/13;Quantic (16);MOUZ (4);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+145;30/3/13;Ninjas in Pyjamas (16);VeryGames (2);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+146;30/3/13;VeryGames (11);Ninjas in Pyjamas (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+147;30/3/13;myRevenge (15);FMESPORTS (19);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+148;30/3/13;FMESPORTS (11);myRevenge (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+149;30/3/13;FMESPORTS (16);myRevenge (9);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+150;30/3/13;ALTERNATE aTTaX (16);LowLandLions (3);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+151;30/3/13;LowLandLions (16);ALTERNATE aTTaX (13);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+152;30/3/13;ALTERNATE aTTaX (16);LowLandLions (12);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+153;30/3/13;KILLERFISH (16);BX3 (9);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+154;30/3/13;BX3 (16);KILLERFISH (8);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+155;30/3/13;KILLERFISH (16);BX3 (8);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+156;30/3/13;n!faculty (16);3DMAX (10);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+157;30/3/13;3DMAX (16);n!faculty (14);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+158;30/3/13;3DMAX (11);n!faculty (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+159;30/3/13;Epsilon (8);Western Wolves (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+160;30/3/13;Western Wolves (16);Epsilon (6);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+161;30/3/13;Western Wolves (10);Epsilon (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+162;30/3/13;Server-Forge (16);Nostalgie (1);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+163;30/3/13;Server-Forge (19);Nostalgie (15);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+164;30/3/13;ESC (14);Virtus.pro (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+165;30/3/13;Virtus.pro (16);ESC (6);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+166;30/3/13;Temp.no (11);VeryGames (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+167;30/3/13;VeryGames (16);Temp.no (6);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+168;30/3/13;Quantic (16);Curse (8);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+169;30/3/13;Quantic (16);Curse (9);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+170;30/3/13;WRTT (4);MOUZ (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+171;30/3/13;MOUZ (16);WRTT (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+172;30/3/13;Ninjas in Pyjamas (16);CPH Wolves (10);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+173;30/3/13;CPH Wolves (10);Ninjas in Pyjamas (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+174;30/3/13;Lemondogs (16);Anexis (14);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+175;30/3/13;Lemondogs (16);Anexis (11);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+176;30/3/13;Xapso (16);iRAGE (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+177;30/3/13;iRAGE (3);Xapso (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+178;30/3/13;EYES ON U (16);Reason (1);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+179;30/3/13;EYES ON U (16);Reason (10);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+180;30/3/13;Curse (10);fnatic (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+181;30/3/13;fnatic (16);Curse (2);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+182;29/3/13;Natus Vincere (22);fnatic (18);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+183;29/3/13;Natus Vincere (16);fnatic (6);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+184;29/3/13;Natus Vincere (10);fnatic (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+185;29/3/13;Xapso (11);WRTT (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+186;29/3/13;WRTT (22);Xapso (18);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+187;29/3/13;Xapso (16);WRTT (7);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+188;29/3/13;Server-Forge (16);plan-B (14);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+189;29/3/13;Server-Forge (28);plan-B (26);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+190;29/3/13;plan-B (16);Server-Forge (14);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+191;29/3/13;Quantic (16);Temp.no (14);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+192;29/3/13;Temp.no (9);Quantic (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+193;29/3/13;LowLandLions (16);Reason (14);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+194;29/3/13;Reason (16);LowLandLions (8);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+195;29/3/13;LowLandLions (16);Reason (10);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+196;29/3/13;iRAGE (10);Lemondogs (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+197;29/3/13;Lemondogs (16);iRAGE (11);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+198;29/3/13;Lemondogs (14);iRAGE (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+199;29/3/13;Anexis (22);Curse (19);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+200;29/3/13;Curse (6);Anexis (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+201;29/3/13;Curse (16);Anexis (5);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+202;29/3/13;Epsilon (16);BX3 (8);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+203;29/3/13;BX3 (8);Epsilon (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+204;29/3/13;FMESPORTS (16);ALTERNATE aTTaX (7);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+205;29/3/13;ALTERNATE aTTaX (12);FMESPORTS (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+206;29/3/13;Nostalgie (6);Virtus.pro (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+207;29/3/13;Nostalgie (2);Virtus.pro (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+208;29/3/13;MOUZ (16);n!faculty (4);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+209;29/3/13;MOUZ (16);n!faculty (9);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+210;29/3/13;Western Wolves (16);CPH Wolves (5);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+211;29/3/13;Western Wolves (16);CPH Wolves (6);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+212;29/3/13;KILLERFISH (6);ESC (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+213;29/3/13;ESC (16);KILLERFISH (9);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+214;29/3/13;3DMAX (11);VeryGames (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+215;29/3/13;3DMAX (7);VeryGames (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+216;29/3/13;myRevenge (7);EYES ON U (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+217;29/3/13;EYES ON U (16);myRevenge (4);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+218;29/3/13;Curse (2);Ninjas in Pyjamas (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+219;29/3/13;Curse (4);Ninjas in Pyjamas (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+220;29/3/13;Temp.no (16);FMESPORTS (8);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+221;29/3/13;Temp.no (10);FMESPORTS (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+222;29/3/13;FMESPORTS (14);Temp.no (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+223;29/3/13;Natus Vincere (13);Epsilon (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+224;29/3/13;Natus Vincere (16);Epsilon (12);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+225;29/3/13;Epsilon (16);Natus Vincere (13);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+226;29/3/13;ALTERNATE aTTaX (7);Quantic (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+227;29/3/13;Quantic (14);ALTERNATE aTTaX (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+228;29/3/13;ALTERNATE aTTaX (17);Quantic (19);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+229;29/3/13;WRTT (16);Nostalgie (6);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+230;29/3/13;plan-B (12);CPH Wolves (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+231;29/3/13;CPH Wolves (16);plan-B (13);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+232;29/3/13;fnatic (16);BX3 (9);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+233;29/3/13;BX3 (0);fnatic (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+234;29/3/13;Anexis (16);Reason (14);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+235;29/3/13;Anexis (16);Reason (6);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+236;29/3/13;EYES ON U (8);Curse (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+237;29/3/13;EYES ON U (16);Curse (19);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+238;29/3/13;MOUZ (16);ESC (11);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+239;29/3/13;MOUZ (16);ESC (3);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+240;29/3/13;Virtus.pro (16);Xapso (11);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+241;29/3/13;Xapso (2);Virtus.pro (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+242;29/3/13;Western Wolves (16);Server-Forge (13);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+243;29/3/13;Western Wolves (16);Server-Forge (8);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+244;29/3/13;3DMAX (12);Lemondogs (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+245;29/3/13;Lemondogs (16);3DMAX (5);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+246;29/3/13;LowLandLions (14);Curse (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+247;29/3/13;LowLandLions (9);Curse (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+248;29/3/13;KILLERFISH (16);n!faculty (9);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+249;29/3/13;KILLERFISH (16);n!faculty (1);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+250;29/3/13;VeryGames (16);iRAGE (1);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+251;29/3/13;VeryGames (16);iRAGE (1);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+252;29/3/13;Ninjas in Pyjamas (16);myRevenge (5);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+253;29/3/13;Ninjas in Pyjamas (16);myRevenge (1);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+254;29/3/13;Epsilon (13);fnatic (16);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+255;29/3/13;fnatic (12);Epsilon (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+256;29/3/13;Epsilon (14);fnatic (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+257;29/3/13;3DMAX (16);iRAGE (14);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+258;29/3/13;3DMAX (16);iRAGE (13);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+259;29/3/13;MOUZ (16);KILLERFISH (13);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+260;29/3/13;MOUZ (16);KILLERFISH (9);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+261;29/3/13;MOUZ (14);KILLERFISH (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+262;29/3/13;BX3 (8);Natus Vincere (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+263;29/3/13;Natus Vincere (16);BX3 (6);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+264;29/3/13;CPH Wolves (16);Server-Forge (9);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+265;29/3/13;CPH Wolves (16);Server-Forge (4);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+266;29/3/13;Temp.no (16);ALTERNATE aTTaX (11);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+267;29/3/13;Temp.no (16);ALTERNATE aTTaX (4);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+268;29/3/13;ALTERNATE aTTaX (16);Temp.no (8);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+269;29/3/13;Lemondogs (10);VeryGames (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+270;29/3/13;VeryGames (11);Lemondogs (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+271;29/3/13;VeryGames (16);Lemondogs (4);nuke  Nuke_se;Copenhagen Games 2013;BigEvents;S
+272;29/3/13;myRevenge (6);Curse (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+273;29/3/13;myRevenge (14);Curse (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+274;29/3/13;Virtus.pro (16);WRTT (6);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+275;29/3/13;Virtus.pro (16);WRTT (11);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+276;29/3/13;Xapso (16);Nostalgie (9);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+277;29/3/13;Xapso (16);Nostalgie (13);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+278;29/3/13;Quantic (16);FMESPORTS (7);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+279;29/3/13;Quantic (16);FMESPORTS (7);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+280;29/3/13;LowLandLions (9);Anexis (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+281;29/3/13;LowLandLions (8);Anexis (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+282;29/3/13;Curse (16);Reason (4);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+283;29/3/13;Reason (15);Curse (19);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+284;29/3/13;Western Wolves (16);plan-B (9);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+285;29/3/13;plan-B (7);Western Wolves (16);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+286;29/3/13;n!faculty (5);ESC (16);d2  Dust2_se;Copenhagen Games 2013;BigEvents;S
+287;29/3/13;n!faculty (5);ESC (16);mrg  Mirage_ce;Copenhagen Games 2013;BigEvents;S
+288;29/3/13;Ninjas in Pyjamas (16);EYES ON U (12);inf  Inferno_se;Copenhagen Games 2013;BigEvents;S
+289;29/3/13;EYES ON U (3);Ninjas in Pyjamas (16);trn  Train_se;Copenhagen Games 2013;BigEvents;S
+290;29/11/14;Ninjas in Pyjamas (16);LDLC (19);ovp  Overpass;DreamHack Winter 2014;BigEvents;S
+291;29/11/14;Ninjas in Pyjamas (16);LDLC (4);inf  Inferno;DreamHack Winter 2014;BigEvents;S
+292;29/11/14;LDLC (16);Ninjas in Pyjamas (10);d2  Dust2;DreamHack Winter 2014;BigEvents;S
+293;29/11/14;LDLC (16);Natus Vincere (11);d2  Dust2;DreamHack Winter 2014;BigEvents;S
+294;29/11/14;Natus Vincere (11);LDLC (16);inf  Inferno;DreamHack Winter 2014;BigEvents;S
+295;29/11/14;Ninjas in Pyjamas (16);Virtus.pro (8);inf  Inferno;DreamHack Winter 2014;BigEvents;S
+296;29/11/14;Ninjas in Pyjamas (9);Virtus.pro (16);cch  Cache;DreamHack Winter 2014;BigEvents;S
+297;29/11/14;Virtus.pro (20);Ninjas in Pyjamas (22);nuke  Nuke;DreamHack Winter 2014;BigEvents;S
+298;28/11/14;Dignitas (13);Natus Vincere (16);mrg  Mirage;DreamHack Winter 2014;BigEvents;S
+299;28/11/14;Natus Vincere (16);Dignitas (3);cbl  Cobblestone;DreamHack Winter 2014;BigEvents;S
+300;28/11/14;LDLC (8);fnatic (16);cch  Cache;DreamHack Winter 2014;BigEvents;S
+301;28/11/14;fnatic (10);LDLC (16);d2  Dust2;DreamHack Winter 2014;BigEvents;S
+302;28/11/14;PENTA (5);Virtus.pro (16);mrg  Mirage;DreamHack Winter 2014;BigEvents;S
+303;28/11/14;Virtus.pro (16);PENTA (9);cch  Cache;DreamHack Winter 2014;BigEvents;S
+304;28/11/14;Ninjas in Pyjamas (16);HellRaisers (6);inf  Inferno;DreamHack Winter 2014;BigEvents;S
+305;28/11/14;HellRaisers (5);Ninjas in Pyjamas (16);d2  Dust2;DreamHack Winter 2014;BigEvents;S
+306;27/11/14;Natus Vincere (19);FlipSid3 (15);ovp  Overpass;DreamHack Winter 2014;BigEvents;S
+307;27/11/14;Ninjas in Pyjamas (16);ESC (13);cch  Cache;DreamHack Winter 2014;BigEvents;S
+308;27/11/14;FlipSid3 (16);myXMG (11);mrg  Mirage;DreamHack Winter 2014;BigEvents;S
+309;27/11/14;Planetkey (13);ESC (16);mrg  Mirage;DreamHack Winter 2014;BigEvents;S
+310;27/11/14;LDLC (16);Ninjas in Pyjamas (13);ovp  Overpass;DreamHack Winter 2014;BigEvents;S
+311;27/11/14;Virtus.pro (16);Natus Vincere (2);nuke  Nuke;DreamHack Winter 2014;BigEvents;S
+312;27/11/14;Ninjas in Pyjamas (16);Planetkey (2);ovp  Overpass;DreamHack Winter 2014;BigEvents;S
+313;27/11/14;Natus Vincere (16);FlipSid3 (8);mrg  Mirage;DreamHack Winter 2014;BigEvents;S
+314;27/11/14;LDLC (16);ESC (4);cbl  Cobblestone;DreamHack Winter 2014;BigEvents;S
+315;27/11/14;Virtus.pro (16);myXMG (2);inf  Inferno;DreamHack Winter 2014;BigEvents;S
+316;27/11/14;fnatic (16);Cloud9 (5);d2  Dust2;DreamHack Winter 2014;BigEvents;S
+317;27/11/14;iBUYPOWER (13);PENTA (16);inf  Inferno;DreamHack Winter 2014;BigEvents;S
+318;27/11/14;Cloud9 (16);Bravado (1);cch  Cache;DreamHack Winter 2014;BigEvents;S
+319;27/11/14;PENTA (16);CPH Wolves (12);d2  Dust2;DreamHack Winter 2014;BigEvents;S
+320;27/11/14;fnatic (14);HellRaisers (16);mrg  Mirage;DreamHack Winter 2014;BigEvents;S
+321;27/11/14;Dignitas (16);iBUYPOWER (7);nuke  Nuke;DreamHack Winter 2014;BigEvents;S
+322;27/11/14;Cloud9 (5);HellRaisers (16);inf  Inferno;DreamHack Winter 2014;BigEvents;S
+323;27/11/14;iBUYPOWER (16);CPH Wolves (4);nuke  Nuke;DreamHack Winter 2014;BigEvents;S
+324;27/11/14;fnatic (16);Bravado (2);mrg  Mirage;DreamHack Winter 2014;BigEvents;S
+325;27/11/14;Dignitas (16);PENTA (9);nuke  Nuke;DreamHack Winter 2014;BigEvents;S
+326;17/8/14;fnatic (13);Ninjas in Pyjamas (16);inf  Inferno;ESL One Cologne 2014;BigEvents;S
+327;17/8/14;fnatic (16);Ninjas in Pyjamas (8);cch  Cache;ESL One Cologne 2014;BigEvents;S
+328;17/8/14;fnatic (11);Ninjas in Pyjamas (16);cbl  Cobblestone;ESL One Cologne 2014;BigEvents;S
+329;17/8/14;LDLC (14);Ninjas in Pyjamas (16);cbl  Cobblestone;ESL One Cologne 2014;BigEvents;S
+330;17/8/14;LDLC (6);Ninjas in Pyjamas (16);nuke  Nuke;ESL One Cologne 2014;BigEvents;S
+331;17/8/14;Ninjas in Pyjamas (10);LDLC (16);inf  Inferno;ESL One Cologne 2014;BigEvents;S
+332;17/8/14;Dignitas (14);fnatic (16);ovp  Overpass;ESL One Cologne 2014;BigEvents;S
+333;17/8/14;fnatic (16);Dignitas (11);d2  Dust2;ESL One Cologne 2014;BigEvents;S
+334;16/8/14;Cloud9 (14);Ninjas in Pyjamas (16);cbl  Cobblestone;ESL One Cologne 2014;BigEvents;S
+335;16/8/14;Cloud9 (14);Ninjas in Pyjamas (16);d2  Dust2;ESL One Cologne 2014;BigEvents;S
+336;16/8/14;Cloud9 (16);Ninjas in Pyjamas (8);nuke  Nuke;ESL One Cologne 2014;BigEvents;S
+337;16/8/14;LDLC (16);Virtus.pro (12);mrg  Mirage;ESL One Cologne 2014;BigEvents;S
+338;16/8/14;Virtus.pro (14);LDLC (16);d2  Dust2;ESL One Cologne 2014;BigEvents;S
+339;16/8/14;Epsilon (8);Dignitas (16);inf  Inferno;ESL One Cologne 2014;BigEvents;S
+340;16/8/14;Dignitas (16);Epsilon (9);d2  Dust2;ESL One Cologne 2014;BigEvents;S
+341;16/8/14;Natus Vincere (14);fnatic (16);nuke  Nuke;ESL One Cologne 2014;BigEvents;S
+342;16/8/14;Natus Vincere (16);fnatic (7);d2  Dust2;ESL One Cologne 2014;BigEvents;S
+343;16/8/14;Natus Vincere (11);fnatic (16);inf  Inferno;ESL One Cologne 2014;BigEvents;S
+344;15/8/14;Dignitas (16);Titan (1);nuke  Nuke;ESL One Cologne 2014;BigEvents;S
+345;15/8/14;Dignitas (14);Cloud9 (16);mrg  Mirage;ESL One Cologne 2014;BigEvents;S
+346;15/8/14;Virtus.pro (16);iBUYPOWER (2);cch  Cache;ESL One Cologne 2014;BigEvents;S
+347;15/8/14;Virtus.pro (16);fnatic (19);ovp  Overpass;ESL One Cologne 2014;BigEvents;S
+348;15/8/14;CPH Wolves (17);Natus Vincere (19);d2  Dust2;ESL One Cologne 2014;BigEvents;S
+349;15/8/14;LDLC (16);Natus Vincere (12);inf  Inferno;ESL One Cologne 2014;BigEvents;S
+350;15/8/14;Ninjas in Pyjamas (16);HellRaisers (11);ovp  Overpass;ESL One Cologne 2014;BigEvents;S
+351;15/8/14;Ninjas in Pyjamas (6);Epsilon (16);cbl  Cobblestone;ESL One Cologne 2014;BigEvents;S
+352;14/8/14;Titan (16);Vox Eminor (1);nuke  Nuke;ESL One Cologne 2014;BigEvents;S
+353;14/8/14;Cloud9 (22);Titan (18);d2  Dust2;ESL One Cologne 2014;BigEvents;S
+354;14/8/14;Dignitas (16);Vox Eminor (9);d2  Dust2;ESL One Cologne 2014;BigEvents;S
+355;14/8/14;iBUYPOWER (16);dAT (6);cbl  Cobblestone;ESL One Cologne 2014;BigEvents;S
+356;14/8/14;fnatic (16);iBUYPOWER (7);cbl  Cobblestone;ESL One Cologne 2014;BigEvents;S
+357;14/8/14;Virtus.pro (16);dAT (7);ovp  Overpass;ESL One Cologne 2014;BigEvents;S
+358;14/8/14;CPH Wolves (16);London Conspiracy (5);cch  Cache;ESL One Cologne 2014;BigEvents;S
+359;14/8/14;Natus Vincere (16);CPH Wolves (6);inf  Inferno;ESL One Cologne 2014;BigEvents;S
+360;14/8/14;LDLC (16);London Conspiracy (2);nuke  Nuke;ESL One Cologne 2014;BigEvents;S
+361;14/8/14;HellRaisers (16);Wolves (4);mrg  Mirage;ESL One Cologne 2014;BigEvents;S
+362;14/8/14;Epsilon (16);HellRaisers (1);inf  Inferno;ESL One Cologne 2014;BigEvents;S
+363;14/8/14;Wolves (7);Ninjas in Pyjamas (16);d2  Dust2;ESL One Cologne 2014;BigEvents;S
+364;16/3/14;Virtus.pro (16);Ninjas in Pyjamas (10);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+365;16/3/14;Ninjas in Pyjamas (9);Virtus.pro (16);mrg  Mirage;EMS One Katowice 2014;BigEvents;S
+366;15/3/14;LGB (7);Virtus.pro (16);trn  Train;EMS One Katowice 2014;BigEvents;S
+367;15/3/14;LGB (19);Virtus.pro (17);mrg  Mirage;EMS One Katowice 2014;BigEvents;S
+368;15/3/14;Virtus.pro (16);LGB (8);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+369;15/3/14;Dignitas (5);Ninjas in Pyjamas (16);nuke  Nuke;EMS One Katowice 2014;BigEvents;S
+370;15/3/14;Ninjas in Pyjamas (16);Dignitas (6);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+371;15/3/14;fnatic (14);LGB (16);trn  Train;EMS One Katowice 2014;BigEvents;S
+372;15/3/14;fnatic (12);LGB (16);mrg  Mirage;EMS One Katowice 2014;BigEvents;S
+373;15/3/14;LGB (11);fnatic (16);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+374;14/3/14;Ninjas in Pyjamas (16);Complexity (11);trn  Train;EMS One Katowice 2014;BigEvents;S
+375;14/3/14;Complexity (2);Ninjas in Pyjamas (16);nuke  Nuke;EMS One Katowice 2014;BigEvents;S
+376;14/3/14;Ninjas in Pyjamas (12);Complexity (16);d2  Dust2;EMS One Katowice 2014;BigEvents;S
+377;14/3/14;Virtus.pro (16);LDLC (8);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+378;14/3/14;LDLC (3);Virtus.pro (16);mrg  Mirage;EMS One Katowice 2014;BigEvents;S
+379;14/3/14;Dignitas (16);HellRaisers (11);mrg  Mirage;EMS One Katowice 2014;BigEvents;S
+380;14/3/14;Dignitas (16);HellRaisers (7);d2  Dust2;EMS One Katowice 2014;BigEvents;S
+381;14/3/14;Complexity (16);Clan-Mystik (12);nuke  Nuke;EMS One Katowice 2014;BigEvents;S
+382;14/3/14;Reason (6);fnatic (16);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+383;13/3/14;Dignitas (16);Reason (8);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+384;13/3/14;iBUYPOWER (13);fnatic (16);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+385;13/3/14;Natus Vincere (13);Clan-Mystik (16);d2  Dust2;EMS One Katowice 2014;BigEvents;S
+386;13/3/14;Complexity (11);LGB (16);d2  Dust2;EMS One Katowice 2014;BigEvents;S
+387;13/3/14;Clan-Mystik (6);Complexity (16);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+388;13/3/14;Dignitas (16);iBUYPOWER (8);nuke  Nuke;EMS One Katowice 2014;BigEvents;S
+389;13/3/14;Reason (16);fnatic (12);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+390;13/3/14;LGB (16);Natus Vincere (8);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+391;13/3/14;LDLC (16);3DMAX (13);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+392;13/3/14;Titan (14);HellRaisers (16);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+393;13/3/14;Vox Eminor (7);3DMAX (16);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+394;13/3/14;MOUZ (9);HellRaisers (16);d2  Dust2;EMS One Katowice 2014;BigEvents;S
+395;13/3/14;Ninjas in Pyjamas (16);LDLC (7);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+396;13/3/14;Titan (7);Virtus.pro (16);mrg  Mirage;EMS One Katowice 2014;BigEvents;S
+397;13/3/14;LDLC (16);Vox Eminor (13);inf  Inferno;EMS One Katowice 2014;BigEvents;S
+398;13/3/14;Virtus.pro (19);HellRaisers (16);mrg  Mirage;EMS One Katowice 2014;BigEvents;S
+399;13/3/14;Titan (16);MOUZ (5);d2  Dust2;EMS One Katowice 2014;BigEvents;S
+400;13/3/14;Ninjas in Pyjamas (16);3DMAX (5);d2  Dust2;EMS One Katowice 2014;BigEvents;S
+401;13/12/15;fnatic (16);Natus Vincere (6);cbl  Cobblestone;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+402;13/12/15;Natus Vincere (16);fnatic (14);trn  Train;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+403;13/12/15;Natus Vincere (16);fnatic (6);mrg  Mirage;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+404;13/12/15;fnatic (16);Natus Vincere (14);d2  Dust2;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+405;13/12/15;Natus Vincere (14);fnatic (16);inf  Inferno;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+406;13/12/15;Envy (18);Natus Vincere (22);cbl  Cobblestone;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+407;13/12/15;Natus Vincere (16);Envy (9);d2  Dust2;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+408;13/12/15;fnatic (16);? (14);mrg  Mirage;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+409;13/12/15;fnatic (16);? (12);inf  Inferno;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+410;12/12/15;Natus Vincere (16);Luminosity (6);mrg  Mirage;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+411;12/12/15;Luminosity (16);Natus Vincere (12);trn  Train;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+412;12/12/15;Luminosity (11);Natus Vincere (16);cbl  Cobblestone;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+413;12/12/15;Liquid (8);fnatic (16);mrg  Mirage;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+414;12/12/15;fnatic (16);Liquid (14);cch  Cache;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+415;12/12/15;Luminosity (16);CLG (12);ovp  Overpass;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+416;12/12/15;CLG (8);Luminosity (16);mrg  Mirage;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+417;12/12/15;Conquest (6);Liquid (16);ovp  Overpass;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+418;12/12/15;Conquest (7);Liquid (16);cch  Cache;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+419;12/12/15;Liquid (12);Conquest (16);inf  Inferno;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+420;11/12/15;Natus Vincere (13);? (16);inf  Inferno;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+421;11/12/15;? (16);Natus Vincere (12);trn  Train;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+422;11/12/15;fnatic (6);Envy (16);inf  Inferno;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+423;11/12/15;Envy (16);fnatic (11);cbl  Cobblestone;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+424;11/12/15;Luminosity (15);Natus Vincere (19);inf  Inferno;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+425;11/12/15;Natus Vincere (16);Luminosity (5);d2  Dust2;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+426;11/12/15;CLG (6);? (16);inf  Inferno;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+427;11/12/15;CLG (12);? (16);mrg  Mirage;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+428;10/12/15;fnatic (16);Conquest (10);inf  Inferno;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+429;10/12/15;Conquest (4);fnatic (16);mrg  Mirage;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+430;10/12/15;Liquid (5);Envy (16);cch  Cache;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+431;10/12/15;Liquid (14);Envy (16);cbl  Cobblestone;ESL ESEA Pro League Season 2 Finals;BigEvents;S
+432;28/11/15;Luminosity (7);fnatic (16);inf  Inferno;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+433;28/11/15;Luminosity (11);fnatic (16);cbl  Cobblestone;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+434;28/11/15;fnatic (9);Luminosity (16);trn  Train;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+435;28/11/15;TSM (17);Luminosity (21);inf  Inferno;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+436;28/11/15;TSM (6);Luminosity (16);ovp  Overpass;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+437;28/11/15;TSM (16);Luminosity (5);mrg  Mirage;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+438;28/11/15;fnatic (16);Virtus.pro (9);cch  Cache;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+439;28/11/15;fnatic (16);Virtus.pro (10);inf  Inferno;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+440;28/11/15;Virtus.pro (16);fnatic (11);mrg  Mirage;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+441;27/11/15;Ninjas in Pyjamas (6);Luminosity (16);cbl  Cobblestone;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+442;27/11/15;Ninjas in Pyjamas (21);Luminosity (19);cch  Cache;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+443;27/11/15;Luminosity (16);Ninjas in Pyjamas (10);mrg  Mirage;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+444;27/11/15;Virtus.pro (16);Liquid (8);mrg  Mirage;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+445;27/11/15;Virtus.pro (16);Liquid (6);ovp  Overpass;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+446;27/11/15;Envy (11);Luminosity (16);inf  Inferno;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+447;27/11/15;Envy (16);Luminosity (8);cbl  Cobblestone;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+448;27/11/15;Luminosity (16);Envy (6);mrg  Mirage;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+449;27/11/15;Legacy (11);Liquid (16);cch  Cache;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+450;27/11/15;Legacy (8);Liquid (16);cbl  Cobblestone;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+451;26/11/15;Ninjas in Pyjamas (4);fnatic (16);d2  Dust2;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+452;26/11/15;fnatic (16);Luminosity (0);d2  Dust2;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+453;26/11/15;Ninjas in Pyjamas (16);Envy (8);mrg  Mirage;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+454;26/11/15;Virtus.pro (13);TSM (16);mrg  Mirage;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+455;26/11/15;Liquid (0);TSM (16);ovp  Overpass;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+456;26/11/15;Virtus.pro (16);Legacy (12);cbl  Cobblestone;FACEIT League 2015 Stage 3 Finals at DH Winter 2015;BigEvents;S
+457;1/11/15;Natus Vincere (5);Envy (16);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+458;1/11/15;Envy (16);Natus Vincere (14);trn  Train;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+459;1/11/15;Natus Vincere (16);Ninjas in Pyjamas (6);d2  Dust2;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+460;1/11/15;Ninjas in Pyjamas (3);Natus Vincere (16);trn  Train;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+461;1/11/15;Envy (16);G2 (7);cch  Cache;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+462;1/11/15;G2 (21);Envy (25);inf  Inferno;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+463;1/11/15;Envy (10);G2 (16);d2  Dust2;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+464;31/10/15;Luminosity (13);Natus Vincere (16);ovp  Overpass;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+465;31/10/15;Natus Vincere (16);Luminosity (14);d2  Dust2;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+466;31/10/15;TSM (8);Ninjas in Pyjamas (16);d2  Dust2;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+467;31/10/15;Ninjas in Pyjamas (16);TSM (10);trn  Train;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+468;31/10/15;G2 (19);Virtus.pro (17);trn  Train;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+469;31/10/15;Virtus.pro (10);G2 (16);cch  Cache;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+470;31/10/15;fnatic (2);Envy (16);cch  Cache;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+471;31/10/15;Envy (16);fnatic (9);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+472;31/10/15;Envy (9);fnatic (16);mrg  Mirage;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+473;30/10/15;Natus Vincere (16);CLG (8);inf  Inferno;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+474;30/10/15;CLG (16);Natus Vincere (10);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+475;30/10/15;Natus Vincere (16);CLG (9);trn  Train;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+476;30/10/15;Ninjas in Pyjamas (16);Titan (1);d2  Dust2;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+477;30/10/15;Titan (14);Ninjas in Pyjamas (16);cch  Cache;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+478;30/10/15;G2 (16);MOUZ (5);cch  Cache;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+479;30/10/15;MOUZ (16);G2 (12);inf  Inferno;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+480;30/10/15;G2 (19);MOUZ (16);mrg  Mirage;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+481;30/10/15;Cloud9 (12);fnatic (16);ovp  Overpass;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+482;30/10/15;Cloud9 (6);fnatic (16);d2  Dust2;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+483;29/10/15;Natus Vincere (9);Envy (16);mrg  Mirage;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+484;29/10/15;Virtus.pro (16);Titan (7);trn  Train;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+485;29/10/15;TSM (16);G2 (6);d2  Dust2;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+486;29/10/15;Luminosity (16);fnatic (13);inf  Inferno;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+487;29/10/15;Dignitas (14);CLG (16);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+488;29/10/15;Liquid (11);Ninjas in Pyjamas (16);mrg  Mirage;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+489;29/10/15;FlipSid3 (8);MOUZ (16);ovp  Overpass;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+490;29/10/15;Vexed (13);Cloud9 (16);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+491;28/10/15;Natus Vincere (16);CLG (12);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+492;28/10/15;Envy (16);Dignitas (6);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+493;28/10/15;Titan (16);Ninjas in Pyjamas (13);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+494;28/10/15;Virtus.pro (19);Liquid (15);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+495;28/10/15;MOUZ (8);G2 (16);inf  Inferno;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+496;28/10/15;FlipSid3 (6);TSM (16);cch  Cache;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+497;28/10/15;Luminosity (16);Cloud9 (11);d2  Dust2;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+498;28/10/15;Vexed (10);fnatic (16);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;BigEvents;S
+499;12/9/15;Virtus.pro (16);TSM (14);mrg  Mirage;ESL ESEA Dubai Invitational 2015;BigEvents;S
+500;12/9/15;Virtus.pro (16);TSM (7);cbl  Cobblestone;ESL ESEA Dubai Invitational 2015;BigEvents;S
+501;12/9/15;TSM (16);Virtus.pro (3);d2  Dust2;ESL ESEA Dubai Invitational 2015;BigEvents;S
+502;12/9/15;Virtus.pro (16);TSM (7);trn  Train;ESL ESEA Dubai Invitational 2015;BigEvents;S
+503;12/9/15;TSM (16);Virtus.pro (13);ovp  Overpass;ESL ESEA Dubai Invitational 2015;BigEvents;S
+504;11/9/15;fnatic (4);Virtus.pro (16);cch  Cache;ESL ESEA Dubai Invitational 2015;BigEvents;S
+505;11/9/15;Virtus.pro (16);fnatic (5);trn  Train;ESL ESEA Dubai Invitational 2015;BigEvents;S
+506;11/9/15;Virtus.pro (7);fnatic (16);cbl  Cobblestone;ESL ESEA Dubai Invitational 2015;BigEvents;S
+507;11/9/15;Ninjas in Pyjamas (10);TSM (16);inf  Inferno;ESL ESEA Dubai Invitational 2015;BigEvents;S
+508;11/9/15;TSM (16);Ninjas in Pyjamas (8);mrg  Mirage;ESL ESEA Dubai Invitational 2015;BigEvents;S
+509;11/9/15;TSM (7);Ninjas in Pyjamas (16);d2  Dust2;ESL ESEA Dubai Invitational 2015;BigEvents;S
+510;11/9/15;fnatic (16);Titan (13);inf  Inferno;ESL ESEA Dubai Invitational 2015;BigEvents;S
+511;11/9/15;Titan (5);fnatic (16);trn  Train;ESL ESEA Dubai Invitational 2015;BigEvents;S
+512;11/9/15;Envy (7);Ninjas in Pyjamas (16);inf  Inferno;ESL ESEA Dubai Invitational 2015;BigEvents;S
+513;11/9/15;Envy (13);Ninjas in Pyjamas (16);d2  Dust2;ESL ESEA Dubai Invitational 2015;BigEvents;S
+514;10/9/15;Natus Vincere (10);Titan (16);cbl  Cobblestone;ESL ESEA Dubai Invitational 2015;BigEvents;S
+515;10/9/15;fnatic (17);TSM (19);d2  Dust2;ESL ESEA Dubai Invitational 2015;BigEvents;S
+516;10/9/15;Ninjas in Pyjamas (19);Cloud9 (16);d2  Dust2;ESL ESEA Dubai Invitational 2015;BigEvents;S
+517;10/9/15;Envy (7);Virtus.pro (16);cch  Cache;ESL ESEA Dubai Invitational 2015;BigEvents;S
+518;10/9/15;Natus Vincere (10);TSM (16);ovp  Overpass;ESL ESEA Dubai Invitational 2015;BigEvents;S
+519;10/9/15;fnatic (16);Titan (6);cbl  Cobblestone;ESL ESEA Dubai Invitational 2015;BigEvents;S
+520;10/9/15;Ninjas in Pyjamas (7);Virtus.pro (16);mrg  Mirage;ESL ESEA Dubai Invitational 2015;BigEvents;S
+521;10/9/15;Cloud9 (12);Envy (16);cbl  Cobblestone;ESL ESEA Dubai Invitational 2015;BigEvents;S
+522;23/8/15;Envy (7);fnatic (16);cbl  Cobblestone;ESL One Cologne 2015;BigEvents;S
+523;23/8/15;fnatic (19);Envy (15);d2  Dust2;ESL One Cologne 2015;BigEvents;S
+524;23/8/15;fnatic (16);Virtus.pro (7);cbl  Cobblestone;ESL One Cologne 2015;BigEvents;S
+525;23/8/15;Virtus.pro (14);fnatic (16);inf  Inferno;ESL One Cologne 2015;BigEvents;S
+526;23/8/15;fnatic (6);Virtus.pro (16);mrg  Mirage;ESL One Cologne 2015;BigEvents;S
+527;23/8/15;TSM (9);Envy (16);inf  Inferno;ESL One Cologne 2015;BigEvents;S
+528;23/8/15;Envy (8);TSM (16);d2  Dust2;ESL One Cologne 2015;BigEvents;S
+529;23/8/15;TSM (12);Envy (16);cch  Cache;ESL One Cologne 2015;BigEvents;S
+530;22/8/15;Luminosity (14);fnatic (16);mrg  Mirage;ESL One Cologne 2015;BigEvents;S
+531;22/8/15;fnatic (16);Luminosity (5);trn  Train;ESL One Cologne 2015;BigEvents;S
+532;22/8/15;Virtus.pro (16);Ninjas in Pyjamas (5);inf  Inferno;ESL One Cologne 2015;BigEvents;S
+533;22/8/15;Ninjas in Pyjamas (14);Virtus.pro (16);trn  Train;ESL One Cologne 2015;BigEvents;S
+534;22/8/15;Kinguin (8);TSM (16);ovp  Overpass;ESL One Cologne 2015;BigEvents;S
+535;22/8/15;TSM (16);Kinguin (6);d2  Dust2;ESL One Cologne 2015;BigEvents;S
+536;22/8/15;Envy (16);Natus Vincere (10);mrg  Mirage;ESL One Cologne 2015;BigEvents;S
+537;22/8/15;Natus Vincere (13);Envy (16);inf  Inferno;ESL One Cologne 2015;BigEvents;S
+538;21/8/15;Luminosity (22);FlipSid3 (18);cbl  Cobblestone;ESL One Cologne 2015;BigEvents;S
+539;21/8/15;MOUZ (14);FlipSid3 (16);cbl  Cobblestone;ESL One Cologne 2015;BigEvents;S
+540;21/8/15;Ninjas in Pyjamas (16);Renegades (5);inf  Inferno;ESL One Cologne 2015;BigEvents;S
+541;21/8/15;Renegades (16);Titan (9);mrg  Mirage;ESL One Cologne 2015;BigEvents;S
+542;21/8/15;Natus Vincere (16);CLG (14);cbl  Cobblestone;ESL One Cologne 2015;BigEvents;S
+543;21/8/15;CLG (16);eBettle (14);mrg  Mirage;ESL One Cologne 2015;BigEvents;S
+544;21/8/15;Kinguin (16);Cloud9 (13);d2  Dust2;ESL One Cologne 2015;BigEvents;S
+545;21/8/15;Immunity (13);Kinguin (16);d2  Dust2;ESL One Cologne 2015;BigEvents;S
+546;20/8/15;fnatic (16);Natus Vincere (2);inf  Inferno;ESL One Cologne 2015;BigEvents;S
+547;20/8/15;Virtus.pro (16);Cloud9 (8);cbl  Cobblestone;ESL One Cologne 2015;BigEvents;S
+548;20/8/15;Natus Vincere (19);Titan (17);ovp  Overpass;ESL One Cologne 2015;BigEvents;S
+549;20/8/15;MOUZ (10);Cloud9 (16);ovp  Overpass;ESL One Cologne 2015;BigEvents;S
+550;20/8/15;fnatic (16);eBettle (2);mrg  Mirage;ESL One Cologne 2015;BigEvents;S
+551;20/8/15;Virtus.pro (16);Immunity (8);cbl  Cobblestone;ESL One Cologne 2015;BigEvents;S
+552;20/8/15;Envy (19);Luminosity (16);cbl  Cobblestone;ESL One Cologne 2015;BigEvents;S
+553;20/8/15;Ninjas in Pyjamas (3);TSM (16);cch  Cache;ESL One Cologne 2015;BigEvents;S
+554;20/8/15;TSM (16);Renegades (11);trn  Train;ESL One Cologne 2015;BigEvents;S
+555;20/8/15;Luminosity (16);Kinguin (6);ovp  Overpass;ESL One Cologne 2015;BigEvents;S
+556;20/8/15;Ninjas in Pyjamas (16);CLG (13);d2  Dust2;ESL One Cologne 2015;BigEvents;S
+557;20/8/15;Envy (16);FlipSid3 (3);inf  Inferno;ESL One Cologne 2015;BigEvents;S
+558;5/7/15;fnatic (19);Cloud9 (15);d2  Dust2;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+559;5/7/15;Cloud9 (14);fnatic (16);ovp  Overpass;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+560;5/7/15;Cloud9 (6);fnatic (16);cch  Cache;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+561;5/7/15;fnatic (14);Cloud9 (16);cbl  Cobblestone;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+562;4/7/15;Virtus.pro (9);fnatic (16);d2  Dust2;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+563;4/7/15;Virtus.pro (3);fnatic (16);ovp  Overpass;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+564;4/7/15;Virtus.pro (16);fnatic (12);cch  Cache;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+565;4/7/15;Cloud9 (16);CLG (8);d2  Dust2;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+566;4/7/15;CLG (5);Cloud9 (16);cch  Cache;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+567;3/7/15;fnatic (19);Keyd (16);trn  Train;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+568;3/7/15;fnatic (16);Keyd (5);inf  Inferno;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+569;3/7/15;Envy (12);Cloud9 (16);cch  Cache;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+570;3/7/15;Envy (12);Cloud9 (16);d2  Dust2;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+571;2/7/15;fnatic (16);TSM (14);ovp  Overpass;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+572;2/7/15;Keyd (9);CLG (16);cch  Cache;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+573;2/7/15;Envy (16);Luminosity (7);d2  Dust2;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+574;2/7/15;Virtus.pro (16);Cloud9 (10);ovp  Overpass;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+575;2/7/15;TSM (12);Keyd (16);inf  Inferno;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+576;2/7/15;fnatic (12);CLG (16);mrg  Mirage;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+577;2/7/15;Envy (13);Cloud9 (16);cch  Cache;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+578;2/7/15;Luminosity (4);Virtus.pro (16);cbl  Cobblestone;ESL ESEA Pro League Season 1 Finals;BigEvents;S
+579;15/3/15;fnatic (16);Ninjas in Pyjamas (13);inf  Inferno;ESL One Katowice 2015;BigEvents;S
+580;15/3/15;fnatic (10);Ninjas in Pyjamas (16);cch  Cache;ESL One Katowice 2015;BigEvents;S
+581;15/3/15;fnatic (16);Ninjas in Pyjamas (14);d2  Dust2;ESL One Katowice 2015;BigEvents;S
+582;14/3/15;Envy (10);Ninjas in Pyjamas (16);d2  Dust2;ESL One Katowice 2015;BigEvents;S
+583;14/3/15;Envy (9);Ninjas in Pyjamas (16);cch  Cache;ESL One Katowice 2015;BigEvents;S
+584;14/3/15;fnatic (16);Virtus.pro (8);mrg  Mirage;ESL One Katowice 2015;BigEvents;S
+585;14/3/15;Virtus.pro (17);fnatic (19);cbl  Cobblestone;ESL One Katowice 2015;BigEvents;S
+586;14/3/15;Ninjas in Pyjamas (16);TSM (12);nuke  Nuke;ESL One Katowice 2015;BigEvents;S
+587;14/3/15;Ninjas in Pyjamas (4);TSM (16);inf  Inferno;ESL One Katowice 2015;BigEvents;S
+588;14/3/15;TSM (8);Ninjas in Pyjamas (16);d2  Dust2;ESL One Katowice 2015;BigEvents;S
+589;13/3/15;Virtus.pro (16);Keyd (1);nuke  Nuke;ESL One Katowice 2015;BigEvents;S
+590;13/3/15;Keyd (19);Virtus.pro (17);ovp  Overpass;ESL One Katowice 2015;BigEvents;S
+591;13/3/15;Virtus.pro (16);Keyd (4);mrg  Mirage;ESL One Katowice 2015;BigEvents;S
+592;13/3/15;fnatic (16);PENTA (7);cch  Cache;ESL One Katowice 2015;BigEvents;S
+593;13/3/15;PENTA (8);fnatic (16);inf  Inferno;ESL One Katowice 2015;BigEvents;S
+594;13/3/15;Envy (16);Natus Vincere (3);cbl  Cobblestone;ESL One Katowice 2015;BigEvents;S
+595;13/3/15;Envy (14);Natus Vincere (16);d2  Dust2;ESL One Katowice 2015;BigEvents;S
+596;13/3/15;Natus Vincere (12);Envy (16);cch  Cache;ESL One Katowice 2015;BigEvents;S
+597;12/3/15;TSM (16);Cloud9 (8);ovp  Overpass;ESL One Katowice 2015;BigEvents;S
+598;12/3/15;Virtus.pro (16);Cloud9 (11);inf  Inferno;ESL One Katowice 2015;BigEvents;S
+599;12/3/15;CLG (8);Keyd (16);d2  Dust2;ESL One Katowice 2015;BigEvents;S
+600;12/3/15;TSM (16);3DMAX (10);nuke  Nuke;ESL One Katowice 2015;BigEvents;S
+601;12/3/15;CLG (7);Ninjas in Pyjamas (16);mrg  Mirage;ESL One Katowice 2015;BigEvents;S
+602;12/3/15;HellRaisers (12);Keyd (16);inf  Inferno;ESL One Katowice 2015;BigEvents;S
+603;12/3/15;TSM (14);Cloud9 (16);nuke  Nuke;ESL One Katowice 2015;BigEvents;S
+604;12/3/15;Virtus.pro (16);3DMAX (5);ovp  Overpass;ESL One Katowice 2015;BigEvents;S
+605;12/3/15;Keyd (9);Ninjas in Pyjamas (16);inf  Inferno;ESL One Katowice 2015;BigEvents;S
+606;12/3/15;Natus Vincere (16);Vox Eminor (3);inf  Inferno;ESL One Katowice 2015;BigEvents;S
+607;12/3/15;HellRaisers (14);CLG (16);nuke  Nuke;ESL One Katowice 2015;BigEvents;S
+608;12/3/15;PENTA (16);LGB (12);d2  Dust2;ESL One Katowice 2015;BigEvents;S
+609;12/3/15;Natus Vincere (7);fnatic (16);cbl  Cobblestone;ESL One Katowice 2015;BigEvents;S
+610;12/3/15;Vox Eminor (16);FlipSid3 (2);cch  Cache;ESL One Katowice 2015;BigEvents;S
+611;12/3/15;PENTA (16);Titan (4);cch  Cache;ESL One Katowice 2015;BigEvents;S
+612;12/3/15;Envy (16);LGB (8);cch  Cache;ESL One Katowice 2015;BigEvents;S
+613;12/3/15;Natus Vincere (16);FlipSid3 (2);mrg  Mirage;ESL One Katowice 2015;BigEvents;S
+614;12/3/15;fnatic (16);Vox Eminor (3);inf  Inferno;ESL One Katowice 2015;BigEvents;S
+615;12/3/15;LGB (16);PENTA (3);d2  Dust2;ESL One Katowice 2015;BigEvents;S
+616;12/3/15;Envy (16);Titan (14);cbl  Cobblestone;ESL One Katowice 2015;BigEvents;S
+617;12/12/16;Astralis (16);OpTic (11);trn  Train;ECS Season 2 Finals;BigEvents;S
+618;12/12/16;Astralis (16);OpTic (6);ovp  Overpass;ECS Season 2 Finals;BigEvents;S
+619;11/12/16;SK (4);Astralis (16);ovp  Overpass;ECS Season 2 Finals;BigEvents;S
+620;11/12/16;Astralis (16);SK (9);cch  Cache;ECS Season 2 Finals;BigEvents;S
+621;11/12/16;OpTic (16);Envy (12);nuke  Nuke;ECS Season 2 Finals;BigEvents;S
+622;11/12/16;Envy (3);OpTic (16);ovp  Overpass;ECS Season 2 Finals;BigEvents;S
+623;11/12/16;Dignitas (10);SK (16);ovp  Overpass;ECS Season 2 Finals;BigEvents;S
+624;11/12/16;Dignitas (16);SK (7);mrg  Mirage;ECS Season 2 Finals;BigEvents;S
+625;11/12/16;Dignitas (9);SK (16);cch  Cache;ECS Season 2 Finals;BigEvents;S
+626;11/12/16;OpTic (16);FaZe (4);cch  Cache;ECS Season 2 Finals;BigEvents;S
+627;11/12/16;OpTic (15);FaZe (19);nuke  Nuke;ECS Season 2 Finals;BigEvents;S
+628;11/12/16;OpTic (16);FaZe (10);trn  Train;ECS Season 2 Finals;BigEvents;S
+629;10/12/16;SK (16);Immortals (14);trn  Train;ECS Season 2 Finals;BigEvents;S
+630;10/12/16;Immortals (9);SK (16);cch  Cache;ECS Season 2 Finals;BigEvents;S
+631;10/12/16;OpTic (19);Cloud9 (17);cch  Cache;ECS Season 2 Finals;BigEvents;S
+632;10/12/16;Cloud9 (12);OpTic (16);ovp  Overpass;ECS Season 2 Finals;BigEvents;S
+633;10/12/16;OpTic (8);Cloud9 (16);d2  Dust2;ECS Season 2 Finals;BigEvents;S
+634;10/12/16;Envy (16);Dignitas (3);nuke  Nuke;ECS Season 2 Finals;BigEvents;S
+635;10/12/16;Envy (22);Immortals (19);cch  Cache;ECS Season 2 Finals;BigEvents;S
+636;10/12/16;SK (7);Dignitas (16);ovp  Overpass;ECS Season 2 Finals;BigEvents;S
+637;9/12/16;Astralis (16);FaZe (3);d2  Dust2;ECS Season 2 Finals;BigEvents;S
+638;9/12/16;Cloud9 (6);FaZe (16);mrg  Mirage;ECS Season 2 Finals;BigEvents;S
+639;9/12/16;OpTic (7);Astralis (16);d2  Dust2;ECS Season 2 Finals;BigEvents;S
+640;3/12/16;Astralis (11);OpTic (16);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+641;3/12/16;Astralis (6);OpTic (16);cbl  Cobblestone;ELEAGUE Season 2;BigEvents;S
+642;3/12/16;OpTic (9);Astralis (16);trn  Train;ELEAGUE Season 2;BigEvents;S
+643;3/12/16;OpTic (16);FaZe (12);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+644;3/12/16;FaZe (3);OpTic (16);trn  Train;ELEAGUE Season 2;BigEvents;S
+645;2/12/16;Astralis (16);SK (12);trn  Train;ELEAGUE Season 2;BigEvents;S
+646;2/12/16;SK (11);Astralis (16);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+647;1/12/16;Virtus.pro (14);FaZe (16);cch  Cache;ELEAGUE Season 2;BigEvents;S
+648;1/12/16;Virtus.pro (10);FaZe (16);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+649;1/12/16;FaZe (4);Virtus.pro (16);nuke  Nuke;ELEAGUE Season 2;BigEvents;S
+650;1/12/16;OpTic (16);MOUZ (11);cch  Cache;ELEAGUE Season 2;BigEvents;S
+651;1/12/16;MOUZ (7);OpTic (16);trn  Train;ELEAGUE Season 2;BigEvents;S
+652;30/11/16;Astralis (16);Ninjas in Pyjamas (10);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+653;30/11/16;Astralis (16);Ninjas in Pyjamas (2);trn  Train;ELEAGUE Season 2;BigEvents;S
+654;30/11/16;Astralis (13);Ninjas in Pyjamas (16);cbl  Cobblestone;ELEAGUE Season 2;BigEvents;S
+655;30/11/16;SK (16);Dignitas (14);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+656;30/11/16;SK (4);Dignitas (16);mrg  Mirage;ELEAGUE Season 2;BigEvents;S
+657;30/11/16;Dignitas (6);SK (16);d2  Dust2;ELEAGUE Season 2;BigEvents;S
+658;21/11/16;SK (14);Ninjas in Pyjamas (16);cbl  Cobblestone;IEM Oakland 2016;BigEvents;S
+659;21/11/16;SK (14);Ninjas in Pyjamas (16);cch  Cache;IEM Oakland 2016;BigEvents;S
+660;21/11/16;Ninjas in Pyjamas (4);SK (16);trn  Train;IEM Oakland 2016;BigEvents;S
+661;20/11/16;FaZe (13);Ninjas in Pyjamas (16);ovp  Overpass;IEM Oakland 2016;BigEvents;S
+662;20/11/16;FaZe (16);Ninjas in Pyjamas (6);trn  Train;IEM Oakland 2016;BigEvents;S
+663;20/11/16;FaZe (15);Ninjas in Pyjamas (19);nuke  Nuke;IEM Oakland 2016;BigEvents;S
+664;20/11/16;SK (16);Astralis (12);mrg  Mirage;IEM Oakland 2016;BigEvents;S
+665;20/11/16;Astralis (14);SK (16);trn  Train;IEM Oakland 2016;BigEvents;S
+666;19/11/16;Immortals (4);Ninjas in Pyjamas (16);cbl  Cobblestone;IEM Oakland 2016;BigEvents;S
+667;19/11/16;Ninjas in Pyjamas (16);Immortals (9);d2  Dust2;IEM Oakland 2016;BigEvents;S
+668;19/11/16;SK (16);G2 (3);d2  Dust2;IEM Oakland 2016;BigEvents;S
+669;19/11/16;G2 (5);SK (16);trn  Train;IEM Oakland 2016;BigEvents;S
+670;19/11/16;SK (6);G2 (16);nuke  Nuke;IEM Oakland 2016;BigEvents;S
+671;19/11/16;OpTic (16);fnatic (11);d2  Dust2;ELEAGUE Season 2;BigEvents;S
+672;19/11/16;OpTic (16);fnatic (5);cbl  Cobblestone;ELEAGUE Season 2;BigEvents;S
+673;19/11/16;OpTic (16);Envy (8);cbl  Cobblestone;ELEAGUE Season 2;BigEvents;S
+674;19/11/16;Envy (16);OpTic (13);d2  Dust2;ELEAGUE Season 2;BigEvents;S
+675;19/11/16;Envy (3);OpTic (16);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+676;19/11/16;fnatic (3);Dignitas (16);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+677;19/11/16;Envy (12);Dignitas (16);cbl  Cobblestone;ELEAGUE Season 2;BigEvents;S
+678;19/11/16;OpTic (17);fnatic (19);cch  Cache;ELEAGUE Season 2;BigEvents;S
+679;18/11/16;Heroic (12);Cloud9 (16);mrg  Mirage;IEM Oakland 2016;BigEvents;S
+680;18/11/16;SK (16);Ninjas in Pyjamas (9);cbl  Cobblestone;IEM Oakland 2016;BigEvents;S
+681;18/11/16;FaZe (16);MOUZ (7);trn  Train;IEM Oakland 2016;BigEvents;S
+682;18/11/16;FaZe (16);SK (11);nuke  Nuke;IEM Oakland 2016;BigEvents;S
+683;18/11/16;MOUZ (10);Cloud9 (16);cbl  Cobblestone;IEM Oakland 2016;BigEvents;S
+684;18/11/16;Ninjas in Pyjamas (16);Heroic (8);nuke  Nuke;IEM Oakland 2016;BigEvents;S
+685;18/11/16;SK (16);Cloud9 (10);d2  Dust2;IEM Oakland 2016;BigEvents;S
+686;18/11/16;FaZe (16);Ninjas in Pyjamas (5);ovp  Overpass;IEM Oakland 2016;BigEvents;S
+687;18/11/16;MOUZ (11);Heroic (16);cbl  Cobblestone;IEM Oakland 2016;BigEvents;S
+688;17/11/16;MOUZ (10);SK (16);d2  Dust2;IEM Oakland 2016;BigEvents;S
+689;17/11/16;Cloud9 (14);Ninjas in Pyjamas (16);trn  Train;IEM Oakland 2016;BigEvents;S
+690;17/11/16;FaZe (16);Heroic (3);trn  Train;IEM Oakland 2016;BigEvents;S
+691;17/11/16;MOUZ (8);Ninjas in Pyjamas (16);ovp  Overpass;IEM Oakland 2016;BigEvents;S
+692;17/11/16;Cloud9 (17);FaZe (19);mrg  Mirage;IEM Oakland 2016;BigEvents;S
+693;17/11/16;Heroic (16);SK (13);cbl  Cobblestone;IEM Oakland 2016;BigEvents;S
+694;17/11/16;Liquid (17);G2 (19);nuke  Nuke;IEM Oakland 2016;BigEvents;S
+695;17/11/16;Immortals (19);Natus Vincere (15);mrg  Mirage;IEM Oakland 2016;BigEvents;S
+696;17/11/16;Astralis (16);TYLOO (9);mrg  Mirage;IEM Oakland 2016;BigEvents;S
+697;17/11/16;Astralis (19);Immortals (15);d2  Dust2;IEM Oakland 2016;BigEvents;S
+698;17/11/16;Liquid (16);TYLOO (6);mrg  Mirage;IEM Oakland 2016;BigEvents;S
+699;17/11/16;Natus Vincere (16);G2 (10);ovp  Overpass;IEM Oakland 2016;BigEvents;S
+700;17/11/16;Immortals (16);Liquid (14);cch  Cache;IEM Oakland 2016;BigEvents;S
+701;16/11/16;Natus Vincere (9);Astralis (16);trn  Train;IEM Oakland 2016;BigEvents;S
+702;16/11/16;G2 (16);TYLOO (3);ovp  Overpass;IEM Oakland 2016;BigEvents;S
+703;16/11/16;Astralis (16);Liquid (1);trn  Train;IEM Oakland 2016;BigEvents;S
+704;16/11/16;Immortals (16);G2 (4);cbl  Cobblestone;IEM Oakland 2016;BigEvents;S
+705;16/11/16;Natus Vincere (16);TYLOO (14);ovp  Overpass;IEM Oakland 2016;BigEvents;S
+706;16/11/16;Astralis (12);G2 (16);nuke  Nuke;IEM Oakland 2016;BigEvents;S
+707;16/11/16;TYLOO (17);Immortals (19);mrg  Mirage;IEM Oakland 2016;BigEvents;S
+708;16/11/16;Natus Vincere (6);Liquid (16);nuke  Nuke;IEM Oakland 2016;BigEvents;S
+709;12/11/16;Natus Vincere (8);SK (16);trn  Train;ELEAGUE Season 2;BigEvents;S
+710;12/11/16;SK (16);Natus Vincere (8);d2  Dust2;ELEAGUE Season 2;BigEvents;S
+711;12/11/16;ALTERNATE aTTaX (8);Natus Vincere (16);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+712;12/11/16;ALTERNATE aTTaX (3);Natus Vincere (16);cbl  Cobblestone;ELEAGUE Season 2;BigEvents;S
+713;12/11/16;Astralis (16);SK (13);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+714;12/11/16;ALTERNATE aTTaX (6);Astralis (16);nuke  Nuke;ELEAGUE Season 2;BigEvents;S
+715;12/11/16;Natus Vincere (10);SK (16);trn  Train;ELEAGUE Season 2;BigEvents;S
+716;5/11/16;Ninjas in Pyjamas (16);G2 (10);trn  Train;ELEAGUE Season 2;BigEvents;S
+717;5/11/16;G2 (8);Ninjas in Pyjamas (16);nuke  Nuke;ELEAGUE Season 2;BigEvents;S
+718;5/11/16;G2 (16);Echo Fox (2);d2  Dust2;ELEAGUE Season 2;BigEvents;S
+719;5/11/16;G2 (16);Echo Fox (3);nuke  Nuke;ELEAGUE Season 2;BigEvents;S
+720;5/11/16;Virtus.pro (16);Ninjas in Pyjamas (7);cbl  Cobblestone;ELEAGUE Season 2;BigEvents;S
+721;5/11/16;G2 (5);Ninjas in Pyjamas (16);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+722;4/11/16;Virtus.pro (16);Echo Fox (1);nuke  Nuke;ELEAGUE Season 2;BigEvents;S
+723;30/10/16;SK (5);Cloud9 (16);d2  Dust2;ESL Pro League Season 4 Finals;BigEvents;S
+724;30/10/16;SK (6);Cloud9 (16);mrg  Mirage;ESL Pro League Season 4 Finals;BigEvents;S
+725;30/10/16;Cloud9 (17);SK (19);ovp  Overpass;ESL Pro League Season 4 Finals;BigEvents;S
+726;30/10/16;Cloud9 (16);MOUZ (10);mrg  Mirage;ESL Pro League Season 4 Finals;BigEvents;S
+727;30/10/16;MOUZ (9);Cloud9 (16);cbl  Cobblestone;ESL Pro League Season 4 Finals;BigEvents;S
+728;30/10/16;Ninjas in Pyjamas (10);SK (16);cbl  Cobblestone;ESL Pro League Season 4 Finals;BigEvents;S
+729;30/10/16;SK (16);Ninjas in Pyjamas (7);ovp  Overpass;ESL Pro League Season 4 Finals;BigEvents;S
+730;30/10/16;SK (10);Ninjas in Pyjamas (16);nuke  Nuke;ESL Pro League Season 4 Finals;BigEvents;S
+731;29/10/16;Cloud9 (16);OpTic (2);cbl  Cobblestone;ESL Pro League Season 4 Finals;BigEvents;S
+732;29/10/16;Cloud9 (16);OpTic (12);d2  Dust2;ESL Pro League Season 4 Finals;BigEvents;S
+733;29/10/16;Envy (17);Ninjas in Pyjamas (19);d2  Dust2;ESL Pro League Season 4 Finals;BigEvents;S
+734;29/10/16;Ninjas in Pyjamas (16);Envy (9);nuke  Nuke;ESL Pro League Season 4 Finals;BigEvents;S
+735;29/10/16;Dignitas (13);Cloud9 (16);mrg  Mirage;ESL Pro League Season 4 Finals;BigEvents;S
+736;29/10/16;FaZe (7);Ninjas in Pyjamas (16);ovp  Overpass;ESL Pro League Season 4 Finals;BigEvents;S
+737;29/10/16;NRG (10);SK (16);cbl  Cobblestone;ESL Pro League Season 4 Finals;BigEvents;S
+738;29/10/16;Ninjas in Pyjamas (9);Cloud9 (16);d2  Dust2;ESL Pro League Season 4 Finals;BigEvents;S
+739;28/10/16;SK (16);Dignitas (7);cbl  Cobblestone;ESL Pro League Season 4 Finals;BigEvents;S
+740;28/10/16;FaZe (22);NRG (20);d2  Dust2;ESL Pro League Season 4 Finals;BigEvents;S
+741;28/10/16;Envy (9);MOUZ (16);cch  Cache;ESL Pro League Season 4 Finals;BigEvents;S
+742;28/10/16;Immortals (14);Liquid (16);mrg  Mirage;ESL Pro League Season 4 Finals;BigEvents;S
+743;28/10/16;Envy (16);OpTic (5);cbl  Cobblestone;ESL Pro League Season 4 Finals;BigEvents;S
+744;28/10/16;MOUZ (14);Immortals (16);mrg  Mirage;ESL Pro League Season 4 Finals;BigEvents;S
+745;27/10/16;SK (16);Cloud9 (6);d2  Dust2;ESL Pro League Season 4 Finals;BigEvents;S
+746;27/10/16;Dignitas (7);FaZe (16);mrg  Mirage;ESL Pro League Season 4 Finals;BigEvents;S
+747;27/10/16;NRG (14);Ninjas in Pyjamas (16);cch  Cache;ESL Pro League Season 4 Finals;BigEvents;S
+748;27/10/16;SK (16);FaZe (2);ovp  Overpass;ESL Pro League Season 4 Finals;BigEvents;S
+749;27/10/16;MOUZ (16);OpTic (10);cch  Cache;ESL Pro League Season 4 Finals;BigEvents;S
+750;27/10/16;Liquid (4);Envy (16);d2  Dust2;ESL Pro League Season 4 Finals;BigEvents;S
+751;27/10/16;OpTic (16);Immortals (4);cbl  Cobblestone;ESL Pro League Season 4 Finals;BigEvents;S
+752;27/10/16;Dignitas (16);Ninjas in Pyjamas (14);nuke  Nuke;ESL Pro League Season 4 Finals;BigEvents;S
+753;26/10/16;NRG (9);Cloud9 (16);cch  Cache;ESL Pro League Season 4 Finals;BigEvents;S
+754;26/10/16;Ninjas in Pyjamas (16);SK (10);cbl  Cobblestone;ESL Pro League Season 4 Finals;BigEvents;S
+755;26/10/16;NRG (3);Dignitas (16);mrg  Mirage;ESL Pro League Season 4 Finals;BigEvents;S
+756;26/10/16;Cloud9 (16);FaZe (14);d2  Dust2;ESL Pro League Season 4 Finals;BigEvents;S
+757;26/10/16;Liquid (12);MOUZ (16);mrg  Mirage;ESL Pro League Season 4 Finals;BigEvents;S
+758;26/10/16;Envy (16);Immortals (5);cbl  Cobblestone;ESL Pro League Season 4 Finals;BigEvents;S
+759;26/10/16;OpTic (16);Liquid (2);trn  Train;ESL Pro League Season 4 Finals;BigEvents;S
+760;23/10/16;Dignitas (16);Virtus.pro (5);mrg  Mirage;EPICENTER: Moscow;BigEvents;S
+761;23/10/16;Virtus.pro (5);Dignitas (16);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+762;23/10/16;Dignitas (11);Virtus.pro (16);nuke  Nuke;EPICENTER: Moscow;BigEvents;S
+763;23/10/16;Natus Vincere (12);Dignitas (16);nuke  Nuke;EPICENTER: Moscow;BigEvents;S
+764;23/10/16;Dignitas (13);Natus Vincere (16);ovp  Overpass;EPICENTER: Moscow;BigEvents;S
+765;23/10/16;Natus Vincere (9);Dignitas (16);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+766;23/10/16;Virtus.pro (16);SK (4);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+767;23/10/16;SK (13);Virtus.pro (16);nuke  Nuke;EPICENTER: Moscow;BigEvents;S
+768;23/10/16;SK (16);Virtus.pro (1);trn  Train;EPICENTER: Moscow;BigEvents;S
+769;22/10/16;Cloud9 (9);FaZe (16);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+770;22/10/16;Cloud9 (19);FaZe (17);trn  Train;ELEAGUE Season 2;BigEvents;S
+771;22/10/16;Cloud9 (20);FaZe (22);mrg  Mirage;ELEAGUE Season 2;BigEvents;S
+772;22/10/16;Immortals (13);FaZe (16);ovp  Overpass;ELEAGUE Season 2;BigEvents;S
+773;22/10/16;Immortals (19);FaZe (17);trn  Train;ELEAGUE Season 2;BigEvents;S
+774;22/10/16;Immortals (2);FaZe (16);mrg  Mirage;ELEAGUE Season 2;BigEvents;S
+775;22/10/16;Dignitas (16);fnatic (13);mrg  Mirage;EPICENTER: Moscow;BigEvents;S
+776;22/10/16;fnatic (4);Dignitas (16);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+777;22/10/16;Dignitas (9);fnatic (16);trn  Train;EPICENTER: Moscow;BigEvents;S
+778;22/10/16;SK (16);G2 (11);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+779;22/10/16;G2 (16);SK (10);d2  Dust2;EPICENTER: Moscow;BigEvents;S
+780;22/10/16;SK (16);G2 (0);trn  Train;EPICENTER: Moscow;BigEvents;S
+781;22/10/16;MOUZ (19);Cloud9 (16);d2  Dust2;ELEAGUE Season 2;BigEvents;S
+782;22/10/16;FaZe (7);Cloud9 (16);trn  Train;ELEAGUE Season 2;BigEvents;S
+783;22/10/16;MOUZ (16);Immortals (9);mrg  Mirage;ELEAGUE Season 2;BigEvents;S
+784;19/10/16;Virtus.pro (13);fnatic (16);mrg  Mirage;EPICENTER: Moscow;BigEvents;S
+785;19/10/16;fnatic (11);Virtus.pro (16);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+786;19/10/16;Ninjas in Pyjamas (3);Natus Vincere (16);ovp  Overpass;EPICENTER: Moscow;BigEvents;S
+787;19/10/16;Ninjas in Pyjamas (16);Natus Vincere (11);nuke  Nuke;EPICENTER: Moscow;BigEvents;S
+788;19/10/16;HellRaisers (6);SK (16);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+789;19/10/16;SK (16);HellRaisers (5);ovp  Overpass;EPICENTER: Moscow;BigEvents;S
+790;19/10/16;G2 (16);Dignitas (12);ovp  Overpass;EPICENTER: Moscow;BigEvents;S
+791;19/10/16;Dignitas (16);G2 (14);d2  Dust2;EPICENTER: Moscow;BigEvents;S
+792;18/10/16;SK (5);fnatic (16);mrg  Mirage;EPICENTER: Moscow;BigEvents;S
+793;18/10/16;SK (16);fnatic (9);trn  Train;EPICENTER: Moscow;BigEvents;S
+794;18/10/16;Natus Vincere (11);G2 (16);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+795;18/10/16;G2 (9);Natus Vincere (16);trn  Train;EPICENTER: Moscow;BigEvents;S
+796;18/10/16;Dignitas (16);Ninjas in Pyjamas (12);nuke  Nuke;EPICENTER: Moscow;BigEvents;S
+797;18/10/16;Dignitas (12);Ninjas in Pyjamas (16);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+798;18/10/16;HellRaisers (7);Virtus.pro (16);nuke  Nuke;EPICENTER: Moscow;BigEvents;S
+799;18/10/16;HellRaisers (16);Virtus.pro (14);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+800;17/10/16;Ninjas in Pyjamas (9);G2 (16);cch  Cache;EPICENTER: Moscow;BigEvents;S
+801;17/10/16;G2 (11);Ninjas in Pyjamas (16);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+802;17/10/16;fnatic (16);HellRaisers (10);ovp  Overpass;EPICENTER: Moscow;BigEvents;S
+803;17/10/16;HellRaisers (16);fnatic (13);cch  Cache;EPICENTER: Moscow;BigEvents;S
+804;17/10/16;Dignitas (9);Natus Vincere (16);nuke  Nuke;EPICENTER: Moscow;BigEvents;S
+805;17/10/16;Dignitas (16);Natus Vincere (6);mrg  Mirage;EPICENTER: Moscow;BigEvents;S
+806;17/10/16;Virtus.pro (16);SK (12);cbl  Cobblestone;EPICENTER: Moscow;BigEvents;S
+807;17/10/16;Virtus.pro (16);SK (9);mrg  Mirage;EPICENTER: Moscow;BigEvents;S
+808;3/10/16;Natus Vincere (19);Virtus.pro (17);mrg  Mirage;ESL One New York 2016;BigEvents;S
+809;3/10/16;Virtus.pro (8);Natus Vincere (16);trn  Train;ESL One New York 2016;BigEvents;S
+810;3/10/16;Natus Vincere (3);Virtus.pro (16);cbl  Cobblestone;ESL One New York 2016;BigEvents;S
+811;2/10/16;SK (7);Virtus.pro (16);nuke  Nuke;ESL One New York 2016;BigEvents;S
+812;2/10/16;Virtus.pro (25);SK (21);ovp  Overpass;ESL One New York 2016;BigEvents;S
+813;2/10/16;SK (19);Virtus.pro (16);mrg  Mirage;ESL One New York 2016;BigEvents;S
+814;2/10/16;Natus Vincere (16);Liquid (10);d2  Dust2;ESL One New York 2016;BigEvents;S
+815;2/10/16;Liquid (13);Natus Vincere (16);trn  Train;ESL One New York 2016;BigEvents;S
+816;2/10/16;Liquid (16);Natus Vincere (7);cbl  Cobblestone;ESL One New York 2016;BigEvents;S
+817;2/10/16;OpTic (14);Virtus.pro (16);cbl  Cobblestone;ESL One New York 2016;BigEvents;S
+818;2/10/16;fnatic (12);Liquid (16);d2  Dust2;ESL One New York 2016;BigEvents;S
+819;2/10/16;Virtus.pro (8);SK (16);trn  Train;ESL One New York 2016;BigEvents;S
+820;1/10/16;fnatic (14);Liquid (16);d2  Dust2;ESL One New York 2016;BigEvents;S
+821;1/10/16;Astralis (12);OpTic (16);ovp  Overpass;ESL One New York 2016;BigEvents;S
+822;1/10/16;SK (6);Natus Vincere (16);mrg  Mirage;ESL One New York 2016;BigEvents;S
+823;1/10/16;fnatic (16);Astralis (9);d2  Dust2;ESL One New York 2016;BigEvents;S
+824;1/10/16;G2 (7);OpTic (16);cch  Cache;ESL One New York 2016;BigEvents;S
+825;1/10/16;Liquid (8);Virtus.pro (16);mrg  Mirage;ESL One New York 2016;BigEvents;S
+826;1/10/16;Astralis (13);SK (16);ovp  Overpass;ESL One New York 2016;BigEvents;S
+827;1/10/16;Virtus.pro (9);Natus Vincere (16);trn  Train;ESL One New York 2016;BigEvents;S
+828;30/9/16;Liquid (16);G2 (7);trn  Train;ESL One New York 2016;BigEvents;S
+829;30/9/16;fnatic (16);OpTic (3);trn  Train;ESL One New York 2016;BigEvents;S
+830;30/9/16;Liquid (9);Natus Vincere (16);mrg  Mirage;ESL One New York 2016;BigEvents;S
+831;30/9/16;OpTic (10);SK (16);trn  Train;ESL One New York 2016;BigEvents;S
+832;30/9/16;G2 (13);Astralis (16);d2  Dust2;ESL One New York 2016;BigEvents;S
+833;30/9/16;Virtus.pro (16);fnatic (6);cbl  Cobblestone;ESL One New York 2016;BigEvents;S
+834;11/9/16;Ninjas in Pyjamas (22);G2 (18);ovp  Overpass;SL i-League StarSeries Season 2 Finals;BigEvents;S
+835;11/9/16;G2 (7);Ninjas in Pyjamas (16);cch  Cache;SL i-League StarSeries Season 2 Finals;BigEvents;S
+836;11/9/16;G2 (16);Dignitas (12);d2  Dust2;SL i-League StarSeries Season 2 Finals;BigEvents;S
+837;11/9/16;Dignitas (13);G2 (16);cbl  Cobblestone;SL i-League StarSeries Season 2 Finals;BigEvents;S
+838;11/9/16;Cloud9 (7);Ninjas in Pyjamas (16);cbl  Cobblestone;SL i-League StarSeries Season 2 Finals;BigEvents;S
+839;11/9/16;Cloud9 (9);Ninjas in Pyjamas (16);d2  Dust2;SL i-League StarSeries Season 2 Finals;BigEvents;S
+840;10/9/16;Heroic (12);Dignitas (16);mrg  Mirage;SL i-League StarSeries Season 2 Finals;BigEvents;S
+841;10/9/16;Dignitas (12);Heroic (16);nuke  Nuke;SL i-League StarSeries Season 2 Finals;BigEvents;S
+842;10/9/16;Heroic (11);Dignitas (16);cbl  Cobblestone;SL i-League StarSeries Season 2 Finals;BigEvents;S
+843;10/9/16;G2 (16);Envy (13);cbl  Cobblestone;SL i-League StarSeries Season 2 Finals;BigEvents;S
+844;10/9/16;Envy (14);G2 (16);d2  Dust2;SL i-League StarSeries Season 2 Finals;BigEvents;S
+845;10/9/16;Ninjas in Pyjamas (16);Astralis (6);ovp  Overpass;SL i-League StarSeries Season 2 Finals;BigEvents;S
+846;10/9/16;Astralis (12);Ninjas in Pyjamas (16);d2  Dust2;SL i-League StarSeries Season 2 Finals;BigEvents;S
+847;10/9/16;Astralis (16);Ninjas in Pyjamas (6);cch  Cache;SL i-League StarSeries Season 2 Finals;BigEvents;S
+848;10/9/16;Cloud9 (16);FlipSid3 (5);mrg  Mirage;SL i-League StarSeries Season 2 Finals;BigEvents;S
+849;10/9/16;Cloud9 (8);FlipSid3 (16);trn  Train;SL i-League StarSeries Season 2 Finals;BigEvents;S
+850;10/9/16;FlipSid3 (8);Cloud9 (16);ovp  Overpass;SL i-League StarSeries Season 2 Finals;BigEvents;S
+851;9/9/16;VG.CyberZen (3);Envy (16);cch  Cache;SL i-League StarSeries Season 2 Finals;BigEvents;S
+852;9/9/16;Envy (16);VG.CyberZen (14);d2  Dust2;SL i-League StarSeries Season 2 Finals;BigEvents;S
+853;9/9/16;Astralis (16);TYLOO (12);mrg  Mirage;SL i-League StarSeries Season 2 Finals;BigEvents;S
+854;9/9/16;TYLOO (16);Astralis (10);ovp  Overpass;SL i-League StarSeries Season 2 Finals;BigEvents;S
+855;9/9/16;Astralis (16);TYLOO (7);trn  Train;SL i-League StarSeries Season 2 Finals;BigEvents;S
+856;9/9/16;FaZe (14);FlipSid3 (16);cch  Cache;SL i-League StarSeries Season 2 Finals;BigEvents;S
+857;9/9/16;FaZe (12);FlipSid3 (16);nuke  Nuke;SL i-League StarSeries Season 2 Finals;BigEvents;S
+858;9/9/16;FlipSid3 (4);FaZe (16);trn  Train;SL i-League StarSeries Season 2 Finals;BigEvents;S
+859;9/9/16;Dignitas (16);GODSENT (13);ovp  Overpass;SL i-League StarSeries Season 2 Finals;BigEvents;S
+860;9/9/16;Dignitas (16);GODSENT (5);d2  Dust2;SL i-League StarSeries Season 2 Finals;BigEvents;S
+861;8/9/16;Cloud9 (16);VG.CyberZen (4);mrg  Mirage;SL i-League StarSeries Season 2 Finals;BigEvents;S
+862;8/9/16;Virtus.pro (8);Envy (16);cbl  Cobblestone;SL i-League StarSeries Season 2 Finals;BigEvents;S
+863;8/9/16;Virtus.pro (7);VG.CyberZen (16);mrg  Mirage;SL i-League StarSeries Season 2 Finals;BigEvents;S
+864;8/9/16;Astralis (19);Natus Vincere (16);d2  Dust2;SL i-League StarSeries Season 2 Finals;BigEvents;S
+865;8/9/16;G2 (16);FaZe (10);d2  Dust2;SL i-League StarSeries Season 2 Finals;BigEvents;S
+866;8/9/16;MVP Project (9);FlipSid3 (16);mrg  Mirage;SL i-League StarSeries Season 2 Finals;BigEvents;S
+867;8/9/16;Ninjas in Pyjamas (16);GODSENT (5);ovp  Overpass;SL i-League StarSeries Season 2 Finals;BigEvents;S
+868;8/9/16;Dignitas (16);HellRaisers (10);nuke  Nuke;SL i-League StarSeries Season 2 Finals;BigEvents;S
+869;7/9/16;Envy (8);Cloud9 (16);cbl  Cobblestone;SL i-League StarSeries Season 2 Finals;BigEvents;S
+870;7/9/16;Heroic (16);TYLOO (13);cbl  Cobblestone;SL i-League StarSeries Season 2 Finals;BigEvents;S
+871;7/9/16;Heroic (16);Astralis (13);trn  Train;SL i-League StarSeries Season 2 Finals;BigEvents;S
+872;7/9/16;TYLOO (16);Natus Vincere (10);mrg  Mirage;SL i-League StarSeries Season 2 Finals;BigEvents;S
+873;7/9/16;FaZe (16);FlipSid3 (2);trn  Train;SL i-League StarSeries Season 2 Finals;BigEvents;S
+874;7/9/16;G2 (16);MVP Project (3);trn  Train;SL i-League StarSeries Season 2 Finals;BigEvents;S
+875;7/9/16;GODSENT (16);Dignitas (3);mrg  Mirage;SL i-League StarSeries Season 2 Finals;BigEvents;S
+876;7/9/16;HellRaisers (10);Ninjas in Pyjamas (16);cch  Cache;SL i-League StarSeries Season 2 Finals;BigEvents;S
+877;30/7/16;fnatic (8);Virtus.pro (16);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+878;30/7/16;Virtus.pro (16);fnatic (10);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+879;30/7/16;Virtus.pro (16);MOUZ (10);cch  Cache;ELEAGUE Season 1;BigEvents;S
+880;30/7/16;MOUZ (7);Virtus.pro (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+881;29/7/16;Natus Vincere (14);fnatic (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+882;29/7/16;fnatic (16);Natus Vincere (4);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+883;23/7/16;Virtus.pro (16);Ninjas in Pyjamas (9);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+884;23/7/16;Ninjas in Pyjamas (8);Virtus.pro (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+885;22/7/16;MOUZ (16);Astralis (12);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+886;22/7/16;Astralis (2);MOUZ (16);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+887;21/7/16;Cloud9 (14);Natus Vincere (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+888;21/7/16;Natus Vincere (9);Cloud9 (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+889;21/7/16;Natus Vincere (19);Cloud9 (15);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+890;21/7/16;Envy (7);fnatic (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+891;21/7/16;Envy (13);fnatic (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+892;16/7/16;MOUZ (19);FaZe (17);cch  Cache;ELEAGUE Season 1;BigEvents;S
+893;16/7/16;FaZe (3);MOUZ (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+894;16/7/16;FaZe (16);MOUZ (9);trn  Train;ELEAGUE Season 1;BigEvents;S
+895;15/7/16;Virtus.pro (22);Renegades (20);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+896;15/7/16;Virtus.pro (16);Renegades (9);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+897;15/7/16;FaZe (22);CLG (19);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+898;15/7/16;FaZe (14);CLG (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+899;15/7/16;CLG (4);FaZe (16);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+900;14/7/16;MOUZ (19);G2 (17);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+901;14/7/16;G2 (25);MOUZ (22);cch  Cache;ELEAGUE Season 1;BigEvents;S
+902;14/7/16;MOUZ (16);G2 (9);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+903;13/7/16;Virtus.pro (16);Gambit (6);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+904;13/7/16;Gambit (17);Virtus.pro (19);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+905;13/7/16;FlipSid3 (5);Renegades (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+906;13/7/16;FlipSid3 (5);Renegades (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+907;10/7/16;SK (16);Liquid (6);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+908;10/7/16;Liquid (7);SK (16);trn  Train;ESL One Cologne 2016;BigEvents;S
+909;9/7/16;Liquid (16);fnatic (13);cch  Cache;ESL One Cologne 2016;BigEvents;S
+910;9/7/16;fnatic (13);Liquid (16);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+911;9/7/16;Virtus.pro (12);SK (16);mrg  Mirage;ESL One Cologne 2016;BigEvents;S
+912;9/7/16;SK (16);Virtus.pro (5);nuke  Nuke;ESL One Cologne 2016;BigEvents;S
+913;9/7/16;Virtus.pro (19);SK (17);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+914;8/7/16;Gambit (3);fnatic (16);cch  Cache;ESL One Cologne 2016;BigEvents;S
+915;8/7/16;Gambit (5);fnatic (16);trn  Train;ESL One Cologne 2016;BigEvents;S
+916;8/7/16;Natus Vincere (6);Liquid (16);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+917;8/7/16;Natus Vincere (12);Liquid (16);nuke  Nuke;ESL One Cologne 2016;BigEvents;S
+918;8/7/16;Liquid (11);Natus Vincere (16);trn  Train;ESL One Cologne 2016;BigEvents;S
+919;8/7/16;SK (19);FlipSid3 (17);nuke  Nuke;ESL One Cologne 2016;BigEvents;S
+920;8/7/16;FlipSid3 (7);SK (16);mrg  Mirage;ESL One Cologne 2016;BigEvents;S
+921;8/7/16;Astralis (15);Virtus.pro (19);trn  Train;ESL One Cologne 2016;BigEvents;S
+922;8/7/16;Virtus.pro (19);Astralis (17);ovp  Overpass;ESL One Cologne 2016;BigEvents;S
+923;7/7/16;fnatic (16);FaZe (7);mrg  Mirage;ESL One Cologne 2016;BigEvents;S
+924;7/7/16;FaZe (9);fnatic (16);cch  Cache;ESL One Cologne 2016;BigEvents;S
+925;7/7/16;Liquid (16);MOUZ (6);mrg  Mirage;ESL One Cologne 2016;BigEvents;S
+926;7/7/16;Liquid (16);MOUZ (11);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+927;7/7/16;Ninjas in Pyjamas (11);FlipSid3 (16);mrg  Mirage;ESL One Cologne 2016;BigEvents;S
+928;7/7/16;FlipSid3 (16);Ninjas in Pyjamas (2);cch  Cache;ESL One Cologne 2016;BigEvents;S
+929;7/7/16;FlipSid3 (14);Ninjas in Pyjamas (16);ovp  Overpass;ESL One Cologne 2016;BigEvents;S
+930;7/7/16;Astralis (16);Dignitas (14);cch  Cache;ESL One Cologne 2016;BigEvents;S
+931;7/7/16;Dignitas (10);Astralis (16);mrg  Mirage;ESL One Cologne 2016;BigEvents;S
+932;7/7/16;Astralis (16);Dignitas (19);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+933;6/7/16;G2 (13);fnatic (16);trn  Train;ESL One Cologne 2016;BigEvents;S
+934;6/7/16;SK (16);FaZe (6);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+935;6/7/16;MOUZ (16);Envy (12);trn  Train;ESL One Cologne 2016;BigEvents;S
+936;6/7/16;Virtus.pro (16);Liquid (12);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+937;6/7/16;FlipSid3 (16);OpTic (13);trn  Train;ESL One Cologne 2016;BigEvents;S
+938;6/7/16;Natus Vincere (16);Ninjas in Pyjamas (12);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+939;6/7/16;CLG (1);Dignitas (16);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+940;6/7/16;Astralis (6);Gambit (16);d2  Dust2;ESL One Cologne 2016;BigEvents;S
+941;5/7/16;FaZe (16);fnatic (14);d2  Dust2;ESL One Cologne 2016;BigEvents;S
+942;5/7/16;SK (16);G2 (11);cbl  Cobblestone;ESL One Cologne 2016;BigEvents;S
+943;5/7/16;Virtus.pro (16);MOUZ (10);trn  Train;ESL One Cologne 2016;BigEvents;S
+944;5/7/16;Envy (7);Liquid (16);trn  Train;ESL One Cologne 2016;BigEvents;S
+945;5/7/16;OpTic (4);Ninjas in Pyjamas (16);d2  Dust2;ESL One Cologne 2016;BigEvents;S
+946;5/7/16;Natus Vincere (16);FlipSid3 (7);trn  Train;ESL One Cologne 2016;BigEvents;S
+947;5/7/16;CLG (13);Gambit (16);d2  Dust2;ESL One Cologne 2016;BigEvents;S
+948;5/7/16;Dignitas (12);Astralis (16);ovp  Overpass;ESL One Cologne 2016;BigEvents;S
+949;2/7/16;Virtus.pro (8);Envy (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+950;2/7/16;Virtus.pro (11);Envy (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+951;30/6/16;Gambit (6);Virtus.pro (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+952;30/6/16;Virtus.pro (16);Gambit (6);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+953;30/6/16;Envy (16);Complexity (8);cch  Cache;ELEAGUE Season 1;BigEvents;S
+954;30/6/16;Envy (16);Complexity (9);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+955;29/6/16;Gambit (16);Complexity (13);trn  Train;ELEAGUE Season 1;BigEvents;S
+956;29/6/16;Gambit (14);Complexity (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+957;29/6/16;Virtus.pro (16);Gambit (9);trn  Train;ELEAGUE Season 1;BigEvents;S
+958;29/6/16;Gambit (16);Virtus.pro (12);nuke  Nuke;ELEAGUE Season 1;BigEvents;S
+959;29/6/16;Envy (16);Complexity (9);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+960;29/6/16;Envy (16);Complexity (12);trn  Train;ELEAGUE Season 1;BigEvents;S
+961;28/6/16;Virtus.pro (11);Envy (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+962;28/6/16;Envy (16);Virtus.pro (19);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+963;28/6/16;Gambit (9);Envy (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+964;28/6/16;Envy (16);Gambit (13);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+965;28/6/16;Virtus.pro (16);Complexity (11);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+966;28/6/16;Complexity (7);Virtus.pro (16);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+967;26/6/16;Luminosity (5);G2 (16);ovp  Overpass;ECS Season 1 Finals;BigEvents;S
+968;26/6/16;G2 (16);Luminosity (11);d2  Dust2;ECS Season 1 Finals;BigEvents;S
+969;26/6/16;Luminosity (16);TSM (14);cbl  Cobblestone;ECS Season 1 Finals;BigEvents;S
+970;26/6/16;Luminosity (16);TSM (3);ovp  Overpass;ECS Season 1 Finals;BigEvents;S
+971;26/6/16;fnatic (13);G2 (16);d2  Dust2;ECS Season 1 Finals;BigEvents;S
+972;26/6/16;fnatic (2);G2 (16);ovp  Overpass;ECS Season 1 Finals;BigEvents;S
+973;25/6/16;TSM (16);Cloud9 (11);trn  Train;ECS Season 1 Finals;BigEvents;S
+974;25/6/16;Cloud9 (7);TSM (16);cch  Cache;ECS Season 1 Finals;BigEvents;S
+975;25/6/16;G2 (16);Liquid (11);nuke  Nuke;ECS Season 1 Finals;BigEvents;S
+976;25/6/16;Liquid (6);G2 (16);d2  Dust2;ECS Season 1 Finals;BigEvents;S
+977;25/6/16;Liquid (16);G2 (12);cbl  Cobblestone;ECS Season 1 Finals;BigEvents;S
+978;25/6/16;Astralis (8);Cloud9 (16);ovp  Overpass;ECS Season 1 Finals;BigEvents;S
+979;25/6/16;Cloud9 (16);Astralis (9);d2  Dust2;ECS Season 1 Finals;BigEvents;S
+980;25/6/16;Ninjas in Pyjamas (10);G2 (16);d2  Dust2;ECS Season 1 Finals;BigEvents;S
+981;25/6/16;Ninjas in Pyjamas (4);G2 (16);cch  Cache;ECS Season 1 Finals;BigEvents;S
+982;25/6/16;Natus Vincere (16);FlipSid3 (2);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+983;25/6/16;Natus Vincere (16);FlipSid3 (13);trn  Train;ELEAGUE Season 1;BigEvents;S
+984;24/6/16;fnatic (16);TSM (14);cbl  Cobblestone;ECS Season 1 Finals;BigEvents;S
+985;24/6/16;fnatic (16);Cloud9 (13);d2  Dust2;ECS Season 1 Finals;BigEvents;S
+986;24/6/16;Astralis (12);TSM (16);cbl  Cobblestone;ECS Season 1 Finals;BigEvents;S
+987;24/6/16;Liquid (12);Luminosity (16);trn  Train;ECS Season 1 Finals;BigEvents;S
+988;24/6/16;G2 (6);Liquid (16);cbl  Cobblestone;ECS Season 1 Finals;BigEvents;S
+989;24/6/16;Ninjas in Pyjamas (12);Luminosity (16);trn  Train;ECS Season 1 Finals;BigEvents;S
+990;23/6/16;MOUZ (9);FlipSid3 (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+991;23/6/16;FlipSid3 (16);MOUZ (9);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+992;23/6/16;Natus Vincere (16);Echo Fox (4);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+993;23/6/16;Natus Vincere (16);Echo Fox (9);nuke  Nuke;ELEAGUE Season 1;BigEvents;S
+994;22/6/16;Echo Fox (2);FlipSid3 (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+995;22/6/16;Echo Fox (16);FlipSid3 (5);nuke  Nuke;ELEAGUE Season 1;BigEvents;S
+996;22/6/16;FlipSid3 (6);Natus Vincere (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+997;22/6/16;FlipSid3 (8);Natus Vincere (16);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+998;22/6/16;Echo Fox (13);MOUZ (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+999;22/6/16;MOUZ (16);Echo Fox (12);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1000;22/6/16;MOUZ (6);Natus Vincere (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1001;21/6/16;Natus Vincere (6);MOUZ (16);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1002;21/6/16;FlipSid3 (16);MOUZ (6);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1003;21/6/16;MOUZ (19);FlipSid3 (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1004;21/6/16;Echo Fox (16);Natus Vincere (11);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1005;21/6/16;Natus Vincere (16);Echo Fox (6);trn  Train;ELEAGUE Season 1;BigEvents;S
+1006;18/6/16;fnatic (16);FaZe (5);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1007;18/6/16;fnatic (16);FaZe (12);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1008;16/6/16;FaZe (16);Dignitas (14);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1009;16/6/16;FaZe (14);Dignitas (16);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+1010;16/6/16;Dignitas (10);FaZe (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1011;16/6/16;TSM (6);fnatic (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1012;16/6/16;TSM (16);fnatic (11);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1013;16/6/16;fnatic (16);TSM (12);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1014;15/6/16;Dignitas (16);TSM (11);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1015;15/6/16;TSM (12);Dignitas (16);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1016;15/6/16;Dignitas (6);fnatic (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1017;15/6/16;fnatic (16);Dignitas (9);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1018;15/6/16;FaZe (16);TSM (12);trn  Train;ELEAGUE Season 1;BigEvents;S
+1019;15/6/16;TSM (13);FaZe (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1020;14/6/16;FaZe (16);fnatic (8);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1021;14/6/16;FaZe (0);fnatic (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1022;14/6/16;FaZe (16);Dignitas (6);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1023;14/6/16;FaZe (16);Dignitas (5);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1024;14/6/16;fnatic (16);TSM (3);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1025;14/6/16;fnatic (16);TSM (13);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1026;11/6/16;Astralis (16);CLG (11);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+1027;11/6/16;Astralis (16);CLG (19);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1028;11/6/16;Astralis (16);CLG (7);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1029;9/6/16;CLG (16);SK (14);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+1030;9/6/16;CLG (16);SK (10);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1031;9/6/16;SK (16);CLG (6);trn  Train;ELEAGUE Season 1;BigEvents;S
+1032;9/6/16;Astralis (19);NRG (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1033;9/6/16;Astralis (16);NRG (13);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+1034;9/6/16;NRG (5);SK (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1035;8/6/16;NRG (8);SK (16);nuke  Nuke;ELEAGUE Season 1;BigEvents;S
+1036;8/6/16;SK (7);Astralis (16);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+1037;8/6/16;Astralis (6);SK (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1038;8/6/16;CLG (14);NRG (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1039;8/6/16;CLG (16);NRG (7);trn  Train;ELEAGUE Season 1;BigEvents;S
+1040;7/6/16;CLG (6);Astralis (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1041;7/6/16;CLG (2);Astralis (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1042;7/6/16;CLG (16);SK (14);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+1043;7/6/16;CLG (3);SK (16);nuke  Nuke;ELEAGUE Season 1;BigEvents;S
+1044;7/6/16;NRG (14);Astralis (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1045;7/6/16;NRG (12);Astralis (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1046;4/6/16;G2 (3);Ninjas in Pyjamas (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1047;4/6/16;G2 (9);Ninjas in Pyjamas (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1048;2/6/16;OpTic (14);Ninjas in Pyjamas (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1049;2/6/16;OpTic (2);Ninjas in Pyjamas (16);ovp  Overpass;ELEAGUE Season 1;BigEvents;S
+1050;2/6/16;Ninjas in Pyjamas (3);OpTic (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1051;2/6/16;Selfless (8);G2 (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1052;2/6/16;G2 (16);Selfless (2);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1053;1/6/16;OpTic (16);Selfless (14);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1054;1/6/16;Selfless (1);OpTic (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1055;1/6/16;Selfless (12);Ninjas in Pyjamas (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1056;1/6/16;Selfless (9);Ninjas in Pyjamas (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1057;1/6/16;G2 (16);OpTic (4);nuke  Nuke;ELEAGUE Season 1;BigEvents;S
+1058;1/6/16;OpTic (14);G2 (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1059;31/5/16;Ninjas in Pyjamas (12);G2 (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1060;31/5/16;G2 (16);Ninjas in Pyjamas (9);trn  Train;ELEAGUE Season 1;BigEvents;S
+1061;31/5/16;G2 (16);Selfless (12);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1062;31/5/16;Selfless (12);G2 (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1063;31/5/16;OpTic (10);Ninjas in Pyjamas (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1064;31/5/16;OpTic (4);Ninjas in Pyjamas (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1065;28/5/16;Cloud9 (9);Luminosity (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1066;28/5/16;Luminosity (19);Cloud9 (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1067;28/5/16;Cloud9 (16);Luminosity (11);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1068;26/5/16;Renegades (11);Cloud9 (16);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1069;26/5/16;Cloud9 (16);Renegades (3);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1070;26/5/16;Liquid (12);Luminosity (16);nuke  Nuke;ELEAGUE Season 1;BigEvents;S
+1071;26/5/16;Liquid (6);Luminosity (16);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1072;26/5/16;Cloud9 (11);Renegades (16);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1073;25/5/16;Cloud9 (16);Renegades (7);trn  Train;ELEAGUE Season 1;BigEvents;S
+1074;25/5/16;Cloud9 (10);Luminosity (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1075;25/5/16;Luminosity (16);Cloud9 (7);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1076;25/5/16;Liquid (10);Renegades (16);trn  Train;ELEAGUE Season 1;BigEvents;S
+1077;25/5/16;Liquid (14);Renegades (16);mrg  Mirage;ELEAGUE Season 1;BigEvents;S
+1078;25/5/16;Luminosity (16);Liquid (14);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1079;24/5/16;Liquid (6);Luminosity (16);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1080;24/5/16;Cloud9 (16);Liquid (2);cch  Cache;ELEAGUE Season 1;BigEvents;S
+1081;24/5/16;Cloud9 (16);Liquid (11);d2  Dust2;ELEAGUE Season 1;BigEvents;S
+1082;24/5/16;Luminosity (16);Renegades (0);trn  Train;ELEAGUE Season 1;BigEvents;S
+1083;24/5/16;Luminosity (19);Renegades (17);cbl  Cobblestone;ELEAGUE Season 1;BigEvents;S
+1084;15/5/16;G2 (16);Luminosity (19);inf  Inferno;ESL Pro League Season 3 Finals;BigEvents;S
+1085;15/5/16;Luminosity (16);G2 (11);d2  Dust2;ESL Pro League Season 3 Finals;BigEvents;S
+1086;15/5/16;G2 (16);Luminosity (10);cbl  Cobblestone;ESL Pro League Season 3 Finals;BigEvents;S
+1087;15/5/16;Luminosity (16);G2 (13);trn  Train;ESL Pro League Season 3 Finals;BigEvents;S
+1088;15/5/16;G2 (16);Luminosity (10);ovp  Overpass;ESL Pro League Season 3 Finals;BigEvents;S
+1089;14/5/16;G2 (16);fnatic (12);trn  Train;ESL Pro League Season 3 Finals;BigEvents;S
+1090;14/5/16;G2 (16);fnatic (8);cch  Cache;ESL Pro League Season 3 Finals;BigEvents;S
+1091;14/5/16;G2 (14);fnatic (16);inf  Inferno;ESL Pro League Season 3 Finals;BigEvents;S
+1092;14/5/16;Ninjas in Pyjamas (10);Luminosity (16);cbl  Cobblestone;ESL Pro League Season 3 Finals;BigEvents;S
+1093;14/5/16;Ninjas in Pyjamas (16);Luminosity (8);d2  Dust2;ESL Pro League Season 3 Finals;BigEvents;S
+1094;14/5/16;Luminosity (16);Ninjas in Pyjamas (4);ovp  Overpass;ESL Pro League Season 3 Finals;BigEvents;S
+1095;12/5/16;Liquid (13);fnatic (16);mrg  Mirage;ESL Pro League Season 3 Finals;BigEvents;S
+1096;12/5/16;Liquid (6);fnatic (16);cch  Cache;ESL Pro League Season 3 Finals;BigEvents;S
+1097;12/5/16;OpTic (13);Luminosity (16);ovp  Overpass;ESL Pro League Season 3 Finals;BigEvents;S
+1098;12/5/16;Luminosity (16);OpTic (12);inf  Inferno;ESL Pro League Season 3 Finals;BigEvents;S
+1099;12/5/16;Liquid (16);Cloud9 (10);cbl  Cobblestone;ESL Pro League Season 3 Finals;BigEvents;S
+1100;12/5/16;Cloud9 (16);Liquid (19);d2  Dust2;ESL Pro League Season 3 Finals;BigEvents;S
+1101;11/5/16;Astralis (13);Luminosity (16);trn  Train;ESL Pro League Season 3 Finals;BigEvents;S
+1102;11/5/16;Astralis (12);Luminosity (16);ovp  Overpass;ESL Pro League Season 3 Finals;BigEvents;S
+1103;11/5/16;Luminosity (9);Astralis (16);d2  Dust2;ESL Pro League Season 3 Finals;BigEvents;S
+1104;11/5/16;fnatic (9);Ninjas in Pyjamas (16);trn  Train;ESL Pro League Season 3 Finals;BigEvents;S
+1105;11/5/16;G2 (16);OpTic (7);cbl  Cobblestone;ESL Pro League Season 3 Finals;BigEvents;S
+1106;11/5/16;Liquid (18);Ninjas in Pyjamas (22);d2  Dust2;ESL Pro League Season 3 Finals;BigEvents;S
+1107;11/5/16;Cloud9 (10);fnatic (16);inf  Inferno;ESL Pro League Season 3 Finals;BigEvents;S
+1108;11/5/16;Luminosity (12);G2 (16);trn  Train;ESL Pro League Season 3 Finals;BigEvents;S
+1109;11/5/16;Astralis (7);OpTic (16);inf  Inferno;ESL Pro League Season 3 Finals;BigEvents;S
+1110;17/4/16;Natus Vincere (14);Ninjas in Pyjamas (16);cbl  Cobblestone;DreamHack Masters Malmö 2016;BigEvents;S
+1111;17/4/16;Natus Vincere (14);Ninjas in Pyjamas (16);d2  Dust2;DreamHack Masters Malmö 2016;BigEvents;S
+1112;17/4/16;GODSENT (10);Ninjas in Pyjamas (16);mrg  Mirage;DreamHack Masters Malmö 2016;BigEvents;S
+1113;17/4/16;GODSENT (19);Ninjas in Pyjamas (16);trn  Train;DreamHack Masters Malmö 2016;BigEvents;S
+1114;17/4/16;GODSENT (14);Ninjas in Pyjamas (16);cbl  Cobblestone;DreamHack Masters Malmö 2016;BigEvents;S
+1115;17/4/16;Natus Vincere (16);Envy (2);inf  Inferno;DreamHack Masters Malmö 2016;BigEvents;S
+1116;17/4/16;Natus Vincere (16);Envy (7);d2  Dust2;DreamHack Masters Malmö 2016;BigEvents;S
+1117;16/4/16;Virtus.pro (12);Ninjas in Pyjamas (16);trn  Train;DreamHack Masters Malmö 2016;BigEvents;S
+1118;16/4/16;Virtus.pro (12);Ninjas in Pyjamas (16);cch  Cache;DreamHack Masters Malmö 2016;BigEvents;S
+1119;16/4/16;MOUZ (13);GODSENT (16);mrg  Mirage;DreamHack Masters Malmö 2016;BigEvents;S
+1120;16/4/16;GODSENT (16);MOUZ (10);inf  Inferno;DreamHack Masters Malmö 2016;BigEvents;S
+1121;16/4/16;MOUZ (16);GODSENT (7);cch  Cache;DreamHack Masters Malmö 2016;BigEvents;S
+1122;16/4/16;Envy (16);Dignitas (8);mrg  Mirage;DreamHack Masters Malmö 2016;BigEvents;S
+1123;16/4/16;Dignitas (12);Envy (16);inf  Inferno;DreamHack Masters Malmö 2016;BigEvents;S
+1124;16/4/16;TYLOO (5);Natus Vincere (16);mrg  Mirage;DreamHack Masters Malmö 2016;BigEvents;S
+1125;16/4/16;TYLOO (10);Natus Vincere (16);inf  Inferno;DreamHack Masters Malmö 2016;BigEvents;S
+1126;14/4/16;Tempo Storm (14);Envy (16);inf  Inferno;DreamHack Masters Malmö 2016;BigEvents;S
+1127;14/4/16;Envy (16);Tempo Storm (9);d2  Dust2;DreamHack Masters Malmö 2016;BigEvents;S
+1128;14/4/16;Astralis (12);Ninjas in Pyjamas (16);trn  Train;DreamHack Masters Malmö 2016;BigEvents;S
+1129;14/4/16;Astralis (16);Ninjas in Pyjamas (9);inf  Inferno;DreamHack Masters Malmö 2016;BigEvents;S
+1130;14/4/16;Astralis (5);Ninjas in Pyjamas (16);cch  Cache;DreamHack Masters Malmö 2016;BigEvents;S
+1131;14/4/16;GODSENT (16);CLG (8);cch  Cache;DreamHack Masters Malmö 2016;BigEvents;S
+1132;14/4/16;CLG (16);GODSENT (19);ovp  Overpass;DreamHack Masters Malmö 2016;BigEvents;S
+1133;14/4/16;Luminosity (12);TYLOO (16);inf  Inferno;DreamHack Masters Malmö 2016;BigEvents;S
+1134;14/4/16;TYLOO (7);Luminosity (16);ovp  Overpass;DreamHack Masters Malmö 2016;BigEvents;S
+1135;14/4/16;TYLOO (16);Luminosity (14);cch  Cache;DreamHack Masters Malmö 2016;BigEvents;S
+1136;13/4/16;Virtus.pro (16);Tempo Storm (9);mrg  Mirage;DreamHack Masters Malmö 2016;BigEvents;S
+1137;13/4/16;Dignitas (16);Astralis (9);cch  Cache;DreamHack Masters Malmö 2016;BigEvents;S
+1138;13/4/16;Natus Vincere (19);CLG (15);d2  Dust2;DreamHack Masters Malmö 2016;BigEvents;S
+1139;13/4/16;MOUZ (16);Luminosity (7);cch  Cache;DreamHack Masters Malmö 2016;BigEvents;S
+1140;13/4/16;FaZe (12);Envy (16);cch  Cache;DreamHack Masters Malmö 2016;BigEvents;S
+1141;13/4/16;CSGL (8);Ninjas in Pyjamas (16);cch  Cache;DreamHack Masters Malmö 2016;BigEvents;S
+1142;13/4/16;GODSENT (16);G2 (8);trn  Train;DreamHack Masters Malmö 2016;BigEvents;S
+1143;13/4/16;TYLOO (22);Liquid (19);cbl  Cobblestone;DreamHack Masters Malmö 2016;BigEvents;S
+1144;12/4/16;Envy (14);Tempo Storm (16);cbl  Cobblestone;DreamHack Masters Malmö 2016;BigEvents;S
+1145;12/4/16;FaZe (8);Virtus.pro (16);trn  Train;DreamHack Masters Malmö 2016;BigEvents;S
+1146;12/4/16;Ninjas in Pyjamas (2);Dignitas (16);ovp  Overpass;DreamHack Masters Malmö 2016;BigEvents;S
+1147;12/4/16;CSGL (9);Astralis (16);mrg  Mirage;DreamHack Masters Malmö 2016;BigEvents;S
+1148;12/4/16;G2 (2);CLG (16);d2  Dust2;DreamHack Masters Malmö 2016;BigEvents;S
+1149;12/4/16;Natus Vincere (16);GODSENT (11);trn  Train;DreamHack Masters Malmö 2016;BigEvents;S
+1150;12/4/16;MOUZ (16);Liquid (13);d2  Dust2;DreamHack Masters Malmö 2016;BigEvents;S
+1151;12/4/16;TYLOO (7);Luminosity (16);mrg  Mirage;DreamHack Masters Malmö 2016;BigEvents;S
+1152;3/4/16;Luminosity (16);Natus Vincere (2);ovp  Overpass;MLG Columbus 2016;BigEvents;S
+1153;3/4/16;Natus Vincere (17);Luminosity (19);mrg  Mirage;MLG Columbus 2016;BigEvents;S
+1154;2/4/16;Liquid (16);Luminosity (19);cch  Cache;MLG Columbus 2016;BigEvents;S
+1155;2/4/16;Liquid (15);Luminosity (19);mrg  Mirage;MLG Columbus 2016;BigEvents;S
+1156;2/4/16;Astralis (5);Natus Vincere (16);d2  Dust2;MLG Columbus 2016;BigEvents;S
+1157;2/4/16;Natus Vincere (16);Astralis (14);inf  Inferno;MLG Columbus 2016;BigEvents;S
+1158;2/4/16;Virtus.pro (11);Luminosity (16);ovp  Overpass;MLG Columbus 2016;BigEvents;S
+1159;2/4/16;Luminosity (16);Virtus.pro (10);cbl  Cobblestone;MLG Columbus 2016;BigEvents;S
+1160;2/4/16;Luminosity (17);Virtus.pro (19);cch  Cache;MLG Columbus 2016;BigEvents;S
+1161;1/4/16;Liquid (16);CLG (6);mrg  Mirage;MLG Columbus 2016;BigEvents;S
+1162;1/4/16;Liquid (16);CLG (13);cch  Cache;MLG Columbus 2016;BigEvents;S
+1163;1/4/16;fnatic (5);Astralis (16);cch  Cache;MLG Columbus 2016;BigEvents;S
+1164;1/4/16;Astralis (16);fnatic (10);ovp  Overpass;MLG Columbus 2016;BigEvents;S
+1165;1/4/16;Ninjas in Pyjamas (10);Natus Vincere (16);mrg  Mirage;MLG Columbus 2016;BigEvents;S
+1166;1/4/16;Natus Vincere (16);Ninjas in Pyjamas (9);inf  Inferno;MLG Columbus 2016;BigEvents;S
+1167;1/4/16;G2 (7);Virtus.pro (16);cbl  Cobblestone;MLG Columbus 2016;BigEvents;S
+1168;1/4/16;Virtus.pro (9);G2 (16);inf  Inferno;MLG Columbus 2016;BigEvents;S
+1169;1/4/16;G2 (9);Virtus.pro (16);trn  Train;MLG Columbus 2016;BigEvents;S
+1170;31/3/16;Gambit (10);CLG (16);mrg  Mirage;MLG Columbus 2016;BigEvents;S
+1171;31/3/16;CLG (16);Gambit (11);cbl  Cobblestone;MLG Columbus 2016;BigEvents;S
+1172;31/3/16;CLG (13);Gambit (16);cch  Cache;MLG Columbus 2016;BigEvents;S
+1173;31/3/16;fnatic (16);FaZe (6);cbl  Cobblestone;MLG Columbus 2016;BigEvents;S
+1174;31/3/16;fnatic (16);FaZe (10);mrg  Mirage;MLG Columbus 2016;BigEvents;S
+1175;31/3/16;Ninjas in Pyjamas (16);MOUZ (9);ovp  Overpass;MLG Columbus 2016;BigEvents;S
+1176;31/3/16;MOUZ (16);Ninjas in Pyjamas (12);cch  Cache;MLG Columbus 2016;BigEvents;S
+1177;31/3/16;MOUZ (5);Ninjas in Pyjamas (16);cbl  Cobblestone;MLG Columbus 2016;BigEvents;S
+1178;31/3/16;Virtus.pro (4);Natus Vincere (16);cbl  Cobblestone;MLG Columbus 2016;BigEvents;S
+1179;31/3/16;CLG (9);Astralis (16);ovp  Overpass;MLG Columbus 2016;BigEvents;S
+1180;30/3/16;fnatic (19);Liquid (22);d2  Dust2;MLG Columbus 2016;BigEvents;S
+1181;30/3/16;Luminosity (16);Ninjas in Pyjamas (5);mrg  Mirage;MLG Columbus 2016;BigEvents;S
+1182;30/3/16;G2 (16);Cloud9 (3);d2  Dust2;MLG Columbus 2016;BigEvents;S
+1183;30/3/16;Gambit (16);Envy (13);cch  Cache;MLG Columbus 2016;BigEvents;S
+1184;30/3/16;Splyce (3);FaZe (16);inf  Inferno;MLG Columbus 2016;BigEvents;S
+1185;30/3/16;FlipSid3 (28);MOUZ (31);cbl  Cobblestone;MLG Columbus 2016;BigEvents;S
+1186;30/3/16;G2 (1);Virtus.pro (16);trn  Train;MLG Columbus 2016;BigEvents;S
+1187;30/3/16;Cloud9 (9);Natus Vincere (16);trn  Train;MLG Columbus 2016;BigEvents;S
+1188;29/3/16;Gambit (10);Astralis (16);trn  Train;MLG Columbus 2016;BigEvents;S
+1189;29/3/16;CLG (16);Envy (8);cbl  Cobblestone;MLG Columbus 2016;BigEvents;S
+1190;29/3/16;Splyce (5);fnatic (16);trn  Train;MLG Columbus 2016;BigEvents;S
+1191;29/3/16;FaZe (11);Liquid (16);cch  Cache;MLG Columbus 2016;BigEvents;S
+1192;29/3/16;Luminosity (16);MOUZ (13);mrg  Mirage;MLG Columbus 2016;BigEvents;S
+1193;29/3/16;FlipSid3 (17);Ninjas in Pyjamas (19);cch  Cache;MLG Columbus 2016;BigEvents;S
+1194;5/3/16;Luminosity (15);fnatic (19);inf  Inferno;IEM Katowice 2016;BigEvents;S
+1195;5/3/16;Luminosity (3);fnatic (16);cch  Cache;IEM Katowice 2016;BigEvents;S
+1196;5/3/16;Luminosity (17);fnatic (19);ovp  Overpass;IEM Katowice 2016;BigEvents;S
+1197;4/3/16;fnatic (16);Astralis (7);inf  Inferno;IEM Katowice 2016;BigEvents;S
+1198;4/3/16;Astralis (16);fnatic (12);cch  Cache;IEM Katowice 2016;BigEvents;S
+1199;4/3/16;fnatic (16);Astralis (6);ovp  Overpass;IEM Katowice 2016;BigEvents;S
+1200;4/3/16;Natus Vincere (12);Luminosity (16);inf  Inferno;IEM Katowice 2016;BigEvents;S
+1201;4/3/16;Luminosity (22);Natus Vincere (19);ovp  Overpass;IEM Katowice 2016;BigEvents;S
+1202;4/3/16;Virtus.pro (8);fnatic (16);inf  Inferno;IEM Katowice 2016;BigEvents;S
+1203;4/3/16;fnatic (16);Virtus.pro (5);trn  Train;IEM Katowice 2016;BigEvents;S
+1204;4/3/16;Tempo Storm (13);Natus Vincere (16);mrg  Mirage;IEM Katowice 2016;BigEvents;S
+1205;4/3/16;Natus Vincere (15);Tempo Storm (19);cbl  Cobblestone;IEM Katowice 2016;BigEvents;S
+1206;4/3/16;Tempo Storm (10);Natus Vincere (16);ovp  Overpass;IEM Katowice 2016;BigEvents;S
+1207;3/3/16;Envy (19);E-frag.net (22);cch  Cache;IEM Katowice 2016;BigEvents;S
+1208;3/3/16;Virtus.pro (16);FaZe (13);mrg  Mirage;IEM Katowice 2016;BigEvents;S
+1209;3/3/16;Astralis (16);Tempo Storm (12);cch  Cache;IEM Katowice 2016;BigEvents;S
+1210;3/3/16;Virtus.pro (16);E-frag.net (9);ovp  Overpass;IEM Katowice 2016;BigEvents;S
+1211;3/3/16;Envy (7);Tempo Storm (16);mrg  Mirage;IEM Katowice 2016;BigEvents;S
+1212;3/3/16;Virtus.pro (9);Tempo Storm (16);cbl  Cobblestone;IEM Katowice 2016;BigEvents;S
+1213;3/3/16;FaZe (5);Astralis (16);inf  Inferno;IEM Katowice 2016;BigEvents;S
+1214;3/3/16;Envy (16);FaZe (12);trn  Train;IEM Katowice 2016;BigEvents;S
+1215;3/3/16;Astralis (16);E-frag.net (5);mrg  Mirage;IEM Katowice 2016;BigEvents;S
+1216;3/3/16;FaZe (19);Tempo Storm (16);d2  Dust2;IEM Katowice 2016;BigEvents;S
+1217;3/3/16;Envy (14);Virtus.pro (16);cch  Cache;IEM Katowice 2016;BigEvents;S
+1218;3/3/16;Tempo Storm (16);E-frag.net (13);inf  Inferno;IEM Katowice 2016;BigEvents;S
+1219;3/3/16;Virtus.pro (6);Astralis (16);ovp  Overpass;IEM Katowice 2016;BigEvents;S
+1220;3/3/16;Astralis (16);Envy (11);trn  Train;IEM Katowice 2016;BigEvents;S
+1221;3/3/16;E-frag.net (5);FaZe (16);cch  Cache;IEM Katowice 2016;BigEvents;S
+1222;2/3/16;MOUZ (17);fnatic (19);d2  Dust2;IEM Katowice 2016;BigEvents;S
+1223;2/3/16;Luminosity (13);Ninjas in Pyjamas (16);mrg  Mirage;IEM Katowice 2016;BigEvents;S
+1224;2/3/16;Natus Vincere (16);TheMongolz (6);cbl  Cobblestone;IEM Katowice 2016;BigEvents;S
+1225;2/3/16;fnatic (16);TheMongolz (4);cch  Cache;IEM Katowice 2016;BigEvents;S
+1226;2/3/16;MOUZ (14);Luminosity (16);cbl  Cobblestone;IEM Katowice 2016;BigEvents;S
+1227;2/3/16;Ninjas in Pyjamas (13);Natus Vincere (16);ovp  Overpass;IEM Katowice 2016;BigEvents;S
+1228;2/3/16;Luminosity (16);TheMongolz (6);inf  Inferno;IEM Katowice 2016;BigEvents;S
+1229;2/3/16;Ninjas in Pyjamas (14);fnatic (16);inf  Inferno;IEM Katowice 2016;BigEvents;S
+1230;2/3/16;MOUZ (6);Natus Vincere (16);cbl  Cobblestone;IEM Katowice 2016;BigEvents;S
+1231;2/3/16;TheMongolz (5);Ninjas in Pyjamas (16);mrg  Mirage;IEM Katowice 2016;BigEvents;S
+1232;2/3/16;Luminosity (16);fnatic (12);inf  Inferno;IEM Katowice 2016;BigEvents;S
+1233;2/3/16;MOUZ (16);TheMongolz (7);d2  Dust2;IEM Katowice 2016;BigEvents;S
+1234;2/3/16;Luminosity (16);Natus Vincere (11);mrg  Mirage;IEM Katowice 2016;BigEvents;S
+1235;2/3/16;MOUZ (16);Ninjas in Pyjamas (8);mrg  Mirage;IEM Katowice 2016;BigEvents;S
+1236;2/3/16;fnatic (16);Natus Vincere (10);d2  Dust2;IEM Katowice 2016;BigEvents;S
+1237;17/1/16;Natus Vincere (7);fnatic (16);cbl  Cobblestone;SL i-League StarSeries XIV Finals;BigEvents;S
+1238;17/1/16;fnatic (16);Natus Vincere (3);d2  Dust2;SL i-League StarSeries XIV Finals;BigEvents;S
+1239;16/1/16;Envy (5);Natus Vincere (16);trn  Train;SL i-League StarSeries XIV Finals;BigEvents;S
+1240;16/1/16;Natus Vincere (16);Envy (12);cbl  Cobblestone;SL i-League StarSeries XIV Finals;BigEvents;S
+1241;16/1/16;Luminosity (14);fnatic (16);inf  Inferno;SL i-League StarSeries XIV Finals;BigEvents;S
+1242;16/1/16;fnatic (16);Luminosity (7);cch  Cache;SL i-League StarSeries XIV Finals;BigEvents;S
+1243;16/1/16;fnatic (6);Luminosity (16);mrg  Mirage;SL i-League StarSeries XIV Finals;BigEvents;S
+1244;15/1/16;? (13);Natus Vincere (16);mrg  Mirage;SL i-League StarSeries XIV Finals;BigEvents;S
+1245;15/1/16;? (16);Natus Vincere (11);ovp  Overpass;SL i-League StarSeries XIV Finals;BigEvents;S
+1246;15/1/16;? (4);Natus Vincere (16);d2  Dust2;SL i-League StarSeries XIV Finals;BigEvents;S
+1247;15/1/16;G2 (2);fnatic (16);inf  Inferno;SL i-League StarSeries XIV Finals;BigEvents;S
+1248;15/1/16;fnatic (16);G2 (8);cch  Cache;SL i-League StarSeries XIV Finals;BigEvents;S
+1249;14/1/16;fnatic (16);? (7);inf  Inferno;SL i-League StarSeries XIV Finals;BigEvents;S
+1250;14/1/16;fnatic (8);? (16);mrg  Mirage;SL i-League StarSeries XIV Finals;BigEvents;S
+1251;14/1/16;? (10);fnatic (16);d2  Dust2;SL i-League StarSeries XIV Finals;BigEvents;S
+1252;14/1/16;G2 (14);Natus Vincere (16);trn  Train;SL i-League StarSeries XIV Finals;BigEvents;S
+1253;14/1/16;G2 (17);Natus Vincere (19);d2  Dust2;SL i-League StarSeries XIV Finals;BigEvents;S
+1254;14/1/16;ex-Titan (4);fnatic (16);d2  Dust2;SL i-League StarSeries XIV Finals;BigEvents;S
+1255;14/1/16;ex-Titan (16);fnatic (14);inf  Inferno;SL i-League StarSeries XIV Finals;BigEvents;S
+1256;14/1/16;ex-Titan (10);fnatic (16);cch  Cache;SL i-League StarSeries XIV Finals;BigEvents;S
+1257;14/1/16;? (13);Envy (16);inf  Inferno;SL i-League StarSeries XIV Finals;BigEvents;S
+1258;14/1/16;Envy (16);? (14);mrg  Mirage;SL i-League StarSeries XIV Finals;BigEvents;S
+1259;14/1/16;? (16);ex-Titan (14);trn  Train;SL i-League StarSeries XIV Finals;BigEvents;S
+1260;14/1/16;? (16);ex-Titan (7);d2  Dust2;SL i-League StarSeries XIV Finals;BigEvents;S
+1261;14/1/16;Envy (16);fnatic (7);trn  Train;SL i-League StarSeries XIV Finals;BigEvents;S
+1262;14/1/16;Envy (16);fnatic (8);mrg  Mirage;SL i-League StarSeries XIV Finals;BigEvents;S
+1263;13/1/16;CyberZen (11);G2 (16);mrg  Mirage;SL i-League StarSeries XIV Finals;BigEvents;S
+1264;13/1/16;G2 (16);CyberZen (14);cch  Cache;SL i-League StarSeries XIV Finals;BigEvents;S
+1265;13/1/16;G2 (6);CyberZen (16);inf  Inferno;SL i-League StarSeries XIV Finals;BigEvents;S
+1266;13/1/16;Natus Vincere (9);Luminosity (16);mrg  Mirage;SL i-League StarSeries XIV Finals;BigEvents;S
+1267;13/1/16;Luminosity (16);Natus Vincere (14);trn  Train;SL i-League StarSeries XIV Finals;BigEvents;S
+1268;13/1/16;G2 (7);Luminosity (16);inf  Inferno;SL i-League StarSeries XIV Finals;BigEvents;S
+1269;13/1/16;Luminosity (16);G2 (9);trn  Train;SL i-League StarSeries XIV Finals;BigEvents;S
+1270;13/1/16;Natus Vincere (16);CyberZen (7);trn  Train;SL i-League StarSeries XIV Finals;BigEvents;S
+1271;13/1/16;CyberZen (5);Natus Vincere (16);mrg  Mirage;SL i-League StarSeries XIV Finals;BigEvents;S

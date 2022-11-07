@@ -1,0 +1,69 @@
+;Date;Team1;Team2;Map;Event;event_type;event_tier
+0;24/11/12;Ninjas in Pyjamas (16);VeryGames (1);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+1;24/11/12;VeryGames (9);Ninjas in Pyjamas (16);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+2;24/11/12;mousesports (5);Ninjas in Pyjamas (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+3;24/11/12;Ninjas in Pyjamas (16);mousesports (14);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+4;24/11/12;VeryGames (16);Lemondogs (9);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+5;24/11/12;VeryGames (16);Lemondogs (5);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+6;24/11/12;VeryGames (16);Dynamic (11);trn  Train_se;DreamHack Winter 2012;BigEvents;S
+7;24/11/12;VeryGames (16);Dynamic (6);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+8;24/11/12;Absolute Legends (7);Lemondogs (16);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+9;24/11/12;Absolute Legends (13);Lemondogs (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+10;23/11/12;mousesports (16);CPH Wolves (3);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+11;23/11/12;CPH Wolves (11);mousesports (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+12;23/11/12;ProGaming.TD (10);Ninjas in Pyjamas (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+13;23/11/12;Ninjas in Pyjamas (16);ProGaming.TD (5);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+14;23/11/12;n!faculty (15);Anexis (15);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+15;23/11/12;Lemondogs (16);Dynamic (4);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+16;23/11/12;Lemondogs (15);n!faculty (15);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+17;23/11/12;Dynamic (15);Anexis (15);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+18;23/11/12;Dynamic (16);n!faculty (9);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+19;23/11/12;Anexis (15);Lemondogs (15);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+20;23/11/12;Hawks (9);Absolute Legends (16);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+21;23/11/12;VeryGames (16);3DMAX (3);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+22;23/11/12;VeryGames (16);Hawks (12);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+23;23/11/12;Absolute Legends (16);3DMAX (8);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+24;23/11/12;3DMAX (14);Hawks (16);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+25;23/11/12;Absolute Legends (11);VeryGames (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+26;22/11/12;gosu (7);ProGaming.TD (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+27;22/11/12;CPH Wolves (16);Curse (14);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+28;22/11/12;ProGaming.TD (16);Curse (11);trn  Train_se;DreamHack Winter 2012;BigEvents;S
+29;22/11/12;CPH Wolves (16);gosu (6);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+30;22/11/12;gosu (15);Curse (15);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+31;22/11/12;ProGaming.TD (7);CPH Wolves (16);trn  Train_se;DreamHack Winter 2012;BigEvents;S
+32;22/11/12;mousesports (16);fnatic (14);d2  Dust2_se;DreamHack Winter 2012;BigEvents;S
+33;22/11/12;Ninjas in Pyjamas (16);ESC (10);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+34;22/11/12;fnatic (16);ESC (7);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+35;22/11/12;Ninjas in Pyjamas (16);mousesports (14);mrg  Mirage_ce;DreamHack Winter 2012;BigEvents;S
+36;22/11/12;mousesports (16);ESC (6);inf  Inferno_se;DreamHack Winter 2012;BigEvents;S
+37;22/11/12;fnatic (6);Ninjas in Pyjamas (16);nuke  Nuke_se;DreamHack Winter 2012;BigEvents;S
+38;4/11/12;Ninjas in Pyjamas (16);VeryGames (14);trn  Train_se;ESWC 2012;BigEvents;S
+39;4/11/12;Ninjas in Pyjamas (16);VeryGames (3);d2  Dust2_se;ESWC 2012;BigEvents;S
+40;4/11/12;n!faculty (9);Area 51 (16);nuke  Nuke_se;ESWC 2012;BigEvents;S
+41;4/11/12;Area 51 (11);n!faculty (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+42;4/11/12;n!faculty (1);Area 51 (16);d2  Dust2_se;ESWC 2012;BigEvents;S
+43;3/11/12;Area 51 (11);VeryGames (16);trn  Train_se;ESWC 2012;BigEvents;S
+44;3/11/12;VeryGames (16);Area 51 (5);nuke  Nuke_se;ESWC 2012;BigEvents;S
+45;3/11/12;VeryGames (16);Area 51 (19);d2  Dust2_se;ESWC 2012;BigEvents;S
+46;3/11/12;Ninjas in Pyjamas (16);n!faculty (5);trn  Train_se;ESWC 2012;BigEvents;S
+47;3/11/12;n!faculty (7);Ninjas in Pyjamas (16);nuke  Nuke_se;ESWC 2012;BigEvents;S
+48;3/11/12;Anexis (10);n!faculty (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+49;3/11/12;VeryGames (16);FMESPORTS (9);nuke  Nuke_se;ESWC 2012;BigEvents;S
+50;3/11/12;ESC (11);n!faculty (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+51;3/11/12;VeryGames (15);Anexis (15);inf  Inferno_se;ESWC 2012;BigEvents;S
+52;3/11/12;VeryGames (16);ESC (2);nuke  Nuke_se;ESWC 2012;BigEvents;S
+53;3/11/12;Ninjas in Pyjamas (16);MOUZ (5);d2  Dust2_se;ESWC 2012;BigEvents;S
+54;3/11/12;ESC (16);FMESPORTS (9);nuke  Nuke_se;ESWC 2012;BigEvents;S
+55;3/11/12;VeryGames (16);n!faculty (4);d2  Dust2_se;ESWC 2012;BigEvents;S
+56;3/11/12;n!faculty (8);FMESPORTS (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+57;3/11/12;Anexis (12);ESC (16);inf  Inferno_se;ESWC 2012;BigEvents;S
+58;2/11/12;Anexis (16);FMESPORTS (10);inf  Inferno_se;ESWC 2012;BigEvents;S
+59;2/11/12;LowLandLions (12);Area 51 (16);d2  Dust2_se;ESWC 2012;BigEvents;S
+60;2/11/12;Ninjas in Pyjamas (16);Area 51 (10);inf  Inferno_se;ESWC 2012;BigEvents;S
+61;2/11/12;LowLandLions (6);ProGaming.TD (16);trn  Train_se;ESWC 2012;BigEvents;S
+62;2/11/12;Ninjas in Pyjamas (16);ProGaming.TD (13);nuke  Nuke_se;ESWC 2012;BigEvents;S
+63;2/11/12;Area 51 (15);MOUZ (15);nuke  Nuke_se;ESWC 2012;BigEvents;S
+64;2/11/12;MOUZ (16);ProGaming.TD (8);trn  Train_se;ESWC 2012;BigEvents;S
+65;2/11/12;LowLandLions (9);Ninjas in Pyjamas (16);nuke  Nuke_se;ESWC 2012;BigEvents;S
+66;2/11/12;MOUZ (16);LowLandLions (14);mrg  Mirage_ce;ESWC 2012;BigEvents;S
+67;2/11/12;ProGaming.TD (0);Area 51 (16);d2  Dust2_se;ESWC 2012;BigEvents;S

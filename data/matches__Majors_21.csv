@@ -1,0 +1,759 @@
+;Date;Team1;Team2;Map;Event;event_type;event_tier
+0;30/11/13;fnatic (16);Ninjas in Pyjamas (2);trn  Train;DreamHack Winter 2013;Majors;S
+1;30/11/13;Ninjas in Pyjamas (16);fnatic (6);inf  Inferno;DreamHack Winter 2013;Majors;S
+2;30/11/13;fnatic (16);Ninjas in Pyjamas (14);d2  Dust2;DreamHack Winter 2013;Majors;S
+3;30/11/13;Complexity (7);fnatic (16);mrg  Mirage;DreamHack Winter 2013;Majors;S
+4;30/11/13;fnatic (16);Complexity (7);inf  Inferno;DreamHack Winter 2013;Majors;S
+5;30/11/13;Ninjas in Pyjamas (16);VeryGames (5);nuke  Nuke;DreamHack Winter 2013;Majors;S
+6;30/11/13;VeryGames (16);Ninjas in Pyjamas (6);inf  Inferno;DreamHack Winter 2013;Majors;S
+7;30/11/13;Ninjas in Pyjamas (16);VeryGames (13);d2  Dust2;DreamHack Winter 2013;Majors;S
+8;29/11/13;Astana Dragons (12);Complexity (16);inf  Inferno;DreamHack Winter 2013;Majors;S
+9;29/11/13;Complexity (16);Astana Dragons (7);d2  Dust2;DreamHack Winter 2013;Majors;S
+10;29/11/13;Complexity (9);Astana Dragons (16);nuke  Nuke;DreamHack Winter 2013;Majors;S
+11;29/11/13;VeryGames (16);CPH Wolves (12);mrg  Mirage;DreamHack Winter 2013;Majors;S
+12;29/11/13;VeryGames (5);CPH Wolves (16);inf  Inferno;DreamHack Winter 2013;Majors;S
+13;29/11/13;VeryGames (16);CPH Wolves (6);d2  Dust2;DreamHack Winter 2013;Majors;S
+14;29/11/13;Reason (13);Astana Dragons (16);nuke  Nuke;DreamHack Winter 2013;Majors;S
+15;29/11/13;SK (3);Reason (16);inf  Inferno;DreamHack Winter 2013;Majors;S
+16;29/11/13;CPH Wolves (16);Astana Dragons (7);nuke  Nuke;DreamHack Winter 2013;Majors;S
+17;29/11/13;CPH Wolves (16);SK (11);inf  Inferno;DreamHack Winter 2013;Majors;S
+18;29/11/13;Astana Dragons (16);Reason (11);inf  Inferno;DreamHack Winter 2013;Majors;S
+19;29/11/13;n!faculty (9);VeryGames (16);d2  Dust2;DreamHack Winter 2013;Majors;S
+20;29/11/13;Complexity (16);VeryGames (14);inf  Inferno;DreamHack Winter 2013;Majors;S
+21;29/11/13;Xapso (5);n!faculty (16);trn  Train;DreamHack Winter 2013;Majors;S
+22;29/11/13;Xapso (8);VeryGames (16);inf  Inferno;DreamHack Winter 2013;Majors;S
+23;29/11/13;Complexity (16);n!faculty (5);inf  Inferno;DreamHack Winter 2013;Majors;S
+24;28/11/13;LGB (7);Ninjas in Pyjamas (16);inf  Inferno;DreamHack Winter 2013;Majors;S
+25;28/11/13;LGB (9);Ninjas in Pyjamas (16);trn  Train;DreamHack Winter 2013;Majors;S
+26;28/11/13;LGB (16);Ninjas in Pyjamas (14);d2  Dust2;DreamHack Winter 2013;Majors;S
+27;28/11/13;fnatic (16);Recursive (10);trn  Train;DreamHack Winter 2013;Majors;S
+28;28/11/13;Recursive (16);fnatic (13);d2  Dust2;DreamHack Winter 2013;Majors;S
+29;28/11/13;fnatic (16);Recursive (9);inf  Inferno;DreamHack Winter 2013;Majors;S
+30;28/11/13;UniversalSoldiers (13);Recursive (16);inf  Inferno;DreamHack Winter 2013;Majors;S
+31;28/11/13;UniversalSoldiers (4);Ninjas in Pyjamas (16);inf  Inferno;DreamHack Winter 2013;Majors;S
+32;28/11/13;iBUYPOWER (8);Recursive (16);inf  Inferno;DreamHack Winter 2013;Majors;S
+33;28/11/13;UniversalSoldiers (16);iBUYPOWER (9);d2  Dust2;DreamHack Winter 2013;Majors;S
+34;28/11/13;Ninjas in Pyjamas (16);Recursive (13);inf  Inferno;DreamHack Winter 2013;Majors;S
+35;28/11/13;LGB (16);Clan-Mystik (2);inf  Inferno;DreamHack Winter 2013;Majors;S
+36;28/11/13;Clan-Mystik (6);fnatic (16);inf  Inferno;DreamHack Winter 2013;Majors;S
+37;28/11/13;LGB (16);Natus Vincere (13);mrg  Mirage;DreamHack Winter 2013;Majors;S
+38;28/11/13;Natus Vincere (9);fnatic (16);mrg  Mirage;DreamHack Winter 2013;Majors;S
+39;28/11/13;Clan-Mystik (16);LGB (14);d2  Dust2;DreamHack Winter 2013;Majors;S
+40;29/11/14;Ninjas in Pyjamas (16);LDLC (19);ovp  Overpass;DreamHack Winter 2014;Majors;S
+41;29/11/14;Ninjas in Pyjamas (16);LDLC (4);inf  Inferno;DreamHack Winter 2014;Majors;S
+42;29/11/14;LDLC (16);Ninjas in Pyjamas (10);d2  Dust2;DreamHack Winter 2014;Majors;S
+43;29/11/14;LDLC (16);Natus Vincere (11);d2  Dust2;DreamHack Winter 2014;Majors;S
+44;29/11/14;Natus Vincere (11);LDLC (16);inf  Inferno;DreamHack Winter 2014;Majors;S
+45;29/11/14;Ninjas in Pyjamas (16);Virtus.pro (8);inf  Inferno;DreamHack Winter 2014;Majors;S
+46;29/11/14;Ninjas in Pyjamas (9);Virtus.pro (16);cch  Cache;DreamHack Winter 2014;Majors;S
+47;29/11/14;Virtus.pro (20);Ninjas in Pyjamas (22);nuke  Nuke;DreamHack Winter 2014;Majors;S
+48;28/11/14;Dignitas (13);Natus Vincere (16);mrg  Mirage;DreamHack Winter 2014;Majors;S
+49;28/11/14;Natus Vincere (16);Dignitas (3);cbl  Cobblestone;DreamHack Winter 2014;Majors;S
+50;28/11/14;LDLC (8);fnatic (16);cch  Cache;DreamHack Winter 2014;Majors;S
+51;28/11/14;fnatic (10);LDLC (16);d2  Dust2;DreamHack Winter 2014;Majors;S
+52;28/11/14;PENTA (5);Virtus.pro (16);mrg  Mirage;DreamHack Winter 2014;Majors;S
+53;28/11/14;Virtus.pro (16);PENTA (9);cch  Cache;DreamHack Winter 2014;Majors;S
+54;28/11/14;Ninjas in Pyjamas (16);HellRaisers (6);inf  Inferno;DreamHack Winter 2014;Majors;S
+55;28/11/14;HellRaisers (5);Ninjas in Pyjamas (16);d2  Dust2;DreamHack Winter 2014;Majors;S
+56;27/11/14;Natus Vincere (19);FlipSid3 (15);ovp  Overpass;DreamHack Winter 2014;Majors;S
+57;27/11/14;Ninjas in Pyjamas (16);ESC (13);cch  Cache;DreamHack Winter 2014;Majors;S
+58;27/11/14;FlipSid3 (16);myXMG (11);mrg  Mirage;DreamHack Winter 2014;Majors;S
+59;27/11/14;Planetkey (13);ESC (16);mrg  Mirage;DreamHack Winter 2014;Majors;S
+60;27/11/14;LDLC (16);Ninjas in Pyjamas (13);ovp  Overpass;DreamHack Winter 2014;Majors;S
+61;27/11/14;Virtus.pro (16);Natus Vincere (2);nuke  Nuke;DreamHack Winter 2014;Majors;S
+62;27/11/14;Ninjas in Pyjamas (16);Planetkey (2);ovp  Overpass;DreamHack Winter 2014;Majors;S
+63;27/11/14;Natus Vincere (16);FlipSid3 (8);mrg  Mirage;DreamHack Winter 2014;Majors;S
+64;27/11/14;LDLC (16);ESC (4);cbl  Cobblestone;DreamHack Winter 2014;Majors;S
+65;27/11/14;Virtus.pro (16);myXMG (2);inf  Inferno;DreamHack Winter 2014;Majors;S
+66;27/11/14;fnatic (16);Cloud9 (5);d2  Dust2;DreamHack Winter 2014;Majors;S
+67;27/11/14;iBUYPOWER (13);PENTA (16);inf  Inferno;DreamHack Winter 2014;Majors;S
+68;27/11/14;Cloud9 (16);Bravado (1);cch  Cache;DreamHack Winter 2014;Majors;S
+69;27/11/14;PENTA (16);CPH Wolves (12);d2  Dust2;DreamHack Winter 2014;Majors;S
+70;27/11/14;fnatic (14);HellRaisers (16);mrg  Mirage;DreamHack Winter 2014;Majors;S
+71;27/11/14;Dignitas (16);iBUYPOWER (7);nuke  Nuke;DreamHack Winter 2014;Majors;S
+72;27/11/14;Cloud9 (5);HellRaisers (16);inf  Inferno;DreamHack Winter 2014;Majors;S
+73;27/11/14;iBUYPOWER (16);CPH Wolves (4);nuke  Nuke;DreamHack Winter 2014;Majors;S
+74;27/11/14;fnatic (16);Bravado (2);mrg  Mirage;DreamHack Winter 2014;Majors;S
+75;27/11/14;Dignitas (16);PENTA (9);nuke  Nuke;DreamHack Winter 2014;Majors;S
+76;17/8/14;fnatic (13);Ninjas in Pyjamas (16);inf  Inferno;ESL One Cologne 2014;Majors;S
+77;17/8/14;fnatic (16);Ninjas in Pyjamas (8);cch  Cache;ESL One Cologne 2014;Majors;S
+78;17/8/14;fnatic (11);Ninjas in Pyjamas (16);cbl  Cobblestone;ESL One Cologne 2014;Majors;S
+79;17/8/14;LDLC (14);Ninjas in Pyjamas (16);cbl  Cobblestone;ESL One Cologne 2014;Majors;S
+80;17/8/14;LDLC (6);Ninjas in Pyjamas (16);nuke  Nuke;ESL One Cologne 2014;Majors;S
+81;17/8/14;Ninjas in Pyjamas (10);LDLC (16);inf  Inferno;ESL One Cologne 2014;Majors;S
+82;17/8/14;Dignitas (14);fnatic (16);ovp  Overpass;ESL One Cologne 2014;Majors;S
+83;17/8/14;fnatic (16);Dignitas (11);d2  Dust2;ESL One Cologne 2014;Majors;S
+84;16/8/14;Cloud9 (14);Ninjas in Pyjamas (16);cbl  Cobblestone;ESL One Cologne 2014;Majors;S
+85;16/8/14;Cloud9 (14);Ninjas in Pyjamas (16);d2  Dust2;ESL One Cologne 2014;Majors;S
+86;16/8/14;Cloud9 (16);Ninjas in Pyjamas (8);nuke  Nuke;ESL One Cologne 2014;Majors;S
+87;16/8/14;LDLC (16);Virtus.pro (12);mrg  Mirage;ESL One Cologne 2014;Majors;S
+88;16/8/14;Virtus.pro (14);LDLC (16);d2  Dust2;ESL One Cologne 2014;Majors;S
+89;16/8/14;Epsilon (8);Dignitas (16);inf  Inferno;ESL One Cologne 2014;Majors;S
+90;16/8/14;Dignitas (16);Epsilon (9);d2  Dust2;ESL One Cologne 2014;Majors;S
+91;16/8/14;Natus Vincere (14);fnatic (16);nuke  Nuke;ESL One Cologne 2014;Majors;S
+92;16/8/14;Natus Vincere (16);fnatic (7);d2  Dust2;ESL One Cologne 2014;Majors;S
+93;16/8/14;Natus Vincere (11);fnatic (16);inf  Inferno;ESL One Cologne 2014;Majors;S
+94;15/8/14;Dignitas (16);Titan (1);nuke  Nuke;ESL One Cologne 2014;Majors;S
+95;15/8/14;Dignitas (14);Cloud9 (16);mrg  Mirage;ESL One Cologne 2014;Majors;S
+96;15/8/14;Virtus.pro (16);iBUYPOWER (2);cch  Cache;ESL One Cologne 2014;Majors;S
+97;15/8/14;Virtus.pro (16);fnatic (19);ovp  Overpass;ESL One Cologne 2014;Majors;S
+98;15/8/14;CPH Wolves (17);Natus Vincere (19);d2  Dust2;ESL One Cologne 2014;Majors;S
+99;15/8/14;LDLC (16);Natus Vincere (12);inf  Inferno;ESL One Cologne 2014;Majors;S
+100;15/8/14;Ninjas in Pyjamas (16);HellRaisers (11);ovp  Overpass;ESL One Cologne 2014;Majors;S
+101;15/8/14;Ninjas in Pyjamas (6);Epsilon (16);cbl  Cobblestone;ESL One Cologne 2014;Majors;S
+102;14/8/14;Titan (16);Vox Eminor (1);nuke  Nuke;ESL One Cologne 2014;Majors;S
+103;14/8/14;Cloud9 (22);Titan (18);d2  Dust2;ESL One Cologne 2014;Majors;S
+104;14/8/14;Dignitas (16);Vox Eminor (9);d2  Dust2;ESL One Cologne 2014;Majors;S
+105;14/8/14;iBUYPOWER (16);dAT (6);cbl  Cobblestone;ESL One Cologne 2014;Majors;S
+106;14/8/14;fnatic (16);iBUYPOWER (7);cbl  Cobblestone;ESL One Cologne 2014;Majors;S
+107;14/8/14;Virtus.pro (16);dAT (7);ovp  Overpass;ESL One Cologne 2014;Majors;S
+108;14/8/14;CPH Wolves (16);London Conspiracy (5);cch  Cache;ESL One Cologne 2014;Majors;S
+109;14/8/14;Natus Vincere (16);CPH Wolves (6);inf  Inferno;ESL One Cologne 2014;Majors;S
+110;14/8/14;LDLC (16);London Conspiracy (2);nuke  Nuke;ESL One Cologne 2014;Majors;S
+111;14/8/14;HellRaisers (16);Wolves (4);mrg  Mirage;ESL One Cologne 2014;Majors;S
+112;14/8/14;Epsilon (16);HellRaisers (1);inf  Inferno;ESL One Cologne 2014;Majors;S
+113;14/8/14;Wolves (7);Ninjas in Pyjamas (16);d2  Dust2;ESL One Cologne 2014;Majors;S
+114;16/3/14;Virtus.pro (16);Ninjas in Pyjamas (10);inf  Inferno;EMS One Katowice 2014;Majors;S
+115;16/3/14;Ninjas in Pyjamas (9);Virtus.pro (16);mrg  Mirage;EMS One Katowice 2014;Majors;S
+116;15/3/14;LGB (7);Virtus.pro (16);trn  Train;EMS One Katowice 2014;Majors;S
+117;15/3/14;LGB (19);Virtus.pro (17);mrg  Mirage;EMS One Katowice 2014;Majors;S
+118;15/3/14;Virtus.pro (16);LGB (8);inf  Inferno;EMS One Katowice 2014;Majors;S
+119;15/3/14;Dignitas (5);Ninjas in Pyjamas (16);nuke  Nuke;EMS One Katowice 2014;Majors;S
+120;15/3/14;Ninjas in Pyjamas (16);Dignitas (6);inf  Inferno;EMS One Katowice 2014;Majors;S
+121;15/3/14;fnatic (14);LGB (16);trn  Train;EMS One Katowice 2014;Majors;S
+122;15/3/14;fnatic (12);LGB (16);mrg  Mirage;EMS One Katowice 2014;Majors;S
+123;15/3/14;LGB (11);fnatic (16);inf  Inferno;EMS One Katowice 2014;Majors;S
+124;14/3/14;Ninjas in Pyjamas (16);Complexity (11);trn  Train;EMS One Katowice 2014;Majors;S
+125;14/3/14;Complexity (2);Ninjas in Pyjamas (16);nuke  Nuke;EMS One Katowice 2014;Majors;S
+126;14/3/14;Ninjas in Pyjamas (12);Complexity (16);d2  Dust2;EMS One Katowice 2014;Majors;S
+127;14/3/14;Virtus.pro (16);LDLC (8);inf  Inferno;EMS One Katowice 2014;Majors;S
+128;14/3/14;LDLC (3);Virtus.pro (16);mrg  Mirage;EMS One Katowice 2014;Majors;S
+129;14/3/14;Dignitas (16);HellRaisers (11);mrg  Mirage;EMS One Katowice 2014;Majors;S
+130;14/3/14;Dignitas (16);HellRaisers (7);d2  Dust2;EMS One Katowice 2014;Majors;S
+131;14/3/14;Complexity (16);Clan-Mystik (12);nuke  Nuke;EMS One Katowice 2014;Majors;S
+132;14/3/14;Reason (6);fnatic (16);inf  Inferno;EMS One Katowice 2014;Majors;S
+133;13/3/14;Dignitas (16);Reason (8);inf  Inferno;EMS One Katowice 2014;Majors;S
+134;13/3/14;iBUYPOWER (13);fnatic (16);inf  Inferno;EMS One Katowice 2014;Majors;S
+135;13/3/14;Natus Vincere (13);Clan-Mystik (16);d2  Dust2;EMS One Katowice 2014;Majors;S
+136;13/3/14;Complexity (11);LGB (16);d2  Dust2;EMS One Katowice 2014;Majors;S
+137;13/3/14;Clan-Mystik (6);Complexity (16);inf  Inferno;EMS One Katowice 2014;Majors;S
+138;13/3/14;Dignitas (16);iBUYPOWER (8);nuke  Nuke;EMS One Katowice 2014;Majors;S
+139;13/3/14;Reason (16);fnatic (12);inf  Inferno;EMS One Katowice 2014;Majors;S
+140;13/3/14;LGB (16);Natus Vincere (8);inf  Inferno;EMS One Katowice 2014;Majors;S
+141;13/3/14;LDLC (16);3DMAX (13);inf  Inferno;EMS One Katowice 2014;Majors;S
+142;13/3/14;Titan (14);HellRaisers (16);inf  Inferno;EMS One Katowice 2014;Majors;S
+143;13/3/14;Vox Eminor (7);3DMAX (16);inf  Inferno;EMS One Katowice 2014;Majors;S
+144;13/3/14;MOUZ (9);HellRaisers (16);d2  Dust2;EMS One Katowice 2014;Majors;S
+145;13/3/14;Ninjas in Pyjamas (16);LDLC (7);inf  Inferno;EMS One Katowice 2014;Majors;S
+146;13/3/14;Titan (7);Virtus.pro (16);mrg  Mirage;EMS One Katowice 2014;Majors;S
+147;13/3/14;LDLC (16);Vox Eminor (13);inf  Inferno;EMS One Katowice 2014;Majors;S
+148;13/3/14;Virtus.pro (19);HellRaisers (16);mrg  Mirage;EMS One Katowice 2014;Majors;S
+149;13/3/14;Titan (16);MOUZ (5);d2  Dust2;EMS One Katowice 2014;Majors;S
+150;13/3/14;Ninjas in Pyjamas (16);3DMAX (5);d2  Dust2;EMS One Katowice 2014;Majors;S
+151;1/11/15;Natus Vincere (5);Envy (16);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+152;1/11/15;Envy (16);Natus Vincere (14);trn  Train;DreamHack Open Cluj-Napoca 2015;Majors;S
+153;1/11/15;Natus Vincere (16);Ninjas in Pyjamas (6);d2  Dust2;DreamHack Open Cluj-Napoca 2015;Majors;S
+154;1/11/15;Ninjas in Pyjamas (3);Natus Vincere (16);trn  Train;DreamHack Open Cluj-Napoca 2015;Majors;S
+155;1/11/15;Envy (16);G2 (7);cch  Cache;DreamHack Open Cluj-Napoca 2015;Majors;S
+156;1/11/15;G2 (21);Envy (25);inf  Inferno;DreamHack Open Cluj-Napoca 2015;Majors;S
+157;1/11/15;Envy (10);G2 (16);d2  Dust2;DreamHack Open Cluj-Napoca 2015;Majors;S
+158;31/10/15;Luminosity (13);Natus Vincere (16);ovp  Overpass;DreamHack Open Cluj-Napoca 2015;Majors;S
+159;31/10/15;Natus Vincere (16);Luminosity (14);d2  Dust2;DreamHack Open Cluj-Napoca 2015;Majors;S
+160;31/10/15;TSM (8);Ninjas in Pyjamas (16);d2  Dust2;DreamHack Open Cluj-Napoca 2015;Majors;S
+161;31/10/15;Ninjas in Pyjamas (16);TSM (10);trn  Train;DreamHack Open Cluj-Napoca 2015;Majors;S
+162;31/10/15;G2 (19);Virtus.pro (17);trn  Train;DreamHack Open Cluj-Napoca 2015;Majors;S
+163;31/10/15;Virtus.pro (10);G2 (16);cch  Cache;DreamHack Open Cluj-Napoca 2015;Majors;S
+164;31/10/15;fnatic (2);Envy (16);cch  Cache;DreamHack Open Cluj-Napoca 2015;Majors;S
+165;31/10/15;Envy (16);fnatic (9);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+166;31/10/15;Envy (9);fnatic (16);mrg  Mirage;DreamHack Open Cluj-Napoca 2015;Majors;S
+167;30/10/15;Natus Vincere (16);CLG (8);inf  Inferno;DreamHack Open Cluj-Napoca 2015;Majors;S
+168;30/10/15;CLG (16);Natus Vincere (10);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+169;30/10/15;Natus Vincere (16);CLG (9);trn  Train;DreamHack Open Cluj-Napoca 2015;Majors;S
+170;30/10/15;Ninjas in Pyjamas (16);Titan (1);d2  Dust2;DreamHack Open Cluj-Napoca 2015;Majors;S
+171;30/10/15;Titan (14);Ninjas in Pyjamas (16);cch  Cache;DreamHack Open Cluj-Napoca 2015;Majors;S
+172;30/10/15;G2 (16);MOUZ (5);cch  Cache;DreamHack Open Cluj-Napoca 2015;Majors;S
+173;30/10/15;MOUZ (16);G2 (12);inf  Inferno;DreamHack Open Cluj-Napoca 2015;Majors;S
+174;30/10/15;G2 (19);MOUZ (16);mrg  Mirage;DreamHack Open Cluj-Napoca 2015;Majors;S
+175;30/10/15;Cloud9 (12);fnatic (16);ovp  Overpass;DreamHack Open Cluj-Napoca 2015;Majors;S
+176;30/10/15;Cloud9 (6);fnatic (16);d2  Dust2;DreamHack Open Cluj-Napoca 2015;Majors;S
+177;29/10/15;Natus Vincere (9);Envy (16);mrg  Mirage;DreamHack Open Cluj-Napoca 2015;Majors;S
+178;29/10/15;Virtus.pro (16);Titan (7);trn  Train;DreamHack Open Cluj-Napoca 2015;Majors;S
+179;29/10/15;TSM (16);G2 (6);d2  Dust2;DreamHack Open Cluj-Napoca 2015;Majors;S
+180;29/10/15;Luminosity (16);fnatic (13);inf  Inferno;DreamHack Open Cluj-Napoca 2015;Majors;S
+181;29/10/15;Dignitas (14);CLG (16);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+182;29/10/15;Liquid (11);Ninjas in Pyjamas (16);mrg  Mirage;DreamHack Open Cluj-Napoca 2015;Majors;S
+183;29/10/15;FlipSid3 (8);MOUZ (16);ovp  Overpass;DreamHack Open Cluj-Napoca 2015;Majors;S
+184;29/10/15;Vexed (13);Cloud9 (16);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+185;28/10/15;Natus Vincere (16);CLG (12);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+186;28/10/15;Envy (16);Dignitas (6);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+187;28/10/15;Titan (16);Ninjas in Pyjamas (13);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+188;28/10/15;Virtus.pro (19);Liquid (15);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+189;28/10/15;MOUZ (8);G2 (16);inf  Inferno;DreamHack Open Cluj-Napoca 2015;Majors;S
+190;28/10/15;FlipSid3 (6);TSM (16);cch  Cache;DreamHack Open Cluj-Napoca 2015;Majors;S
+191;28/10/15;Luminosity (16);Cloud9 (11);d2  Dust2;DreamHack Open Cluj-Napoca 2015;Majors;S
+192;28/10/15;Vexed (10);fnatic (16);cbl  Cobblestone;DreamHack Open Cluj-Napoca 2015;Majors;S
+193;23/8/15;Envy (7);fnatic (16);cbl  Cobblestone;ESL One Cologne 2015;Majors;S
+194;23/8/15;fnatic (19);Envy (15);d2  Dust2;ESL One Cologne 2015;Majors;S
+195;23/8/15;fnatic (16);Virtus.pro (7);cbl  Cobblestone;ESL One Cologne 2015;Majors;S
+196;23/8/15;Virtus.pro (14);fnatic (16);inf  Inferno;ESL One Cologne 2015;Majors;S
+197;23/8/15;fnatic (6);Virtus.pro (16);mrg  Mirage;ESL One Cologne 2015;Majors;S
+198;23/8/15;TSM (9);Envy (16);inf  Inferno;ESL One Cologne 2015;Majors;S
+199;23/8/15;Envy (8);TSM (16);d2  Dust2;ESL One Cologne 2015;Majors;S
+200;23/8/15;TSM (12);Envy (16);cch  Cache;ESL One Cologne 2015;Majors;S
+201;22/8/15;Luminosity (14);fnatic (16);mrg  Mirage;ESL One Cologne 2015;Majors;S
+202;22/8/15;fnatic (16);Luminosity (5);trn  Train;ESL One Cologne 2015;Majors;S
+203;22/8/15;Virtus.pro (16);Ninjas in Pyjamas (5);inf  Inferno;ESL One Cologne 2015;Majors;S
+204;22/8/15;Ninjas in Pyjamas (14);Virtus.pro (16);trn  Train;ESL One Cologne 2015;Majors;S
+205;22/8/15;Kinguin (8);TSM (16);ovp  Overpass;ESL One Cologne 2015;Majors;S
+206;22/8/15;TSM (16);Kinguin (6);d2  Dust2;ESL One Cologne 2015;Majors;S
+207;22/8/15;Envy (16);Natus Vincere (10);mrg  Mirage;ESL One Cologne 2015;Majors;S
+208;22/8/15;Natus Vincere (13);Envy (16);inf  Inferno;ESL One Cologne 2015;Majors;S
+209;21/8/15;Luminosity (22);FlipSid3 (18);cbl  Cobblestone;ESL One Cologne 2015;Majors;S
+210;21/8/15;MOUZ (14);FlipSid3 (16);cbl  Cobblestone;ESL One Cologne 2015;Majors;S
+211;21/8/15;Ninjas in Pyjamas (16);Renegades (5);inf  Inferno;ESL One Cologne 2015;Majors;S
+212;21/8/15;Renegades (16);Titan (9);mrg  Mirage;ESL One Cologne 2015;Majors;S
+213;21/8/15;Natus Vincere (16);CLG (14);cbl  Cobblestone;ESL One Cologne 2015;Majors;S
+214;21/8/15;CLG (16);eBettle (14);mrg  Mirage;ESL One Cologne 2015;Majors;S
+215;21/8/15;Kinguin (16);Cloud9 (13);d2  Dust2;ESL One Cologne 2015;Majors;S
+216;21/8/15;Immunity (13);Kinguin (16);d2  Dust2;ESL One Cologne 2015;Majors;S
+217;20/8/15;fnatic (16);Natus Vincere (2);inf  Inferno;ESL One Cologne 2015;Majors;S
+218;20/8/15;Virtus.pro (16);Cloud9 (8);cbl  Cobblestone;ESL One Cologne 2015;Majors;S
+219;20/8/15;Natus Vincere (19);Titan (17);ovp  Overpass;ESL One Cologne 2015;Majors;S
+220;20/8/15;MOUZ (10);Cloud9 (16);ovp  Overpass;ESL One Cologne 2015;Majors;S
+221;20/8/15;fnatic (16);eBettle (2);mrg  Mirage;ESL One Cologne 2015;Majors;S
+222;20/8/15;Virtus.pro (16);Immunity (8);cbl  Cobblestone;ESL One Cologne 2015;Majors;S
+223;20/8/15;Envy (19);Luminosity (16);cbl  Cobblestone;ESL One Cologne 2015;Majors;S
+224;20/8/15;Ninjas in Pyjamas (3);TSM (16);cch  Cache;ESL One Cologne 2015;Majors;S
+225;20/8/15;TSM (16);Renegades (11);trn  Train;ESL One Cologne 2015;Majors;S
+226;20/8/15;Luminosity (16);Kinguin (6);ovp  Overpass;ESL One Cologne 2015;Majors;S
+227;20/8/15;Ninjas in Pyjamas (16);CLG (13);d2  Dust2;ESL One Cologne 2015;Majors;S
+228;20/8/15;Envy (16);FlipSid3 (3);inf  Inferno;ESL One Cologne 2015;Majors;S
+229;15/3/15;fnatic (16);Ninjas in Pyjamas (13);inf  Inferno;ESL One Katowice 2015;Majors;S
+230;15/3/15;fnatic (10);Ninjas in Pyjamas (16);cch  Cache;ESL One Katowice 2015;Majors;S
+231;15/3/15;fnatic (16);Ninjas in Pyjamas (14);d2  Dust2;ESL One Katowice 2015;Majors;S
+232;14/3/15;Envy (10);Ninjas in Pyjamas (16);d2  Dust2;ESL One Katowice 2015;Majors;S
+233;14/3/15;Envy (9);Ninjas in Pyjamas (16);cch  Cache;ESL One Katowice 2015;Majors;S
+234;14/3/15;fnatic (16);Virtus.pro (8);mrg  Mirage;ESL One Katowice 2015;Majors;S
+235;14/3/15;Virtus.pro (17);fnatic (19);cbl  Cobblestone;ESL One Katowice 2015;Majors;S
+236;14/3/15;Ninjas in Pyjamas (16);TSM (12);nuke  Nuke;ESL One Katowice 2015;Majors;S
+237;14/3/15;Ninjas in Pyjamas (4);TSM (16);inf  Inferno;ESL One Katowice 2015;Majors;S
+238;14/3/15;TSM (8);Ninjas in Pyjamas (16);d2  Dust2;ESL One Katowice 2015;Majors;S
+239;13/3/15;Virtus.pro (16);Keyd (1);nuke  Nuke;ESL One Katowice 2015;Majors;S
+240;13/3/15;Keyd (19);Virtus.pro (17);ovp  Overpass;ESL One Katowice 2015;Majors;S
+241;13/3/15;Virtus.pro (16);Keyd (4);mrg  Mirage;ESL One Katowice 2015;Majors;S
+242;13/3/15;fnatic (16);PENTA (7);cch  Cache;ESL One Katowice 2015;Majors;S
+243;13/3/15;PENTA (8);fnatic (16);inf  Inferno;ESL One Katowice 2015;Majors;S
+244;13/3/15;Envy (16);Natus Vincere (3);cbl  Cobblestone;ESL One Katowice 2015;Majors;S
+245;13/3/15;Envy (14);Natus Vincere (16);d2  Dust2;ESL One Katowice 2015;Majors;S
+246;13/3/15;Natus Vincere (12);Envy (16);cch  Cache;ESL One Katowice 2015;Majors;S
+247;12/3/15;TSM (16);Cloud9 (8);ovp  Overpass;ESL One Katowice 2015;Majors;S
+248;12/3/15;Virtus.pro (16);Cloud9 (11);inf  Inferno;ESL One Katowice 2015;Majors;S
+249;12/3/15;CLG (8);Keyd (16);d2  Dust2;ESL One Katowice 2015;Majors;S
+250;12/3/15;TSM (16);3DMAX (10);nuke  Nuke;ESL One Katowice 2015;Majors;S
+251;12/3/15;CLG (7);Ninjas in Pyjamas (16);mrg  Mirage;ESL One Katowice 2015;Majors;S
+252;12/3/15;HellRaisers (12);Keyd (16);inf  Inferno;ESL One Katowice 2015;Majors;S
+253;12/3/15;TSM (14);Cloud9 (16);nuke  Nuke;ESL One Katowice 2015;Majors;S
+254;12/3/15;Virtus.pro (16);3DMAX (5);ovp  Overpass;ESL One Katowice 2015;Majors;S
+255;12/3/15;Keyd (9);Ninjas in Pyjamas (16);inf  Inferno;ESL One Katowice 2015;Majors;S
+256;12/3/15;Natus Vincere (16);Vox Eminor (3);inf  Inferno;ESL One Katowice 2015;Majors;S
+257;12/3/15;HellRaisers (14);CLG (16);nuke  Nuke;ESL One Katowice 2015;Majors;S
+258;12/3/15;PENTA (16);LGB (12);d2  Dust2;ESL One Katowice 2015;Majors;S
+259;12/3/15;Natus Vincere (7);fnatic (16);cbl  Cobblestone;ESL One Katowice 2015;Majors;S
+260;12/3/15;Vox Eminor (16);FlipSid3 (2);cch  Cache;ESL One Katowice 2015;Majors;S
+261;12/3/15;PENTA (16);Titan (4);cch  Cache;ESL One Katowice 2015;Majors;S
+262;12/3/15;Envy (16);LGB (8);cch  Cache;ESL One Katowice 2015;Majors;S
+263;12/3/15;Natus Vincere (16);FlipSid3 (2);mrg  Mirage;ESL One Katowice 2015;Majors;S
+264;12/3/15;fnatic (16);Vox Eminor (3);inf  Inferno;ESL One Katowice 2015;Majors;S
+265;12/3/15;LGB (16);PENTA (3);d2  Dust2;ESL One Katowice 2015;Majors;S
+266;12/3/15;Envy (16);Titan (14);cbl  Cobblestone;ESL One Katowice 2015;Majors;S
+267;10/7/16;SK (16);Liquid (6);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+268;10/7/16;Liquid (7);SK (16);trn  Train;ESL One Cologne 2016;Majors;S
+269;9/7/16;Liquid (16);fnatic (13);cch  Cache;ESL One Cologne 2016;Majors;S
+270;9/7/16;fnatic (13);Liquid (16);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+271;9/7/16;Virtus.pro (12);SK (16);mrg  Mirage;ESL One Cologne 2016;Majors;S
+272;9/7/16;SK (16);Virtus.pro (5);nuke  Nuke;ESL One Cologne 2016;Majors;S
+273;9/7/16;Virtus.pro (19);SK (17);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+274;8/7/16;Gambit (3);fnatic (16);cch  Cache;ESL One Cologne 2016;Majors;S
+275;8/7/16;Gambit (5);fnatic (16);trn  Train;ESL One Cologne 2016;Majors;S
+276;8/7/16;Natus Vincere (6);Liquid (16);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+277;8/7/16;Natus Vincere (12);Liquid (16);nuke  Nuke;ESL One Cologne 2016;Majors;S
+278;8/7/16;Liquid (11);Natus Vincere (16);trn  Train;ESL One Cologne 2016;Majors;S
+279;8/7/16;SK (19);FlipSid3 (17);nuke  Nuke;ESL One Cologne 2016;Majors;S
+280;8/7/16;FlipSid3 (7);SK (16);mrg  Mirage;ESL One Cologne 2016;Majors;S
+281;8/7/16;Astralis (15);Virtus.pro (19);trn  Train;ESL One Cologne 2016;Majors;S
+282;8/7/16;Virtus.pro (19);Astralis (17);ovp  Overpass;ESL One Cologne 2016;Majors;S
+283;7/7/16;fnatic (16);FaZe (7);mrg  Mirage;ESL One Cologne 2016;Majors;S
+284;7/7/16;FaZe (9);fnatic (16);cch  Cache;ESL One Cologne 2016;Majors;S
+285;7/7/16;Liquid (16);MOUZ (6);mrg  Mirage;ESL One Cologne 2016;Majors;S
+286;7/7/16;Liquid (16);MOUZ (11);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+287;7/7/16;Ninjas in Pyjamas (11);FlipSid3 (16);mrg  Mirage;ESL One Cologne 2016;Majors;S
+288;7/7/16;FlipSid3 (16);Ninjas in Pyjamas (2);cch  Cache;ESL One Cologne 2016;Majors;S
+289;7/7/16;FlipSid3 (14);Ninjas in Pyjamas (16);ovp  Overpass;ESL One Cologne 2016;Majors;S
+290;7/7/16;Astralis (16);Dignitas (14);cch  Cache;ESL One Cologne 2016;Majors;S
+291;7/7/16;Dignitas (10);Astralis (16);mrg  Mirage;ESL One Cologne 2016;Majors;S
+292;7/7/16;Astralis (16);Dignitas (19);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+293;6/7/16;G2 (13);fnatic (16);trn  Train;ESL One Cologne 2016;Majors;S
+294;6/7/16;SK (16);FaZe (6);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+295;6/7/16;MOUZ (16);Envy (12);trn  Train;ESL One Cologne 2016;Majors;S
+296;6/7/16;Virtus.pro (16);Liquid (12);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+297;6/7/16;FlipSid3 (16);OpTic (13);trn  Train;ESL One Cologne 2016;Majors;S
+298;6/7/16;Natus Vincere (16);Ninjas in Pyjamas (12);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+299;6/7/16;CLG (1);Dignitas (16);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+300;6/7/16;Astralis (6);Gambit (16);d2  Dust2;ESL One Cologne 2016;Majors;S
+301;5/7/16;FaZe (16);fnatic (14);d2  Dust2;ESL One Cologne 2016;Majors;S
+302;5/7/16;SK (16);G2 (11);cbl  Cobblestone;ESL One Cologne 2016;Majors;S
+303;5/7/16;Virtus.pro (16);MOUZ (10);trn  Train;ESL One Cologne 2016;Majors;S
+304;5/7/16;Envy (7);Liquid (16);trn  Train;ESL One Cologne 2016;Majors;S
+305;5/7/16;OpTic (4);Ninjas in Pyjamas (16);d2  Dust2;ESL One Cologne 2016;Majors;S
+306;5/7/16;Natus Vincere (16);FlipSid3 (7);trn  Train;ESL One Cologne 2016;Majors;S
+307;5/7/16;CLG (13);Gambit (16);d2  Dust2;ESL One Cologne 2016;Majors;S
+308;5/7/16;Dignitas (12);Astralis (16);ovp  Overpass;ESL One Cologne 2016;Majors;S
+309;3/4/16;Luminosity (16);Natus Vincere (2);ovp  Overpass;MLG Columbus 2016;Majors;S
+310;3/4/16;Natus Vincere (17);Luminosity (19);mrg  Mirage;MLG Columbus 2016;Majors;S
+311;2/4/16;Liquid (16);Luminosity (19);cch  Cache;MLG Columbus 2016;Majors;S
+312;2/4/16;Liquid (15);Luminosity (19);mrg  Mirage;MLG Columbus 2016;Majors;S
+313;2/4/16;Astralis (5);Natus Vincere (16);d2  Dust2;MLG Columbus 2016;Majors;S
+314;2/4/16;Natus Vincere (16);Astralis (14);inf  Inferno;MLG Columbus 2016;Majors;S
+315;2/4/16;Virtus.pro (11);Luminosity (16);ovp  Overpass;MLG Columbus 2016;Majors;S
+316;2/4/16;Luminosity (16);Virtus.pro (10);cbl  Cobblestone;MLG Columbus 2016;Majors;S
+317;2/4/16;Luminosity (17);Virtus.pro (19);cch  Cache;MLG Columbus 2016;Majors;S
+318;1/4/16;Liquid (16);CLG (6);mrg  Mirage;MLG Columbus 2016;Majors;S
+319;1/4/16;Liquid (16);CLG (13);cch  Cache;MLG Columbus 2016;Majors;S
+320;1/4/16;fnatic (5);Astralis (16);cch  Cache;MLG Columbus 2016;Majors;S
+321;1/4/16;Astralis (16);fnatic (10);ovp  Overpass;MLG Columbus 2016;Majors;S
+322;1/4/16;Ninjas in Pyjamas (10);Natus Vincere (16);mrg  Mirage;MLG Columbus 2016;Majors;S
+323;1/4/16;Natus Vincere (16);Ninjas in Pyjamas (9);inf  Inferno;MLG Columbus 2016;Majors;S
+324;1/4/16;G2 (7);Virtus.pro (16);cbl  Cobblestone;MLG Columbus 2016;Majors;S
+325;1/4/16;Virtus.pro (9);G2 (16);inf  Inferno;MLG Columbus 2016;Majors;S
+326;1/4/16;G2 (9);Virtus.pro (16);trn  Train;MLG Columbus 2016;Majors;S
+327;31/3/16;Gambit (10);CLG (16);mrg  Mirage;MLG Columbus 2016;Majors;S
+328;31/3/16;CLG (16);Gambit (11);cbl  Cobblestone;MLG Columbus 2016;Majors;S
+329;31/3/16;CLG (13);Gambit (16);cch  Cache;MLG Columbus 2016;Majors;S
+330;31/3/16;fnatic (16);FaZe (6);cbl  Cobblestone;MLG Columbus 2016;Majors;S
+331;31/3/16;fnatic (16);FaZe (10);mrg  Mirage;MLG Columbus 2016;Majors;S
+332;31/3/16;Ninjas in Pyjamas (16);MOUZ (9);ovp  Overpass;MLG Columbus 2016;Majors;S
+333;31/3/16;MOUZ (16);Ninjas in Pyjamas (12);cch  Cache;MLG Columbus 2016;Majors;S
+334;31/3/16;MOUZ (5);Ninjas in Pyjamas (16);cbl  Cobblestone;MLG Columbus 2016;Majors;S
+335;31/3/16;Virtus.pro (4);Natus Vincere (16);cbl  Cobblestone;MLG Columbus 2016;Majors;S
+336;31/3/16;CLG (9);Astralis (16);ovp  Overpass;MLG Columbus 2016;Majors;S
+337;30/3/16;fnatic (19);Liquid (22);d2  Dust2;MLG Columbus 2016;Majors;S
+338;30/3/16;Luminosity (16);Ninjas in Pyjamas (5);mrg  Mirage;MLG Columbus 2016;Majors;S
+339;30/3/16;G2 (16);Cloud9 (3);d2  Dust2;MLG Columbus 2016;Majors;S
+340;30/3/16;Gambit (16);Envy (13);cch  Cache;MLG Columbus 2016;Majors;S
+341;30/3/16;Splyce (3);FaZe (16);inf  Inferno;MLG Columbus 2016;Majors;S
+342;30/3/16;FlipSid3 (28);MOUZ (31);cbl  Cobblestone;MLG Columbus 2016;Majors;S
+343;30/3/16;G2 (1);Virtus.pro (16);trn  Train;MLG Columbus 2016;Majors;S
+344;30/3/16;Cloud9 (9);Natus Vincere (16);trn  Train;MLG Columbus 2016;Majors;S
+345;29/3/16;Gambit (10);Astralis (16);trn  Train;MLG Columbus 2016;Majors;S
+346;29/3/16;CLG (16);Envy (8);cbl  Cobblestone;MLG Columbus 2016;Majors;S
+347;29/3/16;Splyce (5);fnatic (16);trn  Train;MLG Columbus 2016;Majors;S
+348;29/3/16;FaZe (11);Liquid (16);cch  Cache;MLG Columbus 2016;Majors;S
+349;29/3/16;Luminosity (16);MOUZ (13);mrg  Mirage;MLG Columbus 2016;Majors;S
+350;29/3/16;FlipSid3 (17);Ninjas in Pyjamas (19);cch  Cache;MLG Columbus 2016;Majors;S
+351;23/7/17;Gambit (16);Immortals (10);inf  Inferno;PGL Major Krakow 2017;Majors;S
+352;23/7/17;Immortals (11);Gambit (16);trn  Train;PGL Major Krakow 2017;Majors;S
+353;23/7/17;Gambit (4);Immortals (16);cbl  Cobblestone;PGL Major Krakow 2017;Majors;S
+354;22/7/17;Immortals (16);Virtus.pro (11);mrg  Mirage;PGL Major Krakow 2017;Majors;S
+355;22/7/17;Virtus.pro (5);Immortals (16);inf  Inferno;PGL Major Krakow 2017;Majors;S
+356;22/7/17;Gambit (16);Astralis (12);trn  Train;PGL Major Krakow 2017;Majors;S
+357;22/7/17;Gambit (8);Astralis (16);inf  Inferno;PGL Major Krakow 2017;Majors;S
+358;22/7/17;Gambit (16);Astralis (10);ovp  Overpass;PGL Major Krakow 2017;Majors;S
+359;22/7/17;North (10);Virtus.pro (16);nuke  Nuke;PGL Major Krakow 2017;Majors;S
+360;22/7/17;Virtus.pro (16);North (9);cbl  Cobblestone;PGL Major Krakow 2017;Majors;S
+361;21/7/17;Immortals (16);BIG (14);trn  Train;PGL Major Krakow 2017;Majors;S
+362;21/7/17;Immortals (16);BIG (7);inf  Inferno;PGL Major Krakow 2017;Majors;S
+363;21/7/17;Immortals (17);BIG (19);cbl  Cobblestone;PGL Major Krakow 2017;Majors;S
+364;21/7/17;SK (6);Astralis (16);ovp  Overpass;PGL Major Krakow 2017;Majors;S
+365;21/7/17;Astralis (16);SK (12);cch  Cache;PGL Major Krakow 2017;Majors;S
+366;21/7/17;Gambit (16);fnatic (12);inf  Inferno;PGL Major Krakow 2017;Majors;S
+367;21/7/17;fnatic (14);Gambit (16);trn  Train;PGL Major Krakow 2017;Majors;S
+368;19/7/17;Immortals (16);FlipSid3 (6);trn  Train;PGL Major Krakow 2017;Majors;S
+369;19/7/17;Cloud9 (10);Virtus.pro (16);trn  Train;PGL Major Krakow 2017;Majors;S
+370;19/7/17;G2 (10);fnatic (16);ovp  Overpass;PGL Major Krakow 2017;Majors;S
+371;19/7/17;SK (16);Immortals (9);ovp  Overpass;PGL Major Krakow 2017;Majors;S
+372;19/7/17;Virtus.pro (14);North (16);mrg  Mirage;PGL Major Krakow 2017;Majors;S
+373;19/7/17;G2 (6);Astralis (16);inf  Inferno;PGL Major Krakow 2017;Majors;S
+374;19/7/17;Natus Vincere (12);fnatic (16);mrg  Mirage;PGL Major Krakow 2017;Majors;S
+375;19/7/17;PENTA (13);FlipSid3 (16);trn  Train;PGL Major Krakow 2017;Majors;S
+376;19/7/17;MOUZ (11);Cloud9 (16);trn  Train;PGL Major Krakow 2017;Majors;S
+377;18/7/17;SK (14);BIG (16);inf  Inferno;PGL Major Krakow 2017;Majors;S
+378;18/7/17;Virtus.pro (11);Gambit (16);trn  Train;PGL Major Krakow 2017;Majors;S
+379;18/7/17;fnatic (14);Astralis (16);nuke  Nuke;PGL Major Krakow 2017;Majors;S
+380;18/7/17;G2 (19);Cloud9 (17);cbl  Cobblestone;PGL Major Krakow 2017;Majors;S
+381;18/7/17;Natus Vincere (10);Immortals (16);ovp  Overpass;PGL Major Krakow 2017;Majors;S
+382;18/7/17;North (19);MOUZ (15);cbl  Cobblestone;PGL Major Krakow 2017;Majors;S
+383;18/7/17;FaZe (10);FlipSid3 (16);mrg  Mirage;PGL Major Krakow 2017;Majors;S
+384;18/7/17;Vega Squadron (14);PENTA (16);mrg  Mirage;PGL Major Krakow 2017;Majors;S
+385;17/7/17;Virtus.pro (16);fnatic (11);cch  Cache;PGL Major Krakow 2017;Majors;S
+386;17/7/17;Astralis (8);SK (16);inf  Inferno;PGL Major Krakow 2017;Majors;S
+387;17/7/17;G2 (6);Gambit (16);cch  Cache;PGL Major Krakow 2017;Majors;S
+388;17/7/17;Cloud9 (11);BIG (16);inf  Inferno;PGL Major Krakow 2017;Majors;S
+389;17/7/17;Vega Squadron (6);Immortals (16);trn  Train;PGL Major Krakow 2017;Majors;S
+390;17/7/17;Natus Vincere (16);FlipSid3 (9);trn  Train;PGL Major Krakow 2017;Majors;S
+391;17/7/17;FaZe (15);MOUZ (19);trn  Train;PGL Major Krakow 2017;Majors;S
+392;17/7/17;North (16);PENTA (9);mrg  Mirage;PGL Major Krakow 2017;Majors;S
+393;16/7/17;Astralis (19);Immortals (17);ovp  Overpass;PGL Major Krakow 2017;Majors;S
+394;16/7/17;Natus Vincere (14);G2 (16);ovp  Overpass;PGL Major Krakow 2017;Majors;S
+395;16/7/17;Cloud9 (16);North (12);mrg  Mirage;PGL Major Krakow 2017;Majors;S
+396;16/7/17;FaZe (8);BIG (16);inf  Inferno;PGL Major Krakow 2017;Majors;S
+397;16/7/17;SK (16);PENTA (13);inf  Inferno;PGL Major Krakow 2017;Majors;S
+398;16/7/17;Vega Squadron (2);Virtus.pro (16);nuke  Nuke;PGL Major Krakow 2017;Majors;S
+399;16/7/17;fnatic (16);FlipSid3 (12);mrg  Mirage;PGL Major Krakow 2017;Majors;S
+400;16/7/17;MOUZ (10);Gambit (16);inf  Inferno;PGL Major Krakow 2017;Majors;S
+401;29/1/17;Astralis (16);Virtus.pro (14);trn  Train;ELEAGUE Major 2017;Majors;S
+402;29/1/17;Virtus.pro (14);Astralis (16);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+403;29/1/17;Astralis (12);Virtus.pro (16);nuke  Nuke;ELEAGUE Major 2017;Majors;S
+404;28/1/17;SK (14);Virtus.pro (16);cbl  Cobblestone;ELEAGUE Major 2017;Majors;S
+405;28/1/17;Virtus.pro (19);SK (17);trn  Train;ELEAGUE Major 2017;Majors;S
+406;28/1/17;fnatic (5);Astralis (16);nuke  Nuke;ELEAGUE Major 2017;Majors;S
+407;28/1/17;Astralis (19);fnatic (16);cch  Cache;ELEAGUE Major 2017;Majors;S
+408;28/1/17;SK (16);FaZe (5);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+409;28/1/17;FaZe (3);SK (16);trn  Train;ELEAGUE Major 2017;Majors;S
+410;28/1/17;SK (7);FaZe (16);mrg  Mirage;ELEAGUE Major 2017;Majors;S
+411;28/1/17;North (13);Virtus.pro (16);cbl  Cobblestone;ELEAGUE Major 2017;Majors;S
+412;28/1/17;North (16);Virtus.pro (12);cch  Cache;ELEAGUE Major 2017;Majors;S
+413;28/1/17;Virtus.pro (16);North (4);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+414;27/1/17;Gambit (7);fnatic (16);d2  Dust2;ELEAGUE Major 2017;Majors;S
+415;27/1/17;fnatic (3);Gambit (16);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+416;27/1/17;Gambit (7);fnatic (16);cch  Cache;ELEAGUE Major 2017;Majors;S
+417;27/1/17;Natus Vincere (10);Astralis (16);d2  Dust2;ELEAGUE Major 2017;Majors;S
+418;27/1/17;Astralis (14);Natus Vincere (16);mrg  Mirage;ELEAGUE Major 2017;Majors;S
+419;27/1/17;Natus Vincere (7);Astralis (16);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+420;26/1/17;Astralis (16);Liquid (3);mrg  Mirage;ELEAGUE Major 2017;Majors;S
+421;26/1/17;Envy (11);FaZe (16);nuke  Nuke;ELEAGUE Major 2017;Majors;S
+422;26/1/17;GODSENT (17);North (19);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+423;25/1/17;FaZe (14);Gambit (16);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+424;25/1/17;Astralis (17);SK (19);d2  Dust2;ELEAGUE Major 2017;Majors;S
+425;25/1/17;OpTic (8);GODSENT (16);cch  Cache;ELEAGUE Major 2017;Majors;S
+426;25/1/17;Liquid (16);MOUZ (4);nuke  Nuke;ELEAGUE Major 2017;Majors;S
+427;25/1/17;fnatic (16);Envy (11);cbl  Cobblestone;ELEAGUE Major 2017;Majors;S
+428;25/1/17;G2 (9);North (16);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+429;25/1/17;OpTic (16);FlipSid3 (13);trn  Train;ELEAGUE Major 2017;Majors;S
+430;24/1/17;FaZe (22);Liquid (18);nuke  Nuke;ELEAGUE Major 2017;Majors;S
+431;24/1/17;Natus Vincere (16);SK (3);d2  Dust2;ELEAGUE Major 2017;Majors;S
+432;24/1/17;G2 (5);Astralis (16);trn  Train;ELEAGUE Major 2017;Majors;S
+433;24/1/17;Virtus.pro (16);Gambit (10);trn  Train;ELEAGUE Major 2017;Majors;S
+434;24/1/17;HellRaisers (15);North (19);mrg  Mirage;ELEAGUE Major 2017;Majors;S
+435;24/1/17;Envy (16);GODSENT (3);cch  Cache;ELEAGUE Major 2017;Majors;S
+436;24/1/17;MOUZ (11);fnatic (16);d2  Dust2;ELEAGUE Major 2017;Majors;S
+437;24/1/17;G2 (14);Virtus.pro (16);nuke  Nuke;ELEAGUE Major 2017;Majors;S
+438;24/1/17;Gambit (16);GODSENT (9);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+439;23/1/17;Astralis (16);OpTic (12);trn  Train;ELEAGUE Major 2017;Majors;S
+440;23/1/17;fnatic (16);North (13);cbl  Cobblestone;ELEAGUE Major 2017;Majors;S
+441;23/1/17;Liquid (16);FlipSid3 (14);ovp  Overpass;ELEAGUE Major 2017;Majors;S
+442;23/1/17;SK (19);FaZe (17);mrg  Mirage;ELEAGUE Major 2017;Majors;S
+443;23/1/17;Natus Vincere (16);Envy (6);cbl  Cobblestone;ELEAGUE Major 2017;Majors;S
+444;23/1/17;MOUZ (16);HellRaisers (7);cch  Cache;ELEAGUE Major 2017;Majors;S
+445;23/1/17;FaZe (16);FlipSid3 (9);nuke  Nuke;ELEAGUE Major 2017;Majors;S
+446;22/1/17;GODSENT (16);Astralis (6);trn  Train;ELEAGUE Major 2017;Majors;S
+447;22/1/17;Liquid (21);Envy (25);cch  Cache;ELEAGUE Major 2017;Majors;S
+448;22/1/17;Natus Vincere (16);MOUZ (3);cbl  Cobblestone;ELEAGUE Major 2017;Majors;S
+449;22/1/17;Virtus.pro (16);OpTic (13);cbl  Cobblestone;ELEAGUE Major 2017;Majors;S
+450;22/1/17;HellRaisers (7);SK (16);mrg  Mirage;ELEAGUE Major 2017;Majors;S
+451;22/1/17;G2 (16);fnatic (10);cch  Cache;ELEAGUE Major 2017;Majors;S
+452;22/1/17;North (8);Gambit (16);cbl  Cobblestone;ELEAGUE Major 2017;Majors;S
+453;23/9/18;Astralis (16);Natus Vincere (9);ovp  Overpass;FACEIT Major 2018;Majors;S
+454;23/9/18;Natus Vincere (6);Astralis (16);nuke  Nuke;FACEIT Major 2018;Majors;S
+455;22/9/18;Astralis (16);Liquid (7);mrg  Mirage;FACEIT Major 2018;Majors;S
+456;22/9/18;Liquid (8);Astralis (16);nuke  Nuke;FACEIT Major 2018;Majors;S
+457;22/9/18;Natus Vincere (16);MIBR (5);d2  Dust2;FACEIT Major 2018;Majors;S
+458;22/9/18;MIBR (10);Natus Vincere (16);ovp  Overpass;FACEIT Major 2018;Majors;S
+459;21/9/18;FaZe (12);Astralis (16);inf  Inferno;FACEIT Major 2018;Majors;S
+460;21/9/18;Astralis (16);FaZe (14);mrg  Mirage;FACEIT Major 2018;Majors;S
+461;21/9/18;HellRaisers (8);Liquid (16);cch  Cache;FACEIT Major 2018;Majors;S
+462;21/9/18;HellRaisers (16);Liquid (10);d2  Dust2;FACEIT Major 2018;Majors;S
+463;21/9/18;HellRaisers (10);Liquid (16);mrg  Mirage;FACEIT Major 2018;Majors;S
+464;20/9/18;MIBR (16);Complexity (12);inf  Inferno;FACEIT Major 2018;Majors;S
+465;20/9/18;Complexity (4);MIBR (16);trn  Train;FACEIT Major 2018;Majors;S
+466;20/9/18;BIG (6);Natus Vincere (16);nuke  Nuke;FACEIT Major 2018;Majors;S
+467;20/9/18;Natus Vincere (16);BIG (2);d2  Dust2;FACEIT Major 2018;Majors;S
+468;16/9/18;Ninjas in Pyjamas (11);MIBR (16);trn  Train;FACEIT Major 2018;Majors;S
+469;16/9/18;MIBR (10);Ninjas in Pyjamas (16);mrg  Mirage;FACEIT Major 2018;Majors;S
+470;16/9/18;MIBR (19);Ninjas in Pyjamas (15);cch  Cache;FACEIT Major 2018;Majors;S
+471;16/9/18;G2 (22);FaZe (25);d2  Dust2;FACEIT Major 2018;Majors;S
+472;16/9/18;G2 (2);FaZe (16);mrg  Mirage;FACEIT Major 2018;Majors;S
+473;16/9/18;HellRaisers (16);fnatic (2);cch  Cache;FACEIT Major 2018;Majors;S
+474;16/9/18;fnatic (9);HellRaisers (16);d2  Dust2;FACEIT Major 2018;Majors;S
+475;16/9/18;fnatic (19);HellRaisers (17);mrg  Mirage;FACEIT Major 2018;Majors;S
+476;15/9/18;Astralis (16);MIBR (0);d2  Dust2;FACEIT Major 2018;Majors;S
+477;15/9/18;G2 (22);Cloud9 (19);inf  Inferno;FACEIT Major 2018;Majors;S
+478;15/9/18;Natus Vincere (16);fnatic (9);mrg  Mirage;FACEIT Major 2018;Majors;S
+479;15/9/18;TYLOO (4);FaZe (16);mrg  Mirage;FACEIT Major 2018;Majors;S
+480;15/9/18;Ninjas in Pyjamas (16);Vega Squadron (11);trn  Train;FACEIT Major 2018;Majors;S
+481;15/9/18;HellRaisers (9);BIG (16);trn  Train;FACEIT Major 2018;Majors;S
+482;14/9/18;MOUZ (8);FaZe (16);mrg  Mirage;FACEIT Major 2018;Majors;S
+483;14/9/18;Astralis (15);Liquid (19);inf  Inferno;FACEIT Major 2018;Majors;S
+484;14/9/18;MIBR (16);G2 (4);inf  Inferno;FACEIT Major 2018;Majors;S
+485;14/9/18;Natus Vincere (16);Ninjas in Pyjamas (6);trn  Train;FACEIT Major 2018;Majors;S
+486;14/9/18;BIG (8);Complexity (16);nuke  Nuke;FACEIT Major 2018;Majors;S
+487;14/9/18;Cloud9 (19);Winstrike (16);inf  Inferno;FACEIT Major 2018;Majors;S
+488;14/9/18;TYLOO (10);HellRaisers (16);ovp  Overpass;FACEIT Major 2018;Majors;S
+489;14/9/18;fnatic (16);Vega Squadron (14);inf  Inferno;FACEIT Major 2018;Majors;S
+490;13/9/18;MOUZ (6);MIBR (16);d2  Dust2;FACEIT Major 2018;Majors;S
+491;13/9/18;FaZe (12);Natus Vincere (16);ovp  Overpass;FACEIT Major 2018;Majors;S
+492;13/9/18;Ninjas in Pyjamas (10);Liquid (16);mrg  Mirage;FACEIT Major 2018;Majors;S
+493;13/9/18;G2 (11);Complexity (16);cch  Cache;FACEIT Major 2018;Majors;S
+494;13/9/18;Cloud9 (16);HellRaisers (19);ovp  Overpass;FACEIT Major 2018;Majors;S
+495;13/9/18;Astralis (16);Vega Squadron (4);inf  Inferno;FACEIT Major 2018;Majors;S
+496;13/9/18;fnatic (16);Winstrike (7);inf  Inferno;FACEIT Major 2018;Majors;S
+497;13/9/18;BIG (16);TYLOO (7);trn  Train;FACEIT Major 2018;Majors;S
+498;12/9/18;Vega Squadron (16);Cloud9 (4);mrg  Mirage;FACEIT Major 2018;Majors;S
+499;12/9/18;Astralis (16);Natus Vincere (14);inf  Inferno;FACEIT Major 2018;Majors;S
+500;12/9/18;MOUZ (12);Ninjas in Pyjamas (16);mrg  Mirage;FACEIT Major 2018;Majors;S
+501;12/9/18;MIBR (13);TYLOO (16);inf  Inferno;FACEIT Major 2018;Majors;S
+502;12/9/18;Complexity (16);fnatic (4);inf  Inferno;FACEIT Major 2018;Majors;S
+503;12/9/18;BIG (16);FaZe (5);d2  Dust2;FACEIT Major 2018;Majors;S
+504;12/9/18;Liquid (16);Winstrike (7);mrg  Mirage;FACEIT Major 2018;Majors;S
+505;12/9/18;G2 (22);HellRaisers (20);d2  Dust2;FACEIT Major 2018;Majors;S
+506;28/1/18;FaZe (19);Cloud9 (22);inf  Inferno;ELEAGUE Major 2018;Majors;S
+507;28/1/18;Cloud9 (16);FaZe (10);ovp  Overpass;ELEAGUE Major 2018;Majors;S
+508;28/1/18;FaZe (16);Cloud9 (14);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+509;28/1/18;Cloud9 (16);SK (9);inf  Inferno;ELEAGUE Major 2018;Majors;S
+510;28/1/18;Cloud9 (8);SK (16);cbl  Cobblestone;ELEAGUE Major 2018;Majors;S
+511;28/1/18;SK (3);Cloud9 (16);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+512;27/1/18;Natus Vincere (7);FaZe (16);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+513;27/1/18;FaZe (16);Natus Vincere (9);inf  Inferno;ELEAGUE Major 2018;Majors;S
+514;27/1/18;SK (16);fnatic (12);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+515;27/1/18;fnatic (14);SK (16);ovp  Overpass;ELEAGUE Major 2018;Majors;S
+516;27/1/18;SK (19);fnatic (22);inf  Inferno;ELEAGUE Major 2018;Majors;S
+517;26/1/18;Cloud9 (16);G2 (7);ovp  Overpass;ELEAGUE Major 2018;Majors;S
+518;26/1/18;G2 (8);Cloud9 (16);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+519;26/1/18;Quantum Bellator Fire (7);Natus Vincere (16);inf  Inferno;ELEAGUE Major 2018;Majors;S
+520;26/1/18;Natus Vincere (16);Quantum Bellator Fire (4);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+521;26/1/18;MOUZ (9);FaZe (16);cch  Cache;ELEAGUE Major 2018;Majors;S
+522;26/1/18;FaZe (19);MOUZ (16);nuke  Nuke;ELEAGUE Major 2018;Majors;S
+523;23/1/18;MOUZ (16);Space Soldiers (13);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+524;23/1/18;Cloud9 (16);Vega Squadron (4);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+525;23/1/18;Gambit (2);fnatic (16);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+526;22/1/18;Natus Vincere (16);fnatic (7);inf  Inferno;ELEAGUE Major 2018;Majors;S
+527;22/1/18;SK (16);Gambit (10);ovp  Overpass;ELEAGUE Major 2018;Majors;S
+528;22/1/18;Liquid (12);Vega Squadron (16);inf  Inferno;ELEAGUE Major 2018;Majors;S
+529;22/1/18;Astralis (6);Cloud9 (16);trn  Train;ELEAGUE Major 2018;Majors;S
+530;22/1/18;MOUZ (14);Quantum Bellator Fire (16);trn  Train;ELEAGUE Major 2018;Majors;S
+531;22/1/18;BIG (8);Space Soldiers (16);cbl  Cobblestone;ELEAGUE Major 2018;Majors;S
+532;22/1/18;Gambit (16);Space Soldiers (13);trn  Train;ELEAGUE Major 2018;Majors;S
+533;21/1/18;Cloud9 (16);Virtus.pro (7);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+534;21/1/18;FaZe (16);SK (12);cch  Cache;ELEAGUE Major 2018;Majors;S
+535;21/1/18;BIG (16);North (12);cbl  Cobblestone;ELEAGUE Major 2018;Majors;S
+536;21/1/18;fnatic (16);Astralis (8);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+537;21/1/18;Quantum Bellator Fire (4);G2 (16);cch  Cache;ELEAGUE Major 2018;Majors;S
+538;21/1/18;Liquid (9);Natus Vincere (16);ovp  Overpass;ELEAGUE Major 2018;Majors;S
+539;21/1/18;MOUZ (16);Vega Squadron (3);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+540;21/1/18;Astralis (16);North (14);trn  Train;ELEAGUE Major 2018;Majors;S
+541;20/1/18;Natus Vincere (16);BIG (1);inf  Inferno;ELEAGUE Major 2018;Majors;S
+542;20/1/18;Virtus.pro (6);fnatic (16);inf  Inferno;ELEAGUE Major 2018;Majors;S
+543;20/1/18;MOUZ (12);SK (16);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+544;20/1/18;G2 (16);Liquid (8);inf  Inferno;ELEAGUE Major 2018;Majors;S
+545;20/1/18;FaZe (16);Vega Squadron (3);trn  Train;ELEAGUE Major 2018;Majors;S
+546;20/1/18;Cloud9 (13);Space Soldiers (16);cbl  Cobblestone;ELEAGUE Major 2018;Majors;S
+547;20/1/18;Quantum Bellator Fire (19);Gambit (16);inf  Inferno;ELEAGUE Major 2018;Majors;S
+548;20/1/18;Space Soldiers (13);SK (16);mrg  Mirage;ELEAGUE Major 2018;Majors;S
+549;19/1/18;Natus Vincere (5);Gambit (16);nuke  Nuke;ELEAGUE Major 2018;Majors;S
+550;19/1/18;G2 (16);Cloud9 (8);cch  Cache;ELEAGUE Major 2018;Majors;S
+551;19/1/18;Astralis (2);MOUZ (16);cch  Cache;ELEAGUE Major 2018;Majors;S
+552;19/1/18;fnatic (8);FaZe (16);cch  Cache;ELEAGUE Major 2018;Majors;S
+553;19/1/18;Liquid (16);BIG (5);inf  Inferno;ELEAGUE Major 2018;Majors;S
+554;19/1/18;Virtus.pro (3);Quantum Bellator Fire (16);cch  Cache;ELEAGUE Major 2018;Majors;S
+555;19/1/18;Vega Squadron (16);North (10);ovp  Overpass;ELEAGUE Major 2018;Majors;S
+556;8/9/19;Astralis (16);AVANGAR (5);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+557;8/9/19;AVANGAR (6);Astralis (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+558;7/9/19;NRG (9);Astralis (16);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+559;7/9/19;Astralis (16);NRG (10);trn  Train;StarLadder Major Berlin 2019;Majors;S
+560;7/9/19;Renegades (6);AVANGAR (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+561;7/9/19;AVANGAR (22);Renegades (19);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+562;6/9/19;Astralis (16);Liquid (13);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+563;6/9/19;Liquid (8);Astralis (16);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+564;6/9/19;NRG (19);Natus Vincere (17);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+565;6/9/19;Natus Vincere (12);NRG (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+566;5/9/19;Vitality (10);AVANGAR (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+567;5/9/19;Vitality (16);AVANGAR (11);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+568;5/9/19;AVANGAR (16);Vitality (9);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+569;5/9/19;Renegades (16);ENCE (12);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+570;5/9/19;ENCE (5);Renegades (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+571;1/9/19;Natus Vincere (16);CR4ZY (4);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+572;1/9/19;CR4ZY (12);Natus Vincere (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+573;1/9/19;Natus Vincere (11);CR4ZY (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+574;1/9/19;MOUZ (20);Liquid (22);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+575;1/9/19;MOUZ (17);Liquid (19);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+576;1/9/19;G2 (9);Renegades (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+577;1/9/19;Renegades (11);G2 (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+578;1/9/19;Renegades (16);G2 (11);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+579;31/8/19;North (6);Liquid (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+580;31/8/19;North (12);Liquid (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+581;31/8/19;CR4ZY (5);Astralis (16);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+582;31/8/19;CR4ZY (31);Astralis (29);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+583;31/8/19;CR4ZY (11);Astralis (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+584;31/8/19;MOUZ (10);Vitality (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+585;31/8/19;Vitality (16);MOUZ (5);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+586;31/8/19;FaZe (14);Renegades (16);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+587;31/8/19;Renegades (3);FaZe (16);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+588;31/8/19;FaZe (19);Renegades (22);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+589;31/8/19;MIBR (4);Natus Vincere (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+590;31/8/19;Natus Vincere (16);MIBR (11);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+591;31/8/19;AVANGAR (16);G2 (9);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+592;31/8/19;G2 (11);AVANGAR (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+593;31/8/19;G2 (16);AVANGAR (9);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+594;30/8/19;North (16);Ninjas in Pyjamas (4);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+595;30/8/19;Ninjas in Pyjamas (8);North (16);trn  Train;StarLadder Major Berlin 2019;Majors;S
+596;30/8/19;NRG (16);Astralis (4);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+597;30/8/19;Astralis (28);NRG (31);trn  Train;StarLadder Major Berlin 2019;Majors;S
+598;30/8/19;Renegades (16);DreamEaters (8);trn  Train;StarLadder Major Berlin 2019;Majors;S
+599;30/8/19;DreamEaters (10);Renegades (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+600;30/8/19;ENCE (16);Vitality (7);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+601;30/8/19;Vitality (10);ENCE (16);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+602;30/8/19;FaZe (9);CR4ZY (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+603;30/8/19;MIBR (4);G2 (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+604;30/8/19;AVANGAR (22);Liquid (18);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+605;30/8/19;Natus Vincere (17);MOUZ (19);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+606;29/8/19;Astralis (16);G2 (7);nuke  Nuke;StarLadder Major Berlin 2019;Majors;S
+607;29/8/19;MIBR (8);ENCE (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+608;29/8/19;Vitality (16);FaZe (7);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+609;29/8/19;Liquid (9);NRG (16);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+610;29/8/19;North (13);MOUZ (16);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+611;29/8/19;Ninjas in Pyjamas (10);CR4ZY (16);trn  Train;StarLadder Major Berlin 2019;Majors;S
+612;29/8/19;Natus Vincere (16);DreamEaters (7);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+613;29/8/19;Renegades (13);AVANGAR (16);vtg  Vertigo;StarLadder Major Berlin 2019;Majors;S
+614;28/8/19;MIBR (16);Ninjas in Pyjamas (12);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+615;28/8/19;Natus Vincere (17);G2 (19);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+616;28/8/19;FaZe (16);MOUZ (8);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+617;28/8/19;Vitality (16);North (9);inf  Inferno;StarLadder Major Berlin 2019;Majors;S
+618;28/8/19;CR4ZY (9);Liquid (16);mrg  Mirage;StarLadder Major Berlin 2019;Majors;S
+619;28/8/19;NRG (16);Renegades (14);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+620;28/8/19;Astralis (16);DreamEaters (9);d2  Dust2;StarLadder Major Berlin 2019;Majors;S
+621;28/8/19;ENCE (16);AVANGAR (5);ovp  Overpass;StarLadder Major Berlin 2019;Majors;S
+622;3/3/19;ENCE (4);Astralis (16);inf  Inferno;IEM Katowice 2019;Majors;S
+623;3/3/19;Astralis (16);ENCE (11);trn  Train;IEM Katowice 2019;Majors;S
+624;2/3/19;MIBR (7);Astralis (16);inf  Inferno;IEM Katowice 2019;Majors;S
+625;2/3/19;Astralis (16);MIBR (14);ovp  Overpass;IEM Katowice 2019;Majors;S
+626;2/3/19;Natus Vincere (14);ENCE (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+627;2/3/19;ENCE (3);Natus Vincere (16);d2  Dust2;IEM Katowice 2019;Majors;S
+628;2/3/19;Natus Vincere (14);ENCE (16);trn  Train;IEM Katowice 2019;Majors;S
+629;1/3/19;Ninjas in Pyjamas (14);Astralis (16);d2  Dust2;IEM Katowice 2019;Majors;S
+630;1/3/19;Astralis (16);Ninjas in Pyjamas (2);mrg  Mirage;IEM Katowice 2019;Majors;S
+631;1/3/19;Renegades (12);MIBR (16);trn  Train;IEM Katowice 2019;Majors;S
+632;1/3/19;MIBR (16);Renegades (6);d2  Dust2;IEM Katowice 2019;Majors;S
+633;28/2/19;ENCE (19);Liquid (16);inf  Inferno;IEM Katowice 2019;Majors;S
+634;28/2/19;Liquid (11);ENCE (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+635;28/2/19;FaZe (7);Natus Vincere (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+636;28/2/19;Natus Vincere (16);FaZe (13);inf  Inferno;IEM Katowice 2019;Majors;S
+637;24/2/19;Cloud9 (9);FaZe (16);d2  Dust2;IEM Katowice 2019;Majors;S
+638;24/2/19;FaZe (16);Cloud9 (14);cch  Cache;IEM Katowice 2019;Majors;S
+639;24/2/19;Ninjas in Pyjamas (16);Vitality (7);mrg  Mirage;IEM Katowice 2019;Majors;S
+640;24/2/19;Vitality (16);Ninjas in Pyjamas (8);ovp  Overpass;IEM Katowice 2019;Majors;S
+641;24/2/19;Ninjas in Pyjamas (16);Vitality (7);cch  Cache;IEM Katowice 2019;Majors;S
+642;24/2/19;AVANGAR (7);ENCE (16);trn  Train;IEM Katowice 2019;Majors;S
+643;24/2/19;ENCE (16);AVANGAR (12);mrg  Mirage;IEM Katowice 2019;Majors;S
+644;23/2/19;HellRaisers (12);Cloud9 (16);cch  Cache;IEM Katowice 2019;Majors;S
+645;23/2/19;Cloud9 (16);HellRaisers (8);inf  Inferno;IEM Katowice 2019;Majors;S
+646;23/2/19;FaZe (16);Complexity (14);d2  Dust2;IEM Katowice 2019;Majors;S
+647;23/2/19;Complexity (11);FaZe (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+648;23/2/19;FaZe (8);Complexity (16);cch  Cache;IEM Katowice 2019;Majors;S
+649;23/2/19;G2 (10);ENCE (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+650;23/2/19;ENCE (19);G2 (17);d2  Dust2;IEM Katowice 2019;Majors;S
+651;22/2/19;Ninjas in Pyjamas (14);MIBR (16);inf  Inferno;IEM Katowice 2019;Majors;S
+652;22/2/19;MIBR (16);Ninjas in Pyjamas (6);trn  Train;IEM Katowice 2019;Majors;S
+653;22/2/19;AVANGAR (11);Natus Vincere (16);trn  Train;IEM Katowice 2019;Majors;S
+654;22/2/19;Natus Vincere (16);AVANGAR (6);d2  Dust2;IEM Katowice 2019;Majors;S
+655;22/2/19;Renegades (16);Vitality (12);inf  Inferno;IEM Katowice 2019;Majors;S
+656;22/2/19;Vitality (16);Renegades (11);cch  Cache;IEM Katowice 2019;Majors;S
+657;22/2/19;Vitality (5);Renegades (16);d2  Dust2;IEM Katowice 2019;Majors;S
+658;21/2/19;Liquid (16);Natus Vincere (9);d2  Dust2;IEM Katowice 2019;Majors;S
+659;21/2/19;Liquid (16);Natus Vincere (14);mrg  Mirage;IEM Katowice 2019;Majors;S
+660;21/2/19;NRG (16);Complexity (19);cch  Cache;IEM Katowice 2019;Majors;S
+661;21/2/19;Complexity (22);NRG (19);nuke  Nuke;IEM Katowice 2019;Majors;S
+662;21/2/19;Astralis (16);Renegades (2);inf  Inferno;IEM Katowice 2019;Majors;S
+663;21/2/19;Renegades (9);Astralis (16);nuke  Nuke;IEM Katowice 2019;Majors;S
+664;21/2/19;Astralis (17);Renegades (19);mrg  Mirage;IEM Katowice 2019;Majors;S
+665;21/2/19;ENCE (16);BIG (10);ovp  Overpass;IEM Katowice 2019;Majors;S
+666;21/2/19;BIG (14);ENCE (16);trn  Train;IEM Katowice 2019;Majors;S
+667;21/2/19;ENCE (5);BIG (16);d2  Dust2;IEM Katowice 2019;Majors;S
+668;21/2/19;Vitality (16);Cloud9 (14);mrg  Mirage;IEM Katowice 2019;Majors;S
+669;21/2/19;Ninjas in Pyjamas (16);HellRaisers (5);ovp  Overpass;IEM Katowice 2019;Majors;S
+670;21/2/19;FaZe (13);AVANGAR (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+671;21/2/19;MIBR (16);G2 (12);inf  Inferno;IEM Katowice 2019;Majors;S
+672;21/2/19;Liquid (16);Ninjas in Pyjamas (13);ovp  Overpass;IEM Katowice 2019;Majors;S
+673;20/2/19;Astralis (16);Cloud9 (0);trn  Train;IEM Katowice 2019;Majors;S
+674;20/2/19;Natus Vincere (25);Vitality (22);mrg  Mirage;IEM Katowice 2019;Majors;S
+675;20/2/19;FaZe (14);Renegades (16);inf  Inferno;IEM Katowice 2019;Majors;S
+676;20/2/19;AVANGAR (16);NRG (13);ovp  Overpass;IEM Katowice 2019;Majors;S
+677;20/2/19;MIBR (16);Complexity (9);mrg  Mirage;IEM Katowice 2019;Majors;S
+678;20/2/19;ENCE (12);HellRaisers (16);d2  Dust2;IEM Katowice 2019;Majors;S
+679;20/2/19;BIG (13);G2 (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+680;20/2/19;Cloud9 (16);MIBR (3);inf  Inferno;IEM Katowice 2019;Majors;S
+681;20/2/19;Complexity (6);Astralis (16);nuke  Nuke;IEM Katowice 2019;Majors;S
+682;20/2/19;Ninjas in Pyjamas (16);NRG (14);nuke  Nuke;IEM Katowice 2019;Majors;S
+683;20/2/19;AVANGAR (12);Liquid (16);ovp  Overpass;IEM Katowice 2019;Majors;S
+684;20/2/19;Natus Vincere (16);G2 (7);inf  Inferno;IEM Katowice 2019;Majors;S
+685;20/2/19;HellRaisers (4);FaZe (16);trn  Train;IEM Katowice 2019;Majors;S
+686;20/2/19;ENCE (13);Renegades (16);inf  Inferno;IEM Katowice 2019;Majors;S
+687;20/2/19;BIG (11);Vitality (16);mrg  Mirage;IEM Katowice 2019;Majors;S
+688;7/11/21;G2 (19);Natus Vincere (22);nuke  Nuke;PGL Major Stockholm 2021;Majors;S
+689;7/11/21;Natus Vincere (16);G2 (11);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+690;6/11/21;Natus Vincere (16);Gambit (3);mrg  Mirage;PGL Major Stockholm 2021;Majors;S
+691;6/11/21;Natus Vincere (16);Gambit (8);ovp  Overpass;PGL Major Stockholm 2021;Majors;S
+692;6/11/21;G2 (19);Heroic (15);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+693;6/11/21;Heroic (10);G2 (16);mrg  Mirage;PGL Major Stockholm 2021;Majors;S
+694;6/11/21;G2 (12);Heroic (16);nuke  Nuke;PGL Major Stockholm 2021;Majors;S
+695;5/11/21;Vitality (13);Natus Vincere (16);nuke  Nuke;PGL Major Stockholm 2021;Majors;S
+696;5/11/21;Natus Vincere (16);Vitality (11);d2  Dust2;PGL Major Stockholm 2021;Majors;S
+697;5/11/21;FURIA (10);Gambit (16);ovp  Overpass;PGL Major Stockholm 2021;Majors;S
+698;5/11/21;Gambit (19);FURIA (17);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+699;4/11/21;Ninjas in Pyjamas (11);G2 (16);mrg  Mirage;PGL Major Stockholm 2021;Majors;S
+700;4/11/21;G2 (16);Ninjas in Pyjamas (11);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+701;4/11/21;Heroic (16);Virtus.pro (12);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+702;4/11/21;Virtus.pro (16);Heroic (13);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+703;4/11/21;Heroic (16);Virtus.pro (10);mrg  Mirage;PGL Major Stockholm 2021;Majors;S
+704;2/11/21;Ninjas in Pyjamas (19);Copenhagen Flames (17);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+705;2/11/21;Copenhagen Flames (13);Ninjas in Pyjamas (16);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+706;2/11/21;Ninjas in Pyjamas (10);Copenhagen Flames (16);nuke  Nuke;PGL Major Stockholm 2021;Majors;S
+707;2/11/21;FaZe (11);Virtus.pro (16);ovp  Overpass;PGL Major Stockholm 2021;Majors;S
+708;2/11/21;Virtus.pro (16);FaZe (14);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+709;2/11/21;FaZe (16);Virtus.pro (13);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+710;2/11/21;Vitality (16);Entropiq (5);d2  Dust2;PGL Major Stockholm 2021;Majors;S
+711;2/11/21;Entropiq (16);Vitality (13);ovp  Overpass;PGL Major Stockholm 2021;Majors;S
+712;2/11/21;Vitality (16);Entropiq (14);mrg  Mirage;PGL Major Stockholm 2021;Majors;S
+713;1/11/21;Virtus.pro (22);MOUZ (18);vtg  Vertigo;PGL Major Stockholm 2021;Majors;S
+714;1/11/21;MOUZ (3);Virtus.pro (16);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+715;1/11/21;Virtus.pro (9);MOUZ (16);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+716;1/11/21;Copenhagen Flames (11);Heroic (16);ovp  Overpass;PGL Major Stockholm 2021;Majors;S
+717;1/11/21;Heroic (13);Copenhagen Flames (16);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+718;1/11/21;Copenhagen Flames (4);Heroic (16);nuke  Nuke;PGL Major Stockholm 2021;Majors;S
+719;1/11/21;Gambit (16);Ninjas in Pyjamas (6);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+720;1/11/21;Ninjas in Pyjamas (13);Gambit (16);d2  Dust2;PGL Major Stockholm 2021;Majors;S
+721;1/11/21;Vitality (16);Astralis (13);d2  Dust2;PGL Major Stockholm 2021;Majors;S
+722;1/11/21;Astralis (16);Vitality (14);vtg  Vertigo;PGL Major Stockholm 2021;Majors;S
+723;1/11/21;Vitality (16);Astralis (10);nuke  Nuke;PGL Major Stockholm 2021;Majors;S
+724;1/11/21;FURIA (16);Entropiq (12);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+725;1/11/21;Entropiq (16);FURIA (8);nuke  Nuke;PGL Major Stockholm 2021;Majors;S
+726;1/11/21;FURIA (16);Entropiq (6);vtg  Vertigo;PGL Major Stockholm 2021;Majors;S
+727;1/11/21;Liquid (19);FaZe (22);mrg  Mirage;PGL Major Stockholm 2021;Majors;S
+728;1/11/21;FaZe (16);Liquid (8);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+729;31/10/21;ENCE (10);MOUZ (16);vtg  Vertigo;PGL Major Stockholm 2021;Majors;S
+730;31/10/21;MOUZ (16);ENCE (6);mrg  Mirage;PGL Major Stockholm 2021;Majors;S
+731;31/10/21;Natus Vincere (16);Ninjas in Pyjamas (9);ovp  Overpass;PGL Major Stockholm 2021;Majors;S
+732;31/10/21;Ninjas in Pyjamas (9);Natus Vincere (16);nuke  Nuke;PGL Major Stockholm 2021;Majors;S
+733;31/10/21;Vitality (16);Evil Geniuses (12);d2  Dust2;PGL Major Stockholm 2021;Majors;S
+734;31/10/21;Evil Geniuses (5);Vitality (16);vtg  Vertigo;PGL Major Stockholm 2021;Majors;S
+735;31/10/21;Vitality (13);Evil Geniuses (16);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+736;31/10/21;G2 (16);Entropiq (8);d2  Dust2;PGL Major Stockholm 2021;Majors;S
+737;31/10/21;G2 (16);Entropiq (14);mrg  Mirage;PGL Major Stockholm 2021;Majors;S
+738;31/10/21;Heroic (16);Astralis (7);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+739;31/10/21;FURIA (16);Liquid (9);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+740;31/10/21;FaZe (6);Copenhagen Flames (16);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+741;31/10/21;Virtus.pro (14);Gambit (16);vtg  Vertigo;PGL Major Stockholm 2021;Majors;S
+742;30/10/21;Ninjas in Pyjamas (16);Astralis (1);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+743;30/10/21;MOUZ (9);FURIA (16);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+744;30/10/21;Natus Vincere (16);Virtus.pro (4);ovp  Overpass;PGL Major Stockholm 2021;Majors;S
+745;30/10/21;Vitality (12);Heroic (16);ovp  Overpass;PGL Major Stockholm 2021;Majors;S
+746;30/10/21;Gambit (9);Entropiq (16);vtg  Vertigo;PGL Major Stockholm 2021;Majors;S
+747;30/10/21;ENCE (8);Liquid (16);d2  Dust2;PGL Major Stockholm 2021;Majors;S
+748;30/10/21;FaZe (7);G2 (16);mrg  Mirage;PGL Major Stockholm 2021;Majors;S
+749;30/10/21;Copenhagen Flames (16);Evil Geniuses (2);nuke  Nuke;PGL Major Stockholm 2021;Majors;S
+750;30/10/21;Astralis (16);FURIA (10);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+751;30/10/21;Ninjas in Pyjamas (16);MOUZ (12);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+752;30/10/21;Natus Vincere (16);Heroic (11);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+753;30/10/21;Virtus.pro (16);Vitality (14);inf  Inferno;PGL Major Stockholm 2021;Majors;S
+754;30/10/21;Liquid (9);Entropiq (16);vtg  Vertigo;PGL Major Stockholm 2021;Majors;S
+755;30/10/21;ENCE (7);Gambit (16);ovp  Overpass;PGL Major Stockholm 2021;Majors;S
+756;30/10/21;G2 (16);Copenhagen Flames (11);anc  Ancient;PGL Major Stockholm 2021;Majors;S
+757;30/10/21;FaZe (16);Evil Geniuses (6);d2  Dust2;PGL Major Stockholm 2021;Majors;S

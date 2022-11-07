@@ -1,0 +1,256 @@
+;Date;Team1;Team2;Map;Event;event_type;event_tier
+0;30/12/12;3DMAX (16);k1ck (7);inf  Inferno_se;ESL Major Series Winter Season 2012;Online;A
+1;30/12/12;3DMAX (16);k1ck (13);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+2;27/12/12;LowLandLions (16);LowLandLions 1.6 (7);nuke  Nuke_se;Showmatch CS:GO;Online;A
+3;27/12/12;LowLandLions 1.6 (16);LowLandLions (19);d2  Dust2_se;Showmatch CS:GO;Online;A
+4;20/12/12;n!faculty (16);redzone (4);trn  Train_se;ESL Major Series Winter Season 2012;Online;A
+5;20/12/12;n!faculty (16);redzone (9);d2  Dust2_se;ESL Major Series Winter Season 2012;Online;A
+6;19/12/12;myDGB.net (16);ALTERNATE aTTaX (9);nuke  Nuke_se;IEM Poland International Qualifier;Online;A
+7;19/12/12;Wizards (16);FR34KSHOW (13);mrg  Mirage_ce;ESL Major Series Winter Season 2012;Online;A
+8;19/12/12;Wizards (19);FR34KSHOW (17);d2  Dust2_se;ESL Major Series Winter Season 2012;Online;A
+9;19/12/12;Wizards (8);FR34KSHOW (16);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+10;13/12/12;fnatic (10);Lemondogs (16);mrg  Mirage_ce;RADEON Offensive by 99Damage;Online;A
+11;13/12/12;fnatic (16);MOUZ (4);mrg  Mirage_ce;RADEON Offensive by 99Damage;Online;A
+12;13/12/12;n!faculty (14);fnatic (16);nuke  Nuke_se;RADEON Offensive by 99Damage;Online;A
+13;11/12/12;n!faculty (16);gamed!de (9);inf  Inferno_se;RADEON Offensive by 99Damage;Online;A
+14;11/12/12;FMESPORTS (13);Lemondogs (16);nuke  Nuke_se;RADEON Offensive by 99Damage;Online;A
+15;11/12/12;n!faculty (7);MOUZ (16);nuke  Nuke_se;RADEON Offensive by 99Damage;Online;A
+16;10/12/12;gamed!de (16);logiX (6);inf  Inferno_se;RADEON Offensive by 99Damage;Online;A
+17;10/12/12;ALTERNATE aTTaX (14);fnatic (16);d2  Dust2_se;RADEON Offensive by 99Damage;Online;A
+18;6/12/12;CPH Wolves (5);Imaginary (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+19;6/12/12;zNation (16);Hawks (10);trn  Train_se;SLTV StarSeries IV;Online;A
+20;6/12/12;MOUZ (16);Natus Vincere (9);d2  Dust2_se;SLTV StarSeries IV;Online;A
+21;6/12/12;Imaginary (16);RuSh3D (3);inf  Inferno_se;SLTV StarSeries IV;Online;A
+22;6/12/12;ESC (16);zNation (14);trn  Train_se;SLTV StarSeries IV;Online;A
+23;6/12/12;MOUZ (16);RuSh3D (7);d2  Dust2_se;SLTV StarSeries IV;Online;A
+24;6/12/12;Virtus.pro (16);Hawks (11);d2  Dust2_se;SLTV StarSeries IV;Online;A
+25;6/12/12;gamed!de (9);FMESPORTS (16);d2  Dust2_se;RADEON Offensive by 99Damage;Online;A
+26;6/12/12;dAT (4);Hawks (16);d2  Dust2_se;SLTV StarSeries IV;Online;A
+27;6/12/12;ALTERNATE aTTaX (7);MOUZ (16);inf  Inferno_se;SLTV StarSeries IV;Online;A
+28;6/12/12;ESC (16);Natus Vincere (8);trn  Train_se;SLTV StarSeries IV;Online;A
+29;6/12/12;ESC (16);dAT (5);nuke  Nuke_se;SLTV StarSeries IV;Online;A
+30;4/12/12;myDGB.net (16);CPLAY (11);inf  Inferno_se;ESL Major Series Winter Season 2012;Online;A
+31;4/12/12;Virtus.pro (16);Imaginary (6);d2  Dust2_se;SLTV StarSeries IV;Online;A
+32;4/12/12;n!faculty (16);ALTERNATE aTTaX (11);d2  Dust2_se;RADEON Offensive by 99Damage;Online;A
+33;4/12/12;logiX (3);Lemondogs (16);inf  Inferno_se;RADEON Offensive by 99Damage;Online;A
+34;3/12/12;SMBU (8);Hawks (16);trn  Train_se;THOR Open Qualifier #7;Online;A
+35;3/12/12;Natus Vincere (16);ALTERNATE aTTaX (7);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+36;29/11/12;Natus Vincere (16);KerchNET (3);d2  Dust2_se;SLTV StarSeries IV;Online;A
+37;29/11/12;dAT (16);Natus Vincere (14);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+38;29/11/12;MaxFloPlay (3);Ninjas in Pyjamas (16);inf  Inferno_se;ESL Major Series Winter Season 2012;Online;A
+39;29/11/12;ALTERNATE aTTaX (16);KerchNET (7);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+40;29/11/12;RuSh3D (15);CPH Wolves (15);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+41;28/11/12;KerchNET (4);MOUZ (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+42;28/11/12;ESC (14);Virtus.pro (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+43;28/11/12;KerchNET (2);Hawks (16);d2  Dust2_se;SLTV StarSeries IV;Online;A
+44;28/11/12;zNation (9);Natus Vincere (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+45;28/11/12;CPH Wolves (16);KerchNET (4);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+46;28/11/12;dAT (16);ALTERNATE aTTaX (3);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+47;28/11/12;dAT (16);Virtus.pro (7);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+48;28/11/12;dAT (16);KerchNET (1);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+49;27/11/12;CPH Wolves (13);ALTERNATE aTTaX (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+50;27/11/12;Virtus.pro (16);Natus Vincere (3);trn  Train_se;SLTV StarSeries IV;Online;A
+51;27/11/12;MaxFloPlay (11);ESC (16);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+52;26/11/12;Imaginary (16);ESC (13);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+53;26/11/12;MOUZ (16);Imaginary (7);nuke  Nuke_se;SLTV StarSeries IV;Online;A
+54;20/11/12;VeryGames (6);Ninjas in Pyjamas (16);trn  Train_se;THOR Open Qualifier #6;Online;A
+55;19/11/12;ESC (2);Ninjas in Pyjamas (16);mrg  Mirage_ce;THOR Open Qualifier #6;Online;A
+56;15/11/12;n!faculty (5);eXtensive (16);trn  Train_se;ESL Major Series Winter Season 2012;Online;A
+57;15/11/12;zNation (16);Tribute To Sylvester (12);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+58;15/11/12;3DMAX (5);Anexis (16);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+59;15/11/12;3DMAX (15);Anexis (19);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+60;15/11/12;3DMAX (11);FR34KSHOW (16);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+61;15/11/12;Tribute To Sylvester (7);CPH Wolves (16);trn  Train_se;SLTV StarSeries IV;Online;A
+62;15/11/12;Western Wolves (16);ALTERNATE aTTaX (9);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+63;15/11/12;ALTERNATE aTTaX (4);Western Wolves (16);trn  Train_se;DreamHack Winter 2012 International Qual.;Online;A
+64;15/11/12;CPH Wolves (13);dAT (16);d2  Dust2_se;SLTV StarSeries IV;Online;A
+65;14/11/12;Imaginary (16);BuyKey (7);d2  Dust2_se;SLTV StarSeries IV;Online;A
+66;14/11/12;redzone (16);mousesports (4);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+67;14/11/12;gosu (16);Absolute Legends (11);nuke  Nuke_se;DreamHack Winter 2012 Swedish Qual.;Online;A
+68;14/11/12;gosu (20);Absolute Legends (22);d2  Dust2_se;DreamHack Winter 2012 Swedish Qual.;Online;A
+69;14/11/12;gosu (16);Absolute Legends (12);mrg  Mirage_ce;DreamHack Winter 2012 Swedish Qual.;Online;A
+70;14/11/12;Imaginary (16);Hawks (10);d2  Dust2_se;SLTV StarSeries IV;Online;A
+71;14/11/12;Virtus.pro (16);RuSh3D (7);d2  Dust2_se;SLTV StarSeries IV;Online;A
+72;14/11/12;3DMAX (16);Western Wolves (12);inf  Inferno_se;DreamHack Winter 2012 International Qual.;Online;A
+73;14/11/12;Western Wolves (9);3DMAX (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+74;14/11/12;dAT (13);Tribute To Sylvester (16);nuke  Nuke_se;SLTV StarSeries IV;Online;A
+75;14/11/12;Anexis (16);ALTERNATE aTTaX (8);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+76;14/11/12;ALTERNATE aTTaX (5);Anexis (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+77;13/11/12;iNET koxXx (16);DELTA (7);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+78;13/11/12;MOUZ (6);3DMAX (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+79;13/11/12;3DMAX (14);MOUZ (16);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+80;13/11/12;MOUZ (11);3DMAX (16);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+81;13/11/12;Western Wolves (16);EYES ON U (6);inf  Inferno_se;DreamHack Winter 2012 International Qual.;Online;A
+82;13/11/12;Western Wolves (19);EYES ON U (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+83;13/11/12;ALTERNATE aTTaX (11);ESC (16);trn  Train_se;SLTV StarSeries IV;Online;A
+84;13/11/12;DELTA (16);ALSEN (5);d2  Dust2_se;ESL Pro Series Poland Season 5;Online;A
+85;13/11/12;RuSh3D (8);ESC (16);nuke  Nuke_se;SLTV StarSeries IV;Online;A
+86;13/11/12;ALTERNATE aTTaX (16);Millenium (11);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+87;13/11/12;Anexis (16);MaxFloPlay (14);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+88;13/11/12;Anexis (16);MaxFloPlay (8);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+89;12/11/12;3DMAX (16);k1ck (2);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+90;12/11/12;3DMAX (16);k1ck (3);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+91;12/11/12;MOUZ (16);BX3 (5);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+92;12/11/12;MOUZ (16);BX3 (2);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+93;12/11/12;Temp.no (10);Anexis (16);inf  Inferno_se;DreamHack Winter 2012 International Qual.;Online;A
+94;12/11/12;Anexis (16);Temp.no (10);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+95;12/11/12;TeamCRG (3);Western Wolves (16);inf  Inferno_se;DreamHack Winter 2012 International Qual.;Online;A
+96;12/11/12;TeamCRG (10);Western Wolves (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+97;12/11/12;Tribute To Sylvester (5);Millenium (16);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+98;12/11/12;ALTERNATE aTTaX (16);FMESPORTS (6);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+99;12/11/12;ALTERNATE aTTaX (16);FMESPORTS (4);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+100;12/11/12;LowLandLions (13);MaxFloPlay (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+101;12/11/12;LowLandLions (9);MaxFloPlay (16);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+102;11/11/12;CPH Wolves (16);Anexis (13);d2  Dust2_se;DreamHack Winter 2012 Danish Qual.;Online;A
+103;11/11/12;Anexis (16);3DMAX (10);d2  Dust2_se;DreamHack Winter 2012 Danish Qual.;Online;A
+104;11/11/12;MaxFloPlay (16);BoomSlave (3);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+105;11/11/12;GIVE IT ALL (7);ESC (16);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+106;11/11/12;Anexis (16);EYES ON U (10);inf  Inferno_se;DreamHack Winter 2012 Danish Qual.;Online;A
+107;11/11/12;Ninjas in Pyjamas (16);CPLAY (10);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+108;8/11/12;Ninjas in Pyjamas (15);ASES (15);d2  Dust2_se;ESL Major Series Winter Season 2012;Online;A
+109;8/11/12;ESC (16);BoomSlave (4);d2  Dust2_se;ESL Pro Series Poland Season 5;Online;A
+110;7/11/12;Anexis (16);Virtus.pro (4);mrg  Mirage_ce;CyberGamer Invite League Season 1;Online;A
+111;6/11/12;gamed!de (16);SFTO (3);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+112;6/11/12;iPLAY (14);n!faculty (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+113;6/11/12;CPLAY (9);Red Dead (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+114;6/11/12;Tt Dragons (6);MOUZ (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+115;6/11/12;SFTO (8);n!faculty (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+116;5/11/12;Tt Dragons (9);dotpiXels (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+117;4/11/12;aSperaGamers (3);MaxFloPlay (16);d2  Dust2_se;ESL Pro Series Poland Season 5;Online;A
+118;4/11/12;Clan Poland (2);GIVE IT ALL (16);d2  Dust2_se;ESL Pro Series Poland Season 5;Online;A
+119;4/11/12;ALSEN (16);BoomSlave (14);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+120;1/11/12;CPLAY (6);dotpiXels (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+121;1/11/12;gamed!de (16);iPLAY (7);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+122;1/11/12;CPLAY (9);ALTERNATE aTTaX (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+123;31/10/12;Red Dead (7);gamed!de (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+124;30/10/12;dotpiXels (13);MOUZ (16);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+125;30/10/12;iPLAY (15);SFTO (15);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+126;30/10/12;gamed!de (14);n!faculty (16);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+127;30/10/12;ALTERNATE aTTaX (15);Red Dead (15);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+128;29/10/12;MaxFloPlay (16);Clan Poland (2);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+129;29/10/12;Clan Poland (4);ESC (16);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+130;28/10/12;aSperaGamers (12);DELTA (16);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+131;28/10/12;aSperaGamers (16);UniversalSoldiers (10);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+132;28/10/12;iNET koxXx (13);GIVE IT ALL (16);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+133;28/10/12;DELTA (9);MaxFloPlay (16);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+134;25/10/12;SFTO (9);MOUZ (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+135;25/10/12;gamed!de (16);Tt Dragons (4);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+136;25/10/12;MOUZ (15);n!faculty (15);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+137;25/10/12;iPLAY (7);ALTERNATE aTTaX (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+138;23/10/12;CPLAY (16);SFTO (9);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+139;23/10/12;Tt Dragons (8);iPLAY (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+140;23/10/12;dotpiXels (10);ALTERNATE aTTaX (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+141;22/10/12;Tt Dragons (8);n!faculty (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+142;21/10/12;DELTA (16);ESC (6);inf  Inferno_se;ESL Pro Series Poland Season 5;Online;A
+143;21/10/12;DELTA (16);UniversalSoldiers (3);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+144;21/10/12;ALSEN (16);GIVE IT ALL (14);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+145;21/10/12;ESC (16);iNET koxXx (7);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+146;21/10/12;Red Dead (16);SFTO (6);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+147;21/10/12;GIVE IT ALL (16);UniversalSoldiers (7);inf  Inferno_se;ESL Pro Series Poland Season 5;Online;A
+148;18/10/12;CPLAY (16);Tt Dragons (9);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+149;18/10/12;CPLAY (7);mTw (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+150;18/10/12;ALTERNATE aTTaX (16);n!faculty (8);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+151;18/10/12;Red Dead (14);dotpiXels (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+152;18/10/12;logiX (16);iPLAY (14);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+153;18/10/12;gamed!de (15);MOUZ (15);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+154;18/10/12;SFTO (9);Tt Dragons (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+155;17/10/12;ALTERNATE aTTaX (16);SFTO (13);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+156;17/10/12;logiX (14);gamed!de (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+157;17/10/12;iPLAY (16);mTw (11);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+158;17/10/12;gamed!de (16);CPLAY (9);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+159;17/10/12;n!faculty (14);mTw (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+160;17/10/12;logiX (12);SFTO (16);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+161;16/10/12;dotpiXels (12);logiX (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+162;16/10/12;ALTERNATE aTTaX (16);mTw (10);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+163;16/10/12;MOUZ (16);iPLAY (11);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+164;15/10/12;MOUZ (22);mTw (20);d2  Dust2_se;ESWC 2012 German Qualifier;Online;A
+165;15/10/12;mTw (16);MOUZ (11);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+166;15/10/12;mTw (11);MOUZ (16);trn  Train_se;ESWC 2012 German Qualifier;Online;A
+167;14/10/12;BoomSlave (6);aSperaGamers (16);inf  Inferno_se;ESL Pro Series Poland Season 5;Online;A
+168;14/10/12;Clan Poland (16);ALSEN (13);inf  Inferno_se;ESL Pro Series Poland Season 5;Online;A
+169;11/10/12;mousesports (9);FMESPORTS (16);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+170;11/10/12;mousesports (14);FMESPORTS (16);trn  Train_se;ESWC 2012 UK Qualifier;Online;A
+171;11/10/12;n!faculty (16);dotpiXels (11);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+172;11/10/12;gamed!de (16);ALTERNATE aTTaX (14);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+173;11/10/12;Ninjas in Pyjamas (16);HastaLaVista (3);trn  Train_se;ESWC 2012 Nordic Qualifier;Online;A
+174;11/10/12;Ninjas in Pyjamas (16);HastaLaVista (8);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+175;11/10/12;Red Dead (2);MOUZ (16);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+176;10/10/12;MOUZ (16);Tt Dragons (8);mrg  Mirage_ce;ESWC 2012 German Qualifier;Online;A
+177;10/10/12;Tt Dragons (7);MOUZ (16);d2  Dust2_se;ESWC 2012 German Qualifier;Online;A
+178;10/10/12;MOUZ (16);ALTERNATE aTTaX (7);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+179;10/10/12;mTw (16);gamed!de (14);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+180;10/10/12;gamed!de (7);mTw (16);mrg  Mirage_ce;ESWC 2012 German Qualifier;Online;A
+181;10/10/12;gamed!de (16);mTw (13);d2  Dust2_se;ESWC 2012 German Qualifier;Online;A
+182;9/10/12;FMESPORTS (16);aliquo (13);mrg  Mirage_ce;ESWC 2012 UK Qualifier;Online;A
+183;9/10/12;aliquo (14);FMESPORTS (16);d2  Dust2_se;ESWC 2012 UK Qualifier;Online;A
+184;9/10/12;mousesports (16);TeamCRG (12);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+185;9/10/12;mousesports (13);TeamCRG (16);mrg  Mirage_ce;ESWC 2012 UK Qualifier;Online;A
+186;9/10/12;TeamCRG (10);mousesports (16);d2  Dust2_se;ESWC 2012 UK Qualifier;Online;A
+187;9/10/12;gamed!de (15);dotpiXels (15);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+188;9/10/12;n!faculty (4);SY&b (16);mrg  Mirage_ce;Go4CS:GO Cup #14;Online;A
+189;9/10/12;n!faculty (16);SY&b (9);inf  Inferno_se;Go4CS:GO Cup #14;Online;A
+190;9/10/12;SY&b (16);n!faculty (6);trn  Train_se;Go4CS:GO Cup #14;Online;A
+191;9/10/12;aSperaGamers (11);ESC (16);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+192;9/10/12;MOUZ (16);CPLAY (3);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+193;9/10/12;dotpiXels (16);iPLAY (11);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+194;9/10/12;Tt Dragons (16);Red Dead (14);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+195;9/10/12;Ninjas in Pyjamas (16);Publiclir.se (1);mrg  Mirage_ce;ESWC 2012 Nordic Qualifier;Online;A
+196;9/10/12;Ninjas in Pyjamas (16);Publiclir.se (12);d2  Dust2_se;ESWC 2012 Nordic Qualifier;Online;A
+197;9/10/12;HastaLaVista (16);gosu (4);mrg  Mirage_ce;ESWC 2012 Nordic Qualifier;Online;A
+198;9/10/12;HastaLaVista (16);gosu (14);d2  Dust2_se;ESWC 2012 Nordic Qualifier;Online;A
+199;8/10/12;ALTERNATE aTTaX (9);MOUZ (16);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+200;8/10/12;ALTERNATE aTTaX (3);MOUZ (16);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+201;8/10/12;Tt Dragons (16);n!faculty (7);trn  Train_se;ESWC 2012 German Qualifier;Online;A
+202;8/10/12;Tt Dragons (16);n!faculty (8);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+203;8/10/12;Tt Dragons (12);n!faculty (16);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+204;8/10/12;gamed!de (16);zuom (3);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+205;8/10/12;zuom (9);gamed!de (16);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+206;8/10/12;NOD (5);mTw (16);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+207;8/10/12;mTw (16);NOD (4);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+208;7/10/12;BoomSlave (13);Clan Poland (16);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+209;7/10/12;ALSEN (16);iNET koxXx (11);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+210;7/10/12;4Kings (11);aliquo (16);trn  Train_se;ESWC 2012 UK Qualifier;Online;A
+211;7/10/12;4Kings (9);aliquo (16);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+212;7/10/12;4Kings (16);aliquo (3);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+213;7/10/12;mousesports (19);786 (16);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+214;7/10/12;mousesports (16);786 (3);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+215;7/10/12;GIVE IT ALL (7);MaxFloPlay (16);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+216;7/10/12;TeamCRG (16);VYE (2);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+217;7/10/12;TeamCRG (16);VYE (7);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+218;7/10/12;gosu (16);Lions (8);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+219;7/10/12;gosu (16);Lions (6);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+220;4/10/12;FMESPORTS (16);eNigma (2);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+221;4/10/12;FMESPORTS (16);eNigma (9);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+222;4/10/12;mTw (12);gamed!de (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+223;4/10/12;Red Dead (16);n!faculty (14);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+224;4/10/12;CPLAY (8);iPLAY (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+225;4/10/12;Tt Dragons (6);logiX (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+226;4/10/12;WinFakt (14);HastaLaVista (16);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+227;4/10/12;WinFakt (8);HastaLaVista (16);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+228;4/10/12;Publiclir.se (16);GIVE IT ALL (4);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+229;4/10/12;GIVE IT ALL (10);Publiclir.se (16);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+230;4/10/12;mTw (16);SFTO (11);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+231;3/10/12;Publiclir.se (16);ImmuNe (10);mrg  Mirage_ce;ESWC 2012 Nordic Qualifier;Online;A
+232;3/10/12;Publiclir.se (10);ImmuNe (16);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+233;3/10/12;Ninjas in Pyjamas (16);hiGhrollers (6);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+234;3/10/12;Ninjas in Pyjamas (16);hiGhrollers (2);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+235;3/10/12;ROCCAT (12);Lions (16);mrg  Mirage_ce;ESWC 2012 Nordic Qualifier;Online;A
+236;3/10/12;ROCCAT (16);Lions (19);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+237;3/10/12;ROCCAT (22);Lions (20);d2  Dust2_se;ESWC 2012 Nordic Qualifier;Online;A
+238;3/10/12;MOUZ (16);logiX (10);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+239;3/10/12;logiX (0);MOUZ (16);d2  Dust2_se;ESWC 2012 German Qualifier;Online;A
+240;3/10/12;hiGhrollers (16);Paranoia (8);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+241;3/10/12;HastaLaVista (16);Afterlife Gaming (4);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+242;3/10/12;HastaLaVista (16);Afterlife Gaming (14);d2  Dust2_se;ESWC 2012 Nordic Qualifier;Online;A
+243;2/10/12;iPLAY (11);Red Dead (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+244;2/10/12;ALTERNATE aTTaX (16);Tt Dragons (7);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+245;2/10/12;logiX (11);MOUZ (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+246;2/10/12;HastaLaVista (16);ROCCAT (9);trn  Train_se;CyberGamer Showmatch;Online;A
+247;2/10/12;ROCCAT (13);HastaLaVista (16);inf  Inferno_se;CyberGamer Showmatch;Online;A
+248;2/10/12;n!faculty (16);CPLAY (4);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+249;2/10/12;SFTO (12);dotpiXels (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+250;23/9/12;Blight (16);ImmuNe (6);inf  Inferno_se;GDK SteelSeries GO #2;Online;A
+251;13/9/12;FMESPORTS (7);Blight (16);d2  Dust2_se;CyberGamer Qualifier Cup #1 by Tt eSPORTS;Online;A
+252;13/9/12;Blight (16);FMESPORTS (2);inf  Inferno_se;CyberGamer Qualifier Cup #1 by Tt eSPORTS;Online;A
+253;13/9/12;Ninjas in Pyjamas (16);PRiME (1);mrg  Mirage_ce;Go4CS:GO Cup #6;Online;A
+254;13/9/12;Ninjas in Pyjamas (16);PRiME (3);inf  Inferno_se;Go4CS:GO Cup #6;Online;A

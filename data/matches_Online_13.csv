@@ -1,0 +1,1718 @@
+;Date;Team1;Team2;Map;Event;event_type;event_tier
+0;30/12/12;3DMAX (16);k1ck (7);inf  Inferno_se;ESL Major Series Winter Season 2012;Online;A
+1;30/12/12;3DMAX (16);k1ck (13);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+2;27/12/12;LowLandLions (16);LowLandLions 1.6 (7);nuke  Nuke_se;Showmatch CS:GO;Online;A
+3;27/12/12;LowLandLions 1.6 (16);LowLandLions (19);d2  Dust2_se;Showmatch CS:GO;Online;A
+4;20/12/12;n!faculty (16);redzone (4);trn  Train_se;ESL Major Series Winter Season 2012;Online;A
+5;20/12/12;n!faculty (16);redzone (9);d2  Dust2_se;ESL Major Series Winter Season 2012;Online;A
+6;19/12/12;myDGB.net (16);ALTERNATE aTTaX (9);nuke  Nuke_se;IEM Poland International Qualifier;Online;A
+7;19/12/12;Wizards (16);FR34KSHOW (13);mrg  Mirage_ce;ESL Major Series Winter Season 2012;Online;A
+8;19/12/12;Wizards (19);FR34KSHOW (17);d2  Dust2_se;ESL Major Series Winter Season 2012;Online;A
+9;19/12/12;Wizards (8);FR34KSHOW (16);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+10;13/12/12;fnatic (10);Lemondogs (16);mrg  Mirage_ce;RADEON Offensive by 99Damage;Online;A
+11;13/12/12;fnatic (16);MOUZ (4);mrg  Mirage_ce;RADEON Offensive by 99Damage;Online;A
+12;13/12/12;n!faculty (14);fnatic (16);nuke  Nuke_se;RADEON Offensive by 99Damage;Online;A
+13;11/12/12;n!faculty (16);gamed!de (9);inf  Inferno_se;RADEON Offensive by 99Damage;Online;A
+14;11/12/12;FMESPORTS (13);Lemondogs (16);nuke  Nuke_se;RADEON Offensive by 99Damage;Online;A
+15;11/12/12;n!faculty (7);MOUZ (16);nuke  Nuke_se;RADEON Offensive by 99Damage;Online;A
+16;10/12/12;gamed!de (16);logiX (6);inf  Inferno_se;RADEON Offensive by 99Damage;Online;A
+17;10/12/12;ALTERNATE aTTaX (14);fnatic (16);d2  Dust2_se;RADEON Offensive by 99Damage;Online;A
+18;6/12/12;CPH Wolves (5);Imaginary (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+19;6/12/12;zNation (16);Hawks (10);trn  Train_se;SLTV StarSeries IV;Online;A
+20;6/12/12;MOUZ (16);Natus Vincere (9);d2  Dust2_se;SLTV StarSeries IV;Online;A
+21;6/12/12;Imaginary (16);RuSh3D (3);inf  Inferno_se;SLTV StarSeries IV;Online;A
+22;6/12/12;ESC (16);zNation (14);trn  Train_se;SLTV StarSeries IV;Online;A
+23;6/12/12;MOUZ (16);RuSh3D (7);d2  Dust2_se;SLTV StarSeries IV;Online;A
+24;6/12/12;Virtus.pro (16);Hawks (11);d2  Dust2_se;SLTV StarSeries IV;Online;A
+25;6/12/12;gamed!de (9);FMESPORTS (16);d2  Dust2_se;RADEON Offensive by 99Damage;Online;A
+26;6/12/12;dAT (4);Hawks (16);d2  Dust2_se;SLTV StarSeries IV;Online;A
+27;6/12/12;ALTERNATE aTTaX (7);MOUZ (16);inf  Inferno_se;SLTV StarSeries IV;Online;A
+28;6/12/12;ESC (16);Natus Vincere (8);trn  Train_se;SLTV StarSeries IV;Online;A
+29;6/12/12;ESC (16);dAT (5);nuke  Nuke_se;SLTV StarSeries IV;Online;A
+30;4/12/12;myDGB.net (16);CPLAY (11);inf  Inferno_se;ESL Major Series Winter Season 2012;Online;A
+31;4/12/12;Virtus.pro (16);Imaginary (6);d2  Dust2_se;SLTV StarSeries IV;Online;A
+32;4/12/12;n!faculty (16);ALTERNATE aTTaX (11);d2  Dust2_se;RADEON Offensive by 99Damage;Online;A
+33;4/12/12;logiX (3);Lemondogs (16);inf  Inferno_se;RADEON Offensive by 99Damage;Online;A
+34;3/12/12;SMBU (8);Hawks (16);trn  Train_se;THOR Open Qualifier #7;Online;A
+35;3/12/12;Natus Vincere (16);ALTERNATE aTTaX (7);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+36;29/11/12;Natus Vincere (16);KerchNET (3);d2  Dust2_se;SLTV StarSeries IV;Online;A
+37;29/11/12;dAT (16);Natus Vincere (14);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+38;29/11/12;MaxFloPlay (3);Ninjas in Pyjamas (16);inf  Inferno_se;ESL Major Series Winter Season 2012;Online;A
+39;29/11/12;ALTERNATE aTTaX (16);KerchNET (7);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+40;29/11/12;RuSh3D (15);CPH Wolves (15);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+41;28/11/12;KerchNET (4);MOUZ (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+42;28/11/12;ESC (14);Virtus.pro (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+43;28/11/12;KerchNET (2);Hawks (16);d2  Dust2_se;SLTV StarSeries IV;Online;A
+44;28/11/12;zNation (9);Natus Vincere (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+45;28/11/12;CPH Wolves (16);KerchNET (4);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+46;28/11/12;dAT (16);ALTERNATE aTTaX (3);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+47;28/11/12;dAT (16);Virtus.pro (7);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+48;28/11/12;dAT (16);KerchNET (1);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+49;27/11/12;CPH Wolves (13);ALTERNATE aTTaX (16);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+50;27/11/12;Virtus.pro (16);Natus Vincere (3);trn  Train_se;SLTV StarSeries IV;Online;A
+51;27/11/12;MaxFloPlay (11);ESC (16);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+52;26/11/12;Imaginary (16);ESC (13);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+53;26/11/12;MOUZ (16);Imaginary (7);nuke  Nuke_se;SLTV StarSeries IV;Online;A
+54;20/11/12;VeryGames (6);Ninjas in Pyjamas (16);trn  Train_se;THOR Open Qualifier #6;Online;A
+55;19/11/12;ESC (2);Ninjas in Pyjamas (16);mrg  Mirage_ce;THOR Open Qualifier #6;Online;A
+56;15/11/12;n!faculty (5);eXtensive (16);trn  Train_se;ESL Major Series Winter Season 2012;Online;A
+57;15/11/12;zNation (16);Tribute To Sylvester (12);mrg  Mirage_ce;SLTV StarSeries IV;Online;A
+58;15/11/12;3DMAX (5);Anexis (16);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+59;15/11/12;3DMAX (15);Anexis (19);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+60;15/11/12;3DMAX (11);FR34KSHOW (16);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+61;15/11/12;Tribute To Sylvester (7);CPH Wolves (16);trn  Train_se;SLTV StarSeries IV;Online;A
+62;15/11/12;Western Wolves (16);ALTERNATE aTTaX (9);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+63;15/11/12;ALTERNATE aTTaX (4);Western Wolves (16);trn  Train_se;DreamHack Winter 2012 International Qual.;Online;A
+64;15/11/12;CPH Wolves (13);dAT (16);d2  Dust2_se;SLTV StarSeries IV;Online;A
+65;14/11/12;Imaginary (16);BuyKey (7);d2  Dust2_se;SLTV StarSeries IV;Online;A
+66;14/11/12;redzone (16);mousesports (4);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+67;14/11/12;gosu (16);Absolute Legends (11);nuke  Nuke_se;DreamHack Winter 2012 Swedish Qual.;Online;A
+68;14/11/12;gosu (20);Absolute Legends (22);d2  Dust2_se;DreamHack Winter 2012 Swedish Qual.;Online;A
+69;14/11/12;gosu (16);Absolute Legends (12);mrg  Mirage_ce;DreamHack Winter 2012 Swedish Qual.;Online;A
+70;14/11/12;Imaginary (16);Hawks (10);d2  Dust2_se;SLTV StarSeries IV;Online;A
+71;14/11/12;Virtus.pro (16);RuSh3D (7);d2  Dust2_se;SLTV StarSeries IV;Online;A
+72;14/11/12;3DMAX (16);Western Wolves (12);inf  Inferno_se;DreamHack Winter 2012 International Qual.;Online;A
+73;14/11/12;Western Wolves (9);3DMAX (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+74;14/11/12;dAT (13);Tribute To Sylvester (16);nuke  Nuke_se;SLTV StarSeries IV;Online;A
+75;14/11/12;Anexis (16);ALTERNATE aTTaX (8);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+76;14/11/12;ALTERNATE aTTaX (5);Anexis (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+77;13/11/12;iNET koxXx (16);DELTA (7);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+78;13/11/12;MOUZ (6);3DMAX (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+79;13/11/12;3DMAX (14);MOUZ (16);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+80;13/11/12;MOUZ (11);3DMAX (16);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+81;13/11/12;Western Wolves (16);EYES ON U (6);inf  Inferno_se;DreamHack Winter 2012 International Qual.;Online;A
+82;13/11/12;Western Wolves (19);EYES ON U (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+83;13/11/12;ALTERNATE aTTaX (11);ESC (16);trn  Train_se;SLTV StarSeries IV;Online;A
+84;13/11/12;DELTA (16);ALSEN (5);d2  Dust2_se;ESL Pro Series Poland Season 5;Online;A
+85;13/11/12;RuSh3D (8);ESC (16);nuke  Nuke_se;SLTV StarSeries IV;Online;A
+86;13/11/12;ALTERNATE aTTaX (16);Millenium (11);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+87;13/11/12;Anexis (16);MaxFloPlay (14);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+88;13/11/12;Anexis (16);MaxFloPlay (8);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+89;12/11/12;3DMAX (16);k1ck (2);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+90;12/11/12;3DMAX (16);k1ck (3);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+91;12/11/12;MOUZ (16);BX3 (5);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+92;12/11/12;MOUZ (16);BX3 (2);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+93;12/11/12;Temp.no (10);Anexis (16);inf  Inferno_se;DreamHack Winter 2012 International Qual.;Online;A
+94;12/11/12;Anexis (16);Temp.no (10);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+95;12/11/12;TeamCRG (3);Western Wolves (16);inf  Inferno_se;DreamHack Winter 2012 International Qual.;Online;A
+96;12/11/12;TeamCRG (10);Western Wolves (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+97;12/11/12;Tribute To Sylvester (5);Millenium (16);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+98;12/11/12;ALTERNATE aTTaX (16);FMESPORTS (6);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+99;12/11/12;ALTERNATE aTTaX (16);FMESPORTS (4);nuke  Nuke_se;DreamHack Winter 2012 International Qual.;Online;A
+100;12/11/12;LowLandLions (13);MaxFloPlay (16);mrg  Mirage_ce;DreamHack Winter 2012 International Qual.;Online;A
+101;12/11/12;LowLandLions (9);MaxFloPlay (16);d2  Dust2_se;DreamHack Winter 2012 International Qual.;Online;A
+102;11/11/12;CPH Wolves (16);Anexis (13);d2  Dust2_se;DreamHack Winter 2012 Danish Qual.;Online;A
+103;11/11/12;Anexis (16);3DMAX (10);d2  Dust2_se;DreamHack Winter 2012 Danish Qual.;Online;A
+104;11/11/12;MaxFloPlay (16);BoomSlave (3);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+105;11/11/12;GIVE IT ALL (7);ESC (16);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+106;11/11/12;Anexis (16);EYES ON U (10);inf  Inferno_se;DreamHack Winter 2012 Danish Qual.;Online;A
+107;11/11/12;Ninjas in Pyjamas (16);CPLAY (10);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+108;8/11/12;Ninjas in Pyjamas (15);ASES (15);d2  Dust2_se;ESL Major Series Winter Season 2012;Online;A
+109;8/11/12;ESC (16);BoomSlave (4);d2  Dust2_se;ESL Pro Series Poland Season 5;Online;A
+110;7/11/12;Anexis (16);Virtus.pro (4);mrg  Mirage_ce;CyberGamer Invite League Season 1;Online;A
+111;6/11/12;gamed!de (16);SFTO (3);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+112;6/11/12;iPLAY (14);n!faculty (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+113;6/11/12;CPLAY (9);Red Dead (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+114;6/11/12;Tt Dragons (6);MOUZ (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+115;6/11/12;SFTO (8);n!faculty (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+116;5/11/12;Tt Dragons (9);dotpiXels (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+117;4/11/12;aSperaGamers (3);MaxFloPlay (16);d2  Dust2_se;ESL Pro Series Poland Season 5;Online;A
+118;4/11/12;Clan Poland (2);GIVE IT ALL (16);d2  Dust2_se;ESL Pro Series Poland Season 5;Online;A
+119;4/11/12;ALSEN (16);BoomSlave (14);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+120;1/11/12;CPLAY (6);dotpiXels (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+121;1/11/12;gamed!de (16);iPLAY (7);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+122;1/11/12;CPLAY (9);ALTERNATE aTTaX (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+123;31/10/12;Red Dead (7);gamed!de (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+124;30/10/12;dotpiXels (13);MOUZ (16);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+125;30/10/12;iPLAY (15);SFTO (15);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+126;30/10/12;gamed!de (14);n!faculty (16);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+127;30/10/12;ALTERNATE aTTaX (15);Red Dead (15);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+128;29/10/12;MaxFloPlay (16);Clan Poland (2);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+129;29/10/12;Clan Poland (4);ESC (16);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+130;28/10/12;aSperaGamers (12);DELTA (16);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+131;28/10/12;aSperaGamers (16);UniversalSoldiers (10);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+132;28/10/12;iNET koxXx (13);GIVE IT ALL (16);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+133;28/10/12;DELTA (9);MaxFloPlay (16);mrg  Mirage_ce;ESL Pro Series Poland Season 5;Online;A
+134;25/10/12;SFTO (9);MOUZ (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+135;25/10/12;gamed!de (16);Tt Dragons (4);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+136;25/10/12;MOUZ (15);n!faculty (15);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+137;25/10/12;iPLAY (7);ALTERNATE aTTaX (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+138;23/10/12;CPLAY (16);SFTO (9);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+139;23/10/12;Tt Dragons (8);iPLAY (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+140;23/10/12;dotpiXels (10);ALTERNATE aTTaX (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+141;22/10/12;Tt Dragons (8);n!faculty (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+142;21/10/12;DELTA (16);ESC (6);inf  Inferno_se;ESL Pro Series Poland Season 5;Online;A
+143;21/10/12;DELTA (16);UniversalSoldiers (3);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+144;21/10/12;ALSEN (16);GIVE IT ALL (14);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+145;21/10/12;ESC (16);iNET koxXx (7);trn  Train_se;ESL Pro Series Poland Season 5;Online;A
+146;21/10/12;Red Dead (16);SFTO (6);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+147;21/10/12;GIVE IT ALL (16);UniversalSoldiers (7);inf  Inferno_se;ESL Pro Series Poland Season 5;Online;A
+148;18/10/12;CPLAY (16);Tt Dragons (9);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+149;18/10/12;CPLAY (7);mTw (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+150;18/10/12;ALTERNATE aTTaX (16);n!faculty (8);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+151;18/10/12;Red Dead (14);dotpiXels (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+152;18/10/12;logiX (16);iPLAY (14);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+153;18/10/12;gamed!de (15);MOUZ (15);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+154;18/10/12;SFTO (9);Tt Dragons (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+155;17/10/12;ALTERNATE aTTaX (16);SFTO (13);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+156;17/10/12;logiX (14);gamed!de (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+157;17/10/12;iPLAY (16);mTw (11);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+158;17/10/12;gamed!de (16);CPLAY (9);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+159;17/10/12;n!faculty (14);mTw (16);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+160;17/10/12;logiX (12);SFTO (16);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+161;16/10/12;dotpiXels (12);logiX (16);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+162;16/10/12;ALTERNATE aTTaX (16);mTw (10);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+163;16/10/12;MOUZ (16);iPLAY (11);trn  Train_se;ESL Pro Series Germany Winter Season 2012;Online;A
+164;15/10/12;MOUZ (22);mTw (20);d2  Dust2_se;ESWC 2012 German Qualifier;Online;A
+165;15/10/12;mTw (16);MOUZ (11);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+166;15/10/12;mTw (11);MOUZ (16);trn  Train_se;ESWC 2012 German Qualifier;Online;A
+167;14/10/12;BoomSlave (6);aSperaGamers (16);inf  Inferno_se;ESL Pro Series Poland Season 5;Online;A
+168;14/10/12;Clan Poland (16);ALSEN (13);inf  Inferno_se;ESL Pro Series Poland Season 5;Online;A
+169;11/10/12;mousesports (9);FMESPORTS (16);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+170;11/10/12;mousesports (14);FMESPORTS (16);trn  Train_se;ESWC 2012 UK Qualifier;Online;A
+171;11/10/12;n!faculty (16);dotpiXels (11);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+172;11/10/12;gamed!de (16);ALTERNATE aTTaX (14);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+173;11/10/12;Ninjas in Pyjamas (16);HastaLaVista (3);trn  Train_se;ESWC 2012 Nordic Qualifier;Online;A
+174;11/10/12;Ninjas in Pyjamas (16);HastaLaVista (8);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+175;11/10/12;Red Dead (2);MOUZ (16);inf  Inferno_se;ESL Pro Series Germany Winter Season 2012;Online;A
+176;10/10/12;MOUZ (16);Tt Dragons (8);mrg  Mirage_ce;ESWC 2012 German Qualifier;Online;A
+177;10/10/12;Tt Dragons (7);MOUZ (16);d2  Dust2_se;ESWC 2012 German Qualifier;Online;A
+178;10/10/12;MOUZ (16);ALTERNATE aTTaX (7);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+179;10/10/12;mTw (16);gamed!de (14);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+180;10/10/12;gamed!de (7);mTw (16);mrg  Mirage_ce;ESWC 2012 German Qualifier;Online;A
+181;10/10/12;gamed!de (16);mTw (13);d2  Dust2_se;ESWC 2012 German Qualifier;Online;A
+182;9/10/12;FMESPORTS (16);aliquo (13);mrg  Mirage_ce;ESWC 2012 UK Qualifier;Online;A
+183;9/10/12;aliquo (14);FMESPORTS (16);d2  Dust2_se;ESWC 2012 UK Qualifier;Online;A
+184;9/10/12;mousesports (16);TeamCRG (12);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+185;9/10/12;mousesports (13);TeamCRG (16);mrg  Mirage_ce;ESWC 2012 UK Qualifier;Online;A
+186;9/10/12;TeamCRG (10);mousesports (16);d2  Dust2_se;ESWC 2012 UK Qualifier;Online;A
+187;9/10/12;gamed!de (15);dotpiXels (15);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+188;9/10/12;n!faculty (4);SY&b (16);mrg  Mirage_ce;Go4CS:GO Cup #14;Online;A
+189;9/10/12;n!faculty (16);SY&b (9);inf  Inferno_se;Go4CS:GO Cup #14;Online;A
+190;9/10/12;SY&b (16);n!faculty (6);trn  Train_se;Go4CS:GO Cup #14;Online;A
+191;9/10/12;aSperaGamers (11);ESC (16);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+192;9/10/12;MOUZ (16);CPLAY (3);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+193;9/10/12;dotpiXels (16);iPLAY (11);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+194;9/10/12;Tt Dragons (16);Red Dead (14);mrg  Mirage_ce;ESL Pro Series Germany Winter Season 2012;Online;A
+195;9/10/12;Ninjas in Pyjamas (16);Publiclir.se (1);mrg  Mirage_ce;ESWC 2012 Nordic Qualifier;Online;A
+196;9/10/12;Ninjas in Pyjamas (16);Publiclir.se (12);d2  Dust2_se;ESWC 2012 Nordic Qualifier;Online;A
+197;9/10/12;HastaLaVista (16);gosu (4);mrg  Mirage_ce;ESWC 2012 Nordic Qualifier;Online;A
+198;9/10/12;HastaLaVista (16);gosu (14);d2  Dust2_se;ESWC 2012 Nordic Qualifier;Online;A
+199;8/10/12;ALTERNATE aTTaX (9);MOUZ (16);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+200;8/10/12;ALTERNATE aTTaX (3);MOUZ (16);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+201;8/10/12;Tt Dragons (16);n!faculty (7);trn  Train_se;ESWC 2012 German Qualifier;Online;A
+202;8/10/12;Tt Dragons (16);n!faculty (8);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+203;8/10/12;Tt Dragons (12);n!faculty (16);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+204;8/10/12;gamed!de (16);zuom (3);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+205;8/10/12;zuom (9);gamed!de (16);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+206;8/10/12;NOD (5);mTw (16);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+207;8/10/12;mTw (16);NOD (4);inf  Inferno_se;ESWC 2012 German Qualifier;Online;A
+208;7/10/12;BoomSlave (13);Clan Poland (16);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+209;7/10/12;ALSEN (16);iNET koxXx (11);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+210;7/10/12;4Kings (11);aliquo (16);trn  Train_se;ESWC 2012 UK Qualifier;Online;A
+211;7/10/12;4Kings (9);aliquo (16);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+212;7/10/12;4Kings (16);aliquo (3);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+213;7/10/12;mousesports (19);786 (16);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+214;7/10/12;mousesports (16);786 (3);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+215;7/10/12;GIVE IT ALL (7);MaxFloPlay (16);nuke  Nuke_se;ESL Pro Series Poland Season 5;Online;A
+216;7/10/12;TeamCRG (16);VYE (2);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+217;7/10/12;TeamCRG (16);VYE (7);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+218;7/10/12;gosu (16);Lions (8);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+219;7/10/12;gosu (16);Lions (6);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+220;4/10/12;FMESPORTS (16);eNigma (2);nuke  Nuke_se;ESWC 2012 UK Qualifier;Online;A
+221;4/10/12;FMESPORTS (16);eNigma (9);inf  Inferno_se;ESWC 2012 UK Qualifier;Online;A
+222;4/10/12;mTw (12);gamed!de (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+223;4/10/12;Red Dead (16);n!faculty (14);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+224;4/10/12;CPLAY (8);iPLAY (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+225;4/10/12;Tt Dragons (6);logiX (16);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+226;4/10/12;WinFakt (14);HastaLaVista (16);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+227;4/10/12;WinFakt (8);HastaLaVista (16);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+228;4/10/12;Publiclir.se (16);GIVE IT ALL (4);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+229;4/10/12;GIVE IT ALL (10);Publiclir.se (16);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+230;4/10/12;mTw (16);SFTO (11);d2  Dust2_se;ESL Pro Series Germany Winter Season 2012;Online;A
+231;3/10/12;Publiclir.se (16);ImmuNe (10);mrg  Mirage_ce;ESWC 2012 Nordic Qualifier;Online;A
+232;3/10/12;Publiclir.se (10);ImmuNe (16);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+233;3/10/12;Ninjas in Pyjamas (16);hiGhrollers (6);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+234;3/10/12;Ninjas in Pyjamas (16);hiGhrollers (2);inf  Inferno_se;ESWC 2012 Nordic Qualifier;Online;A
+235;3/10/12;ROCCAT (12);Lions (16);mrg  Mirage_ce;ESWC 2012 Nordic Qualifier;Online;A
+236;3/10/12;ROCCAT (16);Lions (19);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+237;3/10/12;ROCCAT (22);Lions (20);d2  Dust2_se;ESWC 2012 Nordic Qualifier;Online;A
+238;3/10/12;MOUZ (16);logiX (10);nuke  Nuke_se;ESWC 2012 German Qualifier;Online;A
+239;3/10/12;logiX (0);MOUZ (16);d2  Dust2_se;ESWC 2012 German Qualifier;Online;A
+240;3/10/12;hiGhrollers (16);Paranoia (8);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+241;3/10/12;HastaLaVista (16);Afterlife Gaming (4);nuke  Nuke_se;ESWC 2012 Nordic Qualifier;Online;A
+242;3/10/12;HastaLaVista (16);Afterlife Gaming (14);d2  Dust2_se;ESWC 2012 Nordic Qualifier;Online;A
+243;2/10/12;iPLAY (11);Red Dead (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+244;2/10/12;ALTERNATE aTTaX (16);Tt Dragons (7);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+245;2/10/12;logiX (11);MOUZ (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+246;2/10/12;HastaLaVista (16);ROCCAT (9);trn  Train_se;CyberGamer Showmatch;Online;A
+247;2/10/12;ROCCAT (13);HastaLaVista (16);inf  Inferno_se;CyberGamer Showmatch;Online;A
+248;2/10/12;n!faculty (16);CPLAY (4);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+249;2/10/12;SFTO (12);dotpiXels (16);nuke  Nuke_se;ESL Pro Series Germany Winter Season 2012;Online;A
+250;23/9/12;Blight (16);ImmuNe (6);inf  Inferno_se;GDK SteelSeries GO #2;Online;A
+251;13/9/12;FMESPORTS (7);Blight (16);d2  Dust2_se;CyberGamer Qualifier Cup #1 by Tt eSPORTS;Online;A
+252;13/9/12;Blight (16);FMESPORTS (2);inf  Inferno_se;CyberGamer Qualifier Cup #1 by Tt eSPORTS;Online;A
+253;13/9/12;Ninjas in Pyjamas (16);PRiME (1);mrg  Mirage_ce;Go4CS:GO Cup #6;Online;A
+254;13/9/12;Ninjas in Pyjamas (16);PRiME (3);inf  Inferno_se;Go4CS:GO Cup #6;Online;A
+255;19/12/13;fnatic (24);LGB (26);cch  Cache;FACEIT December Championship 2013;Online;A
+256;19/12/13;fnatic (13);LGB (16);inf  Inferno;FACEIT December Championship 2013;Online;A
+257;19/12/13;LGB (19);fnatic (21);mrg  Mirage;FACEIT December Championship 2013;Online;A
+258;19/12/13;n!faculty (17);fnatic (21);trn  Train;FACEIT December Championship 2013;Online;A
+259;19/12/13;Recursive (12);LGB (16);inf  Inferno;FACEIT December Championship 2013;Online;A
+260;19/12/13;fnatic (16);DeNova (6);inf  Inferno;FACEIT December Championship 2013;Online;A
+261;19/12/13;Recursive (16);mediokert (4);inf  Inferno;FACEIT December Championship 2013;Online;A
+262;19/12/13;CIO (4);LGB (16);d2  Dust2;FACEIT December Championship 2013;Online;A
+263;19/12/13;n!faculty (16);GAMEPLAY (7);d2  Dust2;FACEIT December Championship 2013;Online;A
+264;15/12/13;VeryGames (16);Clan-Mystik (14);d2  Dust2;ESL Pro Series France XI Finals;Online;A
+265;15/12/13;Clan-Mystik (14);VeryGames (16);inf  Inferno;ESL Pro Series France XI Finals;Online;A
+266;15/12/13;Clan-Mystik (5);VeryGames (16);mrg  Mirage;ESL Pro Series France XI Finals;Online;A
+267;15/12/13;MYM (16);MayaM (13);d2  Dust2;SLTV ProSeries VIII;Online;A
+268;15/12/13;MayaM (11);MYM (16);nuke  Nuke;SLTV ProSeries VIII;Online;A
+269;15/12/13;MayaM (26);MYM (22);inf  Inferno;SLTV ProSeries VIII;Online;A
+270;15/12/13;E-Frag (16);RuSh3D (5);nuke  Nuke;SLTV ProSeries VIII;Online;A
+271;15/12/13;RuSh3D (7);E-Frag (16);d2  Dust2;SLTV ProSeries VIII;Online;A
+272;15/12/13;E-Frag (9);RuSh3D (16);inf  Inferno;SLTV ProSeries VIII;Online;A
+273;14/12/13;MayaM (16);E-Frag (12);inf  Inferno;SLTV ProSeries VIII;Online;A
+274;14/12/13;E-Frag (12);MayaM (16);nuke  Nuke;SLTV ProSeries VIII;Online;A
+275;14/12/13;RuSh3D (7);MYM (16);nuke  Nuke;SLTV ProSeries VIII;Online;A
+276;14/12/13;MYM (16);RuSh3D (2);inf  Inferno;SLTV ProSeries VIII;Online;A
+277;14/12/13;MayaM (16);highgrade (6);trn  Train;SLTV ProSeries VIII;Online;A
+278;14/12/13;highgrade (16);MayaM (13);nuke  Nuke;SLTV ProSeries VIII;Online;A
+279;14/12/13;highgrade (3);MayaM (16);d2  Dust2;SLTV ProSeries VIII;Online;A
+280;14/12/13;Divine (8);RuSh3D (16);inf  Inferno;SLTV ProSeries VIII;Online;A
+281;14/12/13;RuSh3D (16);Divine (12);d2  Dust2;SLTV ProSeries VIII;Online;A
+282;13/12/13;Ninjas in Pyjamas (16);Clan-Mystik (9);d2  Dust2;Fragbite Masters 2013;Online;A
+283;13/12/13;Ninjas in Pyjamas (16);Clan-Mystik (3);inf  Inferno;Fragbite Masters 2013;Online;A
+284;13/12/13;LGB (13);Clan-Mystik (16);mrg  Mirage;Fragbite Masters 2013;Online;A
+285;13/12/13;LGB (14);Clan-Mystik (16);inf  Inferno;Fragbite Masters 2013;Online;A
+286;13/12/13;über G33KZ (4);Ninjas in Pyjamas (16);nuke  Nuke;Fragbite Masters 2013;Online;A
+287;13/12/13;Ninjas in Pyjamas (16);über G33KZ (7);inf  Inferno;Fragbite Masters 2013;Online;A
+288;12/12/13;VeryGames (10);über G33KZ (16);d2  Dust2;Fragbite Masters 2013;Online;A
+289;12/12/13;VeryGames (15);über G33KZ (19);nuke  Nuke;Fragbite Masters 2013;Online;A
+290;12/12/13;Astana Dragons (8);LGB (16);d2  Dust2;Fragbite Masters 2013;Online;A
+291;12/12/13;Astana Dragons (9);LGB (16);inf  Inferno;Fragbite Masters 2013;Online;A
+292;12/12/13;LGB (14);Astana Dragons (16);mrg  Mirage;Fragbite Masters 2013;Online;A
+293;12/12/13;Ninjas in Pyjamas (16);n!faculty (4);d2  Dust2;Fragbite Masters 2013;Online;A
+294;12/12/13;Ninjas in Pyjamas (16);n!faculty (4);inf  Inferno;Fragbite Masters 2013;Online;A
+295;12/12/13;n!faculty (16);Ninjas in Pyjamas (4);nuke  Nuke;Fragbite Masters 2013;Online;A
+296;11/12/13;VeryGames (16);k1ck (7);d2  Dust2;Fragbite Masters 2013;Online;A
+297;11/12/13;WARMAKER (8);Clan-Mystik (16);nuke  Nuke;ESL Pro Series France XI Finals;Online;A
+298;11/12/13;WARMAKER (16);Clan-Mystik (11);inf  Inferno;ESL Pro Series France XI Finals;Online;A
+299;11/12/13;WARMAKER (0);Clan-Mystik (16);d2  Dust2;ESL Pro Series France XI Finals;Online;A
+300;11/12/13;fnatic (16);VeryGames (21);d2  Dust2;Fragbite Masters 2013;Online;A
+301;11/12/13;Astana Dragons (16);k1ck (13);inf  Inferno;Fragbite Masters 2013;Online;A
+302;11/12/13;VeryGames (14);k1ck (16);inf  Inferno;Fragbite Masters 2013;Online;A
+303;11/12/13;Clan-Mystik (16);Natus Vincere (11);d2  Dust2;Fragbite Masters 2013;Online;A
+304;11/12/13;Natus Vincere (16);Clan-Mystik (12);mrg  Mirage;Fragbite Masters 2013;Online;A
+305;11/12/13;Clan-Mystik (16);Natus Vincere (9);inf  Inferno;Fragbite Masters 2013;Online;A
+306;11/12/13;Astana Dragons (16);fnatic (1);inf  Inferno;Fragbite Masters 2013;Online;A
+307;10/12/13;MOUZ (9);UniversalSoldiers (16);cch  Cache;SLTV StarSeries VIII;Online;A
+308;10/12/13;Nostalgie (16);KerchNET (12);mrg  Mirage;SLTV StarSeries VIII;Online;A
+309;10/12/13;UniversalSoldiers (14);Natus Vincere (16);d2  Dust2;Fragbite Masters 2013;Online;A
+310;10/12/13;ALTERNATE aTTaX (7);Clan-Mystik (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+311;10/12/13;MOUZ (10);KerchNET (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+312;10/12/13;3DMAX (16);LGB (6);cch  Cache;SLTV StarSeries VIII;Online;A
+313;10/12/13;Natus Vincere (16);TC (6);trn  Train;Fragbite Masters 2013;Online;A
+314;10/12/13;iNation (6);Clan-Mystik (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+315;10/12/13;momo momo (16);KerchNET (13);inf  Inferno;SLTV StarSeries VIII;Online;A
+316;10/12/13;USSR (10);k1ck (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+317;10/12/13;Ninjas in Pyjamas (16);UniversalSoldiers (11);inf  Inferno;Fragbite Masters 2013;Online;A
+318;10/12/13;3DMAX (9);Clan-Mystik (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+319;10/12/13;ALTERNATE aTTaX (9);momo momo (16);nuke  Nuke;SLTV StarSeries VIII;Online;A
+320;10/12/13;Natus Vincere (16);Nostalgie (11);d2  Dust2;SLTV StarSeries VIII;Online;A
+321;10/12/13;UniversalSoldiers (16);TC (11);d2  Dust2;Fragbite Masters 2013;Online;A
+322;10/12/13;KerchNET (14);k1ck (16);nuke  Nuke;SLTV StarSeries VIII;Online;A
+323;10/12/13;Natus Vincere (11);Ninjas in Pyjamas (16);inf  Inferno;Fragbite Masters 2013;Online;A
+324;10/12/13;momo momo (12);LGB (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+325;10/12/13;Natus Vincere (16);UniversalSoldiers (5);mrg  Mirage;SLTV StarSeries VIII;Online;A
+326;9/12/13;Natus Vincere (9);ALTERNATE aTTaX (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+327;9/12/13;UniversalSoldiers (16);momo momo (2);cch  Cache;SLTV StarSeries VIII;Online;A
+328;9/12/13;3DMAX (15);MOUZ (15);cch  Cache;SLTV StarSeries VIII;Online;A
+329;9/12/13;Astana Dragons (16);KerchNET (4);inf  Inferno;SLTV StarSeries VIII;Online;A
+330;9/12/13;LGB (16);ALTERNATE aTTaX (4);inf  Inferno;SLTV StarSeries VIII;Online;A
+331;9/12/13;MOUZ (16);iNation (1);inf  Inferno;SLTV StarSeries VIII;Online;A
+332;9/12/13;VeryGames (16);Mistral (3);inf  Inferno;ESL Pro Series France XI Finals;Online;A
+333;9/12/13;VeryGames (16);Mistral (13);d2  Dust2;ESL Pro Series France XI Finals;Online;A
+334;9/12/13;KerchNET (13);Natus Vincere (16);mrg  Mirage;SLTV StarSeries VIII;Online;A
+335;9/12/13;iNation (6);ALTERNATE aTTaX (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+336;9/12/13;3DMAX (16);Nostalgie (7);inf  Inferno;SLTV StarSeries VIII;Online;A
+337;9/12/13;MOUZ (8);Natus Vincere (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+338;9/12/13;UniversalSoldiers (14);LGB (16);trn  Train;SLTV StarSeries VIII;Online;A
+339;9/12/13;3DMAX (5);ALTERNATE aTTaX (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+340;9/12/13;Natus Vincere (11);Astana Dragons (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+341;8/12/13;UniversalSoldiers (16);ALTERNATE aTTaX (7);cch  Cache;SLTV StarSeries VIII;Online;A
+342;8/12/13;France (16);Kazakhstan (10);d2  Dust2;European Championship 2013;Online;A
+343;8/12/13;France (16);Kazakhstan (8);inf  Inferno;European Championship 2013;Online;A
+344;8/12/13;France (14);Kazakhstan (16);nuke  Nuke;European Championship 2013;Online;A
+345;8/12/13;UniversalSoldiers (16);KerchNET (14);mrg  Mirage;SLTV StarSeries VIII;Online;A
+346;8/12/13;Clan-Mystik (15);KerchNET (15);nuke  Nuke;SLTV StarSeries VIII;Online;A
+347;8/12/13;iNation (16);k1ck (8);inf  Inferno;SLTV StarSeries VIII;Online;A
+348;8/12/13;ACES (8);Clan-Mystik (16);nuke  Nuke;SLTV StarSeries VIII;Online;A
+349;8/12/13;ALTERNATE aTTaX (16);USSR (11);d2  Dust2;SLTV StarSeries VIII;Online;A
+350;8/12/13;LGB (16);ACES (7);trn  Train;SLTV StarSeries VIII;Online;A
+351;8/12/13;USSR (6);UniversalSoldiers (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+352;8/12/13;ACES (4);UniversalSoldiers (16);trn  Train;SLTV StarSeries VIII;Online;A
+353;8/12/13;Sweden (17);Denmark (21);nuke  Nuke;European Championship 2013;Online;A
+354;8/12/13;Denmark (16);Sweden (3);trn  Train;European Championship 2013;Online;A
+355;8/12/13;Sweden (16);Denmark (8);d2  Dust2;European Championship 2013;Online;A
+356;7/12/13;Denmark (16);Russia (6);d2  Dust2;European Championship 2013;Online;A
+357;7/12/13;Denmark (21);Russia (18);nuke  Nuke;European Championship 2013;Online;A
+358;7/12/13;Russia (16);Denmark (3);inf  Inferno;European Championship 2013;Online;A
+359;7/12/13;LGB (16);KerchNET (5);mrg  Mirage;SLTV StarSeries VIII;Online;A
+360;7/12/13;France (16);Netherlands (14);d2  Dust2;European Championship 2013;Online;A
+361;7/12/13;Netherlands (14);France (16);inf  Inferno;European Championship 2013;Online;A
+362;7/12/13;iNation (16);KerchNET (3);inf  Inferno;SLTV StarSeries VIII;Online;A
+363;7/12/13;Sweden (16);Belgium (10);trn  Train;European Championship 2013;Online;A
+364;7/12/13;Belgium (8);Sweden (16);mrg  Mirage;European Championship 2013;Online;A
+365;6/12/13;Natus Vincere (16);momo momo (9);inf  Inferno;SLTV StarSeries VIII;Online;A
+366;6/12/13;USSR (15);Natus Vincere (15);d2  Dust2;SLTV StarSeries VIII;Online;A
+367;6/12/13;Germany (13);Denmark (16);nuke  Nuke;European Championship 2013;Online;A
+368;6/12/13;Denmark (16);Germany (9);inf  Inferno;European Championship 2013;Online;A
+369;6/12/13;USSR (8);MOUZ (16);mrg  Mirage;SLTV StarSeries VIII;Online;A
+370;6/12/13;Kazakhstan (16);Serbia (13);nuke  Nuke;European Championship 2013;Online;A
+371;6/12/13;Kazakhstan (16);Serbia (11);inf  Inferno;European Championship 2013;Online;A
+372;5/12/13;ACES (13);Astana Dragons (16);nuke  Nuke;SLTV StarSeries VIII;Online;A
+373;5/12/13;Sweden (21);Finland (19);d2  Dust2;European Championship 2013;Online;A
+374;5/12/13;Finland (5);Sweden (16);trn  Train;European Championship 2013;Online;A
+375;5/12/13;Belgium (16);Italy (8);trn  Train;European Championship 2013;Online;A
+376;5/12/13;Italy (10);Belgium (16);mrg  Mirage;European Championship 2013;Online;A
+377;5/12/13;Hungary (2);France (16);inf  Inferno;European Championship 2013;Online;A
+378;5/12/13;France (16);Hungary (6);nuke  Nuke;European Championship 2013;Online;A
+379;5/12/13;3DMAX (9);k1ck (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+380;5/12/13;3DMAX (16);ACES (13);nuke  Nuke;SLTV StarSeries VIII;Online;A
+381;5/12/13;k1ck (16);Natus Vincere (9);inf  Inferno;SLTV StarSeries VIII;Online;A
+382;5/12/13;momo momo (9);Astana Dragons (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+383;5/12/13;USSR (5);KerchNET (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+384;4/12/13;Nostalgie (16);ENCE (14);inf  Inferno;SLTV StarSeries VIII;Online;A
+385;4/12/13;UniversalSoldiers (16);Clan-Mystik (5);cch  Cache;SLTV StarSeries VIII;Online;A
+386;3/12/13;LGB (16);Xapso (9);mrg  Mirage;Fragbite Masters 2013;Online;A
+387;3/12/13;Clan-Mystik (16);ENCE (8);inf  Inferno;SLTV StarSeries VIII;Online;A
+388;3/12/13;3DMAX (4);UniversalSoldiers (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+389;3/12/13;iNation (6);UniversalSoldiers (16);trn  Train;SLTV StarSeries VIII;Online;A
+390;3/12/13;Natus Vincere (16);ACES (13);trn  Train;SLTV StarSeries VIII;Online;A
+391;3/12/13;LGB (13);Clan-Mystik (16);inf  Inferno;Fragbite Masters 2013;Online;A
+392;3/12/13;Natus Vincere (15);LGB (15);mrg  Mirage;SLTV StarSeries VIII;Online;A
+393;3/12/13;3DMAX (12);KerchNET (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+394;3/12/13;Xapso (7);Clan-Mystik (16);d2  Dust2;Fragbite Masters 2013;Online;A
+395;3/12/13;ACES (13);KerchNET (16);nuke  Nuke;SLTV StarSeries VIII;Online;A
+396;3/12/13;LGB (16);MOUZ (13);mrg  Mirage;Fragbite Masters 2013;Online;A
+397;3/12/13;3DMAX (5);Natus Vincere (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+398;3/12/13;Turkey (11);Kazakhstan (16);d2  Dust2;European Championship 2013;Online;A
+399;3/12/13;Turkey (11);Kazakhstan (16);nuke  Nuke;European Championship 2013;Online;A
+400;2/12/13;Reason (17);n!faculty (19);inf  Inferno;Fragbite Masters 2013;Online;A
+401;2/12/13;Netherlands (16);Poland (9);mrg  Mirage;European Championship 2013;Online;A
+402;2/12/13;Netherlands (10);Poland (16);trn  Train;European Championship 2013;Online;A
+403;2/12/13;Netherlands (16);Poland (7);d2  Dust2;European Championship 2013;Online;A
+404;2/12/13;k1ck (16);ACES (10);inf  Inferno;SLTV StarSeries VIII;Online;A
+405;2/12/13;Reason (16);ALTERNATE aTTaX (5);d2  Dust2;Fragbite Masters 2013;Online;A
+406;2/12/13;ENCE (16);k1ck (9);nuke  Nuke;SLTV StarSeries VIII;Online;A
+407;2/12/13;ACES (16);MOUZ (5);trn  Train;SLTV StarSeries VIII;Online;A
+408;2/12/13;n!faculty (3);CPH Wolves (16);inf  Inferno;Fragbite Masters 2013;Online;A
+409;2/12/13;ACES (16);ALTERNATE aTTaX (8);nuke  Nuke;SLTV StarSeries VIII;Online;A
+410;2/12/13;Reason (7);CPH Wolves (16);inf  Inferno;Fragbite Masters 2013;Online;A
+411;2/12/13;n!faculty (16);ALTERNATE aTTaX (3);d2  Dust2;Fragbite Masters 2013;Online;A
+412;30/11/13;Team Thorin (7);Team lurppis (16);mrg  Mirage;Showmatch CS:GO;Online;A
+413;30/11/13;Team Thorin (13);Team lurppis (16);trn  Train;Showmatch CS:GO;Online;A
+414;26/11/13;Death.Energy (21);3DMAX (26);cch  Cache;ESL Pro Series Germany Winter Season 2013;Online;A
+415;26/11/13;iNation (15);Astana Dragons (15);inf  Inferno;SLTV StarSeries VIII;Online;A
+416;26/11/13;3DMAX (16);logiX (10);cch  Cache;ESL Pro Series Germany Winter Season 2013;Online;A
+417;26/11/13;Death.Energy (8);EnRo GRIFFINS (16);ssn  Season;ESL Pro Series Germany Winter Season 2013;Online;A
+418;26/11/13;Death.Energy (16);3DMAX (6);d2  Dust2;ESL Pro Series Germany Winter Season 2013;Online;A
+419;26/11/13;EnRo GRIFFINS (16);logiX (4);nuke  Nuke;ESL Pro Series Germany Winter Season 2013;Online;A
+420;25/11/13;Playing Ducks (16);ALTERNATE aTTaX (13);d2  Dust2;ESL Pro Series Germany Winter Season 2013;Online;A
+421;25/11/13;Natus Vincere (16);iNation (8);d2  Dust2;SLTV StarSeries VIII;Online;A
+422;25/11/13;Wild Fire (19);Playing Ducks (21);ssn  Season;ESL Pro Series Germany Winter Season 2013;Online;A
+423;25/11/13;iNation (16);ENCE (13);inf  Inferno;SLTV StarSeries VIII;Online;A
+424;25/11/13;ALTERNATE aTTaX (12);MOUZ (16);d2  Dust2;ESL Pro Series Germany Winter Season 2013;Online;A
+425;25/11/13;Nostalgie (7);LGB (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+426;25/11/13;Wild Fire (17);ALTERNATE aTTaX (21);d2  Dust2;ESL Pro Series Germany Winter Season 2013;Online;A
+427;25/11/13;MOUZ (16);Playing Ducks (11);d2  Dust2;ESL Pro Series Germany Winter Season 2013;Online;A
+428;24/11/13;Bosnia & Herzegovina (6);Serbia (16);d2  Dust2;European Championship 2013;Online;A
+429;24/11/13;Serbia (16);Bosnia & Herzegovina (8);nuke  Nuke;European Championship 2013;Online;A
+430;22/11/13;UniversalSoldiers (16);k1ck (12);d2  Dust2;SLTV StarSeries VIII;Online;A
+431;22/11/13;Nostalgie (11);Astana Dragons (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+432;22/11/13;Nostalgie (14);UniversalSoldiers (16);mrg  Mirage;SLTV StarSeries VIII;Online;A
+433;22/11/13;Astana Dragons (14);UniversalSoldiers (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+434;21/11/13;k1ck (16);Clan-Mystik (9);d2  Dust2;SLTV StarSeries VIII;Online;A
+435;21/11/13;Astana Dragons (16);3DMAX (8);inf  Inferno;SLTV StarSeries VIII;Online;A
+436;21/11/13;Nostalgie (14);k1ck (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+437;21/11/13;3DMAX (16);USSR (8);d2  Dust2;SLTV StarSeries VIII;Online;A
+438;21/11/13;Astana Dragons (16);k1ck (3);cch  Cache;SLTV StarSeries VIII;Online;A
+439;21/11/13;Clan-Mystik (15);Nostalgie (15);d2  Dust2;SLTV StarSeries VIII;Online;A
+440;20/11/13;Bosnia & Herzegovina (16);Finland (9);mrg  Mirage_ce;European Championship 2013;Online;A
+441;20/11/13;Germany (16);Ukraine (5);inf  Inferno_se;European Championship 2013;Online;A
+442;20/11/13;ENCE (6);Astana Dragons (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+443;20/11/13;Kazakhstan (15);Ukraine (15);nuke  Nuke_se;European Championship 2013;Online;A
+444;18/11/13;Netherlands (16);United Kingdom (5);d2  Dust2_se;European Championship 2013;Online;A
+445;18/11/13;k1ck (9);ALTERNATE aTTaX (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+446;18/11/13;France (16);Italy (5);d2  Dust2_se;European Championship 2013;Online;A
+447;18/11/13;KerchNET (4);ALTERNATE aTTaX (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+448;17/11/13;momo momo (4);k1ck (16);cch  Cache;SLTV StarSeries VIII;Online;A
+449;17/11/13;ACES (11);iNation (16);nuke  Nuke;SLTV StarSeries VIII;Online;A
+450;17/11/13;Clan-Mystik (12);MOUZ (16);mrg  Mirage;SLTV StarSeries VIII;Online;A
+451;17/11/13;iNation (16);momo momo (6);inf  Inferno;SLTV StarSeries VIII;Online;A
+452;17/11/13;MOUZ (16);k1ck (13);cch  Cache;SLTV StarSeries VIII;Online;A
+453;17/11/13;Clan-Mystik (16);momo momo (3);inf  Inferno;SLTV StarSeries VIII;Online;A
+454;17/11/13;iNation (16);USSR (11);inf  Inferno;SLTV StarSeries VIII;Online;A
+455;17/11/13;Netherlands (16);Norway (11);inf  Inferno_se;European Championship 2013;Online;A
+456;15/11/13;Sweden (16);Serbia (7);inf  Inferno_se;European Championship 2013;Online;A
+457;14/11/13;Finland (3);Poland (16);mrg  Mirage_ce;European Championship 2013;Online;A
+458;14/11/13;MOUZ (16);ALTERNATE aTTaX (12);d2  Dust2;SLTV StarSeries VIII;Online;A
+459;14/11/13;3DMAX (16);momo momo (13);inf  Inferno;SLTV StarSeries VIII;Online;A
+460;14/11/13;United Kingdom (14);Portugal (16);d2  Dust2_se;European Championship 2013;Online;A
+461;14/11/13;Astana Dragons (16);MOUZ (8);d2  Dust2;SLTV StarSeries VIII;Online;A
+462;14/11/13;iNation (16);Nostalgie (10);mrg  Mirage;SLTV StarSeries VIII;Online;A
+463;14/11/13;MOUZ (16);Nostalgie (6);inf  Inferno;SLTV StarSeries VIII;Online;A
+464;14/11/13;ALTERNATE aTTaX (16);Nostalgie (4);nuke  Nuke;SLTV StarSeries VIII;Online;A
+465;14/11/13;Sweden (16);United Kingdom (2);d2  Dust2;European Championship 2013;Online;A
+466;13/11/13;MOUZ (4);Astana Dragons (16);mrg  Mirage;FACEIT Cup October 2013;Online;A
+467;13/11/13;Astana Dragons (9);MOUZ (16);d2  Dust2;FACEIT Cup October 2013;Online;A
+468;13/11/13;MOUZ (12);Astana Dragons (16);cch  Cache;FACEIT Cup October 2013;Online;A
+469;13/11/13;UniversalSoldiers (15);ENCE (15);d2  Dust2;SLTV StarSeries VIII;Online;A
+470;13/11/13;3DMAX (16);iNation (7);inf  Inferno;SLTV StarSeries VIII;Online;A
+471;13/11/13;Switzerland (2);Italy (16);trn  Train_se;European Championship 2013;Online;A
+472;13/11/13;LGB (16);iNation (11);inf  Inferno;SLTV StarSeries VIII;Online;A
+473;13/11/13;Clan-Mystik (16);Natus Vincere (8);inf  Inferno;SLTV StarSeries VIII;Online;A
+474;12/11/13;LGB (16);k1ck (11);d2  Dust2;SLTV StarSeries VIII;Online;A
+475;12/11/13;LGB (12);Clan-Mystik (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+476;12/11/13;momo momo (16);ENCE (11);cch  Cache;SLTV StarSeries VIII;Online;A
+477;12/11/13;MOUZ (16);LGB (14);cch  Cache;SLTV StarSeries VIII;Online;A
+478;12/11/13;Nostalgie (9);momo momo (16);cch  Cache;SLTV StarSeries VIII;Online;A
+479;12/11/13;Astana Dragons (16);Clan-Mystik (3);inf  Inferno;SLTV StarSeries VIII;Online;A
+480;12/11/13;Nostalgie (16);USSR (9);inf  Inferno;SLTV StarSeries VIII;Online;A
+481;12/11/13;Astana Dragons (16);LGB (4);d2  Dust2;SLTV StarSeries VIII;Online;A
+482;12/11/13;USSR (8);LGB (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+483;12/11/13;ACES (16);Nostalgie (2);mrg  Mirage;SLTV StarSeries VIII;Online;A
+484;10/11/13;MOUZ (16);momo momo (1);cch  Cache;SLTV StarSeries VIII;Online;A
+485;10/11/13;USSR (13);Clan-Mystik (16);d2  Dust2;SLTV StarSeries VIII;Online;A
+486;10/11/13;ALTERNATE aTTaX (7);Astana Dragons (16);inf  Inferno;SLTV StarSeries VIII;Online;A
+487;9/11/13;Poland (9);Russia (16);d2  Dust2_se;European Championship 2013;Online;A
+488;9/11/13;Russia (16);Czech Republic (1);inf  Inferno_se;European Championship 2013;Online;A
+489;8/11/13;USSR (16);momo momo (7);inf  Inferno;SLTV StarSeries VIII;Online;A
+490;8/11/13;USSR (16);ACES (7);d2  Dust2;SLTV StarSeries VIII;Online;A
+491;8/11/13;momo momo (6);ACES (16);nuke  Nuke;SLTV StarSeries VIII;Online;A
+492;8/11/13;USSR (6);Astana Dragons (16);cch  Cache;SLTV StarSeries VIII;Online;A
+493;4/11/13;MOUZ (16);EnRo GRIFFINS (12);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+494;4/11/13;MOUZ (16);dotpiXels (6);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+495;4/11/13;EnRo GRIFFINS (21);Death.Energy (16);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+496;4/11/13;MOUZ (21);Wild Fire (16);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+497;4/11/13;ALTERNATE aTTaX (10);dotpiXels (16);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+498;4/11/13;Playing Ducks (3);Death.Energy (16);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+499;4/11/13;EnRo GRIFFINS (16);3DMAX (9);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+500;4/11/13;CPLAY (4);MOUZ (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+501;4/11/13;Wild Fire (16);teamKR (1);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+502;4/11/13;logiX (14);dotpiXels (16);ssn  Season;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+503;4/11/13;ALTERNATE aTTaX (16);SCHUMMLER! (3);nuke  Nuke;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+504;4/11/13;DRUCKWELLE (2);Death.Energy (16);mrg  Mirage;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+505;4/11/13;Playing Ducks (16);w4sp (9);nuke  Nuke;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+506;4/11/13;3DMAX (16);pod (4);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+507;4/11/13;EnRo GRIFFINS (16);MTF Gaming (5);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #5;Online;A
+508;3/11/13;Netherlands (10);Serbia (16);mrg  Mirage_ce;European Championship 2013;Online;A
+509;31/10/13;Hungary (16);Turkey (10);nuke  Nuke_se;European Championship 2013;Online;A
+510;30/10/13;3DMAX (16);UniversalSoldiers (14);ssn  Season;TECHLABS Cup Minsk Rematch;Online;A
+511;30/10/13;UniversalSoldiers (18);3DMAX (21);inf  Inferno;TECHLABS Cup Minsk Rematch;Online;A
+512;28/10/13;Portugal (2);Sweden (16);d2  Dust2_se;European Championship 2013;Online;A
+513;28/10/13;3DMAX (16);logiX (10);nuke  Nuke;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+514;28/10/13;3DMAX (16);Playing Ducks (14);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+515;28/10/13;teamKR (10);logiX (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+516;28/10/13;3DMAX (16);w4sp (3);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+517;28/10/13;teamKR (16);SCHUMMLER! (8);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+518;28/10/13;Playing Ducks (16);ALTERNATE aTTaX (9);nuke  Nuke;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+519;28/10/13;EnRo GRIFFINS (14);logiX (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+520;28/10/13;EnRo GRIFFINS (16);CPLAY (11);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+521;28/10/13;logiX (16);dotpiXels (1);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+522;28/10/13;Wild Fire (14);teamKR (16);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+523;28/10/13;Death.Energy (14);SCHUMMLER! (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+524;28/10/13;ALTERNATE aTTaX (16);MTF Gaming (12);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+525;28/10/13;DRUCKWELLE (6);Playing Ducks (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+526;28/10/13;w4sp (21);pod (18);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+527;28/10/13;3DMAX (21);MOUZ (16);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #4;Online;A
+528;24/10/13;Slovakia (15);Belgium (15);mrg  Mirage_ce;European Championship 2013;Online;A
+529;24/10/13;Bosnia & Herzegovina (16);Spain (3);inf  Inferno_se;European Championship 2013;Online;A
+530;23/10/13;Norway (11);Sweden (16);nuke  Nuke_se;European Championship 2013;Online;A
+531;23/10/13;Kazakhstan (11);Italy (16);d2  Dust2_se;European Championship 2013;Online;A
+532;23/10/13;France (16);Germany (9);inf  Inferno_se;European Championship 2013;Online;A
+533;23/10/13;Kazakhstan (4);Germany (16);d2  Dust2_se;European Championship 2013;Online;A
+534;22/10/13;OxYburn (8);LeetGamerZ (16);inf  Inferno;ESL Pro Series France XI Cup #5;Online;A
+535;22/10/13;TopGun (7);Engine (16);cch  Cache;ESL Pro Series France XI Cup #5;Online;A
+536;22/10/13;Slovakia (16);Latvia (12);inf  Inferno_se;European Championship 2013;Online;A
+537;21/10/13;ALTERNATE aTTaX (8);MOUZ (16);trn  Train;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+538;21/10/13;MOUZ (16);EnRo GRIFFINS (5);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+539;21/10/13;Wild Fire (7);ALTERNATE aTTaX (16);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+540;21/10/13;MOUZ (16);pod (9);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+541;21/10/13;logiX (14);EnRo GRIFFINS (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+542;21/10/13;ALTERNATE aTTaX (16);teamKR (3);ssn  Season;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+543;21/10/13;Death.Energy (12);Wild Fire (16);mrg  Mirage;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+544;21/10/13;Belgium (16);Latvia (2);d2  Dust2_se;European Championship 2013;Online;A
+545;21/10/13;MOUZ (16);Planetkey (6);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+546;21/10/13;pod (16);dotpiXels (12);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+547;21/10/13;DRUCKWELLE (8);logiX (16);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+548;21/10/13;SCHUMMLER! (10);EnRo GRIFFINS (16);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+549;21/10/13;Playing Ducks (13);teamKR (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+550;21/10/13;ALTERNATE aTTaX (16);MTF Gaming (2);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+551;21/10/13;Wild Fire (16);w4sp (11);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+552;21/10/13;Death.Energy (16);CPLAY (12);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #3;Online;A
+553;18/10/13;France (16);Switzerland (2);d2  Dust2_se;European Championship 2013;Online;A
+554;18/10/13;France (16);Ukraine (14);d2  Dust2_se;European Championship 2013;Online;A
+555;17/10/13;Hungary (12);Denmark (16);inf  Inferno_se;European Championship 2013;Online;A
+556;17/10/13;Czech Republic (14);Bosnia & Herzegovina (16);mrg  Mirage_ce;European Championship 2013;Online;A
+557;17/10/13;Finland (16);Spain (3);mrg  Mirage_ce;European Championship 2013;Online;A
+558;17/10/13;WARMAKER (16);Clan-Mystik (2);nuke  Nuke;ESL Pro Series France XI Cup #4;Online;A
+559;17/10/13;VeryGames (16);WE GOT GAME (14);inf  Inferno;ESL Pro Series France XI Cup #4;Online;A
+560;17/10/13;VeryGames (12);WE GOT GAME (16);d2  Dust2;ESL Pro Series France XI Cup #4;Online;A
+561;17/10/13;VeryGames (16);WE GOT GAME (9);nuke  Nuke;ESL Pro Series France XI Cup #4;Online;A
+562;17/10/13;Spain (16);Czech Republic (14);inf  Inferno_se;European Championship 2013;Online;A
+563;16/10/13;Norway (2);United Kingdom (16);d2  Dust2_se;European Championship 2013;Online;A
+564;15/10/13;LGB (16);THiS iS (0);d2  Dust2_se;FACEIT Cup September 2013;Online;A
+565;14/10/13;Playing Ducks (1);Party Daddlers (16);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+566;14/10/13;Playing Ducks (16);logiX (6);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+567;14/10/13;Party Daddlers (16);EnRo GRIFFINS (11);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+568;14/10/13;Party Daddlers (16);pod (2);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+569;14/10/13;KILLERFISH (14);logiX (16);nuke  Nuke;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+570;14/10/13;Playing Ducks (16);Death.Energy (12);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+571;14/10/13;EnRo GRIFFINS (16);Wild Fire (11);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+572;14/10/13;plan G (3);EnRo GRIFFINS (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+573;14/10/13;DRUCKWELLE (9);Wild Fire (16);mrg  Mirage;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+574;14/10/13;MTF Gaming (14);pod (16);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+575;14/10/13;Party Daddlers (16);ALTERNATE aTTaX (6);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+576;14/10/13;teamKR (10);KILLERFISH (16);nuke  Nuke;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+577;14/10/13;w4sp (10);logiX (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+578;14/10/13;Playing Ducks (16);dotpiXels (13);ssn  Season;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+579;14/10/13;SCHUMMLER! (4);Death.Energy (16);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #2;Online;A
+580;13/10/13;Portugal (13);Serbia (16);inf  Inferno_se;European Championship 2013;Online;A
+581;13/10/13;Netherlands (16);Portugal (10);d2  Dust2_se;European Championship 2013;Online;A
+582;12/10/13;Belgium (14);Turkey (16);d2  Dust2_se;European Championship 2013;Online;A
+583;11/10/13;Hungary (16);Latvia (7);inf  Inferno_se;European Championship 2013;Online;A
+584;10/10/13;Italy (15);Ukraine (15);nuke  Nuke_se;European Championship 2013;Online;A
+585;10/10/13;Norway (6);Serbia (16);inf  Inferno_se;European Championship 2013;Online;A
+586;9/10/13;n!faculty (16);ALTERNATE aTTaX (5);d2  Dust2_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+587;9/10/13;ALTERNATE aTTaX (21);AWESOME (18);inf  Inferno_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+588;9/10/13;Natus Vincere (16);n!faculty (11);d2  Dust2_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+589;9/10/13;n!faculty (16);AWESOME (12);nuke  Nuke_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+590;9/10/13;Natus Vincere (16);ALTERNATE aTTaX (12);d2  Dust2_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+591;8/10/13;Party Daddlers (16);Astana Dragons (8);cch  Cache;RaidCall EMS One Fall 2013 Group Stage;Online;A
+592;8/10/13;Astana Dragons (16);solemn (6);inf  Inferno_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+593;8/10/13;CPH Wolves (16);Party Daddlers (2);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Group Stage;Online;A
+594;8/10/13;Party Daddlers (21);Astana Dragons (17);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Group Stage;Online;A
+595;8/10/13;solemn (3);CPH Wolves (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+596;7/10/13;Death.Energy (16);EnRo GRIFFINS (9);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+597;7/10/13;Poland (16);Bosnia & Herzegovina (6);mrg  Mirage_ce;European Championship 2013;Online;A
+598;7/10/13;Death.Energy (16);KILLERFISH (12);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+599;7/10/13;EnRo GRIFFINS (16);ALTERNATE aTTaX (13);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+600;7/10/13;Poland (16);Czech Republic (13);d2  Dust2_se;European Championship 2013;Online;A
+601;7/10/13;dotpiXels (7);ALTERNATE aTTaX (16);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+602;7/10/13;pod (4);EnRo GRIFFINS (16);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+603;7/10/13;Death.Energy (16);w4sp (7);mrg  Mirage;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+604;7/10/13;KILLERFISH (21);Wild Fire (19);mrg  Mirage;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+605;7/10/13;Party Daddlers (6);EnRo GRIFFINS (16);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+606;7/10/13;teamKR (5);pod (16);cch  Cache;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+607;7/10/13;MTF Gaming (14);dotpiXels (16);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+608;7/10/13;Evil Sharks (6);ALTERNATE aTTaX (16);d2  Dust2;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+609;7/10/13;Death.Energy (16);DRUCKWELLE (10);mrg  Mirage;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+610;7/10/13;w4sp (16);plan G (9);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+611;7/10/13;Wild Fire (16);logiX (3);inf  Inferno;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+612;7/10/13;KILLERFISH (16);Playing Ducks (12);ssn  Season;ESL Pro Series Germany Winter 2013 Cup #1;Online;A
+613;6/10/13;VeryGames (16);SK (3);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+614;6/10/13;VeryGames (17);SK (19);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+615;6/10/13;VeryGames (19);SK (17);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+616;6/10/13;Denmark (16);Latvia (4);d2  Dust2_se;European Championship 2013;Online;A
+617;6/10/13;Denmark (16);Slovakia (14);mrg  Mirage_ce;European Championship 2013;Online;A
+618;6/10/13;Sweden (16);Netherlands (1);trn  Train_se;European Championship 2013;Online;A
+619;5/10/13;Slovakia (15);Hungary (15);mrg  Mirage_ce;European Championship 2013;Online;A
+620;5/10/13;MayaM (8);E-Frag (16);inf  Inferno_se;SLTV ProSeries VII;Online;A
+621;5/10/13;MayaM (9);E-Frag (16);d2  Dust2_se;SLTV ProSeries VII;Online;A
+622;5/10/13;ELTZ (6);momo momo (16);nuke  Nuke_se;SLTV ProSeries VII;Online;A
+623;5/10/13;momo momo (16);ELTZ (12);mrg  Mirage_ce;SLTV ProSeries VII;Online;A
+624;5/10/13;Russia (16);Bosnia & Herzegovina (5);mrg  Mirage_ce;European Championship 2013;Online;A
+625;5/10/13;Spain (7);Russia (16);nuke  Nuke_se;European Championship 2013;Online;A
+626;4/10/13;France (16);Kazakhstan (7);d2  Dust2_se;European Championship 2013;Online;A
+627;4/10/13;Belgium (16);Hungary (2);mrg  Mirage_ce;European Championship 2013;Online;A
+628;4/10/13;Slovakia (15);Turkey (15);nuke  Nuke_se;European Championship 2013;Online;A
+629;4/10/13;MayaM (7);ELTZ (16);trn  Train_se;SLTV ProSeries VII;Online;A
+630;4/10/13;MayaM (13);ELTZ (16);mrg  Mirage_ce;SLTV ProSeries VII;Online;A
+631;4/10/13;momo momo (16);E-Frag (9);mrg  Mirage_ce;SLTV ProSeries VII;Online;A
+632;4/10/13;E-Frag (13);momo momo (16);inf  Inferno_se;SLTV ProSeries VII;Online;A
+633;3/10/13;Germany (15);Italy (15);d2  Dust2_se;European Championship 2013;Online;A
+634;3/10/13;n!faculty (7);Ninjas in Pyjamas (16);trn  Train_se;MSI Beat it! 2013 European Finals;Online;A
+635;3/10/13;Ninjas in Pyjamas (14);n!faculty (16);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+636;3/10/13;Ninjas in Pyjamas (16);n!faculty (14);nuke  Nuke_se;MSI Beat it! 2013 European Finals;Online;A
+637;3/10/13;momo momo (16);EYESports (9);mrg  Mirage_ce;SLTV ProSeries VII;Online;A
+638;3/10/13;momo momo (13);EYESports (16);d2  Dust2_se;SLTV ProSeries VII;Online;A
+639;3/10/13;momo momo (16);EYESports (13);inf  Inferno_se;SLTV ProSeries VII;Online;A
+640;3/10/13;Serbia (10);United Kingdom (16);mrg  Mirage_ce;European Championship 2013;Online;A
+641;3/10/13;MayaM (16);T.O.S. (6);mrg  Mirage_ce;SLTV ProSeries VII;Online;A
+642;3/10/13;MayaM (16);T.O.S. (14);d2  Dust2_se;SLTV ProSeries VII;Online;A
+643;3/10/13;MayaM (3);T.O.S. (16);nuke  Nuke_se;SLTV ProSeries VII;Online;A
+644;2/10/13;fnatic (16);Refuse (12);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Group Stage;Online;A
+645;2/10/13;WE GOT GAME (12);Refuse (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+646;2/10/13;Norway (15);Portugal (15);inf  Inferno_se;European Championship 2013;Online;A
+647;2/10/13;Finland (16);Czech Republic (13);mrg  Mirage_ce;European Championship 2013;Online;A
+648;2/10/13;fnatic (12);Ninjas in Pyjamas (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+649;2/10/13;3DMAX (13);n!faculty (16);d2  Dust2_se;SLTV StarSeries VII;Online;A
+650;2/10/13;Ukraine (15);Switzerland (15);mrg  Mirage_ce;European Championship 2013;Online;A
+651;2/10/13;fnatic (16);Refuse (9);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Group Stage;Online;A
+652;2/10/13;Ninjas in Pyjamas (16);WE GOT GAME (7);d2  Dust2_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+653;2/10/13;3DMAX (16);KerchNET (8);inf  Inferno_se;SLTV StarSeries VII;Online;A
+654;2/10/13;3DMAX (16);USSR (9);inf  Inferno_se;SLTV StarSeries VII;Online;A
+655;1/10/13;ESC (16);ENCE (7);trn  Train_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+656;1/10/13;highgrade (8);ENCE (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+657;1/10/13;VeryGames (16);ESC (6);inf  Inferno_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+658;1/10/13;ESC (16);ENCE (10);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Group Stage;Online;A
+659;1/10/13;VeryGames (16);highgrade (3);nuke  Nuke_se;RaidCall EMS One Fall 2013 Group Stage;Online;A
+660;30/9/13;solemn (16);EYES ON U (9);trn  Train_se;RaidCall EMS One Fall 2013 Decider;Online;A
+661;30/9/13;solemn (16);EYES ON U (12);d2  Dust2_se;RaidCall EMS One Fall 2013 Decider;Online;A
+662;30/9/13;EYES ON U (16);solemn (14);nuke  Nuke_se;RaidCall EMS One Fall 2013 Decider;Online;A
+663;30/9/13;Lemondogs (22);n!faculty (19);trn  Train_se;MSI Beat it! 2013 European Finals;Online;A
+664;30/9/13;n!faculty (13);Lemondogs (16);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+665;29/9/13;VeryGames (16);Ninjas in Pyjamas (7);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+666;29/9/13;Ninjas in Pyjamas (8);VeryGames (16);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+667;29/9/13;CPH Wolves (16);oXzone (11);mrg  Mirage_ce;ESWC 2013 Denmark;Online;A
+668;29/9/13;CPH Wolves (6);oXzone (16);inf  Inferno_se;ESWC 2013 Denmark;Online;A
+669;29/9/13;oXzone (7);CPH Wolves (16);d2  Dust2_se;ESWC 2013 Denmark;Online;A
+670;29/9/13;oXzone (16);AWESOME (13);mrg  Mirage_ce;ESWC 2013 Denmark;Online;A
+671;29/9/13;oXzone (16);AWESOME (2);inf  Inferno_se;ESWC 2013 Denmark;Online;A
+672;29/9/13;Cursive (11);CPH Wolves (16);d2  Dust2_se;ESWC 2013 Denmark;Online;A
+673;29/9/13;Cursive (8);CPH Wolves (16);inf  Inferno_se;ESWC 2013 Denmark;Online;A
+674;29/9/13;EYES ON U (14);AWESOME (16);trn  Train_se;ESWC 2013 Denmark;Online;A
+675;29/9/13;AWESOME (16);EYES ON U (8);d2  Dust2_se;ESWC 2013 Denmark;Online;A
+676;29/9/13;EYES ON U (22);AWESOME (20);nuke  Nuke_se;ESWC 2013 Denmark;Online;A
+677;29/9/13;Cursive (16);First_online_then_LAN (7);mrg  Mirage_ce;ESWC 2013 Denmark;Online;A
+678;29/9/13;Cursive (19);First_online_then_LAN (16);inf  Inferno_se;ESWC 2013 Denmark;Online;A
+679;29/9/13;oXzone (16);Xapso (1);mrg  Mirage_ce;ESWC 2013 Denmark;Online;A
+680;29/9/13;oXzone (16);Xapso (10);inf  Inferno_se;ESWC 2013 Denmark;Online;A
+681;29/9/13;CPH Wolves (16);momo momo (1);mrg  Mirage_ce;ESWC 2013 Denmark;Online;A
+682;29/9/13;momo momo (10);CPH Wolves (16);d2  Dust2_se;ESWC 2013 Denmark;Online;A
+683;27/9/13;CPLAY (8);VeryGames (16);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+684;27/9/13;Homeless (9);Complexity (16);d2  Dust2_se;MSI Beat it! 2013 US Finals;Online;A
+685;27/9/13;Homeless (12);Complexity (16);nuke  Nuke_se;MSI Beat it! 2013 US Finals;Online;A
+686;26/9/13;VeryGames (16);k1ck (4);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+687;26/9/13;CPLAY (11);Astana Dragons (16);d2  Dust2_se;SLTV StarSeries VII;Online;A
+688;26/9/13;Ninjas in Pyjamas (16);CPLAY (10);trn  Train_se;SLTV StarSeries VII;Online;A
+689;26/9/13;n!faculty (12);k1ck (16);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+690;26/9/13;Natus Vincere (15);KerchNET (15);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+691;26/9/13;Ninjas in Pyjamas (16);Astana Dragons (14);cch  Cache;SLTV StarSeries VII;Online;A
+692;26/9/13;Lithuania (8);Serbia (16);inf  Inferno_se;European Championship 2013 Qualification Round 2;Online;A
+693;26/9/13;Serbia (16);Lithuania (8);mrg  Mirage_ce;European Championship 2013 Qualification Round 2;Online;A
+694;26/9/13;Bosnia & Herzegovina (16);Andorra (6);mrg  Mirage_ce;European Championship 2013 Qualification Round 2;Online;A
+695;26/9/13;Andorra (4);Bosnia & Herzegovina (16);d2  Dust2_se;European Championship 2013 Qualification Round 2;Online;A
+696;26/9/13;KerchNET (3);ESC (16);cch  Cache;SLTV StarSeries VII;Online;A
+697;26/9/13;Astana Dragons (15);KerchNET (15);inf  Inferno_se;SLTV StarSeries VII;Online;A
+698;26/9/13;Natus Vincere (6);ESC (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+699;26/9/13;Ninjas in Pyjamas (16);Courage (2);trn  Train_se;SLTV StarSeries VII;Online;A
+700;26/9/13;Curse (12);Homeless (16);inf  Inferno_se;MSI Beat it! 2013 US Finals;Online;A
+701;26/9/13;Curse (14);Homeless (16);d2  Dust2_se;MSI Beat it! 2013 US Finals;Online;A
+702;25/9/13;k1ck (16);Ninjas in Pyjamas (14);d2  Dust2;SLTV StarSeries VII;Online;A
+703;25/9/13;k1ck (16);USSR (3);inf  Inferno_se;SLTV StarSeries VII;Online;A
+704;25/9/13;ALTERNATE aTTaX (13);Courage (16);inf  Inferno_se;SLTV StarSeries VII;Online;A
+705;25/9/13;Party Daddlers (23);CPH Wolves (26);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+706;25/9/13;CPH Wolves (16);Party Daddlers (6);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+707;25/9/13;CPLAY (7);Natus Vincere (16);inf  Inferno_se;SLTV StarSeries VII;Online;A
+708;25/9/13;CPH Wolves (16);ESC (6);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+709;25/9/13;Estonia (12);Latvia (16);d2  Dust2_se;European Championship 2013 Qualification Round 2;Online;A
+710;25/9/13;Estonia (17);Latvia (21);mrg  Mirage_ce;European Championship 2013 Qualification Round 2;Online;A
+711;25/9/13;fnatic (16);k1ck (14);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+712;25/9/13;Netherlands (16);Austria (10);nuke  Nuke_se;European Championship 2013 Qualification Round 2;Online;A
+713;25/9/13;Austria (6);Netherlands (16);mrg  Mirage_ce;European Championship 2013 Qualification Round 2;Online;A
+714;25/9/13;Austria (16);Netherlands (6);d2  Dust2_se;European Championship 2013 Qualification Round 2;Online;A
+715;25/9/13;Astana Dragons (16);k1ck (4);inf  Inferno_se;SLTV StarSeries VII;Online;A
+716;25/9/13;Party Daddlers (16);Natus Vincere (5);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+717;25/9/13;Astana Dragons (16);ESC (3);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+718;24/9/13;CPLAY (13);ESC (16);trn  Train_se;SLTV StarSeries VII;Online;A
+719;24/9/13;3DMAX (16);k1ck (12);d2  Dust2_se;SLTV StarSeries VII;Online;A
+720;24/9/13;ALTERNATE aTTaX (16);CPLAY (12);d2  Dust2_se;SLTV StarSeries VII;Online;A
+721;24/9/13;Natus Vincere (16);ENCE (9);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+722;24/9/13;AWESOME (17);ESC (21);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+723;24/9/13;Refuse (10);CPH Wolves (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+724;24/9/13;Party Daddlers (16);highgrade (6);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #4;Online;A
+725;24/9/13;KerchNET (14);k1ck (16);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+726;24/9/13;EnRo GRIFFINS (14);CPH Wolves (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+727;24/9/13;ALTERNATE aTTaX (13);Refuse (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+728;24/9/13;n!faculty (1);ESC (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #4;Online;A
+729;24/9/13;AWESOME (21);3DMAX (19);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+730;24/9/13;ENCE (16);solemn (7);trn  Train_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+731;24/9/13;Natus Vincere (16);EYES ON U (4);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+732;24/9/13;fnatic (23);Party Daddlers (26);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+733;24/9/13;CPLAY (16);KerchNET (9);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+734;24/9/13;EnRo GRIFFINS (16);myXMG (10);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+735;24/9/13;ALTERNATE aTTaX (16);Paranoia (6);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+736;24/9/13;ESC (16);VexstaR (3);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #4;Online;A
+737;24/9/13;3DMAX (16);Vikings (1);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+738;24/9/13;solemn (16);MayaM (2);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+739;24/9/13;EYES ON U (16);KILLERFISH (8);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+740;24/9/13;WE GOT GAME (4);Party Daddlers (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #4;Online;A
+741;24/9/13;highgrade (16);AGENT (9);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #4;Online;A
+742;24/9/13;Ninjas in Pyjamas (16);KerchNET (2);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+743;24/9/13;Ninjas in Pyjamas (16);Natus Vincere (12);inf  Inferno_se;SLTV StarSeries VII;Online;A
+744;24/9/13;Kazakhstan (16);Bulgaria (12);d2  Dust2_se;European Championship 2013 Qualification Round 2;Online;A
+745;24/9/13;Kazakhstan (8);Bulgaria (16);nuke  Nuke_se;European Championship 2013 Qualification Round 2;Online;A
+746;24/9/13;Bulgaria (13);Kazakhstan (16);mrg  Mirage_ce;European Championship 2013 Qualification Round 2;Online;A
+747;24/9/13;Complexity (16);Exertus (1);nuke  Nuke_se;MSI Beat it! 2013 US Finals;Online;A
+748;24/9/13;Complexity (16);Exertus (3);d2  Dust2_se;MSI Beat it! 2013 US Finals;Online;A
+749;23/9/13;ESC (6);VeryGames (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+750;23/9/13;Macedonia (3);Spain (16);d2  Dust2_se;European Championship 2013 Qualification Round 2;Online;A
+751;23/9/13;Spain (16);Macedonia (11);inf  Inferno_se;European Championship 2013 Qualification Round 2;Online;A
+752;23/9/13;n!faculty (16);k1ck (10);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+753;23/9/13;n!faculty (17);k1ck (19);nuke  Nuke_se;MSI Beat it! 2013 European Finals;Online;A
+754;23/9/13;n!faculty (16);k1ck (11);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+755;23/9/13;Switzerland (16);Ireland (7);d2  Dust2_se;European Championship 2013 Qualification Round 2;Online;A
+756;23/9/13;Ireland (14);Switzerland (16);inf  Inferno_se;European Championship 2013 Qualification Round 2;Online;A
+757;23/9/13;Ninjas in Pyjamas (16);fnatic (7);inf  Inferno_se;SLTV StarSeries VII;Online;A
+758;23/9/13;VeryGames (16);Courage (4);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+759;23/9/13;Belarus (7);Turkey (16);d2  Dust2_se;European Championship 2013 Qualification Round 2;Online;A
+760;23/9/13;Belarus (5);Turkey (16);nuke  Nuke_se;European Championship 2013 Qualification Round 2;Online;A
+761;23/9/13;VeryGames (16);n!faculty (12);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+762;23/9/13;CPLAY (10);fnatic (16);trn  Train_se;SLTV StarSeries VII;Online;A
+763;23/9/13;Czech Republic (16);Slovenia (2);mrg  Mirage_ce;European Championship 2013 Qualification Round 2;Online;A
+764;23/9/13;Czech Republic (16);Slovenia (11);inf  Inferno_se;European Championship 2013 Qualification Round 2;Online;A
+765;23/9/13;USSR (4);ESC (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+766;22/9/13;Ninjas in Pyjamas (16);VeryGames (8);inf  Inferno_se;SLTV StarSeries VII;Online;A
+767;22/9/13;Croatia (4);Italy (16);trn  Train_se;European Championship 2013 Qualification Round 2;Online;A
+768;22/9/13;Croatia (7);Italy (16);nuke  Nuke_se;European Championship 2013 Qualification Round 2;Online;A
+769;22/9/13;Italy (17);Croatia (21);inf  Inferno_se;European Championship 2013 Qualification Round 2;Online;A
+770;22/9/13;Courage (3);Astana Dragons (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+771;22/9/13;Iceland (9);Norway (16);inf  Inferno_se;European Championship 2013 Qualification Round 2;Online;A
+772;22/9/13;Norway (16);Iceland (14);mrg  Mirage_ce;European Championship 2013 Qualification Round 2;Online;A
+773;22/9/13;Norway (11);Iceland (16);d2  Dust2_se;European Championship 2013 Qualification Round 2;Online;A
+774;22/9/13;VeryGames (13);Astana Dragons (16);inf  Inferno_se;SLTV StarSeries VII;Online;A
+775;20/9/13;USSR (16);CPLAY (4);d2  Dust2_se;SLTV StarSeries VII;Online;A
+776;20/9/13;n!faculty (12);KerchNET (16);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+777;20/9/13;n!faculty (16);USSR (9);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+778;20/9/13;VeryGames (19);LGB (16);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+779;20/9/13;VeryGames (10);LGB (16);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+780;20/9/13;LGB (9);VeryGames (16);nuke  Nuke_se;MSI Beat it! 2013 European Finals;Online;A
+781;20/9/13;USSR (11);Astana Dragons (16);cch  Cache;SLTV StarSeries VII;Online;A
+782;20/9/13;Romania (8);Hungary (16);d2  Dust2_se;European Championship 2013 Qualification Round 2;Online;A
+783;20/9/13;Hungary (16);Romania (5);mrg  Mirage_ce;European Championship 2013 Qualification Round 2;Online;A
+784;20/9/13;USSR (16);Courage (10);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+785;20/9/13;Homeless (16);Denial (11);mrg  Mirage_ce;MSI Beat it! 2013 US Finals;Online;A
+786;20/9/13;Denial (11);Homeless (16);d2  Dust2_se;MSI Beat it! 2013 US Finals;Online;A
+787;20/9/13;Denial (16);Homeless (12);inf  Inferno_se;MSI Beat it! 2013 US Finals;Online;A
+788;19/9/13;CPLAY (10);n!faculty (16);d2  Dust2_se;SLTV StarSeries VII;Online;A
+789;19/9/13;ESC (11);fnatic (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+790;19/9/13;Natus Vincere (3);Courage (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+791;18/9/13;Astana Dragons (16);ENCE (11);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+792;18/9/13;ENCE (11);Astana Dragons (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #3;Online;A
+793;18/9/13;ENCE (16);Refuse (3);trn  Train_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+794;18/9/13;Natus Vincere (14);Astana Dragons (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+795;18/9/13;VeryGames (13);ALTERNATE aTTaX (16);d2  Dust2_se;SLTV StarSeries VII;Online;A
+796;17/9/13;CPH Wolves (9);Natus Vincere (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+797;17/9/13;ALTERNATE aTTaX (9);Astana Dragons (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+798;17/9/13;AWESOME (9);Refuse (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #3;Online;A
+799;17/9/13;ENCE (21);Ninjas in Pyjamas (19);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+800;17/9/13;ESC (17);Astana Dragons (21);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #3;Online;A
+801;17/9/13;VeryGames (10);ALTERNATE aTTaX (16);ssn  Season;RaidCall EMS One Fall 2013 Cup #3;Online;A
+802;17/9/13;COWABUNGA (8);Natus Vincere (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #3;Online;A
+803;17/9/13;AGENT (2);CPH Wolves (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+804;17/9/13;3DMAX (12);AWESOME (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #3;Online;A
+805;17/9/13;Refuse (16);WE GOT GAME (10);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+806;17/9/13;ENCE (16);MayaM (4);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #3;Online;A
+807;17/9/13;EnRo GRIFFINS (10);Ninjas in Pyjamas (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #3;Online;A
+808;17/9/13;ALTERNATE aTTaX (16);myXMG (13);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+809;17/9/13;solemn (10);Astana Dragons (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+810;17/9/13;VexstaR (6);COWABUNGA (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #3;Online;A
+811;17/9/13;3DMAX (16);Lions (12);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+812;17/9/13;Refuse (16);KILLERFISH (12);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+813;17/9/13;MayaM (16);EYES ON U (6);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #3;Online;A
+814;17/9/13;EnRo GRIFFINS (16);Vikings (12);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #3;Online;A
+815;16/9/13;USSR (13);ALTERNATE aTTaX (16);inf  Inferno_se;SLTV StarSeries VII;Online;A
+816;16/9/13;k1ck (16);CPLAY (13);d2  Dust2_se;SLTV StarSeries VII;Online;A
+817;16/9/13;3DMAX (16);CPLAY (12);d2  Dust2_se;SLTV StarSeries VII;Online;A
+818;13/9/13;Courage (8);k1ck (16);inf  Inferno_se;SLTV StarSeries VII;Online;A
+819;13/9/13;Andorra (16);Greece (13);inf  Inferno_se;European Championship 2013 Qualification Round 1;Online;A
+820;13/9/13;Andorra (21);Greece (19);d2  Dust2_se;European Championship 2013 Qualification Round 1;Online;A
+821;13/9/13;KerchNET (16);b.s3x (14);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+822;13/9/13;Exertus (15);RELiABLE (15);inf  Inferno_se;MSI Beat it! 2013 US Finals;Online;A
+823;12/9/13;Ninjas in Pyjamas (15);3DMAX (15);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+824;12/9/13;USSR (16);KerchNET (12);inf  Inferno_se;SLTV StarSeries VII;Online;A
+825;12/9/13;fnatic (16);Astana Dragons (12);inf  Inferno_se;SLTV StarSeries VII;Online;A
+826;12/9/13;KerchNET (16);Courage (7);inf  Inferno_se;SLTV StarSeries VII;Online;A
+827;12/9/13;cuLtivation (15);Perfectionvore (15);inf  Inferno_se;MSI Beat it! 2013 US Finals;Online;A
+828;12/9/13;Complexity (16);Frost Gaming (1);nuke  Nuke_se;MSI Beat it! 2013 US Finals;Online;A
+829;12/9/13;Perfectionvore (14);Frost Gaming (16);inf  Inferno_se;MSI Beat it! 2013 US Finals;Online;A
+830;12/9/13;cuLtivation (8);Complexity (16);mrg  Mirage_ce;MSI Beat it! 2013 US Finals;Online;A
+831;12/9/13;cuLtivation (16);Frost Gaming (13);inf  Inferno_se;MSI Beat it! 2013 US Finals;Online;A
+832;12/9/13;Perfectionvore (10);Complexity (16);d2  Dust2_se;MSI Beat it! 2013 US Finals;Online;A
+833;11/9/13;VeryGames (11);Ninjas in Pyjamas (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+834;11/9/13;VeryGames (7);Ninjas in Pyjamas (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+835;11/9/13;Lemondogs (11);ESC (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+836;11/9/13;3DMAX (9);Lemondogs (16);d2  Dust2_se;SLTV StarSeries VII;Online;A
+837;11/9/13;Luxembourg (5);Estonia (16);d2  Dust2_se;European Championship 2013 Qualification Round 1;Online;A
+838;11/9/13;Estonia (16);Luxembourg (3);inf  Inferno_se;European Championship 2013 Qualification Round 1;Online;A
+839;11/9/13;CPLAY (16);b.s3x (13);d2  Dust2_se;SLTV StarSeries VII;Online;A
+840;11/9/13;VeryGames (16);n!faculty (10);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #2;Online;A
+841;11/9/13;Ninjas in Pyjamas (16);AWESOME (1);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+842;11/9/13;VeryGames (16);USSR (8);inf  Inferno_se;SLTV StarSeries VII;Online;A
+843;11/9/13;VeryGames (16);fnatic (5);inf  Inferno_se;SLTV StarSeries VII;Online;A
+844;11/9/13;Curse (16);Homeless (10);d2  Dust2;MSI Beat it! 2013 US Finals;Online;A
+845;11/9/13;Exertus (9);Curse (16);d2  Dust2_se;MSI Beat it! 2013 US Finals;Online;A
+846;11/9/13;Homeless (16);RELiABLE (12);mrg  Mirage_ce;MSI Beat it! 2013 US Finals;Online;A
+847;11/9/13;Homeless (14);Exertus (16);inf  Inferno_se;MSI Beat it! 2013 US Finals;Online;A
+848;11/9/13;RELiABLE (11);Curse (16);inf  Inferno_se;MSI Beat it! 2013 US Finals;Online;A
+849;10/9/13;Lemondogs (16);3DMAX (8);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+850;10/9/13;Ninjas in Pyjamas (16);Natus Vincere (3);cch  Cache;RaidCall EMS One Fall 2013 Cup #2;Online;A
+851;10/9/13;k1ck (5);Lemondogs (16);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+852;10/9/13;WE GOT GAME (6);VeryGames (16);ssn  Season;RaidCall EMS One Fall 2013 Cup #2;Online;A
+853;10/9/13;CPH Wolves (9);n!faculty (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+854;10/9/13;AWESOME (16);ESC (4);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+855;10/9/13;WE GOT GAME (21);EYES ON U (18);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+856;10/9/13;CPH Wolves (16);Refuse (5);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+857;10/9/13;4w (5);VeryGames (16);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+858;10/9/13;fnatic (10);ESC (16);cch  Cache;RaidCall EMS One Fall 2013 Cup #2;Online;A
+859;10/9/13;COWABUNGA (9);AWESOME (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+860;10/9/13;Clan-Mystik (12);Natus Vincere (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #2;Online;A
+861;10/9/13;ALTERNATE aTTaX (1);Ninjas in Pyjamas (16);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+862;10/9/13;n!faculty (16);solemn (7);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+863;10/9/13;KILLERFISH (6);EYES ON U (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+864;10/9/13;myXMG (11);Refuse (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+865;10/9/13;Vikings (11);4w (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #2;Online;A
+866;10/9/13;ESC (16);highgrade (4);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #2;Online;A
+867;10/9/13;COWABUNGA (26);Lions (24);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+868;10/9/13;3DMAX (8);Clan-Mystik (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+869;10/9/13;ALTERNATE aTTaX (16);AGENT (3);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+870;10/9/13;solemn (16);Elysium (1);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #2;Online;A
+871;9/9/13;Lemondogs (16);fnatic (2);trn  Train_se;MSI Beat it! 2013 European Finals;Online;A
+872;9/9/13;Ninjas in Pyjamas (16);VeryGames (12);inf  Inferno_se;FACEIT Cup August 2013;Online;A
+873;9/9/13;Ninjas in Pyjamas (16);VeryGames (14);mrg  Mirage_ce;FACEIT Cup August 2013;Online;A
+874;9/9/13;VeryGames (16);Ninjas in Pyjamas (13);d2  Dust2_se;FACEIT Cup August 2013;Online;A
+875;9/9/13;ALTERNATE aTTaX (14);Natus Vincere (16);d2  Dust2_se;SLTV StarSeries VII;Online;A
+876;9/9/13;fnatic (5);Ninjas in Pyjamas (16);d2  Dust2_se;FACEIT Cup August 2013;Online;A
+877;9/9/13;Ninjas in Pyjamas (16);fnatic (6);inf  Inferno_se;FACEIT Cup August 2013;Online;A
+878;9/9/13;Croatia (16);Montenegro (8);nuke  Nuke_se;European Championship 2013 Qualification Round 1;Online;A
+879;9/9/13;Croatia (16);Montenegro (4);inf  Inferno_se;European Championship 2013 Qualification Round 1;Online;A
+880;9/9/13;k1ck (16);Natus Vincere (11);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+881;9/9/13;ESC (16);3DMAX (2);trn  Train_se;SLTV StarSeries VII;Online;A
+882;9/9/13;VeryGames (16);Astana Dragons (8);d2  Dust2_se;FACEIT Cup August 2013;Online;A
+883;9/9/13;Astana Dragons (3);VeryGames (16);nuke  Nuke_se;FACEIT Cup August 2013;Online;A
+884;9/9/13;Natus Vincere (15);Lemondogs (15);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+885;9/9/13;n!faculty (4);ESC (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+886;9/9/13;n!faculty (16);Courage (9);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+887;8/9/13;Astana Dragons (16);n!faculty (5);d2  Dust2_se;SLTV StarSeries VII;Online;A
+888;8/9/13;Iceland (16);Israel (3);inf  Inferno_se;European Championship 2013 Qualification Round 1;Online;A
+889;8/9/13;Iceland (16);Israel (6);mrg  Mirage_ce;European Championship 2013 Qualification Round 1;Online;A
+890;8/9/13;Natus Vincere (9);Astana Dragons (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+891;8/9/13;USSR (16);b.s3x (8);inf  Inferno_se;SLTV StarSeries VII;Online;A
+892;8/9/13;Moldova (7);Macedonia (16);d2  Dust2_se;European Championship 2013 Qualification Round 1;Online;A
+893;8/9/13;Moldova (13);Macedonia (16);mrg  Mirage_ce;European Championship 2013 Qualification Round 1;Online;A
+894;8/9/13;Slovenia (16);Armenia (1);mrg  Mirage_ce;European Championship 2013 Qualification Round 1;Online;A
+895;8/9/13;Slovenia (16);Armenia (0);inf  Inferno_se;European Championship 2013 Qualification Round 1;Online;A
+896;8/9/13;VeryGames (15);Lemondogs (15);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+897;8/9/13;Natus Vincere (5);k1ck (16);d2  Dust2_se;SLTV StarSeries VII;Online;A
+898;8/9/13;VeryGames (15);Natus Vincere (15);d2  Dust2_se;SLTV StarSeries VII;Online;A
+899;6/9/13;fnatic (15);VeryGames (15);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+900;6/9/13;KerchNET (4);VeryGames (16);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+901;6/9/13;Natus Vincere (15);VeryGames (15);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+902;6/9/13;KerchNET (2);fnatic (16);inf  Inferno_se;SLTV StarSeries VII;Online;A
+903;6/9/13;Natus Vincere (16);fnatic (14);inf  Inferno_se;SLTV StarSeries VII;Online;A
+904;6/9/13;3DMAX (15);Natus Vincere (15);d2  Dust2_se;SLTV StarSeries VII;Online;A
+905;5/9/13;fnatic (16);3DMAX (7);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+906;5/9/13;ESC (16);k1ck (1);cch  Cache;SLTV StarSeries VII;Online;A
+907;5/9/13;fnatic (16);ALTERNATE aTTaX (8);inf  Inferno_se;SLTV StarSeries VII;Online;A
+908;5/9/13;3DMAX (1);Natus Vincere (16);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+909;5/9/13;Natus Vincere (16);fnatic (7);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+910;5/9/13;3DMAX (16);Courage (7);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+911;5/9/13;ALTERNATE aTTaX (8);KerchNET (16);nuke  Nuke_se;SLTV StarSeries VII;Online;A
+912;5/9/13;3DMAX (3);VeryGames (16);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+913;5/9/13;VeryGames (16);k1ck (2);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+914;4/9/13;Astana Dragons (16);3DMAX (13);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+915;4/9/13;Ninjas in Pyjamas (16);CPH Wolves (6);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+916;4/9/13;CPH Wolves (22);Ninjas in Pyjamas (26);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #1;Online;A
+917;4/9/13;CPH Wolves (16);Ninjas in Pyjamas (14);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+918;4/9/13;3DMAX (9);ALTERNATE aTTaX (16);inf  Inferno_se;SLTV StarSeries VII;Online;A
+919;4/9/13;CPH Wolves (16);VeryGames (14);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #1;Online;A
+920;4/9/13;Ninjas in Pyjamas (16);fnatic (7);trn  Train_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+921;4/9/13;VeryGames (16);b.s3x (4);d2  Dust2_se;SLTV StarSeries VII;Online;A
+922;4/9/13;VeryGames (16);3DMAX (11);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+923;3/9/13;WE GOT GAME (10);fnatic (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+924;3/9/13;Playing Ducks (13);VeryGames (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #1;Online;A
+925;3/9/13;CPH Wolves (16);AWESOME (11);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+926;3/9/13;Ninjas in Pyjamas (16);n!faculty (8);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+927;3/9/13;EYES ON U (10);Ninjas in Pyjamas (16);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+928;3/9/13;AWESOME (16);EnRo GRIFFINS (7);nuke  Nuke_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+929;3/9/13;4w (12);n!faculty (16);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #1;Online;A
+930;3/9/13;3DMAX (9);WE GOT GAME (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+931;3/9/13;CPH Wolves (16);solemn (7);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+932;3/9/13;fnatic (16);highgrade (6);cch  Cache;RaidCall EMS One Fall 2013 Cup #1;Online;A
+933;3/9/13;Playing Ducks (21);Natus Vincere (17);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+934;3/9/13;VeryGames (16);COWABUNGA (2);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+935;3/9/13;EYES ON U (16);Ildal Lions (14);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+936;3/9/13;4w (16);Refuse (8);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #1;Online;A
+937;3/9/13;3DMAX (21);Vikings (16);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+938;3/9/13;solemn (16);myXMG (13);d2  Dust2_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+939;3/9/13;Come And Get US (10);highgrade (16);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+940;3/9/13;Playing Ducks (21);Wiadro-Gaming (18);mrg  Mirage_ce;RaidCall EMS One Fall 2013 Cup #1;Online;A
+941;3/9/13;EnRo GRIFFINS (16);ALTERNATE aTTaX (5);cch  Cache;RaidCall EMS One Fall 2013 Cup #1;Online;A
+942;3/9/13;COWABUNGA (16);AGENT (10);inf  Inferno_se;RaidCall EMS One Fall 2013 Cup #1;Online;A
+943;2/9/13;3DMAX (14);k1ck (16);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+944;2/9/13;k1ck (16);fnatic (11);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+945;2/9/13;ALTERNATE aTTaX (16);n!faculty (11);d2  Dust2_se;SLTV StarSeries VII;Online;A
+946;2/9/13;Ninjas in Pyjamas (16);n!faculty (13);d2  Dust2_se;SLTV StarSeries VII;Online;A
+947;2/9/13;Lemondogs (16);n!faculty (12);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+948;1/9/13;ESC (10);Ninjas in Pyjamas (16);cch  Cache;SLTV StarSeries VII;Online;A
+949;1/9/13;ALTERNATE aTTaX (6);Ninjas in Pyjamas (16);inf  Inferno_se;SLTV StarSeries VII;Online;A
+950;1/9/13;CPH Wolves (10);Ninjas in Pyjamas (16);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+951;1/9/13;ESC (6);CPH Wolves (16);nuke  Nuke_se;MSI Beat it! 2013 European Finals;Online;A
+952;30/8/13;LGB (16);Astana Dragons (5);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+953;30/8/13;Astana Dragons (16);CPH Wolves (8);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+954;29/8/13;LGB (14);ESC (16);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+955;29/8/13;Astana Dragons (13);Ninjas in Pyjamas (16);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+956;29/8/13;ESC (12);Ninjas in Pyjamas (16);trn  Train_se;MSI Beat it! 2013 European Finals;Online;A
+957;29/8/13;Astana Dragons (16);ESC (10);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+958;29/8/13;Ninjas in Pyjamas (16);USSR (4);inf  Inferno_se;SLTV StarSeries VII;Online;A
+959;29/8/13;fnatic (16);Courage (5);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+960;28/8/13;LGB (14);Ninjas in Pyjamas (16);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+961;28/8/13;LGB (16);CPH Wolves (14);inf  Inferno_se;MSI Beat it! 2013 European Finals;Online;A
+962;28/8/13;n!faculty (16);CPH Wolves (5);nuke  Nuke_se;MSI Beat it! 2013 European Finals;Online;A
+963;28/8/13;Ninjas in Pyjamas (16);b.s3x (0);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+964;28/8/13;n!faculty (16);ESC (13);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+965;28/8/13;Natus Vincere (16);b.s3x (8);d2  Dust2_se;SLTV StarSeries VII;Online;A
+966;28/8/13;USSR (15);Natus Vincere (15);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+967;26/8/13;Lemondogs (14);CPLAY (16);trn  Train_se;SLTV StarSeries VII;Online;A
+968;26/8/13;n!faculty (11);Ninjas in Pyjamas (16);nuke  Nuke_se;MSI Beat it! 2013 European Finals;Online;A
+969;26/8/13;Courage (15);CPLAY (15);d2  Dust2_se;SLTV StarSeries VII;Online;A
+970;26/8/13;LGB (11);n!faculty (16);mrg  Mirage_ce;MSI Beat it! 2013 European Finals;Online;A
+971;26/8/13;USSR (3);fnatic (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+972;26/8/13;Astana Dragons (14);n!faculty (16);d2  Dust2_se;MSI Beat it! 2013 European Finals;Online;A
+973;26/8/13;fnatic (16);b.s3x (3);inf  Inferno_se;SLTV StarSeries VII;Online;A
+974;25/8/13;n!faculty (11);fnatic (16);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+975;24/8/13;n!faculty (16);Flamelux (9);nuke  Nuke_se;MSI Beat it! 2013 EU Shootout;Online;A
+976;24/8/13;Flamelux (13);n!faculty (16);mrg  Mirage_ce;MSI Beat it! 2013 EU Shootout;Online;A
+977;24/8/13;LGB (16);WE GOT GAME (8);d2  Dust2_se;MSI Beat it! 2013 EU Shootout;Online;A
+978;24/8/13;LGB (16);WE GOT GAME (14);inf  Inferno_se;MSI Beat it! 2013 EU Shootout;Online;A
+979;23/8/13;Flamelux (19);highgrade (16);trn  Train_se;MSI Beat it! 2013 EU Open Qualifier #4;Online;A
+980;23/8/13;Flamelux (16);highgrade (5);d2  Dust2_se;MSI Beat it! 2013 EU Open Qualifier #4;Online;A
+981;23/8/13;Flamelux (16);highgrade (19);mrg  Mirage_ce;MSI Beat it! 2013 EU Open Qualifier #4;Online;A
+982;23/8/13;iNation (13);n!faculty (16);nuke  Nuke_se;MSI Beat it! 2013 EU Open Qualifier #3;Online;A
+983;23/8/13;n!faculty (16);iNation (4);mrg  Mirage_ce;MSI Beat it! 2013 EU Open Qualifier #3;Online;A
+984;22/8/13;Ninjas in Pyjamas (16);Lemondogs (6);trn  Train_se;SLTV StarSeries VII;Online;A
+985;22/8/13;Courage (16);b.s3x (12);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+986;21/8/13;WE GOT GAME (16);Vikings (3);mrg  Mirage_ce;MSI Beat it! 2013 EU Open Qualifier #2;Online;A
+987;21/8/13;WE GOT GAME (16);Vikings (2);inf  Inferno_se;MSI Beat it! 2013 EU Open Qualifier #2;Online;A
+988;21/8/13;Vikings (16);WE GOT GAME (12);d2  Dust2_se;MSI Beat it! 2013 EU Open Qualifier #2;Online;A
+989;21/8/13;ALTERNATE aTTaX (16);Astana Dragons (14);d2  Dust2_se;SLTV StarSeries VII;Online;A
+990;21/8/13;ESC (16);Courage (4);mrg  Mirage_ce;SLTV StarSeries VII;Online;A
+991;21/8/13;Orange (16);ATE (6);nuke  Nuke_se;Showmatch CS:GO;Online;A
+992;21/8/13;Orange (16);ATE (4);trn  Train_se;Showmatch CS:GO;Online;A
+993;15/8/13;DRUCKWELLE (16);w4sp (14);d2  Dust2_se;ESL Pro Series Germany Summer Season 2013;Online;A
+994;15/8/13;DRUCKWELLE (16);w4sp (10);mrg  Mirage_ce;ESL Pro Series Germany Summer Season 2013;Online;A
+995;14/8/13;VeryGames (16);CPH Wolves (14);mrg  Mirage_ce;Mad Catz Invitational;Online;A
+996;14/8/13;VeryGames (16);CPH Wolves (10);d2  Dust2_se;Mad Catz Invitational;Online;A
+997;14/8/13;fnatic (16);3DMAX (5);trn  Train_se;SLTV StarSeries VII;Online;A
+998;13/8/13;MTF Gaming (13);Playing Ducks (16);nuke  Nuke_se;ESL Pro Series Germany Summer Season 2013;Online;A
+999;13/8/13;Playing Ducks (16);MTF Gaming (0);mrg  Mirage_ce;ESL Pro Series Germany Summer Season 2013;Online;A
+1000;13/8/13;fnatic (16);Western Wolves (5);trn  Train_se;Mad Catz Invitational;Online;A
+1001;13/8/13;Western Wolves (28);fnatic (31);inf  Inferno_se;Mad Catz Invitational;Online;A
+1002;12/8/13;fnatic (16);Astana Dragons (5);mrg  Mirage_ce;Mad Catz Invitational;Online;A
+1003;12/8/13;fnatic (16);Astana Dragons (10);inf  Inferno_se;Mad Catz Invitational;Online;A
+1004;11/8/13;fnatic (16);LDLC (8);mrg  Mirage_ce;SLTV StarSeries VII Qualifier;Online;A
+1005;11/8/13;LDLC (13);Lemondogs (16);mrg  Mirage_ce;SLTV StarSeries VII Qualifier;Online;A
+1006;11/8/13;fnatic (16);Begrip (11);mrg  Mirage_ce;SLTV StarSeries VII Qualifier;Online;A
+1007;11/8/13;Lemondogs (16);USSR (10);mrg  Mirage_ce;SLTV StarSeries VII Qualifier;Online;A
+1008;11/8/13;fnatic (14);CPH Wolves (16);inf  Inferno_se;SLTV StarSeries VII Qualifier;Online;A
+1009;11/8/13;LDLC (16);USSR (6);inf  Inferno_se;SLTV StarSeries VII Qualifier;Online;A
+1010;11/8/13;CPH Wolves (16);Begrip (1);d2  Dust2_se;SLTV StarSeries VII Qualifier;Online;A
+1011;9/8/13;VeryGames (16);fnatic (14);mrg  Mirage_ce;FACEIT Cup July 2013;Online;A
+1012;9/8/13;VeryGames (16);fnatic (13);d2  Dust2_se;FACEIT Cup July 2013;Online;A
+1013;8/8/13;n!faculty (11);VeryGames (16);mrg  Mirage_ce;FACEIT Cup July 2013;Online;A
+1014;8/8/13;n!faculty (7);VeryGames (16);d2  Dust2_se;FACEIT Cup July 2013;Online;A
+1015;8/8/13;Western Wolves (13);fnatic (16);d2  Dust2_se;FACEIT Cup July 2013;Online;A
+1016;8/8/13;fnatic (16);Western Wolves (6);inf  Inferno_se;FACEIT Cup July 2013;Online;A
+1017;8/8/13;zutzut (3);VeryGames (16);d2  Dust2_se;FACEIT Cup July 2013;Online;A
+1018;8/8/13;n!faculty (16);Refuse (11);trn  Train_se;FACEIT Cup July 2013;Online;A
+1019;8/8/13;Western Wolves (16);ONLINERzz (14);d2  Dust2_se;FACEIT Cup July 2013;Online;A
+1020;8/8/13;Zoctai (6);fnatic (16);mrg  Mirage_ce;FACEIT Cup July 2013;Online;A
+1021;25/6/13;Natus Vincere (14);Ninjas in Pyjamas (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1022;25/6/13;Natus Vincere (13);Virtus.pro (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1023;25/6/13;fnatic (16);n!faculty (5);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1024;25/6/13;zNation (3);k1ck (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1025;24/6/13;Ninjas in Pyjamas (16);CPLAY (4);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1026;24/6/13;Virtus.pro (16);ALTERNATE aTTaX (7);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1027;24/6/13;zNation (10);Virtus.pro (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1028;24/6/13;ESC (16);zNation (4);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1029;24/6/13;CPLAY (4);fnatic (16);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1030;23/6/13;n!faculty (15);ESC (15);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1031;23/6/13;ESC (16);ALTERNATE aTTaX (4);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1032;21/6/13;Virtus.pro (16);ELTZ (3);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1033;21/6/13;fnatic (16);ELTZ (11);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1034;20/6/13;k1ck (13);fnatic (16);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1035;20/6/13;CPLAY (16);ENTiTY (12);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1036;20/6/13;KerchNET (4);ESC (16);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1037;20/6/13;ESC (16);k1ck (7);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1038;20/6/13;fnatic (16);ENTiTY (7);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1039;20/6/13;ELTZ (15);CPLAY (15);trn  Train_se;SLTV StarSeries VI;Online;A
+1040;20/6/13;KerchNET (7);fnatic (16);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1041;20/6/13;fnatic (16);Natus Vincere (11);trn  Train_se;SLTV StarSeries VI;Online;A
+1042;19/6/13;KerchNET (13);Natus Vincere (16);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1043;19/6/13;zNation (16);KerchNET (2);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1044;19/6/13;Ninjas in Pyjamas (16);KerchNET (5);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1045;18/6/13;zNation (16);ENTiTY (4);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1046;18/6/13;n!faculty (16);zNation (5);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1047;13/6/13;Western Wolves (16);ALTERNATE aTTaX (11);d2  Dust2_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1048;13/6/13;LDLC (16);iNation (6);nuke  Nuke_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1049;13/6/13;3DMAX (16);KerchNET (11);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1050;13/6/13;Ninjas in Pyjamas (16);k1ck (7);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1051;13/6/13;iNation (16);ALTERNATE aTTaX (10);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1052;13/6/13;LDLC (14);Western Wolves (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1053;13/6/13;Anexis (13);Epsilon (16);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1054;13/6/13;Epsilon (16);Anexis (7);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1055;13/6/13;Anexis (16);Epsilon (6);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1056;13/6/13;Virtus.pro (16);n!faculty (4);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1057;13/6/13;iNation (7);Western Wolves (16);trn  Train_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1058;13/6/13;LDLC (15);ALTERNATE aTTaX (15);inf  Inferno_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1059;13/6/13;ESC (13);Ninjas in Pyjamas (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1060;12/6/13;LDLC (25);Ninjas in Pyjamas (23);trn  Train_se;Fnatic FragOut League Season 2;Online;A
+1061;12/6/13;Ninjas in Pyjamas (9);LDLC (16);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1062;12/6/13;Ninjas in Pyjamas (13);Publiclir.se (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1063;12/6/13;Anexis (11);fnatic (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1064;12/6/13;CPLAY (4);Natus Vincere (16);trn  Train_se;SLTV StarSeries VI;Online;A
+1065;12/6/13;Publiclir.se (8);fnatic (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1066;12/6/13;Ninjas in Pyjamas (16);Anexis (1);nuke  Nuke_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1067;12/6/13;Anexis (16);Publiclir.se (14);nuke  Nuke_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1068;12/6/13;Ninjas in Pyjamas (8);fnatic (16);cch  Cache;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1069;11/6/13;Anexis (13);Ninjas in Pyjamas (16);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1070;11/6/13;Anexis (10);Ninjas in Pyjamas (16);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1071;11/6/13;ALTERNATE aTTaX (16);zNation (10);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1072;11/6/13;Virtus.pro (16);n!faculty (9);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1073;11/6/13;VeryGames (16);RAIDERS (2);inf  Inferno_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1074;11/6/13;ESC (6);3DMAX (16);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1075;11/6/13;k1ck (16);CPLAY (14);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1076;11/6/13;RAIDERS (12);n!faculty (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1077;11/6/13;Virtus.pro (15);VeryGames (15);nuke  Nuke_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1078;11/6/13;Ninjas in Pyjamas (16);zNation (4);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1079;11/6/13;n!faculty (13);VeryGames (16);cch  Cache;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1080;11/6/13;Virtus.pro (16);RAIDERS (4);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1081;11/6/13;Natus Vincere (16);ELTZ (11);trn  Train_se;SLTV StarSeries VI;Online;A
+1082;10/6/13;Epsilon (10);LDLC (16);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1083;10/6/13;Epsilon (17);LDLC (19);trn  Train_se;Fnatic FragOut League Season 2;Online;A
+1084;10/6/13;Ninjas in Pyjamas (16);3DMAX (14);trn  Train_se;SLTV StarSeries VI;Online;A
+1085;10/6/13;n!faculty (16);KerchNET (6);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1086;10/6/13;ESC (14);CPH Wolves (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1087;10/6/13;Natus Vincere (16);Sprintfox (8);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1088;10/6/13;fnatic (16);ALTERNATE aTTaX (12);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1089;10/6/13;CPLAY (10);n!faculty (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1090;10/6/13;ESC (15);Natus Vincere (15);trn  Train_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1091;10/6/13;Sprintfox (5);CPH Wolves (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1092;10/6/13;3DMAX (16);k1ck (4);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1093;10/6/13;Natus Vincere (6);CPH Wolves (16);d2  Dust2_se;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1094;10/6/13;ESC (16);Sprintfox (1);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Group Stage;Online;A
+1095;9/6/13;Virtus.pro (3);Ninjas in Pyjamas (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1096;7/6/13;n!faculty (4);Natus Vincere (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1097;7/6/13;Virtus.pro (15);LDLC (19);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1098;7/6/13;LDLC (16);Virtus.pro (12);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1099;7/6/13;Virtus.pro (16);LDLC (12);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1100;7/6/13;Natus Vincere (10);k1ck (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1101;7/6/13;fnatic (4);Anexis (16);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1102;7/6/13;fnatic (9);Anexis (16);d2  Dust2_se;Fnatic FragOut League Season 2;Online;A
+1103;6/6/13;ALTERNATE aTTaX (16);ELTZ (4);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1104;6/6/13;Virtus.pro (15);k1ck (15);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1105;6/6/13;n!faculty (16);ELTZ (9);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1106;6/6/13;CPLAY (7);ALTERNATE aTTaX (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1107;6/6/13;Virtus.pro (8);3DMAX (16);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1108;6/6/13;k1ck (6);ALTERNATE aTTaX (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1109;5/6/13;LDLC (16);CPH Wolves (10);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1110;5/6/13;LDLC (16);CPH Wolves (3);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1111;5/6/13;CPH Wolves (16);Virtus.pro (10);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1112;5/6/13;CPLAY (15);zNation (15);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1113;5/6/13;ALTERNATE aTTaX (16);KerchNET (10);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1114;5/6/13;Natus Vincere (16);zNation (10);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1115;5/6/13;ESC (14);LDLC (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1116;5/6/13;Virtus.pro (14);KerchNET (16);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1117;4/6/13;LDLC (16);n!faculty (10);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1118;4/6/13;CPH Wolves (16);Reason (4);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1119;4/6/13;Western Wolves (13);Virtus.pro (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1120;4/6/13;ESC (21);iNation (17);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1121;4/6/13;VeryGames (14);Virtus.pro (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1122;4/6/13;LDLC (16);3DMAX (3);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1123;4/6/13;Epsilon (11);CPH Wolves (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1124;4/6/13;Reason (16);ALTERNATE aTTaX (13);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1125;4/6/13;Western Wolves (16);logiX (2);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1126;4/6/13;iNation (16);Natus Vincere (13);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1127;4/6/13;ZET (14);ESC (16);trn  Train_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1128;4/6/13;n!faculty (16);Absolute Legends (12);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1129;4/6/13;logiX (16);k1ck (11);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1130;4/6/13;KerchNET (6);Epsilon (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1131;4/6/13;Sprintfox (19);Reason (21);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1132;4/6/13;Virtus.pro (21);Lions (19);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1133;4/6/13;Wizards (13);iNation (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1134;4/6/13;ZET (16);Anexis (3);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1135;4/6/13;CS:GOetter (10);n!faculty (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1136;4/6/13;3DMAX (17);3DMAX (21);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #4;Online;A
+1137;3/6/13;iNation (9);LDLC (16);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1138;3/6/13;ESC (10);k1ck (16);d2  Dust2_se;Fnatic FragOut League Season 2;Online;A
+1139;3/6/13;Natus Vincere (16);ALTERNATE aTTaX (13);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1140;3/6/13;k1ck (4);Ninjas in Pyjamas (16);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1141;3/6/13;3DMAX (16);Natus Vincere (13);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1142;3/6/13;Ninjas in Pyjamas (16);dAT (12);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1143;3/6/13;Ninjas in Pyjamas (16);ALTERNATE aTTaX (1);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1144;2/6/13;Ninjas in Pyjamas (16);iNation (8);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1145;2/6/13;ELTZ (16);ENTiTY (14);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1146;2/6/13;LDLC (8);Ninjas in Pyjamas (16);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1147;2/6/13;ELTZ (15);zNation (15);trn  Train_se;SLTV StarSeries VI;Online;A
+1148;2/6/13;Natus Vincere (16);ENTiTY (8);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1149;2/6/13;Ninjas in Pyjamas (16);ESC (1);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1150;2/6/13;3DMAX (16);zNation (8);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1151;2/6/13;ESC (15);Virtus.pro (15);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1152;31/5/13;n!faculty (9);k1ck (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1153;30/5/13;k1ck (13);fnatic (16);d2  Dust2_se;Fnatic FragOut League Season 2;Online;A
+1154;30/5/13;ESC (16);CPLAY (7);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1155;30/5/13;KerchNET (10);ENTiTY (16);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1156;30/5/13;k1ck (10);LDLC (16);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1157;30/5/13;zNation (16);PyRoGEN (2);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1158;30/5/13;KerchNET (15);CPLAY (15);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1159;30/5/13;n!faculty (16);ENTiTY (11);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1160;29/5/13;Ninjas in Pyjamas (16);LDLC (6);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1161;29/5/13;LDLC (7);Ninjas in Pyjamas (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1162;29/5/13;Natus Vincere (11);ESC (16);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1163;29/5/13;3DMAX (7);fnatic (16);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1164;29/5/13;ALTERNATE aTTaX (9);n!faculty (16);trn  Train_se;SLTV StarSeries VI;Online;A
+1165;29/5/13;fnatic (16);iNation (0);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1166;29/5/13;k1ck (11);KerchNET (16);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1167;29/5/13;Ninjas in Pyjamas (21);VeryGames (18);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1168;29/5/13;ESC (14);fnatic (16);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1169;29/5/13;ELTZ (12);KerchNET (16);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1170;29/5/13;Natus Vincere (18);LDLC (21);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1171;28/5/13;ESC (16);iNation (2);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1172;28/5/13;fnatic (7);LDLC (16);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1173;28/5/13;fnatic (5);Natus Vincere (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1174;28/5/13;ESC (12);Ninjas in Pyjamas (16);trn  Train_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1175;28/5/13;n!faculty (8);LDLC (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1176;28/5/13;Virtus.pro (14);VeryGames (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1177;28/5/13;fnatic (21);iNation (17);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1178;28/5/13;Sprintfox (13);Natus Vincere (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1179;28/5/13;n!faculty (16);ALTERNATE aTTaX (10);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1180;28/5/13;LDLC (16);3DMAX (11);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1181;28/5/13;ESC (16);3DMAX (7);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1182;28/5/13;Anexis (9);Ninjas in Pyjamas (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1183;28/5/13;VeryGames (16);Absolute Legends (9);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1184;28/5/13;Virtus.pro (16);CPH Wolves (10);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1185;28/5/13;iNation (16);KerchNET (11);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1186;28/5/13;Sprintfox (21);Reason (19);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1187;28/5/13;n!faculty (16);ZET (6);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1188;28/5/13;3DMAX (16);k1ck (13);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1189;28/5/13;Imaginary (9);3DMAX (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1190;28/5/13;Lions (5);Anexis (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1191;28/5/13;TARDZ (7);VeryGames (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1192;28/5/13;Epsilon (18);Virtus.pro (21);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #3;Online;A
+1193;27/5/13;k1ck (16);iNation (12);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1194;27/5/13;Ninjas in Pyjamas (16);fnatic (3);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1195;27/5/13;k1ck (16);ELTZ (8);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1196;27/5/13;LDLC (16);ESC (11);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1197;27/5/13;Ninjas in Pyjamas (16);fnatic (8);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1198;26/5/13;n!faculty (6);Anexis (16);d2  Dust2_se;Fnatic FragOut League Season 2;Online;A
+1199;26/5/13;Anexis (14);Wizards (16);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1200;26/5/13;ALTERNATE aTTaX (14);ENTiTY (16);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1201;26/5/13;n!faculty (8);Ninjas in Pyjamas (16);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1202;23/5/13;Epsilon (16);Virtus.pro (11);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1203;23/5/13;Anexis (16);CPH Wolves (7);d2  Dust2_se;Fnatic FragOut League Season 2;Online;A
+1204;23/5/13;fnatic (4);ESC (16);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1205;23/5/13;Wizards (16);Epsilon (9);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1206;23/5/13;dAT (6);zNation (16);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1207;23/5/13;Virtus.pro (14);Anexis (16);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1208;22/5/13;Epsilon (16);Anexis (3);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1209;22/5/13;Wizards (15);CPH Wolves (15);d2  Dust2_se;Fnatic FragOut League Season 2;Online;A
+1210;22/5/13;Western Wolves (16);fnatic (13);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1211;22/5/13;Western Wolves (16);fnatic (8);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1212;22/5/13;Wizards (12);Virtus.pro (16);inf  Inferno_se;Fnatic FragOut League Season 2;Online;A
+1213;22/5/13;fnatic (16);Natus Vincere (4);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1214;22/5/13;ELTZ (12);3DMAX (16);inf  Inferno_se;SLTV StarSeries VI;Online;A
+1215;22/5/13;ESC (7);Western Wolves (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1216;21/5/13;Western Wolves (16);n!faculty (11);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1217;21/5/13;fnatic (16);CPH Wolves (14);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1218;21/5/13;myDGB.net (11);ESC (16);trn  Train_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1219;21/5/13;Natus Vincere (16);Absolute Legends (5);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1220;21/5/13;Ninjas in Pyjamas (3);Western Wolves (16);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1221;21/5/13;CPH Wolves (16);EYES ON U (3);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1222;21/5/13;fnatic (16);Anexis (8);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1223;21/5/13;Virtus.pro (5);Absolute Legends (16);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1224;21/5/13;VeryGames (17);Natus Vincere (21);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1225;21/5/13;ALTERNATE aTTaX (18);myDGB.net (21);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1226;21/5/13;ESC (16);logiX (6);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1227;21/5/13;n!faculty (16);Sprintfox (7);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1228;21/5/13;Western Wolves (16);Wizards (3);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1229;21/5/13;EYES ON U (16);KerchNET (9);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1230;21/5/13;3DMAX (3);Anexis (16);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1231;21/5/13;k1ck (12);Virtus.pro (16);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1232;21/5/13;iNation (12);Natus Vincere (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1233;21/5/13;myDGB.net (16);Epsilon (14);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1234;21/5/13;logiX (16);Imaginary (6);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1235;21/5/13;swog (9);n!faculty (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #2;Online;A
+1236;20/5/13;CPH Wolves (13);Virtus.pro (16);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1237;20/5/13;Epsilon (4);CPH Wolves (16);d2  Dust2_se;Fnatic FragOut League Season 2;Online;A
+1238;20/5/13;CPLAY (16);PyRoGEN (5);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1239;20/5/13;Ninjas in Pyjamas (16);ELTZ (5);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1240;20/5/13;Epsilon (16);n!faculty (10);mrg  Mirage_ce;Fnatic FragOut League Season 2;Online;A
+1241;20/5/13;Virtus.pro (16);fnatic (12);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1242;20/5/13;Virtus.pro (16);n!faculty (3);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1243;20/5/13;fnatic (16);dAT (4);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1244;19/5/13;n!faculty (15);CPH Wolves (15);nuke  Nuke_se;Fnatic FragOut League Season 2;Online;A
+1245;19/5/13;ENTiTY (11);k1ck (16);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1246;19/5/13;Wizards (12);n!faculty (16);d2  Dust2_se;Fnatic FragOut League Season 2;Online;A
+1247;16/5/13;3DMAX (16);n!faculty (11);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1248;16/5/13;ESC (16);ELTZ (9);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1249;16/5/13;ELTZ (13);dAT (16);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1250;15/5/13;3DMAX (16);ALTERNATE aTTaX (0);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1251;15/5/13;CPH Wolves (16);LDLC (7);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1252;15/5/13;CPH Wolves (16);LDLC (12);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1253;15/5/13;CPH Wolves (16);Ninjas in Pyjamas (8);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1254;15/5/13;PyRoGEN (9);ELTZ (16);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1255;15/5/13;Sprintfox (8);LDLC (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1256;14/5/13;Virtus.pro (16);CPLAY (4);nuke  Nuke_se;SLTV StarSeries VI;Online;A
+1257;14/5/13;CPH Wolves (16);Absolute Legends (3);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1258;14/5/13;LDLC (16);VeryGames (13);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1259;14/5/13;Sprintfox (16);ALTERNATE aTTaX (10);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1260;14/5/13;ESC (6);Ninjas in Pyjamas (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1261;14/5/13;3DMAX (16);ENTiTY (6);d2  Dust2_se;SLTV StarSeries VI;Online;A
+1262;14/5/13;CPH Wolves (16);Anexis (4);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1263;14/5/13;fnatic (13);Sprintfox (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1264;14/5/13;ALTERNATE aTTaX (16);Imaginary (7);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1265;14/5/13;n!faculty (6);LDLC (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1266;14/5/13;VeryGames (16);plan-B (6);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1267;14/5/13;Absolute Legends (16);iNation (6);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1268;14/5/13;k1ck (14);ESC (16);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1269;14/5/13;Ninjas in Pyjamas (16);Epsilon (2);trn  Train_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1270;14/5/13;ENCE (14);Sprintfox (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1271;14/5/13;ALTERNATE aTTaX (16);Eternity Gaming (10);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1272;14/5/13;LDLC (16);Wizards (4);nuke  Nuke_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1273;14/5/13;KerchNET (9);plan-B (16);inf  Inferno_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1274;14/5/13;LowLandLions (11);iNation (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1275;14/5/13;CPH Wolves (21);Western Wolves (17);d2  Dust2_se;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1276;14/5/13;myDGB.net (11);ESC (16);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1277;14/5/13;Epsilon (16);EYES ON U (6);mrg  Mirage_ce;RaidCall EMS One Summer 2013 Cup #1;Online;A
+1278;13/5/13;fnatic (16);zNation (4);mrg  Mirage_ce;SLTV StarSeries VI;Online;A
+1279;2/5/13;SuperstarS (14);TCM-Gaming (16);inf  Inferno_se;SLTV StarSeries VI Qualifier;Online;A
+1280;2/5/13;TCM-Gaming (16);SuperstarS (3);d2  Dust2_se;SLTV StarSeries VI Qualifier;Online;A
+1281;2/5/13;n!faculty (10);Hawks (16);d2  Dust2_se;SLTV StarSeries VI Qualifier;Online;A
+1282;2/5/13;n!faculty (7);Hawks (16);mrg  Mirage_ce;SLTV StarSeries VI Qualifier;Online;A
+1283;2/5/13;n!faculty (10);SuperstarS (16);d2  Dust2_se;SLTV StarSeries VI Qualifier;Online;A
+1284;2/5/13;SuperstarS (19);n!faculty (17);mrg  Mirage_ce;SLTV StarSeries VI Qualifier;Online;A
+1285;1/5/13;TCM-Gaming (16);Hawks (11);d2  Dust2_se;SLTV StarSeries VI Qualifier;Online;A
+1286;1/5/13;TCM-Gaming (16);Hawks (1);mrg  Mirage_ce;SLTV StarSeries VI Qualifier;Online;A
+1287;1/5/13;n!faculty (19);Nostalgie (16);inf  Inferno_se;SLTV StarSeries VI Qualifier;Online;A
+1288;1/5/13;n!faculty (16);Nostalgie (8);d2  Dust2_se;SLTV StarSeries VI Qualifier;Online;A
+1289;1/5/13;n!faculty (14);Nostalgie (16);mrg  Mirage_ce;SLTV StarSeries VI Qualifier;Online;A
+1290;1/5/13;SuperstarS (10);Hawks (16);d2  Dust2_se;SLTV StarSeries VI Qualifier;Online;A
+1291;1/5/13;Hawks (16);SuperstarS (10);mrg  Mirage_ce;SLTV StarSeries VI Qualifier;Online;A
+1292;1/5/13;Nostalgie (10);SuperstarS (16);d2  Dust2_se;SLTV StarSeries VI Qualifier;Online;A
+1293;1/5/13;Nostalgie (12);SuperstarS (16);mrg  Mirage_ce;SLTV StarSeries VI Qualifier;Online;A
+1294;1/5/13;TCM-Gaming (16);n!faculty (6);d2  Dust2_se;SLTV StarSeries VI Qualifier;Online;A
+1295;1/5/13;n!faculty (10);TCM-Gaming (16);mrg  Mirage_ce;SLTV StarSeries VI Qualifier;Online;A
+1296;21/4/13;TCM-Gaming (16);Western Wolves (4);inf  Inferno_se;RADEON Offensive #2;Online;A
+1297;21/4/13;Western Wolves (26);Absolute Legends (23);nuke  Nuke_se;RADEON Offensive #2;Online;A
+1298;21/4/13;Absolute Legends (16);Western Wolves (6);d2  Dust2_se;RADEON Offensive #2;Online;A
+1299;21/4/13;Absolute Legends (8);Western Wolves (16);inf  Inferno_se;RADEON Offensive #2;Online;A
+1300;21/4/13;Western Wolves (16);dotpiXels (12);nuke  Nuke_se;RADEON Offensive #2;Online;A
+1301;21/4/13;dotpiXels (5);Western Wolves (16);inf  Inferno_se;RADEON Offensive #2;Online;A
+1302;21/4/13;Western Wolves (13);dotpiXels (16);d2  Dust2_se;RADEON Offensive #2;Online;A
+1303;20/4/13;Absolute Legends (9);TCM-Gaming (16);d2  Dust2_se;RADEON Offensive #2;Online;A
+1304;20/4/13;Absolute Legends (8);TCM-Gaming (16);inf  Inferno_se;RADEON Offensive #2;Online;A
+1305;20/4/13;Absolute Legends (16);dotpiXels (5);mrg  Mirage_ce;RADEON Offensive #2;Online;A
+1306;20/4/13;Absolute Legends (16);dotpiXels (5);inf  Inferno_se;RADEON Offensive #2;Online;A
+1307;20/4/13;TCM-Gaming (16);Western Wolves (6);inf  Inferno_se;RADEON Offensive #2;Online;A
+1308;20/4/13;TCM-Gaming (16);Western Wolves (8);d2  Dust2_se;RADEON Offensive #2;Online;A
+1309;18/4/13;ENTiTY (16);Russian Roulette (12);d2  Dust2_se;SLTV StarSeries V Relegation;Online;A
+1310;18/4/13;Russian Roulette (19);ENTiTY (15);mrg  Mirage_ce;SLTV StarSeries V Relegation;Online;A
+1311;18/4/13;ENTiTY (16);Russian Roulette (10);nuke  Nuke_se;SLTV StarSeries V Relegation;Online;A
+1312;14/4/13;Xapso (16);eSpuma (3);nuke  Nuke_se;Komplett.dk League Season 1;Online;A
+1313;14/4/13;eSpuma (17);Xapso (19);inf  Inferno_se;Komplett.dk League Season 1;Online;A
+1314;14/4/13;Western Wolves (16);Derailed (1);trn  Train_se;Komplett.dk League Season 1;Online;A
+1315;14/4/13;Western Wolves (16);Derailed (0);d2  Dust2_se;Komplett.dk League Season 1;Online;A
+1316;14/4/13;Western Wolves (14);Derailed (16);inf  Inferno_se;Komplett.dk League Season 1;Online;A
+1317;14/4/13;m1x (9);plan-B (16);nuke  Nuke_se;MAXfps.no Open;Online;A
+1318;14/4/13;m1x (15);plan-B (19);mrg  Mirage_ce;MAXfps.no Open;Online;A
+1319;3/4/13;VeryGames (16);fnatic (9);d2  Dust2_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1320;3/4/13;LowLandLions (7);dotpiXels (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1321;3/4/13;LowLandLions (8);VeryGames (16);nuke  Nuke_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1322;3/4/13;fnatic (16);dotpiXels (2);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1323;3/4/13;VeryGames (16);dotpiXels (13);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1324;3/4/13;fnatic (16);LowLandLions (12);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1325;2/4/13;SuperstarS (16);n!faculty (12);inf  Inferno_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1326;2/4/13;SuperstarS (16);gamed!de (5);inf  Inferno_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1327;2/4/13;3DMAX (15);SuperstarS (15);inf  Inferno_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1328;2/4/13;n!faculty (16);gamed!de (3);d2  Dust2_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1329;26/3/13;n!faculty (16);DRUCKWELLE (1);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1330;26/3/13;ALTERNATE aTTaX (16);dotpiXels (10);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1331;26/3/13;EYES ON U (16);gamed!de (8);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1332;26/3/13;MOUZ (16);SNOGARD Dragons (2);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1333;26/3/13;dotpiXels (3);MTF Gaming (16);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1334;26/3/13;w4sp (10);DRUCKWELLE (16);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1335;26/3/13;dotpiXels (16);SNOGARD Dragons (7);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1336;25/3/13;SNOGARD Dragons (11);EYES ON U (16);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1337;25/3/13;ALTERNATE aTTaX (14);DRUCKWELLE (16);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1338;25/3/13;ALTERNATE aTTaX (14);n!faculty (16);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1339;24/3/13;GamerUniversity (5);ELTZ (16);mrg  Mirage_ce;SLTV ProSeries V;Online;A
+1340;24/3/13;ELTZ (16);GamerUniversity (8);inf  Inferno_se;SLTV ProSeries V;Online;A
+1341;24/3/13;Faith (16);Russian Roulette (11);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1342;24/3/13;MOUZ (16);Imaginary (12);inf  Inferno_se;SLTV StarSeries V;Online;A
+1343;24/3/13;WRTT (16);CAI (8);d2  Dust2_se;Svecup Norrköping Qualifier #2;Online;A
+1344;24/3/13;WRTT (16);CAI (12);inf  Inferno_se;Svecup Norrköping Qualifier #2;Online;A
+1345;24/3/13;n!faculty (16);w4sp (10);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1346;24/3/13;MOUZ (16);Russian Roulette (9);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1347;24/3/13;fnatic (16);3DMAX (8);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1348;24/3/13;MTF Gaming (3);ALTERNATE aTTaX (16);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1349;24/3/13;KerchNET (16);Russian Roulette (13);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1350;24/3/13;AWTR (10);WRTT (16);mrg  Mirage_ce;Svecup Norrköping Qualifier #2;Online;A
+1351;24/3/13;AWTR (8);WRTT (16);nuke  Nuke_se;Svecup Norrköping Qualifier #2;Online;A
+1352;24/3/13;buF (13);CAI (16);inf  Inferno_se;Svecup Norrköping Qualifier #2;Online;A
+1353;24/3/13;CAI (16);buF (12);d2  Dust2_se;Svecup Norrköping Qualifier #2;Online;A
+1354;24/3/13;Imaginary (15);ALTERNATE aTTaX (15);inf  Inferno_se;SLTV StarSeries V;Online;A
+1355;24/3/13;GamerUniversity (19);ENTiTY (17);nuke  Nuke_se;SLTV ProSeries V;Online;A
+1356;24/3/13;ENTiTY (16);GamerUniversity (3);inf  Inferno_se;SLTV ProSeries V;Online;A
+1357;24/3/13;GamerUniversity (16);ENTiTY (12);d2  Dust2_se;SLTV ProSeries V;Online;A
+1358;23/3/13;hatersg0nnahate (16);iNation (5);trn  Train_se;FACEIT Saturday Spring Cup #2;Online;A
+1359;23/3/13;hatersg0nnahate (16);iNation (11);mrg  Mirage_ce;FACEIT Saturday Spring Cup #2;Online;A
+1360;23/3/13;k1ck (12);ELTZ (16);mrg  Mirage_ce;SLTV ProSeries V;Online;A
+1361;23/3/13;ELTZ (13);k1ck (16);inf  Inferno_se;SLTV ProSeries V;Online;A
+1362;23/3/13;ELTZ (16);k1ck (10);nuke  Nuke_se;SLTV ProSeries V;Online;A
+1363;23/3/13;iNation (16);TMVG (12);mrg  Mirage_ce;FACEIT Saturday Spring Cup #2;Online;A
+1364;21/3/13;3DMAX (7);Ninjas in Pyjamas (16);trn  Train_se;SLTV StarSeries V;Online;A
+1365;21/3/13;MOUZ (16);gamed!de (9);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1366;21/3/13;Ninjas in Pyjamas (16);fnatic (14);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1367;21/3/13;dotpiXels (16);n!faculty (13);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1368;21/3/13;iPLAY (14);ALTERNATE aTTaX (16);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1369;21/3/13;SNOGARD Dragons (5);gamed!de (16);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1370;21/3/13;Natus Vincere (12);Virtus.pro (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1371;21/3/13;CPLAY (11);DRUCKWELLE (16);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1372;21/3/13;MOUZ (16);EYES ON U (9);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1373;21/3/13;iPLAY (5);dotpiXels (16);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1374;21/3/13;ALTERNATE aTTaX (6);Natus Vincere (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1375;20/3/13;ESC (16);Imaginary (13);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1376;20/3/13;Ninjas in Pyjamas (12);Natus Vincere (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1377;20/3/13;ESC (16);LDLC (14);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1378;20/3/13;k1ck (3);Absolute Legends (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1379;20/3/13;DRUCKWELLE (3);dotpiXels (16);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1380;20/3/13;LDLC (14);Absolute Legends (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1381;20/3/13;k1ck (10);ESC (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1382;20/3/13;gamed!de (13);MTF Gaming (16);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1383;20/3/13;Virtus.pro (16);ALTERNATE aTTaX (2);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1384;20/3/13;ESC (15);Absolute Legends (15);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1385;20/3/13;LDLC (13);k1ck (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1386;20/3/13;dAT (16);KerchNET (13);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1387;20/3/13;Natus Vincere (16);dAT (7);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1388;20/3/13;dAT (8);ESC (16);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1389;19/3/13;Anexis (14);Ninjas in Pyjamas (16);nuke  Nuke_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1390;19/3/13;myXMG.net (3);ALTERNATE aTTaX (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1391;19/3/13;Ninjas in Pyjamas (16);myXMG.net (2);nuke  Nuke_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1392;19/3/13;ALTERNATE aTTaX (7);Anexis (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1393;19/3/13;ALTERNATE aTTaX (13);Ninjas in Pyjamas (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1394;19/3/13;Anexis (16);myXMG.net (7);nuke  Nuke_se;RaidCall EMS One Spring 2013 Group Stage;Online;A
+1395;19/3/13;Virtus.pro (15);fnatic (15);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1396;19/3/13;ESC (16);KerchNET (6);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1397;19/3/13;n!faculty (14);CPLAY (16);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1398;19/3/13;Natus Vincere (13);fnatic (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1399;19/3/13;zNation (8);Virtus.pro (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1400;18/3/13;MOUZ (14);ALTERNATE aTTaX (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1401;18/3/13;Anexis (9);fnatic (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1402;18/3/13;Faith (11);Imaginary (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1403;18/3/13;MOUZ (2);zNation (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1404;18/3/13;Virtus.pro (16);dAT (4);inf  Inferno_se;SLTV StarSeries V;Online;A
+1405;17/3/13;Virtus.pro (5);Ninjas in Pyjamas (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1406;17/3/13;ESC (16);Anexis (5);d2  Dust2_se;SLTV StarSeries V;Online;A
+1407;17/3/13;atrc (8);hatersg0nnahate (16);inf  Inferno_se;Publiclir.se - 5on5 CS:GO by Qpad;Online;A
+1408;17/3/13;hatersg0nnahate (25);atrc (23);mrg  Mirage_ce;Publiclir.se - 5on5 CS:GO by Qpad;Online;A
+1409;17/3/13;ESC (14);MOUZ (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1410;17/3/13;ALTERNATE aTTaX (16);Faith (7);d2  Dust2_se;SLTV StarSeries V;Online;A
+1411;17/3/13;ESC (16);Russian Roulette (6);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1412;14/3/13;KerchNET (7);Natus Vincere (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1413;14/3/13;LDLC (16);VeryGames (21);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1414;14/3/13;VeryGames (16);LDLC (9);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1415;14/3/13;SNOGARD Dragons (12);w4sp (16);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1416;14/3/13;Imaginary (10);KerchNET (16);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1417;14/3/13;iPLAY (16);EYES ON U (5);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1418;14/3/13;MOUZ (16);CPLAY (6);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1419;14/3/13;fnatic (7);LDLC (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1420;14/3/13;dAT (6);Imaginary (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1421;14/3/13;VeryGames (16);ESC (3);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1422;14/3/13;zNation (4);3DMAX (16);trn  Train_se;SLTV StarSeries V;Online;A
+1423;13/3/13;Natus Vincere (4);LDLC (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1424;13/3/13;ALTERNATE aTTaX (7);ESC (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1425;13/3/13;ESC (16);Ninjas in Pyjamas (12);trn  Train_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1426;13/3/13;VeryGames (16);EYES ON U (1);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1427;13/3/13;CPLAY (16);iPLAY (7);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1428;13/3/13;w4sp (8);EYES ON U (16);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1429;13/3/13;fnatic (16);Absolute Legends (9);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1430;13/3/13;Virtus.pro (16);KerchNET (1);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1431;13/3/13;gamed!de (7);Natus Vincere (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1432;13/3/13;Dragon$ (8);ALTERNATE aTTaX (16);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1433;13/3/13;VeryGames (16);k1ck (11);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1434;13/3/13;EYES ON U (16);3DMAX (7);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1435;13/3/13;Eternity Gaming (4);LDLC (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1436;13/3/13;n!faculty (6);Absolute Legends (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1437;13/3/13;fnatic (16);Wizards (2);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1438;13/3/13;Virtus.pro (16);Imaginary (6);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1439;13/3/13;Natus Vincere (21);Anexis (18);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1440;13/3/13;EYES ON U (14);Dragon$ (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1441;13/3/13;VeryGames (16);MOUZ (12);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1442;13/3/13;EYES ON U (16);LowLandLions (6);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1443;13/3/13;Eternity Gaming (16);dotpiXels (11);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1444;13/3/13;Temp.no (6);Absolute Legends (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1445;13/3/13;Northern Eagles (3);ESC (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1446;13/3/13;fnatic (16);unknowns (2);trn  Train_se;RaidCall EMS One Spring 2013 Cup #4;Online;A
+1447;13/3/13;3DMAX (3);Virtus.pro (16);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1448;13/3/13;Faith (2);fnatic (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1449;12/3/13;MOUZ (5);fnatic (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1450;12/3/13;MOUZ (7);ALTERNATE aTTaX (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1451;12/3/13;EYES ON U (7);CPLAY (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1452;12/3/13;Imaginary (16);Anexis (9);d2  Dust2_se;SLTV StarSeries V;Online;A
+1453;12/3/13;n!faculty (6);MTF Gaming (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1454;12/3/13;w4sp (11);gamed!de (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1455;12/3/13;KerchNET (6);ALTERNATE aTTaX (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1456;12/3/13;fnatic (16);Russian Roulette (4);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1457;12/3/13;Faith (13);dAT (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1458;12/3/13;zNation (16);Russian Roulette (1);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1459;11/3/13;Ninjas in Pyjamas (16);zNation (3);trn  Train_se;SLTV StarSeries V;Online;A
+1460;11/3/13;zNation (16);Natus Vincere (3);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1461;10/3/13;3DMAX (14);MOUZ (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1462;10/3/13;w4sp (16);MOUZ (4);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1463;10/3/13;ALTERNATE aTTaX (16);Russian Roulette (4);d2  Dust2_se;SLTV StarSeries V;Online;A
+1464;10/3/13;Ninjas in Pyjamas (16);dAT (2);trn  Train_se;SLTV StarSeries V;Online;A
+1465;10/3/13;zNation (16);ALTERNATE aTTaX (4);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1466;10/3/13;ALTERNATE aTTaX (16);dAT (4);d2  Dust2_se;SLTV StarSeries V;Online;A
+1467;9/3/13;Hellslayers (16);hatersg0nnahate (3);d2  Dust2_se;Svecup Norrköping Qualifier #1;Online;A
+1468;9/3/13;Hellslayers (16);hatersg0nnahate (3);nuke  Nuke_se;Svecup Norrköping Qualifier #1;Online;A
+1469;9/3/13;WRTT (14);hatersg0nnahate (16);mrg  Mirage_ce;Svecup Norrköping Qualifier #1;Online;A
+1470;9/3/13;hatersg0nnahate (16);WRTT (5);inf  Inferno_se;Svecup Norrköping Qualifier #1;Online;A
+1471;9/3/13;hatersg0nnahate (8);WRTT (16);d2  Dust2_se;Svecup Norrköping Qualifier #1;Online;A
+1472;9/3/13;Lemondogs (10);Hellslayers (16);mrg  Mirage_ce;Svecup Norrköping Qualifier #1;Online;A
+1473;9/3/13;Lemondogs (8);Hellslayers (16);inf  Inferno_se;Svecup Norrköping Qualifier #1;Online;A
+1474;7/3/13;KerchNET (7);fnatic (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1475;7/3/13;ESC (9);Ninjas in Pyjamas (16);trn  Train_se;SLTV StarSeries V;Online;A
+1476;7/3/13;EYES ON U (16);MTF Gaming (11);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1477;7/3/13;gamed!de (16);iPLAY (8);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1478;7/3/13;Imaginary (16);Russian Roulette (7);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1479;7/3/13;zNation (16);Imaginary (7);d2  Dust2_se;SLTV StarSeries V;Online;A
+1480;7/3/13;ESC (16);zNation (5);trn  Train_se;SLTV StarSeries V;Online;A
+1481;6/3/13;3DMAX (13);Faith (16);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1482;6/3/13;ALTERNATE aTTaX (16);Anexis (9);inf  Inferno_se;SLTV StarSeries V;Online;A
+1483;6/3/13;Temp.no (10);BX3 (16);d2  Dust2_se;IN League Season 1;Online;A
+1484;6/3/13;BX3 (16);Temp.no (6);mrg  Mirage_ce;IN League Season 1;Online;A
+1485;6/3/13;MOUZ (16);n!faculty (14);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1486;6/3/13;zNation (16);KerchNET (6);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1487;6/3/13;Virtus.pro (16);Anexis (14);d2  Dust2_se;SLTV StarSeries V;Online;A
+1488;6/3/13;Natus Vincere (16);Anexis (7);d2  Dust2_se;SLTV StarSeries V;Online;A
+1489;5/3/13;Anexis (7);Ninjas in Pyjamas (16);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1490;5/3/13;ALTERNATE aTTaX (16);SNOGARD Dragons (4);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1491;5/3/13;MOUZ (16);dotpiXels (12);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1492;5/3/13;CPLAY (10);gamed!de (16);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1493;5/3/13;MTF Gaming (15);DRUCKWELLE (15);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1494;5/3/13;n!faculty (16);iPLAY (13);d2  Dust2_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1495;5/3/13;dAT (5);Anexis (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1496;5/3/13;MOUZ (11);Natus Vincere (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1497;4/3/13;gamed!de (9);ALTERNATE aTTaX (16);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1498;4/3/13;Faith (3);Ninjas in Pyjamas (16);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1499;4/3/13;Imaginary (9);fnatic (16);d2  Dust2_se;SLTV StarSeries V;Online;A
+1500;4/3/13;3DMAX (16);KerchNET (9);inf  Inferno_se;SLTV StarSeries V;Online;A
+1501;4/3/13;Russian Roulette (10);3DMAX (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1502;3/3/13;MOUZ (6);Ninjas in Pyjamas (16);trn  Train_se;SLTV StarSeries V;Online;A
+1503;3/3/13;MOUZ (16);Virtus.pro (13);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1504;3/3/13;ESC (6);ALTERNATE aTTaX (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1505;3/3/13;Natus Vincere (16);Faith (6);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1506;1/3/13;zNation (16);dAT (8);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1507;28/2/13;ALTERNATE aTTaX (8);Ninjas in Pyjamas (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1508;28/2/13;SNOGARD Dragons (10);n!faculty (16);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1509;28/2/13;MTF Gaming (14);CPLAY (16);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1510;28/2/13;dotpiXels (16);EYES ON U (5);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1511;28/2/13;Ninjas in Pyjamas (16);KerchNET (5);inf  Inferno_se;SLTV StarSeries V;Online;A
+1512;28/2/13;fnatic (16);LDLC (11);trn  Train_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1513;28/2/13;LDLC (16);fnatic (10);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1514;28/2/13;LDLC (11);fnatic (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1515;28/2/13;EYES ON U (13);Epsilon (16);mrg  Mirage_ce;The Nordic Games #2;Online;A
+1516;28/2/13;EYES ON U (16);Epsilon (9);inf  Inferno_se;The Nordic Games #2;Online;A
+1517;28/2/13;EYES ON U (11);Epsilon (16);trn  Train_se;The Nordic Games #2;Online;A
+1518;28/2/13;MOUZ (16);DRUCKWELLE (5);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1519;28/2/13;w4sp (14);iPLAY (16);trn  Train_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1520;28/2/13;Virtus.pro (16);Faith (1);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1521;28/2/13;LDLC (16);Anexis (10);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1522;28/2/13;dAT (16);Russian Roulette (2);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1523;28/2/13;k1ck (9);fnatic (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1524;27/2/13;n!faculty (8);fnatic (16);trn  Train_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1525;27/2/13;LowLandLions (10);Anexis (16);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1526;27/2/13;k1ck (16);dotpiXels (7);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1527;27/2/13;LDLC (16);VeryGames (10);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1528;27/2/13;EYES ON U (7);fnatic (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1529;27/2/13;ALTERNATE aTTaX (5);LowLandLions (16);trn  Train_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1530;27/2/13;dotpiXels (16);gamed!de (4);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1531;27/2/13;k1ck (16);Temp.no (11);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1532;27/2/13;VeryGames (16);Wizards (8);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1533;27/2/13;n!faculty (16);WaRLegenD (13);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1534;27/2/13;LDLC (16);Northern Eagles (1);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1535;27/2/13;Anexis (16);ESC (13);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1536;27/2/13;fnatic (16);Epsilon (8);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1537;27/2/13;MOUZ (9);LowLandLions (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1538;27/2/13;dotpiXels (16);MTF Gaming (14);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1539;27/2/13;Eternity Gaming (11);Temp.no (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1540;27/2/13;EnRo GRIFFINS (13);WaRLegenD (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1541;27/2/13;Northern Eagles (16);NOD (7);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1542;27/2/13;VeryGames (16);EYES ON U (8);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #3;Online;A
+1543;26/2/13;VeryGames (16);MOUZ (13);inf  Inferno_se;SLTV StarSeries V;Online;A
+1544;26/2/13;3DMAX (16);Anexis (9);inf  Inferno_se;SLTV StarSeries V;Online;A
+1545;26/2/13;dotpiXels (16);gamed!de (10);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1546;26/2/13;MTF Gaming (16);w4sp (12);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1547;26/2/13;ALTERNATE aTTaX (16);EYES ON U (8);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1548;26/2/13;DRUCKWELLE (16);SNOGARD Dragons (7);mrg  Mirage_ce;ESL Pro Series Germany Spring Season 2013;Online;A
+1549;21/2/13;Ninjas in Pyjamas (16);Epsilon (4);trn  Train_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1550;21/2/13;Ninjas in Pyjamas (16);Epsilon (2);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1551;21/2/13;DRUCKWELLE (14);gamed!de (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1552;21/2/13;SNOGARD Dragons (1);MTF Gaming (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1553;21/2/13;3DMAX (6);Ninjas in Pyjamas (16);trn  Train_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1554;21/2/13;dotpiXels (12);CPLAY (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1555;21/2/13;w4sp (12);ALTERNATE aTTaX (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1556;21/2/13;EYES ON U (11);n!faculty (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1557;21/2/13;MOUZ (13);iPLAY (16);nuke  Nuke_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1558;21/2/13;ESC (16);fnatic (8);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1559;21/2/13;Epsilon (16);Imaginary (9);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1560;21/2/13;KerchNET (4);VeryGames (16);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1561;20/2/13;Epsilon (16);n!faculty (9);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1562;20/2/13;Ninjas in Pyjamas (16);ALTERNATE aTTaX (5);trn  Train_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1563;20/2/13;VeryGames (12);Imaginary (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1564;20/2/13;LowLandLions (13);3DMAX (16);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1565;20/2/13;Ninjas in Pyjamas (16);Anexis (9);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1566;20/2/13;Temp.no (12);n!faculty (16);trn  Train_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1567;20/2/13;Epsilon (21);k1ck (17);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1568;20/2/13;gamed!de (4);VeryGames (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1569;20/2/13;dotpiXels (13);3DMAX (16);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1570;20/2/13;ALTERNATE aTTaX (16);Wizards (10);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1571;20/2/13;Imaginary (16);WaRLegenD (6);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1572;20/2/13;LowLandLions (16);LDLC (1);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1573;20/2/13;KerchNET (10);Faith (16);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1574;20/2/13;EYES ON U (14);VeryGames (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1575;20/2/13;BEASTS (9);Temp.no (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1576;20/2/13;Absolute Legends (9);Anexis (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1577;20/2/13;Evokate (1);Epsilon (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1578;20/2/13;Northern Eagles (7);dotpiXels (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1579;20/2/13;ALTERNATE aTTaX (16);Eternity Gaming (7);trn  Train_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1580;20/2/13;WaRLegenD (16);EnRo GRIFFINS (7);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1581;20/2/13;NOD (6);LowLandLions (16);trn  Train_se;RaidCall EMS One Spring 2013 Cup #2;Online;A
+1582;20/2/13;Faith (12);zNation (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1583;19/2/13;MOUZ (11);Anexis (16);inf  Inferno_se;SLTV StarSeries V;Online;A
+1584;19/2/13;DRUCKWELLE (16);EYES ON U (10);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1585;19/2/13;dotpiXels (16);w4sp (10);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1586;19/2/13;Anexis (16);Faith (7);nuke  Nuke_se;SLTV StarSeries V;Online;A
+1587;19/2/13;iPLAY (6);SNOGARD Dragons (16);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1588;19/2/13;ALTERNATE aTTaX (16);CPLAY (14);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1589;19/2/13;MOUZ (16);MTF Gaming (4);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1590;19/2/13;gamed!de (9);n!faculty (16);inf  Inferno_se;ESL Pro Series Germany Spring Season 2013;Online;A
+1591;19/2/13;ESC (16);3DMAX (1);trn  Train_se;SLTV StarSeries V;Online;A
+1592;19/2/13;Ninjas in Pyjamas (16);Russian Roulette (1);d2  Dust2_se;SLTV StarSeries V;Online;A
+1593;19/2/13;VeryGames (16);Faith (7);d2  Dust2_se;SLTV StarSeries V;Online;A
+1594;18/2/13;Natus Vincere (16);Imaginary (7);d2  Dust2_se;SLTV StarSeries V;Online;A
+1595;18/2/13;fnatic (16);dAT (5);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1596;18/2/13;ALTERNATE aTTaX (16);fnatic (7);trn  Train_se;SLTV StarSeries V;Online;A
+1597;18/2/13;Epsilon (16);Lemondogs (13);mrg  Mirage_ce;The Nordic Games #2 Swedish qualifier;Online;A
+1598;18/2/13;Lemondogs (9);Epsilon (16);inf  Inferno_se;The Nordic Games #2 Swedish qualifier;Online;A
+1599;18/2/13;Epsilon (3);Lemondogs (16);trn  Train_se;The Nordic Games #2 Swedish qualifier;Online;A
+1600;18/2/13;3DMAX (16);dAT (10);inf  Inferno_se;SLTV StarSeries V;Online;A
+1601;17/2/13;VYE (9);Epsilon (16);mrg  Mirage_ce;The Nordic Games #2 Swedish qualifier;Online;A
+1602;17/2/13;Lemondogs (16);newschool (9);nuke  Nuke_se;The Nordic Games #2 Swedish qualifier;Online;A
+1603;17/2/13;Ninjas in Pyjamas (16);Imaginary (10);d2  Dust2_se;SLTV StarSeries V;Online;A
+1604;17/2/13;3DMAX (15);Imaginary (15);inf  Inferno_se;SLTV StarSeries V;Online;A
+1605;17/2/13;Russian Roulette (7);Natus Vincere (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1606;17/2/13;3DMAX (13);ALTERNATE aTTaX (16);trn  Train_se;SLTV StarSeries V;Online;A
+1607;14/2/13;TMVG (16);Eternity Gaming (9);inf  Inferno_se;The Nordic Games #2 Finnish qualifier;Online;A
+1608;14/2/13;Eternity Gaming (16);TMVG (12);trn  Train_se;The Nordic Games #2 Finnish qualifier;Online;A
+1609;14/2/13;TMVG (16);Eternity Gaming (11);mrg  Mirage_ce;The Nordic Games #2 Finnish qualifier;Online;A
+1610;14/2/13;n!faculty (5);Epsilon (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1611;14/2/13;Epsilon (16);n!faculty (12);trn  Train_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1612;14/2/13;Russian Roulette (7);Virtus.pro (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1613;14/2/13;Epsilon (16);Imaginary (5);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1614;14/2/13;Paranoia (8);Eternity Gaming (16);inf  Inferno_se;The Nordic Games #2 Finnish qualifier;Online;A
+1615;14/2/13;Eternity Gaming (16);Paranoia (5);mrg  Mirage_ce;The Nordic Games #2 Finnish qualifier;Online;A
+1616;14/2/13;TMVG (16);RAIDERS (5);nuke  Nuke_se;The Nordic Games #2 Finnish qualifier;Online;A
+1617;14/2/13;RAIDERS (19);TMVG (17);trn  Train_se;The Nordic Games #2 Finnish qualifier;Online;A
+1618;14/2/13;TMVG (16);RAIDERS (6);mrg  Mirage_ce;The Nordic Games #2 Finnish qualifier;Online;A
+1619;14/2/13;Ninjas in Pyjamas (12);n!faculty (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1620;14/2/13;ESC (9);Natus Vincere (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1621;13/2/13;gamed!de (5);Imaginary (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1622;13/2/13;k1ck (9);n!faculty (16);d2  Dust2_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1623;13/2/13;Ninjas in Pyjamas (16);ALTERNATE aTTaX (9);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1624;13/2/13;DRUCKWELLE (22);Epsilon (26);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1625;13/2/13;gamed!de (16);NOD (13);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1626;13/2/13;Ninjas in Pyjamas (16);Infused (6);trn  Train_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1627;13/2/13;Imaginary (16);dotpiXels (9);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1628;13/2/13;ALTERNATE aTTaX (16);Temp.no (13);trn  Train_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1629;13/2/13;3DMAX (14);DRUCKWELLE (16);trn  Train_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1630;13/2/13;EnRo GRIFFINS (10);n!faculty (16);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1631;13/2/13;Wizards (4);Epsilon (16);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1632;13/2/13;ESC (11);k1ck (16);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1633;13/2/13;dotpiXels (16);Absolute Legends (7);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1634;13/2/13;NOD (26);BE FIRST (22);inf  Inferno_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1635;13/2/13;Infused (16);Anexis (13);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1636;13/2/13;EYES ON U (5);Temp.no (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1637;13/2/13;WaRLegenD (7);EnRo GRIFFINS (16);nuke  Nuke_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1638;13/2/13;DRUCKWELLE (16);HEADSHOTBG (5);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1639;13/2/13;MTF Gaming (11);Epsilon (16);mrg  Mirage_ce;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1640;13/2/13;ESC (16);redzone (0);trn  Train_se;RaidCall EMS One Spring 2013 Cup #1;Online;A
+1641;12/2/13;Virtus.pro (14);ESC (16);mrg  Mirage_ce;SLTV StarSeries V;Online;A
+1642;12/2/13;zNation (16);fnatic (14);trn  Train_se;SLTV StarSeries V;Online;A
+1643;10/2/13;Virtus.pro (6);Ninjas in Pyjamas (16);inf  Inferno_se;Fnatic FragOut CS:GO League;Online;A
+1644;10/2/13;Virtus.pro (12);Ninjas in Pyjamas (16);trn  Train_se;Fnatic FragOut CS:GO League;Online;A
+1645;10/2/13;Anexis (7);VeryGames (16);mrg  Mirage_ce;Fnatic FragOut CS:GO League;Online;A
+1646;10/2/13;Anexis (6);VeryGames (16);nuke  Nuke_se;Fnatic FragOut CS:GO League;Online;A
+1647;7/2/13;Ninjas in Pyjamas (16);Anexis (12);nuke  Nuke_se;Fnatic FragOut CS:GO League;Online;A
+1648;7/2/13;Anexis (5);Ninjas in Pyjamas (16);d2  Dust2_se;Fnatic FragOut CS:GO League;Online;A
+1649;6/2/13;VeryGames (16);Virtus.pro (19);d2  Dust2_se;Fnatic FragOut CS:GO League;Online;A
+1650;6/2/13;VeryGames (4);Virtus.pro (16);mrg  Mirage_ce;Fnatic FragOut CS:GO League;Online;A
+1651;5/2/13;Dejavue (16);POPPERS (9);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1652;5/2/13;POPPERS (16);Lucidez (4);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1653;5/2/13;Anexis (16);DODGY (5);d2  Dust2_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1654;5/2/13;fnatic (13);EYES ON U (16);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1655;5/2/13;DODGY (12);EYES ON U (16);trn  Train_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1656;5/2/13;fnatic (12);HastaLaVista (16);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1657;4/2/13;Lemondogs (14);Virtus.pro (16);inf  Inferno_se;Fnatic FragOut CS:GO League;Online;A
+1658;4/2/13;Virtus.pro (9);Lemondogs (16);mrg  Mirage_ce;Fnatic FragOut CS:GO League;Online;A
+1659;4/2/13;Lemondogs (14);Virtus.pro (16);trn  Train_se;Fnatic FragOut CS:GO League;Online;A
+1660;3/2/13;MOUZ (4);Anexis (16);trn  Train_se;Fnatic FragOut CS:GO League;Online;A
+1661;3/2/13;MOUZ (16);Anexis (12);d2  Dust2_se;Fnatic FragOut CS:GO League;Online;A
+1662;3/2/13;Anexis (16);MOUZ (12);inf  Inferno_se;Fnatic FragOut CS:GO League;Online;A
+1663;31/1/13;VeryGames (16);MOUZ (6);d2  Dust2_se;Fnatic FragOut CS:GO League;Online;A
+1664;31/1/13;Anexis (12);Lemondogs (16);nuke  Nuke_se;Fnatic FragOut CS:GO League;Online;A
+1665;31/1/13;Ninjas in Pyjamas (16);Natus Vincere (9);trn  Train_se;Fnatic FragOut CS:GO League;Online;A
+1666;31/1/13;fnatic (6);Virtus.pro (16);mrg  Mirage_ce;Fnatic FragOut CS:GO League;Online;A
+1667;30/1/13;MOUZ (13);fnatic (16);nuke  Nuke_se;Fnatic FragOut CS:GO League;Online;A
+1668;30/1/13;VeryGames (16);Virtus.pro (11);d2  Dust2_se;Fnatic FragOut CS:GO League;Online;A
+1669;29/1/13;Anexis (16);Natus Vincere (10);d2  Dust2_se;Fnatic FragOut CS:GO League;Online;A
+1670;29/1/13;POPPERS (16);Tricked (14);d2  Dust2_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1671;29/1/13;Anexis (16);EYES ON U (0);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1672;29/1/13;Lemondogs (7);Ninjas in Pyjamas (16);nuke  Nuke_se;Fnatic FragOut CS:GO League;Online;A
+1673;29/1/13;Ninjas in Pyjamas (16);Anexis (2);nuke  Nuke_se;Fnatic FragOut CS:GO League;Online;A
+1674;29/1/13;POPPERS (16);fnatic (14);mrg  Mirage_ce;Gaming.dk League by SteelSeries Season 5;Online;A
+1675;29/1/13;Anexis (16);HastaLaVista (8);inf  Inferno_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1676;28/1/13;Virtus.pro (4);MOUZ (16);trn  Train_se;Fnatic FragOut CS:GO League;Online;A
+1677;28/1/13;VeryGames (16);fnatic (6);trn  Train_se;Fnatic FragOut CS:GO League;Online;A
+1678;27/1/13;team xxx (3);Anexis (16);inf  Inferno_se;The Nordic Games #1;Online;A
+1679;27/1/13;team xxx (6);Anexis (16);d2  Dust2_se;The Nordic Games #1;Online;A
+1680;27/1/13;Lemondogs (16);Natus Vincere (5);mrg  Mirage_ce;Fnatic FragOut CS:GO League;Online;A
+1681;27/1/13;Anexis (16);newschool (10);nuke  Nuke_se;The Nordic Games #1;Online;A
+1682;27/1/13;Anexis (16);newschool (6);inf  Inferno_se;The Nordic Games #1;Online;A
+1683;27/1/13;team xxx (16);Eternity Gaming (1);inf  Inferno_se;The Nordic Games #1;Online;A
+1684;27/1/13;Eternity Gaming (16);team xxx (12);nuke  Nuke_se;The Nordic Games #1;Online;A
+1685;27/1/13;Eternity Gaming (3);team xxx (16);mrg  Mirage_ce;The Nordic Games #1;Online;A
+1686;24/1/13;Ninjas in Pyjamas (16);Imaginary (9);d2  Dust2_se;ESL Major Series Winter Season 2012;Online;A
+1687;24/1/13;Imaginary (5);Ninjas in Pyjamas (16);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+1688;23/1/13;eXtensive (9);3DMAX (16);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+1689;23/1/13;eXtensive (14);3DMAX (16);mrg  Mirage_ce;ESL Major Series Winter Season 2012;Online;A
+1690;22/1/13;fnatic (16);Dejavue (4);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1691;22/1/13;HastaLaVista (12);POPPERS (16);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1692;22/1/13;EYES ON U (16);CPLAY (4);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1693;22/1/13;Anexis (16);Lucidez (5);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1694;22/1/13;HastaLaVista (6);EYES ON U (16);trn  Train_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1695;22/1/13;CPLAY (7);fnatic (16);d2  Dust2_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1696;22/1/13;EYES ON U (16);POPPERS (5);trn  Train_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1697;22/1/13;fnatic (16);Tricked (1);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1698;22/1/13;Anexis (15);POPPERS (15);d2  Dust2_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1699;22/1/13;Lucidez (16);fnatic (8);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1700;20/1/13;Anexis (16);logiX (3);inf  Inferno_se;The Nordic Games #1 Danish qualifier;Online;A
+1701;20/1/13;logiX (7);Anexis (16);nuke  Nuke_se;The Nordic Games #1 Danish qualifier;Online;A
+1702;15/1/13;CPLAY (5);Anexis (16);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1703;15/1/13;HastaLaVista (5);CPLAY (16);inf  Inferno_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1704;13/1/13;Ninjas in Pyjamas (16);eXtensive (2);nuke  Nuke_se;ESL Major Series Winter Season 2012;Online;A
+1705;13/1/13;Ninjas in Pyjamas (16);eXtensive (3);mrg  Mirage_ce;ESL Major Series Winter Season 2012;Online;A
+1706;10/1/13;3DMAX (13);Imaginary (16);d2  Dust2_se;ESL Major Series Winter Season 2012;Online;A
+1707;10/1/13;3DMAX (14);Imaginary (16);inf  Inferno_se;ESL Major Series Winter Season 2012;Online;A
+1708;10/1/13;3DMAX (16);Imaginary (13);mrg  Mirage_ce;ESL Major Series Winter Season 2012;Online;A
+1709;8/1/13;Dejavue (7);Anexis (16);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1710;8/1/13;3DMAX (3);fnatic (16);mrg  Mirage_ce;Gaming.dk League by SteelSeries Season 5;Online;A
+1711;8/1/13;Tricked (12);Anexis (16);inf  Inferno_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1712;8/1/13;3DMAX (15);POPPERS (15);mrg  Mirage_ce;Gaming.dk League by SteelSeries Season 5;Online;A
+1713;8/1/13;CPLAY (16);POPPERS (7);mrg  Mirage_ce;Gaming.dk League by SteelSeries Season 5;Online;A
+1714;8/1/13;fnatic (14);Anexis (16);nuke  Nuke_se;Gaming.dk League by SteelSeries Season 5;Online;A
+1715;7/1/13;Ninjas in Pyjamas (16);Wizards (5);inf  Inferno_se;ESL Major Series Winter Season 2012;Online;A
+1716;7/1/13;Wizards (4);Ninjas in Pyjamas (16);mrg  Mirage_ce;ESL Major Series Winter Season 2012;Online;A
